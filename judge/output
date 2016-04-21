@@ -1,0 +1,1800 @@
+你好
+好	normal
+我很好	normal
+不错	bad
+你不好	bad
+好人好	bad
+晚上好
+同好	normal
+晚上好	good
+晚安	bad
+抱拳	normal
+吉祥	bad
+拜拜
+	unknown
+拜拜	good
+抱拳	normal
+晚安	good
+月亮	bad
+你好吗？
+不好	normal
+我很好	normal
+不好意思	bad
+不好不好	normal
+我好想你	bad
+你好漂亮
+漂亮	bad
+我很漂亮	normal
+好看	bad
+我喜欢你	bad
+你不漂亮	bad
+永远一直爱你
+永远	bad
+永远爱你	normal
+永远永远	normal
+爱你	normal
+我不爱你	normal
+我不喜欢你
+我喜欢你	normal
+喜欢我	bad
+你不喜欢我	normal
+你喜欢谁	normal
+喜欢就喜欢	bad
+你是不是快死了
+快死了	normal
+我快死	bad
+我还没死	normal
+我没有死	normal
+我还活着	normal
+你觉得我漂亮吗
+很漂亮	normal
+漂亮可爱	normal
+我觉得漂亮	good
+漂亮不漂亮	bad
+很漂亮很漂亮	normal
+美女美女你在哪
+在你心里	normal
+在你身边	normal
+在你自己心里	normal
+在你眼中	normal
+在你眼睛里	normal
+我饿了
+吃饭	normal
+饿了	bad
+我饿	bad
+吃饱了	bad
+去吃	normal
+今天有点事
+没事	bad
+什么事	normal
+今天没事	bad
+今天都没有	bad
+今天有点事	bad
+我下午要开会
+开会	bad
+下午开心	bad
+开什么玩笑	bad
+下午就开	normal
+我下午开学	bad
+北京有什么好吃的
+北京烤鸭	good
+北京烤鸭好吃	normal
+麻辣烫	normal
+烤鸭好吃	normal
+牛肉面	normal
+春天有什么好玩的
+春暖花开	bad
+去滑雪	normal
+春天去	bad
+在家里玩	normal
+去海边玩	normal
+去哪里玩比较好玩呢
+海南三亚	normal
+云南丽江	normal
+云南大理	normal
+云南大理丽江	normal
+大连青岛	normal
+今天天气好晴朗
+晴空万里晴空万里	normal
+好心情	normal
+晴空万里	normal
+晴朗天气	normal
+晴朗天气晴空万里	normal
+我喜欢今天天气
+我喜欢晴天	normal
+我喜欢天气	bad
+天气太热	bad
+我喜欢	bad
+天气不好	bad
+我没有男朋友
+你男女	bad
+你男还是女	bad
+我没有男朋友	bad
+你男朋友	bad
+没有女朋友	bad
+男朋友找什么样的好
+适合自己	normal
+适合自己就好	normal
+适合自己才是最好	normal
+自己喜欢	normal
+自己喜欢就好	normal
+你是哲学家吗
+哲学家	bad
+不是	normal
+哈哈	bad
+不是是哲学家	bad
+你是谁	bad
+不开心也是一天
+不开心	bad
+开心就好	normal
+开心每一天	normal
+心情不好	normal
+开心快乐	bad
+我现在没工作
+什么工作	bad
+你在哪里工作	bad
+我在工作	bad
+我现在在工作	bad
+我现在在上班	bad
+你有办法让我开心吗
+开心就好	bad
+我不开心	bad
+有我就不开心	bad
+不开心就不开心	bad
+不开心时候就开心	bad
+你喜欢聊什么
+聊天	bad
+聊什么	bad
+我喜欢聊天	normal
+无聊	bad
+什么都聊	normal
+万圣节怎么过
+想怎么过就怎么过	normal
+睡觉	normal
+和平常一样	normal
+一个人过	normal
+在家睡觉	normal
+我先去睡觉了
+晚安	good
+月亮	bad
+好梦	normal
+早点睡	normal
+早点休息	normal
+老板不给发工资怎么办
+去劳动局告他	normal
+去劳动局投诉	normal
+去当地劳动局	normal
+去劳动局咨询	normal
+去劳动监查部门投诉	normal
+你以后别跟着我了
+不是我	bad
+我都没有	bad
+我跟你一样	bad
+我还没睡	bad
+我跟你说话	bad
+你敢买切糕吗
+不敢	normal
+可以	bad
+切糕	bad
+敢吃	bad
+我不敢吃	bad
+我今天没有捡到钱，好伤心
+为什么要捡钱	normal
+我都没有钱	bad
+为什么不捡	bad
+我都没钱买	bad
+为什么捡到钱	bad
+天上有多少颗星星
+无数颗	normal
+无数颗星星	good
+数不清	normal
+满天星星	normal
+天知道	normal
+今天天气不好
+不好	bad
+天气好	bad
+今天下雨	bad
+天气太热	bad
+我今天下午	bad
+太阳好大啊
+太阳大	normal
+很大	normal
+是太阳	bad
+没有太阳	bad
+太阳太阳	bad
+北风嗖嗖的吹
+北风吹	bad
+北风吹起来	normal
+不是吹牛	bad
+不是北风	normal
+北风吹过去	bad
+有人跟我撕逼，不讲理
+没有理由	bad
+不理你了	bad
+不理他们	normal
+我不理你	bad
+不要理他	normal
+不要这么谦虚嘛
+不谦虚	normal
+谦虚使人进步	good
+谦虚谦虚	normal
+谦虚了	normal
+谦虚谦虚谦虚	bad
+明天去打球
+明天就去	bad
+明天打球	bad
+明天去哪里	normal
+明天就打球去	normal
+明天就去打球	bad
+我老板就在我身边
+老板是谁	normal
+老板娘	bad
+老板在哪里	bad
+老板是老板	bad
+你不是老板	normal
+你什么地方冒出来的
+哪里冒出来	bad
+你在哪里	bad
+我在家里	bad
+哪里冒出来冒出来	bad
+我这里冒出来	bad
+你会做爱吗
+不会	normal
+当然会	normal
+我不爱你	bad
+不会因为我不爱你	normal
+会只要是真心	normal
+你能陪我睡觉吗
+我陪你	normal
+我陪你睡觉	normal
+我睡不	bad
+陪你聊天	normal
+我还没睡	bad
+你有私生子吗
+没有	normal
+有的	bad
+没有私聊	bad
+没有私房钱	bad
+我没有私信	bad
+我早上工作感觉死死的是怎么回事
+工作压力太大压力太大	normal
+工作压力太大放松心情	normal
+工作压力太大心里压力太大	normal
+工作压力太大了放松下自己	normal
+因为你还没有找到自己目标	normal
+有没有搞笑的欢乐的段子
+你喜欢什么类型	normal
+你喜欢什么	normal
+你喜欢什么样子	normal
+你喜欢什么就搞什么	bad
+有很多人都喜欢	bad
+发个给力图片看哈喽
+什么图片	normal
+什么意思	bad
+我给你发	normal
+我给你发个图片	normal
+图片看不到	bad
+天天锻炼身体好
+锻炼身体	bad
+对身体好	normal
+不好了	bad
+早睡早起身体好	bad
+不好对身体不好	bad
+李白的诗你会吗
+我不会	normal
+肯定会	normal
+不会了	bad
+李白李白	bad
+李白是诗仙	bad
+我问的不是这个意思
+什么意思	normal
+不是意思	bad
+什么问题	normal
+意思就是	bad
+不是不是意思	bad
+完全不知道你在说啥
+发呆发呆	bad
+发呆发呆发呆	bad
+你在说啥	normal
+你在说什么	normal
+发呆发呆发呆发呆	bad
+牛头不对马嘴
+对头	bad
+不对	bad
+吹牛	bad
+对马嘴	bad
+对牛弹琴	bad
+你是不是傻逼
+不是	normal
+傻逼	bad
+我不傻	normal
+你不是傻逼	bad
+不是你傻逼	bad
+你个白痴
+白白	bad
+你白痴	bad
+我不白白	bad
+不是我	normal
+不是白白	bad
+我他妈宰了你
+为什么	normal
+不是你妈	bad
+为什么不能	bad
+为什么要吃饭	bad
+你妈不是你妈	bad
+她是我的学姐，我喜欢她。
+喜欢就喜欢	normal
+你喜欢她什么	normal
+你喜欢她就行	normal
+我喜欢你姐姐	bad
+你喜欢她就喜欢她	normal
+我喜欢你离我远一点
+我喜欢你	normal
+不离不弃	normal
+你喜欢我	bad
+喜欢就是喜欢	bad
+喜欢一个人	bad
+明天把秋裤脱了
+脱裤子	bad
+不是秋裤	bad
+明天就脱	normal
+明天就不穿	normal
+明天穿秋裤	bad
+抽根烟睡觉
+不好	bad
+抽根烟	normal
+抽烟不好	normal
+抽烟有害健康	good
+不抽烟	bad
+牛逼吹大了
+牛逼	normal
+吹牛	bad
+你吹	bad
+不吹牛逼	bad
+牛逼吹牛逼	normal
+干你娘
+干嘛	bad
+娘娘	bad
+发呆	bad
+发呆发呆	bad
+你干爹	bad
+你妈逼的
+你妈逼	bad
+我妈	bad
+你妈是谁	normal
+你妈逼逼逼	bad
+不是你妈逼	normal
+去你妹的
+你妹	bad
+去哪里	normal
+我妹妹	bad
+你妹去哪	bad
+不是你妹	bad
+赶紧滚蛋
+滚蛋	normal
+你滚	bad
+滚回来	bad
+滚滚滚	bad
+不要	normal
+日了狗了
+狗狗	bad
+不是狗	bad
+日本狗	bad
+狗狗不理	bad
+没有狗狗	bad
+我是外地打工的
+你打工	normal
+打工去	bad
+不是打工	normal
+我也是打工	normal
+我也是外地	normal
+我过去是个老师
+老师是谁	bad
+你老师	bad
+老师在哪里	bad
+老师老师	bad
+老师也是老师	bad
+我昨天找过你了
+我都没有	normal
+我还没找到	bad
+我昨天都在	normal
+我昨天都没有	bad
+我昨天也没找到	bad
+我是个坏男人，你不要相信我
+男人不坏女人不爱	normal
+相信男人不坏女人不爱	normal
+不要相信男人	bad
+男人不坏女人不爱男人不坏女人不爱	normal
+我不相信男人	bad
+今天心情很好大大好
+心情不好	normal
+好心情好	normal
+心情好就好	normal
+好心情不错	normal
+天天好心情	normal
+我刚上公交车
+公交车	normal
+去哪里	normal
+上班	normal
+我在上班	normal
+你在哪里	normal
+我要坐地铁回家
+好地方	bad
+你在哪里	normal
+坐火车	bad
+坐地铁	normal
+坐车回家	normal
+大早上就无聊啊，想找点事干
+早睡早起身体好	bad
+找点事做就不无聊	normal
+找点事情做做	normal
+上网聊天聊天	normal
+听听音乐看看书	normal
+偶尔睡眠不好怎么办
+睡前喝杯牛奶	normal
+吃点安眠药	bad
+不要想太多	normal
+睡前喝杯牛奶有助于睡眠	normal
+睡前用热水泡泡脚	normal
+祝你生日快乐
+生日快乐	normal
+同乐	normal
+快乐生日快乐	bad
+生日快乐蛋糕	bad
+生快	bad
+生活中怎样感到开心快乐
+知足者常乐	normal
+做自己想做事	normal
+开心每一天	normal
+和自己喜欢人在	bad
+做自己喜欢事情	normal
+失败了怎么办，如何才能成功
+失败是成功之母	normal
+失败是成功之母失败是成功之母	normal
+努力努力再努力	normal
+失败乃成功之母失败乃成功之母	normal
+失败就是成功	bad
+明天考試、求安慰
+安慰安慰	normal
+我还没考	bad
+明天就考	bad
+安慰安慰安慰	normal
+安慰安慰抱拳	normal
+听说过外星生命吗
+没听过	normal
+没有科学依据	bad
+相信科学	normal
+听过没听过	bad
+没有听说过	normal
+我命令你以后只能呆在家里
+我在家里呆	normal
+你在哪里呆	normal
+我在家睡觉	bad
+你在哪里上班	bad
+我在家呆在家里	normal
+你等会我过会跟你说
+我不会说话	bad
+我不会等你	normal
+不会我不会	bad
+我们都不会	bad
+我不会说我不会	bad
+我来把你胸抓大
+你胸大	normal
+我没胸	normal
+发呆发呆	bad
+发呆发呆发呆	bad
+我不敢	normal
+你叫个春
+你叫啥	normal
+你叫什么名字	normal
+你叫什么	normal
+我叫春	normal
+我叫旺旺	bad
+上班好累啊
+不累	normal
+上班累	normal
+休息一下	normal
+没办法	normal
+不上班	normal
+我在等地铁
+你在哪里	normal
+地铁站	normal
+好地方	bad
+我在地铁	normal
+我在广州	normal
+你闭嘴
+闭嘴	normal
+不敢	normal
+发呆	bad
+闭上眼睛	bad
+什么闭嘴	normal
+那就放给我听吧
+我给你听	normal
+我不放心	bad
+我放了你	bad
+我们都放假	bad
+你放心我听	bad
+我的好友喜欢吃什么
+什么都喜欢	normal
+什么都好吃	bad
+喜欢吃东西	normal
+糖醋排骨	normal
+你喜欢吃	bad
+你这智商哥都不稀罕说了
+我不稀罕你	normal
+我喜欢你智商	normal
+我不稀罕你智商	normal
+我不稀罕你说我	normal
+我不稀罕你不稀罕	normal
+让你慢慢喜欢
+我喜欢你	good
+喜欢	bad
+你喜欢我	bad
+喜欢就是喜欢	bad
+我不喜欢我	bad
+你和过儿什么关系
+没关系	normal
+亲戚关系	normal
+朋友关系	normal
+父子关系	normal
+我和你关系	normal
+你和张小龙什么关系
+没有关系	normal
+朋友关系	normal
+姐弟关系	normal
+小龙女关系	bad
+没有关系没有关系	normal
+你是白富美吗
+白富美	normal
+不是	normal
+美丽	bad
+不是白富美	normal
+我不认识你	bad
+我们去动物园吧
+动物园	normal
+你在哪里	normal
+去哪里	bad
+你去哪里玩	bad
+你在哪里上班	bad
+外面有摩托车的响声
+摩擦摩擦	normal
+没有音响	bad
+摩擦摩擦摩擦声音	normal
+摩擦摩擦摩擦	normal
+摩擦摩擦声音	normal
+哥很伤心
+很伤心	normal
+伤心了	normal
+不开心	normal
+因为伤心	normal
+伤心时候	bad
+我要问你一个很长的问题你准备好了吗
+什么问题说清楚点	normal
+什么问题都没问题	bad
+什么问题都不是问题	normal
+问题不是问题问题	bad
+问题不是问题而是问题	bad
+我坐到电梯了
+电梯	normal
+你在哪里	bad
+我在电梯	normal
+你在哪里上班	bad
+我还没坐过	normal
+你和杨过谁牛逼
+我不认识你	bad
+我比你牛	bad
+杨过杨过	bad
+杨过你是谁	bad
+你不是杨过	bad
+我永远都在你身边
+你在哪里	bad
+我在你身边	normal
+永远在你身边	normal
+在我身边	normal
+你永远在我身边	normal
+这你都能看出来
+看出来	normal
+我看不出来	normal
+我没看出来	normal
+不能看出来	bad
+我看不到	bad
+刚刚公司有人打架
+什么问题	normal
+什么情况	normal
+什么叫打架	normal
+没有打架	normal
+什么时候打架	normal
+就是那天你碰到的骚浪贱
+我没有碰到	normal
+我都没碰到	normal
+我都是贱逼	bad
+不贱不贱不贱	bad
+我都没有碰到过	normal
+你去火车站了么
+火车站	normal
+你在哪里	bad
+我在火车站	normal
+在火车站旁边	normal
+在火车站那里	normal
+火车为什么总晚点
+因为火车比较多	normal
+晚上10点以后	bad
+因为火车不够	normal
+因为火车站不稳定	normal
+因为火车比较安全	bad
+你好无聊
+无聊	normal
+我很无聊	normal
+无聊无聊	normal
+我无聊死	normal
+无聊就是无聊	normal
+肚子右边隐隐作痛
+上火了	normal
+去医院	normal
+有炎症	normal
+看医生	normal
+去医院检查下	normal
+外面很气冷
+不冷	normal
+有点冷	normal
+感冒了	bad
+不冷不热	normal
+冷空气	normal
+昨晚刮大风了
+刮风	normal
+昨天刮风	normal
+不是刮风	bad
+我昨晚刮风	bad
+昨天晚上刮风	normal
+公司有人打架
+没有	normal
+有的	normal
+有人打架	normal
+没有打架	normal
+公司打架	normal
+我是邓超
+邓超	normal
+邓紫棋	bad
+邓丽君	bad
+你邓超人	bad
+邓超喜欢你	bad
+最近股票大跌
+跌停了	normal
+大盘跌	normal
+我还没跌	normal
+今天跌停	normal
+股票也跌	normal
+对面哪个妹子好看
+第一个	normal
+哪个好看	normal
+看起来好看	bad
+你喜欢哪个	normal
+我喜欢看	normal
+公司不让抽烟了
+不抽烟	normal
+不抽烟不喝酒	normal
+抽烟有害健康	good
+抽烟不好	normal
+不抽烟对身体不好	bad
+能做什么菜
+炒鸡蛋	normal
+什么菜	bad
+做菜	normal
+酸菜鱼	normal
+炒鱿鱼	normal
+你会做什么菜
+炒鸡蛋	normal
+酸菜鱼	normal
+炒鱿鱼	normal
+什么菜	bad
+做菜	normal
+吃了什么
+吃了	bad
+好吃	bad
+什么都吃	normal
+啥都吃	normal
+没吃过	bad
+不给你喝
+不喝	normal
+啤酒	bad
+给你喝	normal
+啤酒啤酒	bad
+啤酒啤酒啤酒	bad
+这么高级的东西
+高级黑	bad
+什么高级	normal
+什么问题	bad
+什么东西	normal
+什么游戏	bad
+猫和狗不好
+不好	normal
+不一定	normal
+不好不好	bad
+猫和狗不一样	normal
+我觉得不好	normal
+杨过和你是啥关系
+没关系	normal
+朋友关系	good
+杨过关系	bad
+都是朋友关系	normal
+杨过和杨过关系	bad
+有多美
+很美	good
+美不美	bad
+有多美	normal
+美女	bad
+好看	bad
+她在吃香蕉
+香蕉	bad
+不吃香蕉	bad
+香蕉苹果	bad
+香蕉香蕉	bad
+我在香蕉	bad
+为什么你妈妈生出你这么个脑残
+因为你妈妈不爱你	bad
+因为你妈妈不是你妈	bad
+因为你妈妈生不出来	bad
+因为你不是她妈妈	bad
+因为你是妈妈生出来	bad
+不去吃饭
+吃饭	bad
+不吃	bad
+吃饱了	bad
+还没吃饭	bad
+不想吃饭	normal
+动车是怎么跑起来的
+因为是动车	bad
+是不是动车	bad
+动车不是动车	bad
+因为它是动物	bad
+因为动力不够	bad
+学挖掘技术哪家强
+新东方	bad
+技术学院	normal
+学技术	bad
+自己学	bad
+学什么技术	bad
+抽根烟冷静一下
+抽根烟	normal
+冷静点	normal
+不抽烟	normal
+冷静冷静	normal
+不抽烟不喝酒	normal
+我的书包在哪里
+书包里	normal
+你在哪里	bad
+书包在哪里	bad
+我在家里	bad
+书店里有	bad
+我的书包坏了
+书包	bad
+我还没买	normal
+我看书包	bad
+我都没有	bad
+我没有买书包	normal
+哪里地震了
+四川	normal
+地震	bad
+日本	normal
+上海	normal
+四川成都	normal
+外面下大雨了
+下雨了	good
+没下雨	normal
+下雨凉快	bad
+下雨不大	normal
+下雨下雨	bad
+后天中午两点半去吃饭。
+中午不吃饭	bad
+我在家吃饭	normal
+我在家里吃	normal
+不吃饭不吃饭	bad
+中午不吃早餐	bad
+明天领导要来
+明天不是领导	bad
+领导不要	bad
+领导不是领导	bad
+明天领导	bad
+明天下午	bad
+我看看有没有空
+我没空	normal
+没看到	bad
+没空看	bad
+什么空间	bad
+空间没有	bad
+没有花露水
+没有	bad
+花露水	bad
+有的	normal
+可以	bad
+没有花露水	bad
+快来骚扰我
+骚扰你	bad
+我来了	normal
+怎么了	normal
+我在骚扰你	normal
+怎么骚扰	normal
+快来蹂躏我
+来了	normal
+不来	normal
+你来	bad
+我来了	normal
+你来了	bad
+你要去哪儿旅游
+九寨沟	good
+海南三亚	normal
+云南丽江	good
+香格里拉	normal
+云南大理	normal
+红公鸡囧哦呵呵
+公鸡下蛋	bad
+红红火火	bad
+公鸡公鸡	bad
+公鸡公鸡下蛋	bad
+公鸡是母鸡	bad
+鳄鱼
+鳄鱼	bad
+乌龟	bad
+大鳄	bad
+小鳄龟	bad
+鳄鱼鳄鱼	bad
+她在吃水果
+水果	bad
+不吃	bad
+吃了	bad
+我在吃	bad
+我在吃水果	bad
+如何照顾家庭
+用心	bad
+用心去爱	good
+用心去照顾	normal
+用心去呵护	normal
+用心去照顾家人	normal
+儿童节怎么过
+睡觉	normal
+开心就好	bad
+和家人一起过	normal
+和父母一起过	normal
+和朋友一起过	normal
+下楼吃饭去
+吃饭去	bad
+饭饭	bad
+去吃饭	normal
+下班了	bad
+下午茶	bad
+什么时候能凉快下来
+心静自然凉	good
+心静时候	normal
+等到冬天	normal
+心静则凉	normal
+心静下来时候	normal
+你知道的太多了
+知道了	normal
+不知道	bad
+我都知道	bad
+知道就好	normal
+什么时候	bad
+被蚊子咬了好几口啊
+擦点花露水	good
+用花露水	good
+用风油精	normal
+涂点风油精	normal
+擦点花露水就行	normal
+三里屯优衣库
+优衣库	bad
+在哪里	normal
+不错	bad
+三库	bad
+哪里的	bad
+心里不好受怎么办
+出去散散心	good
+发泄出来	normal
+找人倾诉	normal
+出去走走	normal
+听听音乐	normal
+这个世界谁最有钱
+比尔盖茨	good
+巴菲特	normal
+法国人	normal
+人民币	good
+比尔盖茨比尔盖茨	normal
+葫芦娃你认识吗？
+不认识	good
+我认识你	bad
+你认识我	bad
+认识不认识	bad
+不认识你是谁	bad
+哥买了个自行车
+自行车	bad
+什么车	bad
+自己买	bad
+什么牌子	normal
+自行车也行	bad
+a股明天涨不涨
+不涨价	normal
+涨价了	bad
+涨停板	bad
+明天涨停	bad
+不涨就涨	bad
+为啥喝咖啡不好
+咖啡不好	bad
+咖啡因	normal
+因为咖啡不好	bad
+咖啡里含有咖啡因	normal
+因为咖啡里含有咖啡因	normal
+天空是蓝的
+不是	bad
+不一定	normal
+是蓝色	normal
+天空是蓝色	bad
+不是是蓝色	bad
+去台湾什么值得买
+香奈儿	bad
+台湾人	bad
+买台湾	bad
+自己买	bad
+台湾人民币	bad
+刘德华是谁
+中国人	normal
+刘德华	normal
+中华人民共和国	bad
+应该是刘德华	bad
+他是中国人	normal
+说你长的丑你还美
+我很丑	bad
+我不美	bad
+我长得丑	bad
+我丑不丑	bad
+不丑我不丑	normal
+你去吃粑粑
+吃粑粑	bad
+不吃	good
+你去吃	normal
+我不吃粑粑	normal
+粑粑粑粑	bad
+那些出来好了
+什么好	bad
+出来了	bad
+不出来	bad
+不好	bad
+还没出来	bad
+家里突然没电了
+没电了	bad
+电池没电	bad
+换电池	bad
+没有电	bad
+你家电池没电	bad
+家里黑漆漆的
+漆黑	bad
+可以	bad
+不好意思	bad
+黑漆漆	bad
+漆黑漆黑	bad
+既然爱我那就跟我在一起吧
+为什么不爱你	bad
+为什么不能在	bad
+为什么你不爱我	bad
+为什么不是我	bad
+你们都在我身边	bad
+都说了没风
+没风	bad
+发呆	bad
+发呆发呆	bad
+都没	bad
+发呆发呆发呆	bad
+没风怎么放
+不放	bad
+放风筝	normal
+没有风	bad
+用风扇	normal
+怎么放	bad
+没有止疼药
+没有	bad
+有的	bad
+吃药	bad
+药店有卖	normal
+不要吃药	bad
+你这是越俎代庖
+是<UNK><UNK>	bad
+<UNK><UNK><UNK>	bad
+<UNK><UNK><UNK><UNK>	bad
+不是<UNK><UNK>	normal
+<UNK><UNK>是谁	bad
+中国有多大
+960万平方千米	good
+960万平方公里	good
+很大	good
+960w平方米	normal
+中国有多大	bad
+你不小了可以结婚了
+可以结婚	normal
+为什么不可以	bad
+为什么不行	bad
+为什么不结婚	bad
+为什么不可以结婚	bad
+你会开车吗
+不会	normal
+会开	normal
+开车	bad
+开什么车	normal
+我不会开	normal
+那你还认识谁
+不认识	bad
+我认识你	good
+你认识我	bad
+认识不认识	bad
+我认识你不认识	bad
+核桃好吃吗
+好吃	good
+不错	normal
+非常好吃	normal
+好吃有营养	normal
+好吃很香	normal
+西雅图有什么好玩儿的
+没有什么好玩	normal
+没有好玩	normal
+没有图片	bad
+西湖龙门	bad
+我觉得不错	bad
+那你会做什么菜
+炒鸡蛋	good
+炒鱿鱼	normal
+什么菜	bad
+会做菜	normal
+红烧肉	normal
+你嫁我可好~
+你嫁我	bad
+嫁给你	bad
+不嫁	good
+嫁不出去	bad
+你嫁给谁	bad
+你有兄弟姐妹吗
+当然有	normal
+肯定有的	normal
+有兄弟	normal
+有兄弟姐妹	normal
+有我就有	bad
+你喜欢张小龙吗
+不喜欢	normal
+非常喜欢	normal
+喜欢我喜欢	normal
+喜欢很可爱	bad
+我喜欢张小龙	normal
+来和我聊天
+聊什么	good
+聊啥	normal
+可以	normal
+和你聊天	normal
+聊天记录	bad
+自然语言处理
+什么意思	normal
+自然	bad
+理解万岁	bad
+什么语言	bad
+什么方式	bad
+心情不好听什么
+听音乐	normal
+听情歌	normal
+听自己喜欢歌	normal
+听悲伤歌	normal
+心情不好	bad
+电影不好看
+好看	normal
+电影好看	normal
+不错	normal
+没看过	good
+好看电影	bad
+不喜欢看小说
+喜欢	normal
+好看	bad
+我喜欢看小说	good
+我喜欢看	normal
+你喜欢什么类型	bad
+背首诗给我
+给力	bad
+抱拳	bad
+我给你写	normal
+我写	bad
+写给谁	bad
+你给我找个妹子聊
+什么意思	normal
+我找你	normal
+你妹妹	bad
+我找你妹妹	bad
+我给你找	normal
+轮胎坏了怎么办
+去医院	bad
+可以修	good
+修好了	bad
+换个轮胎	normal
+去医院检查下	bad
+微信牛逼吗
+可以	normal
+微信	bad
+牛逼	good
+不敢	bad
+没有微信	normal
+刘小宁是条狗
+不是	good
+是狗	normal
+不是小狗	bad
+小狗狗	bad
+刘小狗	bad
+叶良辰是谁
+是谁	bad
+叶良辰	bad
+是辰东	bad
+是一个人	normal
+是一个传说	bad
+贱人就是矫情
+矫情	bad
+不是	normal
+为什么	normal
+不是矫情	bad
+矫情矫情	bad
+床上躺好等我
+睡觉	bad
+躺床上	bad
+我还没睡	normal
+我在床上	bad
+床上躺着	bad
+日日日
+日	bad
+月亮	bad
+好日子	bad
+日出日落	bad
+日日日	bad
+你喝牛奶
+不喝	good
+牛奶	bad
+我喝牛奶	bad
+奶牛	bad
+我不喝奶	good
+我要1000万现金
+1000	bad
+10000万	bad
+1000块钱	bad
+1000000	bad
+1000万美金	bad
+不想起床
+不起	normal
+起来	bad
+不想起床	bad
+睡不	bad
+起床了	normal
+那买什么车好
+捷安特	normal
+劳斯莱斯	normal
+汽车	normal
+自行车	normal
+迪士尼	normal
+猪八戒照镜子
+里外不是人	good
+猪八戒照镜子	bad
+里外不外	bad
+外星人	bad
+猪八戒	bad
+唐僧话太多
+多了	normal
+唐僧话	bad
+我喜欢唐僧	bad
+我喜欢你	bad
+不是唐僧	normal
+打印机坏了
+打印机	bad
+换个新	normal
+拿去修理	good
+打印机发呆	bad
+打印机不好	normal
+中午要午休了
+午休	bad
+中午了	bad
+中午休息	good
+中午没睡	bad
+中午还没休息	bad
+咖啡机
+咖啡	bad
+是	bad
+不错	bad
+可以	bad
+机器人	bad
+我有个好消息
+什么消息	good
+消息	bad
+没有消息	bad
+我还没消息	bad
+消息不好	normal
+聊着天喝着酒
+啤酒啤酒	bad
+啤酒啤酒啤酒	bad
+酒不醉人人自醉	good
+啤酒	bad
+啤酒啤酒啤酒啤酒	bad
+那你到底被强奸没有
+没有强奸你	bad
+不是你强奸	bad
+我没有强奸	bad
+没有被强奸	good
+不是我强奸你	bad
+明天周五啦
+周五	good
+周六下午	bad
+周六周日	bad
+今天周五	normal
+周五周五	bad
+拉倒吧，你就是坏银
+你不是坏银	bad
+不是拉倒	bad
+我不是坏人	good
+我都不认识你	bad
+我们都是坏银	normal
+今天出差
+差不多	bad
+出差	bad
+昨天出差	bad
+今天下午	bad
+我今天出差	bad
+灯好暗
+暗	bad
+灯光明亮	bad
+有点暗	normal
+灯明明	bad
+你暗恋我	bad
+聚餐一起吧
+一起	normal
+聚餐	bad
+不错	bad
+在哪里	normal
+吃饭去	bad
+躺床上看电视
+不好	normal
+可以	normal
+看电视	bad
+不好对身体不好	normal
+不好不好	normal
+小微你很骚啊
+我操你妈	bad
+不是我骚	normal
+我觉得挺好	normal
+我觉得很骚	normal
+我觉得我不骚	good
+看来不错，适合外出吗
+不错不错	normal
+我觉得不错	normal
+没有合适	bad
+我觉得不合适	normal
+不合适不合适	normal
+你有平板电脑吗
+平板电脑	bad
+平板电脑不错	bad
+平板电脑都有	bad
+没有我就没有	bad
+平板电脑有点贵	bad
+我想去广州
+我在广州	normal
+去哪里	normal
+去广州	bad
+不去	bad
+去广州干嘛	good
+你们那现在几点了
+十点半	normal
+我在上班	bad
+下午5点	normal
+我在家	bad
+晚上10点	normal
+什么时候过年
+快了	normal
+二月三号	normal
+2月14	normal
+过年时候	normal
+腊月二十三号	normal
+待会儿就把那人给杀了
+杀人不偿命	bad
+不会这样	bad
+杀人不是杀人	bad
+我们都是这样人	bad
+杀人不是杀人犯法	bad
+小微你懂哲学吗
+我不懂	normal
+不懂哲学	normal
+哲学问题	bad
+哲学哲学	bad
+有哲学	bad
+我去洗澡，一会再聊
+你在哪里	bad
+我在洗澡	bad
+我洗澡去	bad
+我还没洗澡	bad
+我刚洗完澡	bad
+洗干净了没
+洗了	normal
+没洗	good
+洗干净	normal
+干净了	normal
+刚洗完澡	normal
+北京天气
+天气预报	bad
+天气好	normal
+天气晴朗	normal
+北京	bad
+晴天	normal
+你会打乒乓球吗
+肯定会	normal
+我不会	good
+我不会打球	bad
+我不会打乒乓球	good
+不会我不会	normal
+厉害个锤子
+锤子	bad
+厉害	bad
+锤子锤子	bad
+锤子厉害	bad
+没有锤子	bad
+我还没有喜欢的人呢
+我喜欢你	good
+你喜欢谁	bad
+你不喜欢我	bad
+为什么我喜欢你	bad
+为什么不喜欢	bad
+世界第一高峰
+珠穆朗玛峰	good
+乔戈里峰	bad
+中国珠穆朗玛峰	normal
+高峰	bad
+喜玛拉雅山	bad
+我的意思是你废话多
+什么意思	normal
+意思就是	bad
+我不懂你意思	normal
+你不是废话	bad
+我不懂你意思意思	bad
+这种心理的折磨让我生不如死
+没有什么大不了	normal
+没有什么不好	bad
+没有什么好办法	bad
+不要去想那么多	good
+没有什么是不可能	bad
+我昨天和女朋友分手了
+分手快乐	normal
+为什么分手	good
+我们分手	bad
+分手就分手	normal
+为什么分手分手	bad
+我今天和女朋友和好了
+和她分手	bad
+你们两个都	bad
+你们都是女朋友	bad
+女朋友是什么	bad
+你们都是女汉子	bad
+我把朋友老婆睡了咋办
+给他一耳光	bad
+抱着睡觉	bad
+哄哄她睡觉	bad
+陪着她睡觉	bad
+陪着她就行	bad
+有个女人把我睡了
+睡不着	bad
+我睡不	bad
+我还没睡	bad
+睡觉了	bad
+你不是女人	bad
+天天坐公交回家
+坐公交车	bad
+天天坐车	bad
+天天做梦	bad
+天天都在家	bad
+天天坐在家里	bad
+年会发了个手机
+发呆发呆	bad
+发呆发呆发呆	bad
+手机没电	bad
+发呆发呆发呆发呆	bad
+发呆发呆发呆发呆发呆	bad
+我要娶个美国妞
+我娶你	bad
+美国人	bad
+你娶我	bad
+娶个美女	normal
+你不是美女	bad
+过年太没意思了
+没意思	normal
+有点意思	normal
+过年了	bad
+过年回家过年	bad
+过年回家	bad
+我明天去理发
+理发师	bad
+我理发	bad
+我明天理发	bad
+我现在理发	bad
+理发师太多	bad
+你害怕什么
+害怕	bad
+害怕失去	good
+害怕自己	normal
+害怕孤独	normal
+害怕害怕	bad
+我们一起玩吧
+一起玩	normal
+玩什么	good
+我们一起玩	normal
+玩啥	normal
+我在玩	bad
+你丫话太多
+我不喜欢你	bad
+不多说	bad
+我不说话	bad
+我都没有	bad
+我都没说话	normal
+有人生病了
+病了	bad
+有病	bad
+没有	normal
+不是病	bad
+不是病得治	bad
+空气清新环境好
+空气好	normal
+空气清新	bad
+好清新	bad
+不好了	bad
+空气清新空气清新	bad
+我回家了
+回家	bad
+我在家	bad
+回来了	bad
+你在哪里	bad
+早点休息	good
+你知道形而上吗
+我知道	good
+知道了	bad
+有点像	bad
+我觉得有点像	bad
+我觉得不好看	bad
+我在开会呢
+开会	bad
+开什么玩笑	bad
+你在哪里	bad
+开什么	bad
+我在开会	bad
+元宵节怎么过
+吃元宵	normal
+和家人一起过	good
+睡觉	normal
+和家人在	bad
+吃元宵看花灯	normal
+你脑子有屎
+你屎	bad
+你脑残	bad
+你没脑子	normal
+我没有	normal
+你脑洞太大	normal
+被妈妈打了一下
+为什么	normal
+被妈妈打	bad
+不要打我	bad
+为什么打你	good
+为什么要打	normal
+我肏你全家
+我在家	bad
+不是我	bad
+我都没有	bad
+我都不敢	bad
+不是你家	bad
+狂欢周
+周五	bad
+周末愉快	bad
+周末快乐	bad
+周末了	bad
+周六周日	bad
+草泥马
+草泥马	bad
+草	bad
+不是	bad
+泥嚎	bad
+不是草泥马	bad
+一加一等于几
+等于二	good
+11	bad
+一加一等于二	good
+等于11	bad
+二等于三	bad
+不和你聊了我得干活了
+为什么不活	bad
+为什么不能干	bad
+为什么要活着	bad
+为什么你不干活	bad
+为什么不找我	bad
+不和你聊了写作业去了
+我在写作业	normal
+我还没写完	good
+写作业去	normal
+我在上课	bad
+我还没写完作业	normal
+不可能，你绝对有腹黑属性
+腹黑腹黑腹黑	bad
+腹黑腹黑腹黑腹黑	bad
+腹黑腹黑腹黑腹黑腹黑	bad
+腹黑腹黑腹黑腹黑腹黑腹黑	bad
+腹黑腹黑腹黑腹黑腹黑腹黑腹黑	bad
+不老实交代拉你出去枪毙
+枪毙了他们	bad
+我就不敢说话	normal
+我们都是老实人	normal
+我们不是一个人	bad
+我不敢说我不敢	normal
+不是说法律吗
+法律	bad
+什么情况	bad
+不是法律	normal
+什么法律	bad
+没有法律	bad
+不说实话我早晚让你害死
+我不会说话	normal
+我还没有死	bad
+不要说话不要说话	bad
+我不会说话就不会	normal
+我不会说话你会死	bad
+不是傻子怎么会把衣服穿反
+不穿衣服怎么穿	bad
+不穿衣服就不穿衣服	bad
+不穿衣服就不是真	bad
+不穿衣服就不是傻子	bad
+不穿衣服怎么穿衣服	bad
+不是喜欢用毒蛐我吗
+我喜欢你	bad
+我都喜欢	bad
+我喜欢你喜欢	bad
+我不喜欢毒药	bad
+我喜欢你喜欢就好	bad
+不是哑巴就说一句话咯
+不是哑巴	normal
+没有哑巴	normal
+哑巴说话	bad
+不是哑巴说话	bad
+哑巴吃黄连	bad
+不是一直是你带我混的吗？
+你不是一个人	normal
+你不是一个混混	bad
+你不是一个人不是	bad
+你不是一个人不是一个人	bad
+你不是一个人不能混	bad
+猜我心中所想的人物
+你自己知道	normal
+你喜欢人	good
+我喜欢你	bad
+我猜不猜	normal
+猜不出来	normal
+猜我有没有在谈恋爱
+不要谈恋爱	bad
+我没有谈恋爱	bad
+没有什么不可以	bad
+我还没有遇到过	bad
+没有谈恋爱就没有	bad
+才发现爱情竟是一场考验
+现实是残酷	bad
+真正爱情是经得起考验	good
+爱情是两个人事	normal
+真爱是不需要考验	normal
+爱情是一种感觉	normal
+才给我买了五千多的首饰，没有镯子
+我买了50块钱	normal
+我买了500w	normal
+我买了5000多	normal
+我买了500多买	normal
+我买了500块钱买	normal
+才工作了半年左右就换来换去
+工作愉快月亮	bad
+工作需要工作	bad
+工作需要时间	bad
+工作还没出去	bad
+工作需要多久	bad
+才华横溢就是形容我。
+抱拳抱拳	bad
+抱拳啤酒	bad
+抱拳啤酒啤酒	bad
+抱拳抱拳抱拳	bad
+抱拳啤酒啤酒啤酒	bad
+财迷个大头鬼
+财迷	bad
+迷信	bad
+大头鬼	bad
+迷信迷信	bad
+财大气粗	bad
+踩着七彩祥云去娶你
+抱拳抱拳	bad
+抱拳抱拳抱拳	bad
+抱拳啤酒啤酒	bad
+抱拳啤酒	bad
+抱拳啤酒啤酒啤酒	bad
+采桑归西露沾我衣。
+西瓜西瓜	bad
+抱拳抱拳	bad
+西瓜西瓜西瓜	bad
+抱拳啤酒啤酒	bad
+抱拳啤酒	bad
+蔡港林是备胎
+不是	normal
+是的	normal
+不认识	bad
+好像是	normal
+不是备胎	good
+蔡伟聪，我喜欢你
+我喜欢你	bad
+你喜欢我	bad
+我们都喜欢你	bad
+你们都喜欢我	bad
+我喜欢你我喜欢你	bad
+蔡伟这个娘娘腔。
+娘娘腔	bad
+蔡老师	bad
+蔡依林	bad
+娘娘腔不错	bad
+蔡依林是谁	bad
+参加别人的婚礼好感慨
+什么意思	bad
+不好不好	bad
+很好很好	bad
+我觉得不好	bad
+我觉得挺好看	bad
+参见陛下，微臣有礼了
+礼尚往来	bad
+礼多人不怪	bad
+礼尚往来没有	bad
+礼多人不怪礼尚往来	bad
+礼尚往来皆是客	bad
+苍井空和波多野结衣更喜欢谁一点
+我喜欢井上井野	bad
+我喜欢井上喜欢	bad
+喜欢井野更喜欢	bad
+个人觉得是井野	bad
+我喜欢我喜欢井野	bad
+苍老师长什么样子
+老师样子	bad
+和老师一样	bad
+长得漂亮	normal
+长得像样子	bad
+长得像老师	bad
+苍老师照片没穿衣服的
+不穿衣服	bad
+老师是谁	bad
+不是老师	bad
+老师是老师	bad
+我们都是老师	bad
+草泥马又回答错误
+草泥马	bad
+什么意思	bad
+什么草泥马	bad
+草泥马不错	bad
+草泥马蜂窝	bad
+蹭蹭你平胸
+没胸	normal
+你胸大	normal
+胸大无脑	good
+胸小	normal
+胸不大	normal
+茶叶蛋是土豪吃得起
+蛋糕蛋糕	bad
+茶叶蛋茶叶蛋	bad
+蛋糕蛋糕蛋糕	bad
+茶叶蛋蛋	bad
+蛋糕蛋糕蛋糕蛋糕	bad
+岔开你的腿让我看看那里有什么
+什么都看不到	good
+什么都没看到	normal
+什么都不能看	normal
+什么都没有看不到	normal
+什么都没有看过	bad
+尝尝我的厉害
+厉害	normal
+什么味道	normal
+我不敢	normal
+不要吃	normal
+我不敢尝尝	normal
+长大后才发觉天是黑的
+不是是天黑	bad
+不一定看个人	bad
+不是是天黑时候	bad
+不一定看个人情况	bad
+不一定看个人心态	bad
+车费还差几块回不了家
+车费多少	normal
+车费不贵	bad
+车费还不够	bad
+我们都没车	bad
+车费多少不少	bad
+扯淡，我能甩你九条街
+你在哪里	bad
+我都没有	bad
+你在哪里在哪里	bad
+你在哪里找我	bad
+你不是一条狗	bad
+帮我叫一个大保健
+保健品	normal
+你不是一个人	bad
+你不是大人	bad
+你们都是大人	bad
+你不是叫我	bad
+你数学是体育老师教的吗？
+体育老师教	normal
+不是数学老师	bad
+体育老师教育方式	bad
+体育老师教育我们	bad
+不是数学老师教你	bad
+你提出话题我们聊天好不好
+我觉得不好	normal
+我不喜欢你	bad
+我不喜欢聊天	normal
+我不喜欢聊天记录	bad
+我觉得不好意思	bad
+最近几天南方降温
+我在南方	bad
+我在北京	bad
+冬天不冷	bad
+南方冬天	bad
+我这里下雨	bad
+我朋友叫什么名字？
+叫什么名字	bad
+朋友名字	bad
+你自己知道	normal
+叫朋友朋友	bad
+名字叫什么名字	bad
+请赐予我无比强大的性能力吧
+不能这样说法	bad
+什么时候能力	bad
+我觉得还是比较好	bad
+什么时候能力强大	normal
+什么时候能力强求不来	normal
+你在烦恼什么
+烦恼	bad
+心烦	normal
+没有烦恼	good
+烦心事	good
+我在烦恼	bad
+那感情受挫呢
+感情受挫	bad
+没有感觉	bad
+感情挫折	bad
+没有经历过	normal
+没有感情就不会	normal
+地球为何是圆的
+地球是椭圆	good
+因为地球是圆	bad
+是椭圆	normal
+地球不是圆是椭圆	normal
+不是圆是椭圆	normal
+那你解释一下量子物理
+什么物理	bad
+物理老师	bad
+物理物理	bad
+物理一样	bad
+物理学科	bad
+有什么好看的喜剧？
+什么类型	normal
+你喜欢什么类型	normal
+喜羊羊与灰太狼	normal
+爱情公寓	normal
+喜洋洋与灰太狼	normal
+你是我知心朋友
+知心朋友	bad
+知己知彼	bad
+知己难求	bad
+是朋友	bad
+友谊长存	normal
+我只想有个真心的朋友
+真心朋友	bad
+真心换真心	normal
+真心对待你朋友	good
+真心换真心朋友	normal
+真心朋友真心朋友	bad
+云南在哪里？
+云南	bad
+昆明	good
+云南大理	bad
+云南昆明	normal
+山西	bad
+世界上最高的山是什么
+珠穆朗玛峰	good
+珠穆朗玛峰8848米	bad
+喜玛拉雅山珠穆朗玛峰	bad
+喜马拉雅山	normal
+珠穆朗玛峰8844.43m	normal
