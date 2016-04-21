@@ -9,12 +9,6 @@ import xlrd
 
 input_dir = 'xlsx/input/'
 
-
-# data = xlrd.open_workbook(input)
-# data = xlrd.open_workbook('D:\\SecureCRT\\\\03.xlsx')
-# sheets_len = len(data.sheets())
-
-# fout = open(output, 'w')
 query_answers = defaultdict(list)
 querys = set()
 files = os.listdir(input_dir)
