@@ -1,5 +1,8 @@
 import codecs
 
+
+    
+
 def read_file(f, d, label): 
     for line in f:
         line = line.strip()
@@ -16,7 +19,22 @@ def write_file(f, d, label):
     for k, v in d.items():
         if v == label:
             res.append(k)
-    res = sorted(res, key=lambda x:x[0])
+    def compare(x, y):
+        if x[0] == y[0]:
+            if x[1] < y[1]:
+                return -1
+            elif x[1] == y[1]:
+                return 0
+            else:
+                return 1
+        else:
+            if x[0] < y[0]:
+                return -1
+            elif x[0] == y[0]:
+                return 0
+            else:
+                return 1
+    res = sorted(res, cmp=compare)
     for k in res:
         f.write('%s\t%s\n' % k)
 

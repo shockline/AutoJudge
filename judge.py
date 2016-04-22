@@ -70,9 +70,9 @@ for basename in file_list:
     print '%s:' % basename
     for k, v in count_dict.items():
         print '%s\t%d' % (k, v)
-    print 'Error Rate:\t%f\n' % (count_dict['bad'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
-    print 'Good Rate:\t%f\n' % (count_dict['good'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
-
+    print 'Error Rate:\t%f' % (count_dict['bad'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
+    print 'Good Rate:\t%f' % (count_dict['good'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
+    print
 print 'All finished!'                   
                     
             

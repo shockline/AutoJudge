@@ -1,0 +1,1800 @@
+你好
+你好	normal
+我不好	normal
+你也是	normal
+谢谢你的	bad
+你也好啊	normal
+晚上好
+同好	normal
+晚上好	good
+晚安	bad
+周末快乐	bad
+周末愉快	bad
+拜拜
+拜拜	good
+/月亮	bad
+再见	normal
+晚安	good
+/拜年	bad
+你好吗？
+我挺好的。	normal
+我不好。	normal
+你好。	bad
+我很好啊。	good
+还好吧。	normal
+你好漂亮
+谢谢夸奖。	normal
+谢谢夸奖呵呵	normal
+谢谢你的夸奖	good
+嘿嘿，谢谢主人	normal
+谢谢主人的夸奖	normal
+永远一直爱你
+永远爱你	normal
+我也爱你	good
+爱你一万年	bad
+永远的爱	bad
+永远永远	normal
+我不喜欢你
+我喜欢你	normal
+我也喜欢你啊。	bad
+你喜欢我什么呀？	bad
+你喜欢我什么	bad
+我也喜欢你呀	bad
+你是不是快死了
+我才不是呢。	normal
+我还没死呢	normal
+我不会死的	normal
+我才不会死呢。	good
+我才不是这样的呢	bad
+你觉得我漂亮吗
+我觉得挺漂亮的。	normal
+你觉得我漂亮吗？	normal
+我觉得你很漂亮	good
+我觉得你很漂亮啊。	good
+我觉得你比我漂亮	normal
+美女美女你在哪
+在你心里	normal
+在家里	normal
+在我这里	bad
+在你身边	normal
+哪里都是美女	bad
+我饿了
+/饭	bad
+/饭/饭	bad
+饿了	bad
+吃饱了	bad
+吃饭吧	normal
+今天有点事
+哦，那我知道了。	normal
+好的，我知道了。	normal
+什么事情	normal
+什么事情啊？	normal
+今天没事的	bad
+我下午要开会
+开什么玩笑	bad
+好的，我知道了。	normal
+那就开始吧	bad
+下午几点下班	bad
+好的，知道了呵呵	normal
+北京有什么好吃的
+北京烤鸭	good
+北京烤鸭好吃	normal
+北京烤鸭很好吃的	normal
+北京烤鸭不错	normal
+北京烤鸭超级好吃	normal
+春天有什么好玩的
+春暖花开	bad
+没什么好玩的	normal
+可以去旅游啊	normal
+春天在家里	bad
+春天来了春天	bad
+去哪里玩比较好玩呢
+云南丽江	normal
+海南三亚	normal
+哪里都好玩	normal
+云南大理	normal
+想去哪就去哪	normal
+今天天气好晴朗
+今天天气不好	bad
+晴空万里晴空万里	normal
+今天天气很晴朗	good
+今天晴朗天气好	normal
+今天晴朗天气晴朗	normal
+我喜欢今天天气
+我也喜欢晴天	bad
+天气不错哦	normal
+今天天气不好	bad
+天气不怎么好	bad
+我也喜欢天气	bad
+我没有男朋友
+那就去找啊	normal
+我也没有男朋友	normal
+怎么会没有呢	normal
+那就去找一个吧。	good
+我也没有男朋友啊。	normal
+男朋友找什么样的好
+适合自己的	normal
+自己喜欢的	normal
+温柔体贴	normal
+适合自己的最好	good
+自己喜欢的最好	good
+你是哲学家吗
+不是	normal
+不是啊。	normal
+不是哲学家	normal
+我不是哲学	bad
+不是，我是哲学家。	bad
+不开心也是一天
+/月亮	bad
+不开心	bad
+天天开心	normal
+开心快乐	bad
+天天快乐	bad
+我现在没工作
+我也没工作	normal
+我现在在工作	bad
+现在没有工作	bad
+我也是工作了	bad
+你现在在工作吗	bad
+你有办法让我开心吗
+开心就好	bad
+开心一点	bad
+我不开心	bad
+不开心啊	bad
+自己开心就好	bad
+你喜欢聊什么
+什么都可以	normal
+什么都行	normal
+你喜欢聊什么	normal
+我喜欢聊天	normal
+你想聊什么	good
+万圣节怎么过
+一个人过	normal
+想怎么过就怎么过	normal
+和朋友一起过	normal
+在家睡觉	normal
+开心的过	normal
+我先去睡觉了
+晚安	good
+好梦	normal
+去吧	normal
+好的，晚安。	normal
+晚安好梦	normal
+老板不给发工资怎么办
+那就辞职呗	normal
+那就不要了	normal
+那就辞职吧。	normal
+请问你是什么工作?	normal
+那就给他发工资	bad
+你以后别跟着我了
+我不跟你玩了	bad
+我不跟你说话了	normal
+我才不跟你说话	bad
+我才不跟你在一起	normal
+我不会跟你说话的	bad
+你敢买切糕吗
+不敢	normal
+不会啊。	bad
+我不会买	bad
+我不会做。	bad
+我不会买啊。	bad
+我今天没有捡到钱，好伤心
+为什么捡到钱？	bad
+为什么要捡钱？	normal
+为什么要捡到钱	normal
+为什么要捡到钱啊？	normal
+为什么要捡起来	bad
+天上有多少颗星星
+数不清	normal
+无数颗星星	good
+天上的星星数不清	normal
+天上有多少颗星星	bad
+无数颗数不清	normal
+今天天气不好
+今天天气不好	bad
+今天天气怎么样	bad
+今天天气很好啊	normal
+今天天气怎么样啊？	bad
+今天天气怎么样呀。	bad
+太阳好大啊
+是啊	normal
+太阳	bad
+太阳大。	bad
+太阳太阳	bad
+太阳太大了	normal
+北风嗖嗖的吹
+是的	normal
+北风吹的	bad
+我不明白你要说什。	bad
+北风吹不动	normal
+我不明白你的意思。	bad
+有人跟我撕逼，不讲理
+主人，快从火星上回来吧。	bad
+我不讲理	bad
+我不和你讲	bad
+主人，我可是很纯洁的。	bad
+我不和你讲话了	bad
+不要这么谦虚嘛
+谦虚了	normal
+不谦虚	normal
+谦虚使人进步	good
+不要谦虚了	bad
+谦虚谦虚	normal
+明天去打球
+好的，我知道了。	normal
+明天去打球	bad
+好的，马上就去。	bad
+好的，那我就放心了	bad
+我不明白你要说什么	bad
+我老板就在我身边
+你老公在哪里	bad
+我老板在你身边	normal
+你老板在我身边	normal
+你老公在哪里呀？	bad
+你的老板是谁啊	normal
+你什么地方冒出来的
+哪里冒出来的	bad
+哪里冒出来的地方	bad
+哪里都冒出来了	bad
+我不知道怎么回事	bad
+我不知道你是哪里的	bad
+你会做爱吗
+不会。	normal
+含蓄	normal
+我才不会呢。	normal
+当然不会啦。	normal
+主人，你太坏了。	normal
+你能陪我睡觉吗
+可以啊。	normal
+主人，我可是很纯洁的。	normal
+当然可以啦。	normal
+好的，我会陪着你的。	normal
+我不会陪你聊天的。	bad
+你有私生子吗
+没有啊。	normal
+当然有啦。	bad
+我没有私人的。	bad
+我没有私生的呀	normal
+我没有私生子的。	normal
+我早上工作感觉死死的是怎么回事
+那是你的心理作用	normal
+心理上的压力大	normal
+心理上的压力太大了	good
+因为你不想活了	bad
+你的心理作用。	normal
+有没有搞笑的欢乐的段子
+有啊我喜欢	bad
+当然有啦。	normal
+我喜欢笑的	bad
+我喜欢笑的笑话	bad
+有啊我就喜欢这个	normal
+发个给力图片看哈喽
+我给你发给你看	bad
+我给你发给我看看	bad
+你给我发给我看看	bad
+我给你发给你看看吧	normal
+为什么要给我发图片？	bad
+天天锻炼身体好
+锻炼身体	bad
+早点休息	bad
+好好锻炼	normal
+天天锻炼身体	normal
+好好休息	bad
+李白的诗你会吗
+我不明白你要说什么。	bad
+我不会	normal
+不会的	normal
+当然了	normal
+当然不会	normal
+我问的不是这个意思
+我不明白你要说什么。	bad
+什么意思	normal
+就是这个意思	normal
+为什么这么说	bad
+不是这个意思吗	normal
+完全不知道你在说啥
+我也不知道	normal
+我不知道怎么说	bad
+我不知道你说什么	bad
+你不知道我说什么	normal
+我也不知道你说的什么	normal
+牛头不对马嘴
+对头	bad
+你说的对	normal
+我不喜欢吹牛	bad
+你说的对不对	bad
+我不喜欢你	bad
+你是不是傻逼
+我才不是呢。	normal
+当然不是啦。	normal
+主人，说话要文明。	good
+我才不是傻子呢。	normal
+不要这样说人家啦。	normal
+你个白痴
+我才不是呢。	normal
+主人，我可是很	bad
+主人，你别这样	normal
+我才不是这样的	normal
+主人，注意你的	bad
+我他妈宰了你
+主人，说话要文明。	normal
+主人，你太坏了。	good
+我不明白你要说什么。	bad
+主人，我可是很纯洁的	bad
+主人，你还真是重口味	normal
+她是我的学姐，我喜欢她。
+我也喜欢她	normal
+你喜欢她吗？	bad
+我也喜欢你啊	bad
+那你喜欢她吗	bad
+你喜欢她你喜欢她吗？	bad
+我喜欢你离我远一点
+我喜欢你	normal
+我喜欢你离我远一点	normal
+你喜欢我什么呀？	bad
+我不喜欢你离我远点	good
+我喜欢你离开我	bad
+明天把秋裤脱了
+我不明白你要说什么。	bad
+好的，我知道了。	normal
+明天穿什么	normal
+不要啊，我会伤心的。	bad
+好的，那就穿吧。	bad
+抽根烟睡觉
+抽烟	bad
+抽烟喝酒	bad
+抽烟有害健康	good
+抽根烟吧	bad
+我不抽烟	normal
+牛逼吹大了
+吹牛逼	bad
+吹吧	normal
+牛逼吹牛逼	normal
+那就吹吧	normal
+你吹牛逼了	bad
+干你娘
+请文明用语	good
+好好说话。	normal
+主人，说话要	bad
+说话请尊重人	normal
+主人，注意你	bad
+你妈逼的
+请文明用语。	good
+说话请尊重人	normal
+不要骂人啦。	normal
+好好说话。	normal
+主人，注意语言	normal
+去你妹的
+说话请尊重人	normal
+我没有妹妹哦	normal
+好好说话。	normal
+我妹可没有妹妹	bad
+我没有妹妹啊。	normal
+赶紧滚蛋
+滚蛋	normal
+我才不会滚蛋	normal
+主人，我可是很	bad
+主人，你别这样	normal
+主人，你说的太	bad
+日了狗了
+哈哈	bad
+主人，注意语言	normal
+主人，注意你的	bad
+主人，我可是很	bad
+主人，注意言语	normal
+我是外地打工的
+我也是打工的	normal
+打工的	normal
+我也是外地	normal
+我也想打工	bad
+我也不知道	bad
+我过去是个老师
+你是老师吗	normal
+我是老师	bad
+你老师是谁?	bad
+我也是老师啊	normal
+你不是老师吗?	normal
+我昨天找过你了
+我昨天找到了	bad
+我昨天没找你	normal
+我昨天看到的	bad
+我也没找到你	normal
+我昨天看到你了	normal
+我是个坏男人，你不要相信我
+男人不坏女人不爱	normal
+你是男人还是女人？	bad
+男人不坏女人不爱嘛~	normal
+男人不坏女人不爱吗？	normal
+不要相信男人了	bad
+今天心情很好大大好
+好的，我知道了。	normal
+我也觉得挺好的	normal
+今天天气怎么样？	bad
+我也觉得挺好的呀。	normal
+我也很喜欢这样的	bad
+我刚上公交车
+这么快	normal
+我在上班	normal
+我刚下班	normal
+我下了	normal
+这么早啊	normal
+我要坐地铁回家
+坐火车	bad
+那就回家吧	normal
+坐车回家	normal
+回家干嘛	normal
+我也想回家	normal
+大早上就无聊啊，想找点事干
+那就继续无聊吧	bad
+那就找点事做啊	normal
+找点事做啊。	normal
+没事找事干嘛	normal
+那就找点事干吧	normal
+偶尔睡眠不好怎么办
+睡前喝牛奶	normal
+吃安眠药	good
+睡前喝一杯牛奶	normal
+睡前喝杯热牛奶	good
+睡前喝杯牛奶。	normal
+祝你生日快乐
+生日快乐	normal
+谢谢你的祝福	good
+谢谢	normal
+谢谢你的祝福呀呵呵	normal
+祝你生日快乐	bad
+生活中怎样感到开心快乐
+做自己想做的事	normal
+知足者常乐	normal
+做自己喜欢的事	normal
+知足常乐。	normal
+和自己喜欢的人在一起	normal
+失败了怎么办，如何才能成功
+失败是成功之母	normal
+失败乃成功之母。	normal
+努力努力再努力	normal
+失败是成功的基础	normal
+失败是成功的母亲	normal
+明天考試、求安慰
+我不明白你要说什么。	bad
+安慰安慰	normal
+明天考试	bad
+明天考什么	bad
+安慰安慰安慰	normal
+听说过外星生命吗
+听说过	normal
+没听过	normal
+没有听说过	normal
+没听说过。	normal
+当然没听说过	normal
+我命令你以后只能呆在家里
+为什么这么说	normal
+为什么不可以	bad
+我不在家呆着	normal
+为什么不能出去	normal
+为什么不能在家呆着	bad
+你等会我过会跟你说
+我不明白你要说什么。	bad
+我会等你的	normal
+好的，我会等你的。	normal
+好的，我知道了。	normal
+我不会说话	bad
+我来把你胸抓大
+我不明白你要说什么。	normal
+我胸大	normal
+你胸太大了	bad
+你胸太小	normal
+我胸不大!	bad
+你叫个春
+我才不是呢。	normal
+我才不叫呢	normal
+好吧，那我就叫	bad
+主人，我可是很	bad
+主人，我是小清	bad
+上班好累啊
+辛苦了	normal
+那就上班啊	bad
+那就休息啊	normal
+好好休息	normal
+那就休息休息吧	normal
+我在等地铁
+你在哪里	normal
+我等你	normal
+我在地铁	normal
+那就等等吧	normal
+你在哪个地方	normal
+你闭嘴
+闭嘴	normal
+闭嘴闭嘴	normal
+你不说话	bad
+我闭嘴了	normal
+我才不信呢	bad
+那就放给我听吧
+我不明白你要说什么。	bad
+好的，我知道了。	normal
+好的，我听你的。	normal
+好的，那我就放心了。	bad
+好的，我会听的。	normal
+我的好友喜欢吃什么
+你喜欢吃什么	normal
+好吃的东西	normal
+什么都好吃	bad
+喜欢吃的东西	normal
+我喜欢吃火锅	bad
+你这智商哥都不稀罕说了
+我不明白你要说什么。	normal
+我智商也不高啊	bad
+你智商不高啊	bad
+我不明白你说的什么。	normal
+你智商也不高呀	bad
+让你慢慢喜欢
+我喜欢你	good
+我也喜欢	bad
+嗯嗯我喜欢你	bad
+我不喜欢我	bad
+你喜欢我什么呀？	bad
+你和过儿什么关系
+亲戚关系	normal
+没关系	normal
+朋友关系	normal
+没有关系。	normal
+没关系的。	normal
+你和张小龙什么关系
+朋友关系	normal
+没有关系	normal
+没关系的关系	normal
+我们是朋友关系	normal
+没有关系的哦	normal
+你是白富美吗
+我是白富美	normal
+我才不是呢。	normal
+白富美	normal
+我才不是白富美呢	normal
+我不是白富美哦	normal
+我们去动物园吧
+我不明白你要说什么。	bad
+动物园	normal
+不是动物园	bad
+你是动物园吗	bad
+我也想去动物园	normal
+外面有摩托车的响声
+没听说过	bad
+没听过声音	bad
+没听说过吗?	bad
+你的声音太小了	bad
+没听过声音吗?	bad
+哥很伤心
+伤心	normal
+伤心难过	normal
+不要伤心	normal
+哥也伤心	normal
+不伤心啊	normal
+我要问你一个很长的问题你准备好了吗
+我不明白你要说什么。	bad
+好的，我知道了。	normal
+好的，我会记住的。	bad
+你想问什么问题呢	normal
+你问的是什么问题？	normal
+我坐到电梯了
+坐飞机	bad
+我坐着呢	normal
+我坐着电梯	normal
+我也坐着	normal
+我还没坐	normal
+你和杨过谁牛逼
+当然是我啦。	normal
+当然是你了。	normal
+我不认识你啊。	bad
+当然是杨过啊。	normal
+我不认识你呀	bad
+我永远都在你身边
+我在你身边	normal
+永远在一起	normal
+永远在我心里	normal
+永远在我身边	normal
+我会永远陪着你的	normal
+这你都能看出来
+看不出来	normal
+看到了	normal
+我看见了	bad
+我看不出来了	normal
+你看不出来吗	normal
+刚刚公司有人打架
+打架了	bad
+我不打架	bad
+我们公司打架	bad
+你们公司打架吗	normal
+你们公司没打架	bad
+就是那天你碰到的骚浪贱
+我不明白你要说什么。	normal
+我也不知道	bad
+我不是这样的	bad
+我不明白你的意思。	normal
+不要这样对我哦	bad
+你去火车站了么
+没有火车站	bad
+我在火车站	normal
+我没有火车站啊	bad
+没有，我在火车站	bad
+我在火车站下车	bad
+火车为什么总晚点
+因为有火车	normal
+因为太晚了	bad
+火车太多了	bad
+因为火车太多了	normal
+因为火车太慢	normal
+你好无聊
+我也无聊。	normal
+我不无聊	normal
+我很无聊的。	normal
+我不无聊啊。	normal
+我也很无聊	normal
+肚子右边隐隐作痛
+看医生	normal
+去医院看看	normal
+去医院吧	normal
+去医院检查一下吧	normal
+去看医生吧	normal
+外面很气冷
+冷啊	normal
+嗯嗯	normal
+外面冷	normal
+不冷	normal
+冷吗?	normal
+昨晚刮大风了
+刮风	normal
+刮大风了	normal
+今天刮风	bad
+今天刮大风了	bad
+今天刮风了啊	normal
+公司有人打架
+为什么	normal
+公务员	bad
+为什么打架	normal
+我不会打架	bad
+为什么要打架？	good
+我是邓超
+我也喜欢邓超	bad
+我也不知道	bad
+你喜欢邓超	bad
+我也超喜欢他	bad
+你喜欢谁呀	normal
+最近股票大跌
+今天跌停了	normal
+股票大跌了	normal
+最近股票不涨	bad
+最近股票跌停了	normal
+今天股市跌停了	normal
+对面哪个妹子好看
+哪个都好看	normal
+哪个妹子	bad
+没有什么好看的	normal
+我觉得都好看	normal
+哪个妹子都好看	normal
+公司不让抽烟了
+我不抽烟	normal
+不抽烟不喝酒	normal
+为什么不抽烟	normal
+那就不抽了	normal
+为什么要抽烟？	normal
+能做什么菜
+白菜	normal
+红烧肉	normal
+水果	bad
+西红柿炒鸡蛋	normal
+炒鸡蛋	normal
+你会做什么菜
+红烧肉	normal
+你想做什么就做什么	normal
+青椒炒肉丝	normal
+什么都会做。	normal
+你想做什么菜呢	normal
+吃了什么
+吃了	bad
+什么都吃	normal
+水果	normal
+没吃过	bad
+还没吃	normal
+不给你喝
+/啤酒	bad
+/啤酒/啤酒	bad
+不喝	normal
+好的	normal
+喝了	normal
+这么高级的东西
+什么东西	normal
+什么东西啊？	normal
+你是什么东西？	bad
+什么东东？	normal
+是什么东西呢	normal
+猫和狗不好
+好可爱	normal
+猫和狗不一样	normal
+因为它是猫	bad
+猫和狗不同	normal
+好可爱的猫	bad
+杨过和你是啥关系
+没关系	normal
+朋友关系	good
+我们是朋友关系	normal
+没关系的。	normal
+是你的朋友吧	bad
+有多美
+很美	good
+有多美	normal
+美如画	normal
+美不美	bad
+美不胜收	normal
+她在吃香蕉
+香蕉	bad
+我喜欢香蕉	bad
+香蕉好吃	bad
+我也喜欢吃香蕉	normal
+香蕉是香蕉	bad
+为什么你妈妈生出你这么个脑残
+因为你是妈妈	bad
+因为你妈生的	bad
+因为她是你妈妈	bad
+因为妈妈是你妈妈	bad
+因为你妈妈是你妈	bad
+不去吃饭
+/饭	bad
+/饭/饭	bad
+不吃	bad
+吃饭了	bad
+/饭/啤酒	bad
+动车是怎么跑起来的
+跑的最快	bad
+是靠运气的	bad
+跑的最慢的	bad
+因为跑的太慢	bad
+因为跑不动	bad
+学挖掘技术哪家强
+山东找蓝翔	good
+挖掘机哪家强	bad
+挖掘机技术哪家强	bad
+中国山东找蓝翔	good
+哪里都有挖掘机	bad
+抽根烟冷静一下
+抽烟有害健康	normal
+我不抽烟	normal
+抽烟喝酒	bad
+不抽烟不喝酒	normal
+抽烟有害健康啊。	normal
+我的书包在哪里
+在书店里	normal
+你的书包里	bad
+你的书包里面有	bad
+你自己的书包里	bad
+你的书包里有的	bad
+我的书包坏了
+什么书包	bad
+我的书包	bad
+好的，我知道了。	normal
+什么书包啊？	bad
+什么书包的?	bad
+哪里地震了
+四川	normal
+四川乐山	normal
+四川成都	normal
+四川地震	normal
+四川云南	normal
+外面下大雨了
+下雨了	good
+雨中漫步	normal
+我这里下雨了	bad
+天气不好	normal
+我这下了	bad
+后天中午两点半去吃饭。
+好的，我知道了。	normal
+中午吃什么？	bad
+好的，那就去吃吧。	normal
+中午吃什么饭啊？	bad
+好的，那就去吃饭吧	normal
+明天领导要来
+明天领导	bad
+好的，我知道了。	normal
+明天要上班	bad
+领导不让领导	bad
+明天要去领导	bad
+我看看有没有空
+没空啊	normal
+有空看看	bad
+我没空	normal
+我看到了	bad
+有空就来看看	bad
+没有花露水
+没有	bad
+花露水	bad
+有的	normal
+没有花露水	bad
+露水花露水	bad
+快来骚扰我
+骚扰	bad
+骚扰什么	bad
+不骚扰你	normal
+我不会骚扰你的	normal
+怎么骚扰你	normal
+快来蹂躏我
+我来了	normal
+我不明白你要说什么	bad
+我不明白你要说的。	bad
+我不明白你要说什。	bad
+我不明白你要说的什	bad
+你要去哪儿旅游
+云南丽江	good
+海南三亚	normal
+哪里都不去	normal
+云南大理	normal
+我想去丽江	normal
+红公鸡囧哦呵呵
+我不明白你要说什么。	bad
+哦，我知道了。	bad
+主人，说话要文明呀。	bad
+主人，说话要讲文明哦。	bad
+哦，原来是这样啊。	bad
+鳄鱼
+鳄鱼	bad
+大鳄	bad
+/饥饿	bad
+鳄鱼也是	normal
+不是鳄鱼	bad
+她在吃水果
+嗯嗯	bad
+/西瓜/西瓜	bad
+/西瓜	bad
+/饥饿	bad
+/饥饿/饥饿	bad
+如何照顾家庭
+互相尊重	normal
+用心去爱	good
+真心对待	normal
+互相包容	normal
+互相信任	normal
+儿童节怎么过
+开心的过	normal
+和朋友一起过	normal
+开开心心的过	normal
+和家人一起过	normal
+一个人过	normal
+下楼吃饭去
+好的	normal
+吃饭了	bad
+快去吃饭吧	normal
+我不吃饭	bad
+好的，我知道了。	normal
+什么时候能凉快下来
+心静自然凉	good
+冬天的时候	normal
+心情好的时候	normal
+夏天到了	bad
+冬天来了	bad
+你知道的太多了
+知道了	normal
+我知道	normal
+你知道的太多了	normal
+我知道了。	bad
+我不知道啊	normal
+被蚊子咬了好几口啊
+被蚊子咬了	bad
+蚊子咬你	bad
+蚊子不咬人	bad
+蚊子咬人了	bad
+蚊子咬你一口	bad
+三里屯优衣库
+优衣库	bad
+哦，我知道了。	bad
+哦，原来是这样啊。	bad
+优雅的衣服	bad
+我也喜欢优衣库	bad
+心里不好受怎么办
+听听音乐	normal
+出去走走	normal
+找个地方发泄一下	normal
+找个人聊聊	normal
+找个人倾诉一下	normal
+这个世界谁最有钱
+比尔盖茨	good
+钱最有钱	bad
+巴菲特	normal
+最有钱的人	normal
+当然是钱啦	bad
+葫芦娃你认识吗？
+不认识	good
+我不认识你	bad
+我不认识葫芦娃	normal
+我不认识他啊	normal
+我不认识你啊。	bad
+哥买了个自行车
+我不明白你要说什么。	bad
+自行车	bad
+买了自行车	bad
+自行车也行	bad
+我不明白你的意思。	bad
+a股明天涨不涨
+我不明白你要说什么。	bad
+今天涨停了	bad
+不会涨的	normal
+明天就涨了	normal
+明天涨停股	bad
+为啥喝咖啡不好
+对身体不好	normal
+因为不好喝	normal
+因为里面有咖啡因	normal
+因为里面有糖分	bad
+因为咖啡不好	bad
+天空是蓝的
+天空是蓝的	bad
+蓝色的	bad
+蓝天白云	bad
+天空也是蓝色的	bad
+不是蓝色的	bad
+去台湾什么值得买
+你想买什么价位?	normal
+你自己去买啊	bad
+我觉得还可以	bad
+你想买什么就买什么	good
+只要你喜欢就行	normal
+刘德华是谁
+刘德华	normal
+是刘德华吧	bad
+当然是刘德华啦。	bad
+是个很好的朋友哦	bad
+当然是刘德华了	bad
+说你长的丑你还美
+我哪里丑了	normal
+我本来就丑	bad
+我才不丑呢	normal
+我本来就很美	normal
+我哪里漂亮了	bad
+你去吃粑粑
+我不吃粑粑	normal
+你吃粑粑	bad
+我没有粑粑	bad
+我不吃饭	bad
+我不想吃	good
+那些出来好了
+嗯嗯	bad
+是的	normal
+出来了	bad
+好的，我知道了。	bad
+出去玩	normal
+家里突然没电了
+没电了	bad
+家里没电了	bad
+我也没电	normal
+家里有电	bad
+是不是没电了	bad
+家里黑漆漆的
+好的	bad
+黑漆漆	bad
+不会	bad
+漆黑的	bad
+好的，我知道了。	normal
+既然爱我那就跟我在一起吧
+我不明白你要说什么。	bad
+如果爱请深爱	normal
+我不爱你了	normal
+我们一起努力吧	normal
+为什么不能在一起	bad
+都说了没风
+嗯嗯	normal
+没有	bad
+你说的	bad
+你说的没错	normal
+你也没说	bad
+没风怎么放
+没风	bad
+放风筝	normal
+没有风的	bad
+那就放风	bad
+那就放风筝吧	bad
+没有止疼药
+没有	bad
+吃药	bad
+没有药啊	bad
+没有吃药	bad
+那就别吃了	normal
+你这是越俎代庖
+我不明白你要说什么。	bad
+我也不知道	bad
+不是这样说的	bad
+我不明白你说的意思。	bad
+我也是这样的	bad
+中国有多大
+96万平方公里	bad
+96万平方千米	bad
+96多万	bad
+很大很大	normal
+96万平方	bad
+你不小了可以结婚了
+我想结婚了	bad
+为什么不可以	bad
+我不想结婚	good
+为什么要结婚	normal
+为什么不能结婚	bad
+你会开车吗
+不会	normal
+我不会开车的	normal
+当然会啦。	normal
+我不会开车啊。	normal
+我不会开车的哦。	normal
+那你还认识谁
+不认识	bad
+我不认识你	bad
+谁都不认识	normal
+你认识我吗	bad
+你认识谁啊	bad
+核桃好吃吗
+好吃	good
+非常好吃	normal
+当然好吃了	good
+还可以	normal
+很好吃啊	normal
+西雅图有什么好玩儿的
+没什么好玩的	normal
+有很多好玩的	bad
+没什么意思	normal
+没有什么好玩的。	normal
+有很多好玩的地方	normal
+那你会做什么菜
+我不会做。	bad
+你想做什么就做什么吧。	normal
+你想做什么就做什么	normal
+我会做菜的。	bad
+你想怎么做就怎么做。	normal
+你嫁我可好~
+我喜欢你	normal
+你嫁我	bad
+我嫁你	normal
+你嫁我我娶你	bad
+我不喜欢你啊	normal
+你有兄弟姐妹吗
+有啊。	normal
+当然有啦。	normal
+没有兄弟姐妹	normal
+我没有姐姐	normal
+我没有妹妹	normal
+你喜欢张小龙吗
+不喜欢	normal
+当然喜欢	normal
+当然喜欢啦。	normal
+我不喜欢小龙女	bad
+当然喜欢啦，很喜欢呢。	normal
+来和我聊天
+好啊。	normal
+你想聊什么	good
+好的，我会的。	normal
+好的，那就聊吧。	normal
+好的，我会一直陪你	normal
+自然语言处理
+是的	bad
+这个可以有	bad
+你说的是什么意思？	normal
+你说的是什么	bad
+你说的是什么语言	bad
+心情不好听什么
+伤心的时候可以听情歌	good
+伤心的时候听情歌	normal
+什么都不好听	normal
+听听音乐	normal
+听自己喜欢的歌	good
+电影不好看
+好看	normal
+我喜欢看电影	bad
+电影好看	normal
+我喜欢看	bad
+不好看啊	normal
+不喜欢看小说
+我喜欢看小说	good
+我喜欢看	normal
+你喜欢看什么类型的	bad
+我喜欢看电视剧	bad
+我喜欢看电影	bad
+背首诗给我
+什么背景	bad
+好的，我会背的。	normal
+好的，马上给你。	normal
+什么背景啊？	bad
+好的，我会背你的	bad
+你给我找个妹子聊
+你想聊什么	normal
+你想聊些什么呢	normal
+你想聊什么呢？	normal
+你想聊点什么啊	normal
+你想聊些什么啊？	normal
+轮胎坏了怎么办
+去医院啊	bad
+去医院检查	bad
+买个新的	normal
+去医院检查一下	bad
+找个地方修	good
+微信牛逼吗
+牛逼	good
+牛逼牛逼	normal
+很牛逼。	normal
+很牛逼的人	bad
+我不信牛逼	bad
+刘小宁是条狗
+你是小狗	bad
+是狗狗吗	bad
+狗狗是谁?	bad
+你是小狗吗？	bad
+小狗是谁啊？	bad
+叶良辰是谁
+叶良辰	bad
+是个好孩子	bad
+我不认识他	normal
+是个好人	bad
+是个好名字	bad
+贱人就是矫情
+矫情	bad
+就是矫情	normal
+矫情就是矫情	bad
+不是矫情，是矫情	bad
+我觉得矫情就是矫情	bad
+床上躺好等我
+床上躺着	bad
+躺着呢	bad
+床上等你	normal
+我还在床上	bad
+我躺床上	bad
+日日日
+日日	bad
+日日快乐	bad
+天天快乐	bad
+日久生情	bad
+日有所思	bad
+你喝牛奶
+喝牛奶	bad
+我不喝牛奶	good
+我不喝	normal
+/饥饿	bad
+没有牛奶	normal
+我要1000万现金
+我不明白你要说什么。	normal
+我现在还没钱	bad
+我现在是1万	bad
+我现在是100万	bad
+我现在还没有钱呢	normal
+不想起床
+不想起床	bad
+起床了	normal
+那就睡吧	good
+想起来了	bad
+那就起床吧	bad
+那买什么车好
+自行车	normal
+自行车最好	normal
+自己喜欢的	normal
+自己做的最好	bad
+自己喜欢的最好	good
+猪八戒照镜子
+猪八戒	bad
+猪八戒照镜子	bad
+你是猪八戒	bad
+猪八戒照镜子里。	bad
+猪八戒照镜子照镜子	bad
+唐僧话太多
+妖怪	bad
+唐僧说的	bad
+我不喜欢	normal
+唐僧肉多	bad
+我不喜欢唐僧	normal
+打印机坏了
+坏了	normal
+打印机	bad
+什么打印机	bad
+什么坏了	bad
+是不是坏了	bad
+中午要午休了
+午休	bad
+嗯嗯	normal
+那就休息吧	good
+中午休息	good
+中午午休	bad
+咖啡机
+咖啡	bad
+/啤酒	bad
+嗯嗯	bad
+好的	bad
+没有	bad
+我有个好消息
+什么消息	good
+好消息	bad
+好的，我知道了。	bad
+什么消息啊？	good
+我也不知道	bad
+聊着天喝着酒
+/啤酒/啤酒	bad
+酒不醉人人自醉	good
+/啤酒	bad
+酒逢知己千杯少	normal
+/啤酒/啤酒/啤酒	bad
+那你到底被强奸没有
+主人，快从火星上回来吧。	bad
+我不明白你要说什么。	normal
+主人，我可是很纯洁的。	good
+主人，说话要文明呀。	normal
+主人，说话要讲文明哦。	normal
+明天周五啦
+哦，那我知道了。	normal
+好的，我知道了。	good
+那就好好休息吧。	bad
+那就好好休息一下吧	bad
+好的，那就放假了。	bad
+拉倒吧，你就是坏银
+我才不是坏银呢	good
+我是坏银	bad
+我哪里坏了？	normal
+我是坏银，你是坏银	bad
+我才不是呢，我是我。	bad
+今天出差
+差不多了	bad
+差不多吧。	bad
+那就出去玩吧	bad
+今天天气怎么样	bad
+哦，那我知道了	normal
+灯好暗
+亮灯	bad
+灯光暗	normal
+灯好	bad
+灯光明媚	bad
+暗暗	normal
+聚餐一起吧
+好啊	normal
+嗯嗯	normal
+聚餐	bad
+一起吃	normal
+一起聚餐	normal
+躺床上看电视
+看电视	bad
+躺着	bad
+嗯嗯	normal
+躺床上	bad
+床上躺着	bad
+小微你很骚啊
+我才不是呢。	normal
+我才不是这样的呢	good
+主人，说话要文明。	normal
+我可是很纯洁的呢	normal
+我可是很正直的	normal
+看来不错，适合外出吗
+不太适合	normal
+不适合。	good
+没有适合	bad
+不适合外出	normal
+不适合出去	normal
+你有平板电脑吗
+平板电脑	bad
+当然有	normal
+没有啊	normal
+没有平板电脑	good
+什么平板?	bad
+我想去广州
+那就去吧	normal
+想去广州	bad
+来广州吧	bad
+那就去广州吧	bad
+想去就去	good
+你们那现在几点了
+你现在在哪里呀？	bad
+你现在在哪里	bad
+现在还没到呢	bad
+你现在是几点啊？	bad
+你现在是在哪里呀	bad
+什么时候过年
+二月二号	normal
+过年的时候	normal
+二月二十三号	normal
+过年的时候过年	normal
+二月二十六日	normal
+待会儿就把那人给杀了
+杀人偿命	normal
+我不会杀人	bad
+我不会死的	bad
+那就不要了	bad
+我不会杀你的	bad
+小微你懂哲学吗
+不懂。	normal
+我不明白你要说什么。	normal
+我才不懂呢。	normal
+不懂，不懂。	normal
+我不懂你的意思	normal
+我去洗澡，一会再聊
+洗澡去了	bad
+我也洗澡去了	normal
+好的，洗澡去了。	good
+好的，我会洗澡的。	bad
+好的，那我就去洗澡了。	bad
+洗干净了没
+洗干净了	normal
+洗了	normal
+还没洗呢	good
+没洗干净	normal
+还没洗干净呢	normal
+北京天气
+气候变化	bad
+天气不错	normal
+天气预报	bad
+天气很好	good
+北京天气	bad
+你会打乒乓球吗
+我不会打乒乓球的	normal
+我会打乒乓球	normal
+我不会打球的哦	good
+我会打乒乓球的哦	normal
+我不会打篮球的	bad
+厉害个锤子
+厉害	bad
+哈哈	normal
+厉害厉害	normal
+锤子	bad
+好厉害啊	bad
+我还没有喜欢的人呢
+我喜欢你	good
+我也喜欢你啊	bad
+那你喜欢谁啊	bad
+我也没有喜欢你	bad
+我也没有喜欢的人	normal
+世界第一高峰
+珠穆朗玛峰	good
+乔戈里峰	bad
+阿尔卑斯山	bad
+喜马拉雅山	bad
+第一峰峰	bad
+我的意思是你废话多
+我不明白你要说什么。	normal
+你说的是什么意思？	normal
+我的意思就是你的意思	bad
+你的意思就是我的意思	bad
+你的意思就是你的意思。	bad
+这种心理的折磨让我生不如死
+为什么这么说	normal
+为什么这么说呢?	good
+为什么这样说?	normal
+为什么要这样说	normal
+为什么会这样的	normal
+我昨天和女朋友分手了
+那就分开吧	normal
+为什么分手？	normal
+那就祝她幸福吧。	normal
+祝她幸福，祝她幸福	normal
+为什么要分手呢？	good
+我今天和女朋友和好了
+主人，快从火星上回来吧。	bad
+祝你们幸福哦	normal
+好的，我知道了。	bad
+祝她幸福	bad
+祝你们幸福啊。	good
+我把朋友老婆睡了咋办
+那就睡呗	bad
+好好睡一觉	bad
+那就睡觉吧	bad
+给她一个惊喜	bad
+那就不要睡了	good
+有个女人把我睡了
+那你睡吧	normal
+你有女朋友吗	bad
+那你就去睡吧	bad
+那就去找她啊	bad
+你不是女的吗	bad
+天天坐公交回家
+家里有你	bad
+天天快乐	bad
+回家吃饭了	bad
+天天在家	bad
+家里蹲着呢	bad
+年会发了个手机
+我不明白你要说什么。	normal
+手机发不了	bad
+好的，我知道了。	normal
+手机没电了	bad
+手机发不出去	bad
+我要娶个美国妞
+你不是美女吗	bad
+你是美女吗？	bad
+我要娶个美女	bad
+你是美国人吗	bad
+我也想娶个妞妞	normal
+过年太没意思了
+过年没意思	normal
+为什么啊	good
+没意思啊	normal
+为什么有意思	bad
+没意思就没意思了	bad
+我明天去理发
+我不明白你要说什么	bad
+我也想去	normal
+好的，我知道了。	good
+我不明白你的意思	bad
+明天去哪里	bad
+你害怕什么
+害怕	bad
+害怕失去	good
+害怕害怕	bad
+害怕什么	bad
+害怕孤独	normal
+我们一起玩吧
+好啊	normal
+一起玩	normal
+我们一起玩吧	normal
+好啊好啊	good
+好的，我知道了。	normal
+你丫话太多
+你说的太对了	normal
+我不会说话	bad
+主人，你太坏了。	normal
+我不会说话的。	bad
+你说的太多了。	normal
+有人生病了
+有病	bad
+生病了	normal
+是啊	bad
+不会吧	normal
+没有啊	bad
+空气清新环境好
+好人一生平安	bad
+好人好报	bad
+好事多磨	bad
+好事成双	bad
+好不容易	bad
+我回家了
+回了	normal
+回家吗	normal
+回家干嘛	normal
+那就回家吧。	normal
+你回家了	bad
+你知道形而上吗
+你知道的太多了	bad
+你知道什么	bad
+你知道什么吗？	bad
+我知道你不知道	bad
+为什么不知道呢？	bad
+我在开会呢
+开什么玩笑	bad
+嗯嗯	bad
+开什么	bad
+开会呢	bad
+开心快乐	bad
+元宵节怎么过
+和家人一起过	good
+和朋友一起过	normal
+开开心心的过	normal
+和家人一起吃元宵	normal
+和朋友一起出去玩	normal
+你脑子有屎
+你脑子有病	bad
+我才不是呢。	normal
+我脑子里都是屎	normal
+主人，说话要文明。	good
+主人，我可是很纯洁	bad
+被妈妈打了一下
+被你妈打了	bad
+被妈妈打死了	bad
+被妈妈打的	bad
+妈妈是谁啊	normal
+你妈妈是谁	normal
+我肏你全家
+主人，你太坏了。	good
+我是你的家人	normal
+主人，注意你的语言	normal
+主人，我可是很纯洁	bad
+我不明白你要说什么	normal
+狂欢周
+好吧	bad
+嗯嗯	bad
+喜欢	bad
+周末愉快	bad
+周末快乐	bad
+草泥马
+请文明用语	good
+主人，说话要	bad
+主人，注意你	bad
+主人，我是小	bad
+不要骂人啦。	normal
+一加一等于几
+一加一等于二	good
+等于二	good
+1+1=2	normal
+等于几吧	bad
+不等于2	bad
+不和你聊了我得干活了
+好的，我知道了。	normal
+你干什么去了？	normal
+那你干什么去了	normal
+你干什么工作呀？	normal
+你干什么工作啊	normal
+不和你聊了写作业去了
+写作业去了	bad
+我写作业了	bad
+作业写完了	good
+作业没写完	normal
+作业还没写完呢	normal
+不可能，你绝对有腹黑属性
+我不明白你要说什么。	bad
+为什么这么说？	normal
+我不明白你的意思	bad
+为什么没有腹肌	bad
+为什么要腹黑腹黑？	bad
+不老实交代拉你出去枪毙
+我不明白你要说什么。	bad
+枪毙十分钟	normal
+我不明白你的意思。	bad
+我不明白你要说啥。	bad
+我不明白你要说的是什么。	bad
+不是说法律吗
+法律不允许	normal
+法律就是法律	bad
+法律没有法律	bad
+法律不是法律吗?	bad
+法律是不能说的	bad
+不说实话我早晚让你害死
+我不会说话的	normal
+我说的是真的	normal
+为什么不说话	bad
+我不会说话的哦。	normal
+为什么不让我说话	bad
+不是傻子怎么会把衣服穿反
+那就是傻子了	normal
+那你就是傻子	normal
+我不会穿衣服	normal
+那你就不要穿了	bad
+你是不是傻子	bad
+不是喜欢用毒蛐我吗
+我不明白你要说什么。	bad
+我不喜欢吃	bad
+我不喜欢吃毒药	bad
+我不喜欢这样的	bad
+我不喜欢吃药啊	bad
+不是哑巴就说一句话咯
+哑巴不说话	bad
+哑巴就是哑巴了	bad
+我说的是哑巴	bad
+你是哑巴吗？	bad
+你是哑巴吧	bad
+不是一直是你带我混的吗？
+我不明白你要说什么。	bad
+我不明白你的意思。	bad
+我不明白你要说啥。	bad
+我一直都在你身边	normal
+我不明白你要说的什么	bad
+猜我心中所想的人物
+你猜我猜不猜	normal
+你心里的那个人	normal
+你猜我猜不猜你猜我猜不猜	normal
+你猜我猜你猜我猜不猜	normal
+你猜我猜不猜你猜我猜你猜不猜	normal
+猜我有没有在谈恋爱
+我也没有恋爱过	bad
+我也没有谈过恋爱	bad
+我也没有恋爱啊。	bad
+没有，我也没有恋爱过。	normal
+我也没有谈过恋爱的。	bad
+才发现爱情竟是一场考验
+爱情是两个人的事	normal
+爱情就是考验	good
+爱情是一种感觉	normal
+爱情就是这样的	normal
+真正的爱情是不需要考验的	normal
+才给我买了五千多的首饰，没有镯子
+为什么买不起？	bad
+为什么要去买？	normal
+为什么要买啊？	normal
+为什么不能买？	bad
+为什么要买五金？	normal
+才工作了半年左右就换来换去
+嗯，好的，我知道了。	bad
+那就换工作吧	normal
+那就换一个吧	normal
+嗯，好的，那我就放心了。	bad
+嗯，好的，那就换一个吧。	bad
+才华横溢就是形容我。
+我不明白你要说什么。	bad
+我不明白你的意思。	bad
+不是这样的	bad
+我才不是这样的	bad
+我不明白你为什么。	bad
+财迷个大头鬼
+哈哈	bad
+大头鬼	bad
+鬼才信	bad
+不要迷信	bad
+迷迷糊糊	bad
+踩着七彩祥云去娶你
+我不明白你要说什么。	bad
+我不怕你	bad
+我不要你了	bad
+我不会做梦的	bad
+我不明白你的意思。	bad
+采桑归西露沾我衣。
+我不明白你要说什么。	normal
+我喜欢你	bad
+我不明白你的意思。	bad
+我不明白你要说谁。	bad
+我不明白你要说的要什么。	bad
+蔡港林是备胎
+备胎	bad
+是的	normal
+有备胎吗	bad
+原来是备胎	normal
+不是备胎	good
+蔡伟聪，我喜欢你
+我也喜欢你	bad
+我也很喜欢你呢	bad
+你喜欢我什么呀？	bad
+你觉得我聪明么？	bad
+我也喜欢你呀，小伟	bad
+蔡伟这个娘娘腔。
+娘娘腔	bad
+哈哈。	bad
+我觉得挺好的	normal
+我觉得挺好听的。	bad
+我觉得他是个男人	bad
+参加别人的婚礼好感慨
+感谢主席	bad
+别人帮不了你	bad
+别人的感受	bad
+别人的婚礼	bad
+没有人参加婚礼	bad
+参见陛下，微臣有礼了
+我不明白你要说什么。	bad
+好久不见	bad
+好久没见了	bad
+嗯，好的，我知道了。	bad
+好久没见到你了	bad
+苍井空和波多野结衣更喜欢谁一点
+我喜欢苍井空~	good
+苍井空喜欢苍井空	bad
+当然是苍井空啊	normal
+当然是苍井空啦!	normal
+苍井空喜欢苍井空啊~	bad
+苍老师长什么样子
+苍老师的样子	bad
+苍老师是谁?	normal
+苍老师的老师	bad
+苍老师是什么?	bad
+苍老师是我的老师	bad
+苍老师照片没穿衣服的
+没有照片	bad
+我没有照片啊	normal
+苍老师的照片	bad
+我还以为是老师呢	bad
+我没有照片的。	normal
+草泥马又回答错误
+主人，快从火星上回来吧。	bad
+我不明白你要说什么。	bad
+主人，注意你的语言美呀。	bad
+主人，说话要文明呀。	bad
+主人，说话要讲文明哦。	bad
+蹭蹭你平胸
+平胸	bad
+我没胸	normal
+我胸大	normal
+我没胸啊!	normal
+你平胸怎么了	bad
+茶叶蛋是土豪吃得起
+/饥饿/饥饿	bad
+/饥饿/饥饿/饥饿	bad
+不是土豪	normal
+/饥饿/饥饿/饥饿/饥饿	bad
+我不吃土豪	bad
+岔开你的腿让我看看那里有什么
+我不明白你要说什么。	bad
+你的腿是什么	bad
+什么意思啊?	bad
+你的腿是什么意思？	bad
+你的腿是我的腿	bad
+尝尝我的厉害
+尝尝	bad
+你也尝尝	normal
+尝尝就知道了	normal
+好的，我知道了。	normal
+我不喜欢吃	normal
+长大后才发觉天是黑的
+我不明白你要说什么。	bad
+我不明白你的意思。	bad
+我觉得是黑的	bad
+不是黑是黑的	bad
+我不明白你说的什么。	bad
+车费还差几块回不了家
+那就回家吧	bad
+我还没回家呢	bad
+回家吃饭	bad
+回家吃饭去了	bad
+回家还没回家呢	bad
+扯淡，我能甩你九条街
+我不明白你要说什么。	bad
+我可是很喜欢的呢	bad
+你不要这么暴力嘛	bad
+我可没有那么厉害哦	bad
+我可没那么大本事	bad
+帮我叫一个大保健
+我不明白你要说什么。	bad
+好的，我知道了。	bad
+什么意思？	bad
+什么叫保健？	normal
+什么叫健康？	bad
+你数学是体育老师教的吗？
+不是体育老师教的	normal
+体育老师教的	normal
+不是体育老师	normal
+不是，是体育老师教的	normal
+不是，体育老师教的。	normal
+你提出话题我们聊天好不好
+我不明白你要说什么。	bad
+你想聊什么	normal
+什么话题啊	normal
+你想聊什么呀？	normal
+你想聊些什么呢	normal
+最近几天南方降温
+哦，那我知道了。	normal
+我也是南方的	normal
+我这里下雨了	normal
+我也是下雪了	normal
+我还是喜欢冬天	normal
+我朋友叫什么名字？
+你叫什么名字？	bad
+你的名字叫什么？	bad
+你是我的朋友吗？	bad
+你自己都不记得了	bad
+你自己都记不住啊	bad
+请赐予我无比强大的性能力吧
+主人，快从火星上回来吧。	bad
+我不明白你要说什么。	bad
+你说的太对了	bad
+我不明白你的意思。	bad
+我不明白您的问题。	bad
+你在烦恼什么
+没有烦恼	good
+什么都烦	normal
+没什么烦恼	normal
+没烦恼啊	normal
+什么都没有	normal
+那感情受挫呢
+为什么	bad
+感情挫折	bad
+感情受挫折了	bad
+为什么受不了	bad
+为什么这么说	bad
+地球为何是圆的
+是椭圆的	good
+自然规律	bad
+地球是圆的	bad
+因为地球是圆的	bad
+因为它是圆的	bad
+那你解释一下量子物理
+我不明白你要说什么。	bad
+物理化学	bad
+理解万岁	bad
+解释什么?	bad
+我不明白你的意思。	bad
+有什么好看的喜剧？
+喜剧之王	good
+爱情公寓	normal
+你喜欢什么类型的？	good
+你喜欢看什么类型的	good
+你喜欢看什么类型的啊？	normal
+你是我知心朋友
+我是你的朋友哦	bad
+你是我的朋友吗	bad
+我知道你是朋友	bad
+我是你的朋友啊。	bad
+我知道你是我的朋友	bad
+我只想有个真心的朋友
+真诚相待	normal
+真心对待对方	good
+真心对你的朋友	normal
+真心对待你的朋友。	normal
+真正的朋友是真心的	normal
+云南在哪里？
+云南	bad
+云南丽江	bad
+云南昆明	normal
+云南大理	bad
+云南省昆明市	bad
+世界上最高的山是什么
+珠穆朗玛峰	good
+喜马拉雅山	normal
+喜马拉雅山的珠穆朗玛峰	bad
+喜马拉雅山喜马拉雅山	bad
+喜马拉雅山的珠穆朗玛峰最高	bad
