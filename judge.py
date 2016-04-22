@@ -23,6 +23,7 @@ with codecs.open('dict/good', 'r', 'gb18030') as f_in:
     read_file(f_in, d, 'good')
 
 file_list = os.listdir('judge/input') 
+file_list = sorted(file_list)
 for basename in file_list:
     if not os.path.isfile('judge/input/' + basename):
         continue
