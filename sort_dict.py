@@ -12,9 +12,13 @@ def read_file(f, d, label):
         d[(line[0].strip(), line[1].strip())] = label
 
 def write_file(f, d, label):
+    res = list()
     for k, v in d.items():
         if v == label:
-            f.write('%s\t%s\n' % k)
+            res.append(k)
+    res = sorted(res, key=lambda x:x[0])
+    for k in res:
+        f.write('%s\t%s\n' % k)
 
 d = dict()
 
