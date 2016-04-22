@@ -65,6 +65,8 @@ with codecs.open('judge/input', 'r', 'gb18030') as f_in:
 for k, v in count_dict.items():
     print '%s\t%d' % (k, v)
 
+print 'Error Rate:\t%f\n' % (count_dict['bad'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
+
 print 'All finished!'                   
                     
             
