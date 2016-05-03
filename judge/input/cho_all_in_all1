@@ -1,0 +1,2198 @@
+还 记 得 我 吗
+result: <END> 当 然 记 得 了 <END>, score: 8.114543
+result: <END> 一 切 皆 有 可 能 <END>, score: 8.343821
+result: <END> 记 得 什 么 ? <END>, score: 8.467196
+result: <END> 应 该 不 会 吧 <END>, score: 8.731751
+result: <END> 看 你 自 己 了 <END>, score: 8.992909
+
+你 在 干 嘛 呢
+result: <END> 什 么 都 不 干 <END>, score: 7.772427
+result: <END> 我 陪 你 聊 天 <END>, score: 7.922030
+result: <END> 我 在 玩 游 戏 <END>, score: 7.954424
+result: <END> 做 你 想 做 的 事 <END>, score: 7.958758
+result: <END> 做 自 己 喜 欢 做 的 事 <END>, score: 7.967469
+
+才 发 现 爱 情 竟 是 一 场 考 验
+result: <END> 爱 情 是 一 种 很 奇 妙 的 东 西 <END>, score: 12.894163
+result: <END> 爱 情 是 一 种 很 奇 妙 的 感 觉 <END>, score: 13.201914
+result: <END> 因 为 爱 所 以 爱 因 为 爱 所 以 爱 <END>, score: 13.674209
+result: <END> 爱 情 就 像 一 场 游 戏 一 场 梦 <END>, score: 13.783393
+result: <END> 爱 情 是 世 界 上 最 好 的 东 西 <END>, score: 14.004569
+
+我 的 意 思 是 你 废 话 多
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 10.274565
+result: <END> 你 的 意 思 是 什 么 意 思 <END>, score: 10.849781
+result: <END> 你 的 意 思 是 什 么 意 思 ? <END>, score: 11.065367
+result: <END> 每 个 人 都 是 不 一 样 的 <END>, score: 11.583528
+result: <END> 你 问 的 是 什 么 意 思 ? <END>, score: 11.661094
+
+北 京 天 气
+result: <END> 天 气 问 题 <END>, score: 8.371288
+result: <END> 天 气 变 化 <END>, score: 8.605542
+result: <END> 天 气 预 报 <END>, score: 8.786393
+result: <END> 新 陈 代 谢 <END>, score: 8.812266
+result: <END> 春 天 来 了 <END>, score: 8.928699
+
+待 会 儿 就 把 那 人 给 杀 了
+result: <END> 人 死 了 就 什 么 都 没 有 了 <END>, score: 14.001430
+result: <END> 那 要 看 是 什 么 样 的 人 了 <END>, score: 14.123042
+result: <END> 保 护 好 自 己 的 身 体 健 康 <END>, score: 14.420035
+result: <END> 这 是 人 的 正 常 生 理 现 象 <END>, score: 14.532440
+result: <END> 人 死 了 就 什 么 都 没 了 。 <END>, score: 14.587104
+
+我 们 去 动 物 园 吧
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.105526
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.734235
+result: <END> 当 然 是 动 物 园 了 <END>, score: 10.877892
+result: <END> 当 然 是 动 物 园 啊 <END>, score: 10.976498
+result: <END> 地 球 人 都 知 道 。 <END>, score: 11.064508
+
+股 市 现 在 怎 么 样
+result: <END> 没 有 科 学 依 据 。 <END>, score: 11.329075
+result: <END> 我 觉 得 不 怎 么 样 <END>, score: 11.500906
+result: <END> 每 个 人 都 不 一 样 <END>, score: 11.617902
+result: <END> 去 医 院 检 查 一 下 <END>, score: 11.734674
+result: <END> 很 不 错 很 有 营 养 <END>, score: 11.903727
+
+爱 情 最 害 怕 犹 豫
+result: <END> 爱 情 是 没 有 害 处 的 <END>, score: 10.041618
+result: <END> 爱 情 是 最 害 怕 的 <END>, score: 10.082887
+result: <END> 没 有 最 好 只 有 更 好 <END>, score: 10.185118
+result: <END> 爱 情 是 最 重 要 的 <END>, score: 10.261125
+result: <END> 应 该 是 爱 情 吧 ! <END>, score: 10.405766
+
+广 州 有 什 么 好 吃 的
+result: <END> 江 中 牌 健 胃 消 食 片 <END>, score: 10.440772
+result: <END> 喜 欢 吃 什 么 就 吃 什 么 <END>, score: 10.539490
+result: <END> 心 情 好 吃 什 么 都 好 吃 <END>, score: 10.605790
+result: <END> 喜 欢 吃 什 么 吃 什 么 <END>, score: 10.817881
+result: <END> 你 喜 欢 吃 什 么 就 吃 什 么 <END>, score: 10.863386
+
+广 州 天 气
+result: <END> 心 静 自 然 凉 <END>, score: 7.950097
+result: <END> 广 州 广 州 <END>, score: 8.429383
+result: <END> 广 东 广 州 <END>, score: 8.535265
+result: <END> 什 么 意 思 <END>, score: 8.539204
+result: <END> 天 气 预 报 <END>, score: 8.618897
+
+广 州 有 什 么 好 玩 的
+result: <END> 只 要 你 喜 欢 就 好 玩 <END>, score: 10.933631
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 11.256806
+result: <END> 广 州 有 很 多 好 玩 的 <END>, score: 11.313217
+result: <END> 没 有 什 么 好 玩 的 。 <END>, score: 11.583667
+result: <END> 没 什 么 好 玩 的 地 方 <END>, score: 11.597094
+
+广 州 怎 么 样
+result: <END> 不 怎 么 样 。 <END>, score: 7.141318
+result: <END> 不 怎 么 样 ! <END>, score: 7.394685
+result: <END> 很 不 错 的 。 <END>, score: 7.541497
+result: <END> 不 怎 么 样 ? <END>, score: 7.814833
+result: <END> 很 不 错 的 ! <END>, score: 8.048385
+
+今 天 有 什 么 新 闻
+result: <END> 新 陈 代 谢 新 陈 代 谢 <END>, score: 10.008119
+result: <END> 心 情 好 什 么 都 好 <END>, score: 10.008540
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 10.386240
+result: <END> 你 想 知 道 什 么 ? <END>, score: 10.528672
+result: <END> 你 说 的 是 什 么 ? <END>, score: 11.073167
+
+最 近 有 什 么 资 讯
+result: <END> 没 有 最 好 只 有 更 好 <END>, score: 9.129150
+result: <END> 没 有 最 好 只 有 更 好 。 <END>, score: 10.676645
+result: <END> 有 利 于 身 体 健 康 <END>, score: 10.720473
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 10.851236
+result: <END> 没 有 最 好 只 有 更 好 ! <END>, score: 10.925813
+
+你 好
+result: <END> 顺 其 自 然 <END>, score: 7.737819
+result: <END> 开 心 就 好 <END>, score: 7.764656
+result: <END> 喜 欢 就 好 <END>, score: 7.814797
+result: <END> 爱 你 的 人 <END>, score: 7.885976
+result: <END> 什 么 都 不 好 <END>, score: 8.006961
+
+晚 上 好
+result: <END> 早 睡 早 起 <END>, score: 6.526789
+result: <END> 晚 上 睡 觉 好 <END>, score: 6.808705
+result: <END> 晚 上 睡 好 <END>, score: 6.859878
+result: <END> 晚 上 最 好 <END>, score: 6.993935
+result: <END> 晚 上 不 好 <END>, score: 7.091554
+
+拜 拜
+result: <END> 拜 拜 拜 拜 <END>, score: 6.961244
+result: <END> 顺 其 自 然 <END>, score: 7.556100
+result: <END> 早 睡 早 起 <END>, score: 7.849499
+result: <END> 闭 上 眼 睛 <END>, score: 8.060389
+result: <END> 恭 喜 恭 喜 <END>, score: 8.312784
+
+你 好 吗 ？
+result: <END> 当 然 好 了 <END>, score: 5.632676
+result: <END> 当 然 好 啊 <END>, score: 6.218961
+result: <END> 当 然 好 啦 <END>, score: 6.471904
+result: <END> 不 怎 么 好 <END>, score: 7.022194
+result: <END> 非 常 好 啊 <END>, score: 7.094310
+
+你 好 漂 亮
+result: <END> 自 己 喜 欢 就 好 <END>, score: 6.844654
+result: <END> 个 人 喜 好 <END>, score: 7.113929
+result: <END> 非 常 漂 亮 <END>, score: 7.217521
+result: <END> 我 很 漂 亮 <END>, score: 7.337269
+result: <END> 你 喜 欢 就 好 <END>, score: 7.438192
+
+永 远 一 直 爱 你
+result: <END> 爱 你 的 人 永 远 爱 你 <END>, score: 8.089985
+result: <END> 因 为 爱 所 以 爱 <END>, score: 8.144388
+result: <END> 永 远 永 远 永 远 <END>, score: 8.388736
+result: <END> 生 命 在 于 运 动 <END>, score: 8.470990
+result: <END> 没 有 永 远 的 爱 <END>, score: 8.572599
+
+我 不 喜 欢 你
+result: <END> 我 不 喜 欢 你 <END>, score: 6.462029
+result: <END> 喜 欢 你 的 人 <END>, score: 6.940467
+result: <END> 喜 欢 就 喜 欢 <END>, score: 7.257776
+result: <END> 我 很 喜 欢 你 <END>, score: 7.390958
+result: <END> 因 为 喜 欢 你 <END>, score: 7.416789
+
+你 是 不 是 快 死 了
+result: <END> 生 老 病 死 自 然 规 律 <END>, score: 9.523351
+result: <END> 死 了 就 知 道 了 。 <END>, score: 10.280035
+result: <END> 死 了 就 不 会 死 了 <END>, score: 10.319702
+result: <END> 生 老 病 死 自 然 规 律 。 <END>, score: 10.389297
+result: <END> 死 了 就 是 死 了 。 <END>, score: 10.535751
+
+你 觉 得 我 漂 亮 吗
+result: <END> 我 觉 得 我 很 漂 亮 <END>, score: 8.930500
+result: <END> 你 觉 得 漂 亮 就 漂 亮 <END>, score: 8.939701
+result: <END> 我 觉 得 挺 漂 亮 的 <END>, score: 9.089244
+result: <END> 我 觉 得 你 很 漂 亮 <END>, score: 9.147996
+result: <END> 自 己 觉 得 漂 亮 就 漂 亮 <END>, score: 9.302123
+
+美 女 美 女 你 在 哪
+result: <END> 爱 美 之 心 人 皆 有 之 <END>, score: 8.323791
+result: <END> 美 女 就 在 你 身 边 <END>, score: 8.583260
+result: <END> 美 女 在 你 心 里 ! <END>, score: 8.719370
+result: <END> 在 你 妈 妈 肚 子 里 <END>, score: 8.734084
+result: <END> 美 女 在 你 心 里 。 <END>, score: 9.005679
+
+我 饿 了
+result: <END> 饿 了 就 吃 <END>, score: 6.448122
+result: <END> 吃 东 西 啊 <END>, score: 7.352018
+result: <END> 饿 了 再 吃 <END>, score: 7.363101
+result: <END> 肚 子 饿 了 <END>, score: 7.401491
+result: <END> 因 为 你 饿 了 <END>, score: 7.408633
+
+今 天 有 点 事
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 7.883736
+result: <END> 生 命 在 于 运 动 <END>, score: 8.604461
+result: <END> 什 么 时 候 都 有 <END>, score: 8.693084
+result: <END> 每 个 人 都 有 <END>, score: 8.783471
+result: <END> 你 想 问 什 么 ? <END>, score: 8.850712
+
+我 下 午 要 开 会
+result: <END> 这 是 自 然 现 象 <END>, score: 8.296241
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 8.350064
+result: <END> 这 是 自 然 规 律 <END>, score: 8.749822
+result: <END> 这 是 正 常 现 象 <END>, score: 8.862498
+result: <END> 你 想 问 什 么 ? <END>, score: 8.869534
+
+北 京 有 什 么 好 吃 的
+result: <END> 想 吃 什 么 就 吃 什 么 <END>, score: 9.647163
+result: <END> 你 喜 欢 吃 什 么 就 吃 什 么 <END>, score: 10.148470
+result: <END> 喜 欢 吃 什 么 就 吃 什 么 <END>, score: 10.198186
+result: <END> 喜 欢 吃 什 么 吃 什 么 <END>, score: 10.443929
+result: <END> 你 喜 欢 吃 什 么 吃 什 么 <END>, score: 10.700935
+
+春 天 有 什 么 好 玩 的
+result: <END> 想 怎 么 玩 就 怎 么 玩 <END>, score: 7.807943
+result: <END> 做 自 己 喜 欢 做 的 事 <END>, score: 9.527653
+result: <END> 心 情 好 什 么 都 好 玩 <END>, score: 9.904479
+result: <END> 春 天 来 了 春 天 还 会 远 吗 <END>, score: 10.133529
+result: <END> 春 天 来 了 春 天 还 会 远 吗 ? <END>, score: 10.218911
+
+去 哪 里 玩 比 较 好 玩 呢
+result: <END> 自 己 喜 欢 的 地 方 最 好 玩 <END>, score: 8.996210
+result: <END> 最 好 玩 的 地 方 最 好 玩 <END>, score: 9.450202
+result: <END> 你 想 玩 什 么 就 玩 什 么 <END>, score: 9.664291
+result: <END> 自 己 觉 得 好 玩 的 地 方 <END>, score: 9.773560
+result: <END> 自 己 觉 得 好 玩 就 好 玩 <END>, score: 9.929603
+
+今 天 天 气 好 晴 朗
+result: <END> 心 情 好 自 然 就 好 <END>, score: 8.905183
+result: <END> 心 情 好 什 么 都 好 <END>, score: 8.925564
+result: <END> 心 情 好 自 然 晴 朗 <END>, score: 9.781155
+result: <END> 心 情 好 自 然 就 好 了 <END>, score: 9.827657
+result: <END> 心 情 好 就 是 晴 天 <END>, score: 9.960286
+
+我 喜 欢 今 天 天 气
+result: <END> 因 为 喜 欢 所 以 喜 欢 <END>, score: 8.269849
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 9.118501
+result: <END> 因 为 喜 欢 所 以 喜 欢 ! <END>, score: 9.846433
+result: <END> 我 喜 欢 天 天 开 心 <END>, score: 9.978925
+result: <END> 因 为 喜 欢 所 以 喜 欢 。 <END>, score: 10.038080
+
+我 没 有 男 朋 友
+result: <END> 你 男 的 女 的 ? <END>, score: 7.696676
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 7.854335
+result: <END> 我 没 有 男 朋 友 <END>, score: 7.861402
+result: <END> 你 是 男 的 女 的 <END>, score: 8.295602
+result: <END> 你 是 男 的 女 的 ? <END>, score: 8.590306
+
+男 朋 友 找 什 么 样 的 好
+result: <END> 适 合 自 己 的 才 是 最 好 的 <END>, score: 7.622067
+result: <END> 适 合 自 己 的 就 是 最 好 的 <END>, score: 7.705799
+result: <END> 适 合 自 己 的 就 是 好 的 <END>, score: 8.389504
+result: <END> 自 己 喜 欢 的 就 是 最 好 的 <END>, score: 8.716002
+result: <END> 适 合 自 己 的 就 是 最 好 的 。 <END>, score: 9.066384
+
+你 是 哲 学 家 吗
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 8.777399
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 9.041538
+result: <END> 哲 学 就 是 哲 学 <END>, score: 9.072978
+result: <END> 我 认 为 是 哲 学 <END>, score: 9.617236
+result: <END> 当 然 不 是 了 。 <END>, score: 9.743864
+
+不 开 心 也 是 一 天
+result: <END> 不 开 心 就 不 开 心 <END>, score: 9.081992
+result: <END> 不 开 心 就 不 开 心 了 <END>, score: 9.340760
+result: <END> 开 心 就 不 开 心 了 <END>, score: 9.387309
+result: <END> 开 心 的 时 候 开 心 <END>, score: 9.533807
+result: <END> 开 心 的 时 候 就 开 心 <END>, score: 9.684956
+
+我 现 在 没 工 作
+result: <END> 做 什 么 工 作 ? <END>, score: 8.873284
+result: <END> 没 有 科 学 依 据 <END>, score: 9.300892
+result: <END> 你 在 做 什 么 ? <END>, score: 9.492772
+result: <END> 因 为 你 没 有 工 作 <END>, score: 9.510971
+result: <END> 工 作 没 有 工 作 <END>, score: 9.567371
+
+你 有 办 法 让 我 开 心 吗
+result: <END> 做 自 己 喜 欢 做 的 事 ! <END>, score: 9.587804
+result: <END> 做 自 己 喜 欢 做 的 事 。 <END>, score: 9.719469
+result: <END> 想 开 心 的 事 想 开 心 的 事 <END>, score: 10.039201
+result: <END> 想 开 心 的 事 就 开 心 了 <END>, score: 10.136027
+result: <END> 想 开 心 的 事 就 可 以 了 <END>, score: 10.457375
+
+你 喜 欢 聊 什 么
+result: <END> 我 喜 欢 聊 天 。 <END>, score: 6.373548
+result: <END> 我 喜 欢 聊 天 ! <END>, score: 6.425520
+result: <END> 我 喜 欢 聊 聊 天 <END>, score: 6.984169
+result: <END> 我 喜 欢 聊 天 啊 <END>, score: 6.996759
+result: <END> 我 很 喜 欢 聊 天 <END>, score: 7.046817
+
+万 圣 节 怎 么 过
+result: <END> 想 怎 么 过 就 怎 么 过 <END>, score: 4.872355
+result: <END> 该 怎 么 过 就 怎 么 过 <END>, score: 6.681690
+result: <END> 想 怎 么 过 就 怎 么 过 。 <END>, score: 7.144841
+result: <END> 想 怎 么 过 就 怎 么 过 ! <END>, score: 7.339708
+result: <END> 和 朋 友 一 起 过 <END>, score: 7.593446
+
+我 先 去 睡 觉 了
+result: <END> 当 然 是 睡 觉 了 <END>, score: 8.378145
+result: <END> 闭 上 眼 睛 睡 觉 <END>, score: 8.498930
+result: <END> 头 悬 梁 锥 刺 股 <END>, score: 8.600156
+result: <END> 睡 觉 是 最 好 的 <END>, score: 8.705203
+result: <END> 睡 觉 是 最 好 的 办 法 <END>, score: 8.718060
+
+老 板 不 给 发 工 资 怎 么 办
+result: <END> 这 是 正 常 的 生 理 现 象 。 <END>, score: 13.221537
+result: <END> 建 议 你 去 医 院 检 查 一 下 <END>, score: 13.419096
+result: <END> 这 是 正 常 的 生 理 现 象 ! <END>, score: 13.650475
+result: <END> 去 医 院 检 查 一 下 就 好 了 <END>, score: 13.709990
+result: <END> 这 是 正 常 现 象 不 用 担 心 <END>, score: 13.815632
+
+你 以 后 别 跟 着 我 了
+result: <END> 什 么 事 情 说 清 楚 点 <END>, score: 10.443346
+result: <END> 请 问 你 想 问 什 么 ? <END>, score: 10.820100
+result: <END> 你 的 问 题 是 什 么 ? <END>, score: 11.662917
+result: <END> 什 么 事 情 说 明 白 点 <END>, score: 11.820354
+result: <END> 什 么 意 思 说 清 楚 点 <END>, score: 11.843538
+
+你 敢 买 切 糕 吗
+result: <END> 一 切 皆 有 可 能 <END>, score: 8.765340
+result: <END> 有 什 么 不 敢 的 <END>, score: 9.963096
+result: <END> 一 切 皆 有 可 能 。 <END>, score: 9.977033
+result: <END> 应 该 不 可 以 吧 <END>, score: 10.121741
+result: <END> 我 觉 得 不 可 以 <END>, score: 10.127506
+
+我 今 天 没 有 捡 到 钱 ， 好 伤 心
+result: <END> 钱 不 是 万 能 的 没 有 钱 是 万 万 不 能 的 <END>, score: 11.616084
+result: <END> 钱 不 是 万 能 的 没 有 钱 是 万 万 不 能 的 。 <END>, score: 12.177593
+result: <END> 钱 不 是 万 能 的 但 没 有 钱 是 万 万 不 能 的 <END>, score: 12.444174
+result: <END> 钱 不 是 万 能 的 没 有 钱 是 万 万 不 能 的 ! <END>, score: 12.965591
+result: <END> 钱 不 是 万 能 的 但 没 有 钱 是 万 万 不 能 的 。 <END>, score: 12.972415
+
+天 上 有 多 少 颗 星 星
+result: <END> 天 上 的 星 星 数 不 清 <END>, score: 6.093996
+result: <END> 天 上 有 无 数 颗 星 星 <END>, score: 7.005377
+result: <END> 天 上 的 星 星 数 不 清 。 <END>, score: 7.790524
+result: <END> 天 上 的 星 星 数 不 清 的 <END>, score: 7.863185
+result: <END> 天 上 的 星 星 数 不 清 啊 <END>, score: 7.880925
+
+今 天 天 气 不 好
+result: <END> 不 好 天 气 不 好 <END>, score: 8.470242
+result: <END> 当 然 不 好 了 。 <END>, score: 8.687728
+result: <END> 天 气 变 化 不 好 <END>, score: 8.693070
+result: <END> 当 然 不 好 了 ! <END>, score: 8.836852
+result: <END> 当 然 不 好 啦 ! <END>, score: 8.886875
+
+太 阳 好 大 啊
+result: <END> 当 然 好 了 。 <END>, score: 8.277108
+result: <END> 当 然 好 了 啊 <END>, score: 8.347902
+result: <END> 当 然 不 好 了 <END>, score: 8.544148
+result: <END> 当 然 好 了 ! <END>, score: 8.547667
+result: <END> 很 大 的 好 处 <END>, score: 8.623425
+
+北 风 嗖 嗖 的 吹
+result: <END> 当 然 是 吹 风 了 <END>, score: 11.504517
+result: <END> 应 该 是 可 以 吧 <END>, score: 11.645287
+result: <END> 应 该 是 可 以 的 <END>, score: 11.946661
+result: <END> 你 可 以 试 试 看 <END>, score: 11.974202
+result: <END> 应 该 是 这 样 的 <END>, score: 12.019776
+
+有 人 跟 我 撕 逼 ， 不 讲 理
+result: <END> 请 问 你 是 男 人 还 是 女 人 <END>, score: 11.137967
+result: <END> 请 问 你 是 男 人 还 是 女 人 ? <END>, score: 11.677655
+result: <END> 请 问 你 是 男 的 还 是 女 的 <END>, score: 12.543753
+result: <END> 请 问 你 是 男 的 还 是 女 的 ? <END>, score: 12.673404
+result: <END> 建 议 你 去 医 院 检 查 一 下 <END>, score: 12.691421
+
+不 要 这 么 谦 虚 嘛
+result: <END> 每 个 人 都 不 一 样 <END>, score: 9.987063
+result: <END> 社 会 就 是 这 样 的 <END>, score: 10.870183
+result: <END> 本 来 就 是 虚 伪 的 <END>, score: 11.109410
+result: <END> 谦 虚 是 必 然 的 。 <END>, score: 11.183723
+result: <END> 理 论 上 是 不 行 的 <END>, score: 11.221062
+
+明 天 去 打 球
+result: <END> 去 医 院 看 看 <END>, score: 7.395694
+result: <END> 可 以 去 打 球 <END>, score: 8.926558
+result: <END> 去 医 院 检 查 <END>, score: 8.928556
+result: <END> 去 医 院 看 看 吧 <END>, score: 8.935477
+result: <END> 去 医 院 检 查 下 <END>, score: 9.281819
+
+我 老 板 就 在 我 身 边
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 9.504924
+result: <END> 去 医 院 检 查 一 下 。 <END>, score: 9.684249
+result: <END> 去 医 院 检 查 一 下 吧 <END>, score: 9.866850
+result: <END> 你 是 男 人 还 是 女 人 <END>, score: 10.155688
+result: <END> 去 医 院 检 查 一 下 ! <END>, score: 10.526397
+
+你 什 么 地 方 冒 出 来 的
+result: <END> 我 知 道 我 知 道 我 知 道 <END>, score: 11.480679
+result: <END> 我 知 道 地 球 人 都 知 道 <END>, score: 12.181734
+result: <END> 刚 出 生 的 时 候 出 来 的 <END>, score: 12.596050
+result: <END> 妈 妈 肚 子 里 面 出 来 的 <END>, score: 12.659554
+result: <END> 妈 妈 肚 子 里 出 来 的 。 <END>, score: 12.827040
+
+你 会 做 爱 吗
+result: <END> 当 然 会 啦 ! <END>, score: 7.339021
+result: <END> 当 然 会 了 。 <END>, score: 7.447290
+result: <END> 会 因 为 爱 所 以 爱 <END>, score: 7.653411
+result: <END> 当 然 不 会 了 <END>, score: 7.675519
+result: <END> 当 然 会 啦 。 <END>, score: 7.903817
+
+你 能 陪 我 睡 觉 吗
+result: <END> 我 可 以 陪 你 聊 天 <END>, score: 7.693638
+result: <END> 可 以 只 要 你 愿 意 <END>, score: 8.945410
+result: <END> 可 以 我 陪 你 聊 天 <END>, score: 9.162023
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 9.203589
+result: <END> 我 陪 你 一 起 睡 觉 <END>, score: 9.433681
+
+你 有 私 生 子 吗
+result: <END> 信 则 有 不 信 则 无 <END>, score: 7.628023
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 8.111048
+result: <END> 信 则 有 不 信 则 无 。 <END>, score: 8.680835
+result: <END> 有 的 有 有 的 没 有 <END>, score: 8.989548
+result: <END> 每 个 人 都 有 的 <END>, score: 9.222346
+
+我 早 上 工 作 感 觉 死 死 的 是 怎 么 回 事
+result: <END> 劳 累 过 度 劳 累 过 度 劳 累 过 度 劳 累 。 <END>, score: 14.472610
+result: <END> 劳 累 过 度 劳 累 过 度 劳 累 过 度 劳 累 ! <END>, score: 15.978489
+result: <END> 去 医 院 检 查 一 下 最 好 去 医 院 检 查 一 下 <END>, score: 16.165026
+result: <END> 劳 累 过 度 劳 累 过 度 劳 累 过 度 疲 劳 。 <END>, score: 16.180361
+result: <END> 日 有 所 思 夜 有 所 梦 。 心 静 自 然 凉 。 <END>, score: 16.293087
+
+有 没 有 搞 笑 的 欢 乐 的 段 子
+result: <END> 笑 一 笑 十 年 少 笑 一 笑 十 年 少 <END>, score: 12.495320
+result: <END> 自 己 喜 欢 的 就 是 最 开 心 的 <END>, score: 13.400368
+result: <END> 自 己 喜 欢 的 就 是 最 好 的 。 <END>, score: 13.616759
+result: <END> 自 己 喜 欢 的 就 是 最 好 的 ! <END>, score: 13.656157
+result: <END> 每 个 人 都 有 自 己 的 生 活 方 式 <END>, score: 13.950813
+
+发 个 给 力 图 片 看 哈 喽
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.503207
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 12.234960
+result: <END> 你 是 男 的 还 是 女 的 啊 <END>, score: 12.283852
+result: <END> 这 个 没 有 科 学 依 据 的 <END>, score: 12.303212
+result: <END> 你 说 的 是 什 么 意 思 啊 <END>, score: 12.691346
+
+天 天 锻 炼 身 体 好
+result: <END> 天 天 锻 炼 身 体 好 <END>, score: 7.162088
+result: <END> 早 睡 早 起 身 体 好 <END>, score: 8.016165
+result: <END> 天 天 锻 炼 身 体 最 好 <END>, score: 8.118074
+result: <END> 天 天 锻 炼 身 体 。 <END>, score: 8.148696
+result: <END> 天 天 锻 炼 身 体 ! <END>, score: 8.181498
+
+李 白 的 诗 你 会 吗
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 8.368373
+result: <END> 日 有 所 思 夜 有 所 梦 。 <END>, score: 9.991076
+result: <END> 我 想 应 该 不 会 吧 <END>, score: 10.657562
+result: <END> 日 有 所 思 夜 有 所 梦 ! <END>, score: 10.769414
+result: <END> 我 想 应 该 不 会 。 <END>, score: 11.583725
+
+我 问 的 不 是 这 个 意 思
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 10.232524
+result: <END> 你 问 的 是 什 么 意 思 ? <END>, score: 10.324937
+result: <END> 你 的 意 思 是 什 么 意 思 <END>, score: 10.415570
+result: <END> 你 的 意 思 是 什 么 意 思 ? <END>, score: 10.730936
+result: <END> 每 个 人 都 是 不 一 样 的 <END>, score: 10.754903
+
+完 全 不 知 道 你 在 说 啥
+result: <END> 你 想 说 什 么 就 说 什 么 <END>, score: 11.230022
+result: <END> 不 知 不 觉 就 知 道 了 。 <END>, score: 11.818256
+result: <END> 想 说 什 么 就 说 什 么 啊 <END>, score: 11.885147
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 11.927404
+result: <END> 我 知 道 你 在 说 什 么 ? <END>, score: 11.941865
+
+牛 头 不 对 马 嘴
+result: <END> 对 皮 肤 不 好 。 <END>, score: 8.766675
+result: <END> 对 头 皮 不 好 。 <END>, score: 9.593673
+result: <END> 不 对 头 皮 不 好 <END>, score: 9.614838
+result: <END> 对 皮 肤 不 好 ! <END>, score: 9.884326
+result: <END> 没 有 这 种 说 法 <END>, score: 10.069723
+
+你 是 不 是 傻 逼
+result: <END> 傻 子 就 是 傻 子 <END>, score: 9.365344
+result: <END> 每 个 人 都 不 一 样 <END>, score: 9.727681
+result: <END> 你 就 是 个 傻 子 <END>, score: 9.769509
+result: <END> 没 有 这 种 说 法 <END>, score: 9.976949
+result: <END> 傻 子 才 是 傻 子 <END>, score: 10.180799
+
+你 个 白 痴
+result: <END> 什 么 意 思 <END>, score: 7.769420
+result: <END> 爱 因 斯 坦 <END>, score: 7.935496
+result: <END> 爱 你 的 人 <END>, score: 8.428526
+result: <END> 恭 喜 恭 喜 <END>, score: 8.558625
+result: <END> 什 么 意 思 啊 <END>, score: 8.588386
+
+我 他 妈 宰 了 你
+result: <END> 你 的 爸 爸 妈 妈 <END>, score: 9.208829
+result: <END> 只 有 你 自 己 知 道 <END>, score: 10.009784
+result: <END> 好 好 保 护 自 己 <END>, score: 10.174008
+result: <END> 什 么 意 思 啊 ? <END>, score: 10.468427
+result: <END> 那 就 去 找 他 啊 <END>, score: 10.469696
+
+她 是 我 的 学 姐 ， 我 喜 欢 她 。
+result: <END> 喜 欢 一 个 人 是 不 需 要 理 由 的 <END>, score: 12.369886
+result: <END> 因 为 她 喜 欢 你 所 以 你 喜 欢 她 <END>, score: 12.593200
+result: <END> 因 为 你 喜 欢 她 所 以 你 喜 欢 她 <END>, score: 13.049622
+result: <END> 喜 欢 一 个 人 是 不 需 要 理 由 的 ! <END>, score: 13.356395
+result: <END> 因 为 她 喜 欢 你 所 以 她 喜 欢 你 <END>, score: 13.734563
+
+我 喜 欢 你 离 我 远 一 点
+result: <END> 我 喜 欢 你 离 我 远 一 点 <END>, score: 8.773988
+result: <END> 不 喜 欢 你 离 我 远 一 点 <END>, score: 9.768899
+result: <END> 我 不 喜 欢 你 离 我 远 一 点 <END>, score: 10.168585
+result: <END> 喜 欢 你 离 我 远 一 点 。 <END>, score: 10.204468
+result: <END> 喜 欢 你 的 人 不 喜 欢 你 <END>, score: 10.566888
+
+明 天 把 秋 裤 脱 了
+result: <END> 这 是 自 然 规 律 。 <END>, score: 10.448436
+result: <END> 这 是 正 常 现 象 。 <END>, score: 10.504299
+result: <END> 这 是 正 常 现 象 ! <END>, score: 11.083152
+result: <END> 当 然 是 冬 天 了 。 <END>, score: 11.105824
+result: <END> 这 是 正 常 的 现 象 <END>, score: 11.253604
+
+抽 根 烟 睡 觉
+result: <END> 抽 烟 有 害 健 康 <END>, score: 6.651156
+result: <END> 吸 烟 有 害 健 康 <END>, score: 6.694398
+result: <END> 对 身 体 不 好 <END>, score: 7.022119
+result: <END> 抽 烟 对 身 体 不 好 <END>, score: 7.316561
+result: <END> 抽 烟 有 害 身 体 健 康 <END>, score: 7.962150
+
+牛 逼 吹 大 了
+result: <END> 最 好 不 要 吹 <END>, score: 9.626772
+result: <END> 当 然 是 吹 牛 <END>, score: 9.770749
+result: <END> 当 然 是 吹 牛 了 <END>, score: 9.781099
+result: <END> 牛 逼 的 牛 逼 <END>, score: 9.835279
+result: <END> 这 是 天 生 的 <END>, score: 10.012436
+
+干 你 娘
+result: <END> 你 想 干 嘛 <END>, score: 8.382602
+result: <END> 想 干 嘛 干 嘛 <END>, score: 8.388437
+result: <END> 什 么 意 思 <END>, score: 8.498708
+result: <END> 洗 洗 睡 吧 <END>, score: 8.644917
+result: <END> 吃 饭 睡 觉 <END>, score: 8.720393
+
+你 妈 逼 的
+result: <END> 什 么 意 思 <END>, score: 8.038391
+result: <END> 爱 你 的 人 <END>, score: 8.181131
+result: <END> 爸 爸 妈 妈 <END>, score: 8.503982
+result: <END> 你 想 问 什 么 ? <END>, score: 8.781001
+result: <END> 什 么 意 思 ? <END>, score: 8.798685
+
+去 你 妹 的
+result: <END> 爱 你 的 人 <END>, score: 8.115468
+result: <END> 去 看 医 生 <END>, score: 8.411995
+result: <END> 你 男 的 女 的 <END>, score: 8.433657
+result: <END> 恭 喜 恭 喜 <END>, score: 8.566848
+result: <END> 我 来 告 诉 你 <END>, score: 8.738640
+
+赶 紧 滚 蛋
+result: <END> 顺 其 自 然 <END>, score: 7.649043
+result: <END> 去 看 医 生 <END>, score: 8.883696
+result: <END> 去 医 院 看 看 <END>, score: 8.967096
+result: <END> 什 么 意 思 <END>, score: 9.264846
+result: <END> 闭 上 眼 睛 <END>, score: 9.271029
+
+日 了 狗 了
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 7.945262
+result: <END> 什 么 意 思 <END>, score: 8.647460
+result: <END> 死 了 算 了 <END>, score: 8.885395
+result: <END> 什 么 意 思 ? <END>, score: 9.008627
+result: <END> 顺 其 自 然 <END>, score: 9.046107
+
+我 是 外 地 打 工 的
+result: <END> 去 医 院 检 查 一 下 <END>, score: 9.915080
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.154680
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.698492
+result: <END> 去 医 院 检 查 下 。 <END>, score: 11.075216
+result: <END> 去 医 院 检 查 下 吧 <END>, score: 11.150936
+
+我 过 去 是 个 老 师
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 7.444011
+result: <END> 好 好 学 习 天 天 向 上 ! <END>, score: 9.005658
+result: <END> 好 好 学 习 天 天 向 上 。 <END>, score: 9.376656
+result: <END> 去 医 院 检 查 一 下 <END>, score: 9.792576
+result: <END> 生 老 病 死 自 然 规 律 <END>, score: 10.145676
+
+我 昨 天 找 过 你 了
+result: <END> 该 怎 么 过 就 怎 么 过 <END>, score: 8.273846
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.102914
+result: <END> 该 怎 么 办 就 怎 么 办 <END>, score: 9.253079
+result: <END> 该 怎 么 过 就 怎 么 过 。 <END>, score: 10.418215
+result: <END> 你 想 问 什 么 啊 ? <END>, score: 10.564179
+
+我 是 个 坏 男 人 ， 你 不 要 相 信 我
+result: <END> 相 信 自 己 就 好 相 信 自 己 是 最 好 的 <END>, score: 13.458354
+result: <END> 相 信 自 己 就 好 相 信 自 己 就 行 了 <END>, score: 13.666635
+result: <END> 相 信 自 己 是 最 好 的 相 信 自 己 ! <END>, score: 13.831942
+result: <END> 相 信 自 己 是 最 好 的 相 信 自 己 。 <END>, score: 13.952648
+result: <END> 相 信 自 己 相 信 自 己 是 最 好 的 。 <END>, score: 14.153216
+
+今 天 心 情 很 好 大 大 好
+result: <END> 心 情 好 什 么 时 候 都 好 <END>, score: 8.999674
+result: <END> 心 情 好 什 么 事 情 都 好 <END>, score: 9.165424
+result: <END> 心 情 好 啊 心 情 好 就 好 <END>, score: 9.427765
+result: <END> 只 要 心 情 好 什 么 都 好 <END>, score: 9.557306
+result: <END> 心 情 好 了 心 情 好 就 好 <END>, score: 9.607234
+
+我 刚 上 公 交 车
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 8.952475
+result: <END> 你 想 问 什 么 ? <END>, score: 9.007306
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 9.429344
+result: <END> 你 男 的 女 的 ? <END>, score: 9.769858
+result: <END> 你 想 问 什 么 啊 <END>, score: 9.946853
+
+我 要 坐 地 铁 回 家
+result: <END> 去 医 院 检 查 一 下 <END>, score: 10.118554
+result: <END> 最 好 去 医 院 看 看 <END>, score: 10.613326
+result: <END> 最 好 去 医 院 检 查 一 下 <END>, score: 10.926792
+result: <END> 这 是 最 好 的 办 法 <END>, score: 10.932551
+result: <END> 为 什 么 要 吃 饭 ? <END>, score: 10.938940
+
+大 早 上 就 无 聊 啊 ， 想 找 点 事 干
+result: <END> 看 看 电 影 听 听 音 乐 看 看 电 影 。 <END>, score: 13.741390
+result: <END> 看 看 电 影 听 听 音 乐 或 看 看 电 影 <END>, score: 14.428471
+result: <END> 听 听 音 乐 看 看 电 影 听 听 音 乐 。 <END>, score: 14.581695
+result: <END> 看 看 电 视 看 看 电 影 听 听 音 乐 。 <END>, score: 14.601089
+result: <END> 做 点 自 己 感 兴 趣 的 事 就 可 以 了 <END>, score: 14.611175
+
+偶 尔 睡 眠 不 好 怎 么 办
+result: <END> 睡 前 喝 杯 热 牛 奶 有 助 于 睡 眠 <END>, score: 8.082816
+result: <END> 睡 前 喝 牛 奶 有 助 于 睡 眠 <END>, score: 8.364963
+result: <END> 睡 前 喝 杯 牛 奶 有 助 于 睡 眠 <END>, score: 8.502013
+result: <END> 睡 前 喝 点 牛 奶 有 助 于 睡 眠 <END>, score: 8.672215
+result: <END> 睡 前 喝 杯 热 牛 奶 有 助 睡 眠 <END>, score: 8.708424
+
+祝 你 生 日 快 乐
+result: <END> 祝 我 生 日 快 乐 <END>, score: 7.380173
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 7.387255
+result: <END> 生 命 在 于 运 动 <END>, score: 7.907851
+result: <END> 祝 你 生 日 快 乐 <END>, score: 8.508756
+result: <END> 我 的 生 日 快 乐 <END>, score: 8.702939
+
+生 活 中 怎 样 感 到 开 心 快 乐
+result: <END> 做 自 己 喜 欢 做 的 事 就 行 了 <END>, score: 10.190567
+result: <END> 做 自 己 喜 欢 做 的 事 就 会 快 乐 <END>, score: 10.358200
+result: <END> 做 自 己 喜 欢 做 的 事 最 开 心 <END>, score: 10.421751
+result: <END> 做 自 己 喜 欢 做 的 事 让 自 己 开 心 <END>, score: 10.714546
+result: <END> 做 自 己 喜 欢 做 的 事 就 快 乐 <END>, score: 10.955892
+
+失 败 了 怎 么 办 ， 如 何 才 能 成 功
+result: <END> 保 持 良 好 的 心 态 和 良 好 的 心 态 <END>, score: 13.549994
+result: <END> 做 自 己 想 做 的 事 做 自 己 想 做 的 事 <END>, score: 13.643624
+result: <END> 保 持 良 好 的 心 态 和 良 好 的 生 活 习 惯 <END>, score: 14.070110
+result: <END> 保 持 良 好 的 心 态 什 么 都 不 要 想 <END>, score: 14.352795
+result: <END> 保 持 良 好 的 生 活 习 惯 成 自 然 。 <END>, score: 14.467916
+
+明 天 考 试 、 求 安 慰
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 8.684015
+result: <END> 好 好 学 习 天 天 向 上 ! <END>, score: 10.591376
+result: <END> 请 问 你 想 问 什 么 ? <END>, score: 10.759470
+result: <END> 你 说 的 是 什 么 意 思 <END>, score: 10.945097
+result: <END> 好 好 学 习 天 天 向 上 。 <END>, score: 11.006513
+
+听 说 过 外 星 生 命 吗
+result: <END> 信 则 有 不 信 则 无 。 <END>, score: 7.130677
+result: <END> 信 则 有 不 信 则 无 ! <END>, score: 8.002281
+result: <END> 宁 可 信 其 有 不 可 信 其 无 <END>, score: 8.447706
+result: <END> 宁 可 信 其 有 不 可 信 其 无 。 <END>, score: 9.773575
+result: <END> 有 的 可 以 有 的 不 可 以 <END>, score: 10.340147
+
+我 命 令 你 以 后 只 能 呆 在 家 里
+result: <END> 命 里 有 时 终 须 有 命 里 无 时 莫 强 求 <END>, score: 10.759600
+result: <END> 命 里 有 时 终 须 有 命 里 无 时 莫 强 求 。 <END>, score: 11.293823
+result: <END> 命 里 有 时 终 须 有 命 里 无 时 莫 强 求 ! <END>, score: 11.948894
+result: <END> 命 里 有 时 终 需 有 命 里 无 时 莫 强 求 <END>, score: 13.127517
+result: <END> 命 里 有 时 终 需 有 命 里 无 时 莫 强 求 。 <END>, score: 13.650732
+
+你 等 会 我 过 会 跟 你 说
+result: <END> 爱 你 的 人 和 你 爱 的 人 <END>, score: 10.589323
+result: <END> 如 果 是 我 我 会 告 诉 你 <END>, score: 11.989039
+result: <END> 我 会 我 相 信 你 一 定 会 <END>, score: 12.320151
+result: <END> 我 会 好 好 学 习 天 天 向 上 <END>, score: 12.390413
+result: <END> 我 会 因 为 我 不 认 识 你 <END>, score: 12.544270
+
+我 来 把 你 胸 抓 大
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 8.949641
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 9.192518
+result: <END> 你 是 男 的 女 的 ? <END>, score: 10.009557
+result: <END> 没 什 么 大 不 了 的 <END>, score: 10.632256
+result: <END> 你 是 男 人 还 是 女 人 <END>, score: 10.662160
+
+你 叫 个 春
+result: <END> 春 夏 秋 冬 <END>, score: 6.410609
+result: <END> 新 陈 代 谢 <END>, score: 7.615526
+result: <END> 什 么 意 思 <END>, score: 8.566456
+result: <END> 就 是 春 哥 <END>, score: 8.580137
+result: <END> 春 天 来 了 <END>, score: 8.626011
+
+上 班 好 累 啊
+result: <END> 那 就 休 息 吧 <END>, score: 7.017832
+result: <END> 累 了 就 休 息 <END>, score: 7.376945
+result: <END> 那 就 休 息 啊 <END>, score: 7.598678
+result: <END> 好 好 休 息 吧 <END>, score: 7.831798
+result: <END> 那 就 休 息 一 下 <END>, score: 7.922208
+
+我 在 等 地 铁
+result: <END> 什 么 意 思 啊 <END>, score: 9.322525
+result: <END> 在 你 的 心 里 <END>, score: 9.393457
+result: <END> 在 一 个 地 方 <END>, score: 9.430139
+result: <END> 生 命 在 于 运 动 <END>, score: 9.455266
+result: <END> 正 常 情 况 下 <END>, score: 9.527118
+
+你 闭 嘴
+result: <END> 闭 上 眼 睛 <END>, score: 4.852617
+result: <END> 闭 着 眼 睛 <END>, score: 5.911576
+result: <END> 闭 着 眼 睛 睡 <END>, score: 6.580285
+result: <END> 睁 开 眼 睛 <END>, score: 6.729271
+result: <END> 闭 着 眼 睛 睡 觉 <END>, score: 6.944682
+
+那 就 放 给 我 听 吧
+result: <END> 放 松 放 松 放 松 放 松 <END>, score: 8.903363
+result: <END> 放 松 放 松 放 松 自 己 <END>, score: 9.980207
+result: <END> 放 松 放 松 放 松 放 松 放 松 <END>, score: 10.109073
+result: <END> 放 不 下 就 不 要 放 <END>, score: 10.491386
+result: <END> 放 松 自 己 放 松 放 松 <END>, score: 10.595426
+
+我 的 好 友 喜 欢 吃 什 么
+result: <END> 喜 欢 吃 什 么 就 吃 什 么 <END>, score: 7.532631
+result: <END> 你 喜 欢 吃 什 么 就 吃 什 么 <END>, score: 7.868385
+result: <END> 你 喜 欢 吃 什 么 吃 什 么 <END>, score: 8.663136
+result: <END> 想 吃 什 么 就 吃 什 么 啊 <END>, score: 9.251671
+result: <END> 想 吃 什 么 就 吃 什 么 ! <END>, score: 9.373610
+
+你 这 智 商 哥 都 不 稀 罕 说 了
+result: <END> 建 议 你 去 医 院 检 查 一 下 。 <END>, score: 14.539750
+result: <END> 建 议 你 去 医 院 检 查 一 下 吧 <END>, score: 15.167029
+result: <END> 什 么 意 思 ? 什 么 意 思 啊 ? <END>, score: 15.251456
+result: <END> 恭 喜 恭 喜 恭 喜 恭 喜 恭 喜 恭 喜 <END>, score: 15.269575
+result: <END> 不 懂 你 说 的 是 什 么 意 思 ? <END>, score: 15.411540
+
+让 你 慢 慢 喜 欢
+result: <END> 慢 慢 就 习 惯 了 <END>, score: 8.146515
+result: <END> 生 命 在 于 运 动 <END>, score: 8.477010
+result: <END> 因 为 爱 所 以 爱 <END>, score: 9.760649
+result: <END> 习 惯 成 自 然 。 <END>, score: 9.920925
+result: <END> 慢 慢 就 习 惯 了 。 <END>, score: 9.958937
+
+你 和 过 儿 什 么 关 系
+result: <END> 没 有 关 系 的 关 系 。 <END>, score: 9.402859
+result: <END> 没 什 么 关 系 的 关 系 <END>, score: 9.443569
+result: <END> 当 然 是 朋 友 关 系 了 <END>, score: 9.493568
+result: <END> 人 与 人 之 间 的 关 系 <END>, score: 9.537947
+result: <END> 朋 友 和 家 人 的 关 系 <END>, score: 9.836608
+
+你 和 张 小 龙 什 么 关 系
+result: <END> 人 与 人 之 间 的 关 系 。 <END>, score: 11.281662
+result: <END> 没 什 么 关 系 的 关 系 。 <END>, score: 11.641120
+result: <END> 关 系 没 有 关 系 的 关 系 <END>, score: 11.967239
+result: <END> 人 与 人 之 间 的 关 系 ! <END>, score: 12.287306
+result: <END> 没 有 关 系 。 没 有 关 系 <END>, score: 12.358598
+
+你 是 白 富 美 吗
+result: <END> 爱 美 之 心 人 皆 有 之 <END>, score: 8.801683
+result: <END> 每 个 人 都 不 一 样 <END>, score: 9.501369
+result: <END> 每 个 人 都 喜 欢 <END>, score: 9.691814
+result: <END> 各 有 各 的 好 处 <END>, score: 9.964499
+result: <END> 当 然 不 是 了 ! <END>, score: 10.170627
+
+我 们 去 动 物 园 吧
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.105526
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.734235
+result: <END> 当 然 是 动 物 园 了 <END>, score: 10.877892
+result: <END> 当 然 是 动 物 园 啊 <END>, score: 10.976498
+result: <END> 地 球 人 都 知 道 。 <END>, score: 11.064508
+
+外 面 有 摩 托 车 的 响 声
+result: <END> 没 有 什 么 摩 托 引 起 的 <END>, score: 13.122610
+result: <END> 一 般 情 况 下 都 会 有 的 <END>, score: 13.343777
+result: <END> 有 可 能 是 内 分 泌 失 调 <END>, score: 13.409301
+result: <END> 没 有 摩 擦 摩 擦 就 好 了 <END>, score: 13.443643
+result: <END> 没 有 摩 擦 摩 擦 就 行 了 <END>, score: 13.640860
+
+哥 很 伤 心
+result: <END> 伤 心 不 伤 心 <END>, score: 6.805758
+result: <END> 当 然 伤 心 了 <END>, score: 7.121360
+result: <END> 伤 心 的 时 候 <END>, score: 7.386936
+result: <END> 因 为 伤 心 <END>, score: 7.602898
+result: <END> 当 然 伤 心 <END>, score: 7.695825
+
+我 要 问 你 一 个 很 长 的 问 题 你 准 备 好 了 吗
+result: <END> 每 个 人 都 有 自 己 的 好 处 没 有 什 么 不 好 的 <END>, score: 19.932833
+result: <END> 每 个 人 都 是 不 一 样 的 只 要 自 己 喜 欢 就 好 <END>, score: 20.319254
+result: <END> 你 是 男 的 还 是 女 的 还 是 男 的 还 是 女 的 ? <END>, score: 20.352708
+result: <END> 每 个 人 都 是 不 一 样 的 只 要 自 己 喜 欢 就 行 <END>, score: 20.481343
+result: <END> 每 个 人 都 有 自 己 的 想 法 没 有 什 么 不 好 的 <END>, score: 20.484803
+
+我 坐 到 电 梯 了
+result: <END> 去 医 院 检 查 下 <END>, score: 9.275228
+result: <END> 去 医 院 看 看 吧 <END>, score: 9.866976
+result: <END> 当 然 是 坐 车 了 <END>, score: 9.923173
+result: <END> 坐 车 就 可 以 了 <END>, score: 10.218044
+result: <END> 去 医 院 检 查 一 下 <END>, score: 10.258273
+
+你 和 杨 过 谁 牛 逼
+result: <END> 当 然 是 孙 悟 空 咯 <END>, score: 10.721855
+result: <END> 我 比 较 喜 欢 他 们 <END>, score: 10.838577
+result: <END> 当 然 是 孙 悟 空 了 <END>, score: 10.875644
+result: <END> 各 有 各 的 好 处 。 <END>, score: 10.881034
+result: <END> 我 个 人 比 较 喜 欢 <END>, score: 11.028461
+
+我 永 远 都 在 你 身 边
+result: <END> 远 在 天 边 近 在 眼 前 <END>, score: 8.059965
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 9.084487
+result: <END> 走 自 己 的 路 让 别 人 说 去 吧 <END>, score: 9.675943
+result: <END> 远 在 天 边 近 在 眼 前 。 <END>, score: 9.790555
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.165463
+
+这 你 都 能 看 出 来
+result: <END> 什 么 都 看 不 出 来 <END>, score: 9.339939
+result: <END> 什 么 都 能 看 出 来 <END>, score: 10.049001
+result: <END> 这 是 什 么 问 题 ? <END>, score: 10.309373
+result: <END> 什 么 都 可 以 看 出 来 <END>, score: 10.593557
+result: <END> 什 么 时 候 出 来 ? <END>, score: 10.799757
+
+刚 刚 公 司 有 人 打 架
+result: <END> 什 么 牌 子 的 打 架 ? <END>, score: 11.423910
+result: <END> 你 是 男 人 还 是 女 人 <END>, score: 11.766031
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 12.027038
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 12.050798
+result: <END> 这 是 正 常 的 生 理 现 象 <END>, score: 12.148302
+
+就 是 那 天 你 碰 到 的 骚 浪 贱
+result: <END> 天 下 无 难 事 只 怕 有 心 人 。 <END>, score: 11.435459
+result: <END> 天 下 无 难 事 只 怕 有 心 人 ! <END>, score: 12.088565
+result: <END> 这 个 世 界 之 大 无 奇 不 有 。 <END>, score: 13.763105
+result: <END> 世 界 之 大 无 奇 不 有 因 人 而 异 <END>, score: 13.924330
+result: <END> 每 个 人 都 有 自 己 喜 欢 的 地 方 <END>, score: 14.007433
+
+你 去 火 车 站 了 么
+result: <END> 可 以 去 火 车 站 。 <END>, score: 11.022416
+result: <END> 你 可 以 去 火 车 站 <END>, score: 11.135884
+result: <END> 你 说 的 是 火 车 吗 ? <END>, score: 11.560836
+result: <END> 最 好 去 医 院 看 看 <END>, score: 11.701456
+result: <END> 可 以 去 火 车 站 ! <END>, score: 11.835768
+
+火 车 为 什 么 总 晚 点
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 7.653513
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 9.390442
+result: <END> 日 有 所 思 夜 有 所 梦 。 <END>, score: 9.430073
+result: <END> 日 有 所 思 夜 有 所 梦 ! <END>, score: 9.680859
+result: <END> 因 为 日 有 所 思 夜 有 所 梦 <END>, score: 10.106277
+
+你 好 无 聊
+result: <END> 我 很 无 聊 <END>, score: 6.140865
+result: <END> 我 陪 你 聊 天 <END>, score: 6.966071
+result: <END> 无 聊 的 人 <END>, score: 7.109295
+result: <END> 你 很 无 聊 <END>, score: 7.289438
+result: <END> 无 聊 无 聊 <END>, score: 7.400312
+
+肚 子 右 边 隐 隐 作 痛
+result: <END> 最 好 去 医 院 检 查 一 下 <END>, score: 9.215509
+result: <END> 最 好 去 医 院 检 查 下 <END>, score: 9.298845
+result: <END> 去 医 院 检 查 一 下 。 <END>, score: 9.456020
+result: <END> 建 议 你 去 医 院 看 看 <END>, score: 9.471351
+result: <END> 去 医 院 检 查 一 下 吧 <END>, score: 9.795664
+
+外 面 很 气 冷
+result: <END> 心 静 自 然 凉 <END>, score: 6.498117
+result: <END> 多 穿 点 衣 服 <END>, score: 6.793282
+result: <END> 多 穿 衣 服 。 <END>, score: 7.863354
+result: <END> 多 穿 衣 服 啊 <END>, score: 7.894707
+result: <END> 多 穿 点 就 不 冷 了 <END>, score: 8.133218
+
+昨 晚 刮 大 风 了
+result: <END> 去 医 院 看 看 吧 <END>, score: 8.478663
+result: <END> 这 是 正 常 现 象 <END>, score: 9.427609
+result: <END> 心 静 自 然 凉 。 <END>, score: 9.530364
+result: <END> 去 医 院 看 看 。 <END>, score: 9.565361
+result: <END> 去 医 院 检 查 下 <END>, score: 9.733033
+
+公 司 有 人 打 架
+result: <END> 没 有 打 架 的 人 <END>, score: 10.514793
+result: <END> 当 然 是 打 架 了 <END>, score: 10.902754
+result: <END> 为 什 么 打 架 ? <END>, score: 10.987368
+result: <END> 打 架 是 什 么 ? <END>, score: 11.134044
+result: <END> 为 什 么 要 打 架 ? <END>, score: 11.172874
+
+我 是 邓 超
+result: <END> 什 么 意 思 <END>, score: 9.266141
+result: <END> 你 是 男 的 <END>, score: 9.513114
+result: <END> 加 强 锻 炼 <END>, score: 9.626375
+result: <END> 去 医 院 检 查 <END>, score: 9.797097
+result: <END> 去 医 院 看 看 <END>, score: 9.980194
+
+最 近 股 票 大 跌
+result: <END> 当 然 是 股 票 了 <END>, score: 8.105614
+result: <END> 当 然 是 股 票 啊 <END>, score: 8.920862
+result: <END> 当 然 是 股 票 啦 <END>, score: 8.978967
+result: <END> 当 然 是 股 票 咯 <END>, score: 9.343811
+result: <END> 应 该 是 股 票 吧 <END>, score: 9.586856
+
+对 面 哪 个 妹 子 好 看
+result: <END> 自 己 喜 欢 的 最 好 看 <END>, score: 8.954735
+result: <END> 自 己 喜 欢 的 就 好 看 <END>, score: 9.002774
+result: <END> 萝 卜 白 菜 各 有 所 爱 <END>, score: 9.525333
+result: <END> 自 己 喜 欢 的 都 好 看 <END>, score: 9.999632
+result: <END> 自 己 喜 欢 的 就 是 最 好 看 的 <END>, score: 10.270972
+
+公 司 不 让 抽 烟 了
+result: <END> 抽 烟 对 身 体 不 好 <END>, score: 7.539375
+result: <END> 吸 烟 对 身 体 不 好 <END>, score: 8.593482
+result: <END> 不 抽 烟 对 身 体 不 好 <END>, score: 8.768427
+result: <END> 吸 烟 有 害 健 康 ! <END>, score: 9.033252
+result: <END> 不 抽 烟 就 不 抽 了 <END>, score: 9.112489
+
+能 做 什 么 菜
+result: <END> 什 么 都 可 以 做 <END>, score: 7.242564
+result: <END> 什 么 都 能 做 <END>, score: 7.314433
+result: <END> 什 么 都 可 以 <END>, score: 7.767459
+result: <END> 什 么 都 不 做 <END>, score: 7.914730
+result: <END> 想 做 什 么 就 做 什 么 <END>, score: 7.955874
+
+你 会 做 什 么 菜
+result: <END> 做 自 己 喜 欢 做 的 事 <END>, score: 7.620659
+result: <END> 想 做 什 么 就 做 什 么 <END>, score: 7.630985
+result: <END> 做 你 喜 欢 做 的 事 <END>, score: 7.776854
+result: <END> 什 么 都 不 做 。 <END>, score: 8.280997
+result: <END> 做 你 想 做 的 事 <END>, score: 8.283983
+
+吃 了 什 么
+result: <END> 什 么 都 吃 <END>, score: 5.620176
+result: <END> 吃 东 西 啊 <END>, score: 6.838606
+result: <END> 想 吃 什 么 就 吃 什 么 <END>, score: 6.843801
+result: <END> 什 么 都 不 吃 <END>, score: 6.873595
+result: <END> 吃 的 东 西 <END>, score: 6.976635
+
+不 给 你 喝
+result: <END> 不 喝 就 不 喝 <END>, score: 7.488761
+result: <END> 想 喝 就 喝 <END>, score: 7.757750
+result: <END> 什 么 意 思 <END>, score: 7.826226
+result: <END> 不 喝 不 喝 <END>, score: 7.980165
+result: <END> 最 好 不 喝 <END>, score: 8.047625
+
+这 么 高 级 的 东 西
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.769182
+result: <END> 每 个 人 都 不 一 样 <END>, score: 10.585945
+result: <END> 你 想 知 道 什 么 ? <END>, score: 10.800173
+result: <END> 你 指 的 是 什 么 ? <END>, score: 11.339547
+result: <END> 你 问 的 是 什 么 ? <END>, score: 11.362019
+
+猫 和 狗 不 好
+result: <END> 当 然 不 好 了 <END>, score: 6.514568
+result: <END> 当 然 不 好 啦 <END>, score: 7.504568
+result: <END> 我 觉 得 不 好 <END>, score: 8.137610
+result: <END> 当 然 不 好 。 <END>, score: 8.340615
+result: <END> 非 常 不 好 。 <END>, score: 8.340655
+
+杨 过 和 你 是 啥 关 系
+result: <END> 没 有 关 系 的 关 系 。 <END>, score: 9.929033
+result: <END> 没 什 么 关 系 的 关 系 <END>, score: 9.954022
+result: <END> 人 与 人 之 间 的 关 系 <END>, score: 10.299978
+result: <END> 你 说 的 是 什 么 关 系 <END>, score: 10.824807
+result: <END> 没 有 关 系 的 关 系 ! <END>, score: 10.940619
+
+有 多 美
+result: <END> 因 人 而 异 <END>, score: 7.870006
+result: <END> 什 么 都 有 <END>, score: 8.178001
+result: <END> 越 多 越 好 <END>, score: 8.186709
+result: <END> 非 常 美 丽 <END>, score: 8.214885
+result: <END> 很 美 很 美 <END>, score: 8.238208
+
+她 在 吃 香 蕉
+result: <END> 香 蕉 和 香 蕉 <END>, score: 7.196660
+result: <END> 香 蕉 吃 香 蕉 <END>, score: 7.464870
+result: <END> 可 以 吃 香 蕉 <END>, score: 7.829511
+result: <END> 香 蕉 吃 多 了 <END>, score: 7.971272
+result: <END> 香 蕉 香 蕉 香 蕉 <END>, score: 7.992424
+
+为 什 么 你 妈 妈 生 出 你 这 么 个 脑 残
+result: <END> 因 为 这 个 世 界 就 是 这 个 样 子 的 。 <END>, score: 16.992066
+result: <END> 因 为 这 个 世 界 就 是 这 么 残 酷 的 。 <END>, score: 17.160939
+result: <END> 因 为 你 爸 爸 妈 妈 都 是 这 个 样 子 的 <END>, score: 17.187256
+result: <END> 因 为 我 的 爸 爸 妈 妈 都 是 这 样 的 。 <END>, score: 17.309960
+result: <END> 因 为 你 爸 爸 妈 妈 不 是 你 爸 爸 妈 妈 <END>, score: 17.361865
+
+不 去 吃 饭
+result: <END> 最 好 不 吃 <END>, score: 6.330453
+result: <END> 想 吃 就 吃 <END>, score: 7.286186
+result: <END> 饿 了 就 吃 <END>, score: 7.333875
+result: <END> 当 然 不 吃 了 <END>, score: 7.707639
+result: <END> 不 吃 饭 不 吃 饭 <END>, score: 7.760264
+
+动 车 是 怎 么 跑 起 来 的
+result: <END> 人 是 由 动 物 进 化 来 的 <END>, score: 11.745388
+result: <END> 跑 步 是 最 好 的 办 法 。 <END>, score: 11.821856
+result: <END> 跑 步 是 最 好 的 办 法 ! <END>, score: 11.990546
+result: <END> 人 是 由 动 物 进 化 而 来 的 <END>, score: 12.030161
+result: <END> 跑 步 是 最 好 的 方 法 。 <END>, score: 12.210745
+
+学 挖 掘 技 术 哪 家 强
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.581049
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 10.902460
+result: <END> 好 好 学 习 天 天 向 上 ! <END>, score: 11.362197
+result: <END> 好 好 学 习 天 天 向 上 。 <END>, score: 11.723619
+result: <END> 没 有 最 强 只 有 更 强 <END>, score: 11.924675
+
+抽 根 烟 冷 静 一 下
+result: <END> 抽 烟 对 身 体 不 好 <END>, score: 8.710128
+result: <END> 吸 烟 有 害 身 体 健 康 <END>, score: 8.738041
+result: <END> 吸 烟 有 害 健 康 。 <END>, score: 8.813639
+result: <END> 吸 烟 有 害 健 康 ! <END>, score: 8.842002
+result: <END> 吸 烟 对 身 体 不 好 <END>, score: 9.033791
+
+我 的 书 包 在 哪 里
+result: <END> 在 你 的 肚 子 里 。 <END>, score: 9.627168
+result: <END> 在 你 的 肚 子 里 面 <END>, score: 9.628879
+result: <END> 在 你 妈 妈 肚 子 里 <END>, score: 9.704040
+result: <END> 在 你 自 己 的 心 里 <END>, score: 9.900273
+result: <END> 在 你 的 肚 子 里 ! <END>, score: 9.933023
+
+我 的 书 包 坏 了
+result: <END> 去 医 院 看 看 吧 <END>, score: 8.983475
+result: <END> 去 医 院 检 查 一 下 <END>, score: 9.309451
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.431666
+result: <END> 去 医 院 检 查 下 <END>, score: 9.727450
+result: <END> 去 医 院 看 看 。 <END>, score: 10.260675
+
+哪 里 地 震 了
+result: <END> 地 壳 运 动 。 <END>, score: 8.350693
+result: <END> 地 震 或 地 震 <END>, score: 8.636646
+result: <END> 什 么 地 震 ? <END>, score: 8.843631
+result: <END> 地 震 的 地 震 <END>, score: 8.848430
+result: <END> 汶 川 地 震 。 <END>, score: 8.923763
+
+外 面 下 大 雨 了
+result: <END> 这 是 正 常 现 象 <END>, score: 8.547215
+result: <END> 这 是 自 然 现 象 <END>, score: 8.681969
+result: <END> 去 医 院 看 看 吧 <END>, score: 8.855613
+result: <END> 当 然 是 下 雨 了 <END>, score: 9.117259
+result: <END> 去 医 院 看 医 生 <END>, score: 9.728198
+
+后 天 中 午 两 点 半 去 吃 饭 。
+result: <END> 饭 后 半 小 时 饭 后 半 小 时 。 <END>, score: 11.470718
+result: <END> 饭 后 半 小 时 饭 后 半 小 时 吃 <END>, score: 11.840799
+result: <END> 饭 前 半 小 时 饭 后 半 小 时 。 <END>, score: 11.959312
+result: <END> 半 小 时 再 吃 半 小 时 最 好 。 <END>, score: 12.007497
+result: <END> 饭 前 半 小 时 饭 后 半 小 时 吃 <END>, score: 12.020337
+
+明 天 领 导 要 来
+result: <END> 这 是 自 然 规 律 <END>, score: 9.593357
+result: <END> 你 想 问 什 么 ? <END>, score: 9.682649
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 10.111722
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 10.201889
+result: <END> 这 是 自 然 现 象 <END>, score: 10.391852
+
+我 看 看 有 没 有 空
+result: <END> 去 看 看 就 知 道 了 <END>, score: 8.584389
+result: <END> 去 看 看 不 就 知 道 了 <END>, score: 9.285168
+result: <END> 看 看 不 就 知 道 了 <END>, score: 9.345871
+result: <END> 你 去 看 看 就 知 道 了 <END>, score: 9.570903
+result: <END> 看 看 有 没 有 看 到 <END>, score: 10.553343
+
+没 有 花 露 水
+result: <END> 应 该 没 有 吧 <END>, score: 7.473190
+result: <END> 当 然 有 了 。 <END>, score: 8.232986
+result: <END> 应 该 没 有 。 <END>, score: 8.403784
+result: <END> 当 然 没 有 了 <END>, score: 8.448740
+result: <END> 应 该 是 有 的 <END>, score: 8.450347
+
+快 来 骚 扰 我
+result: <END> 心 静 自 然 凉 <END>, score: 6.260708
+result: <END> 心 静 自 然 凉 。 <END>, score: 8.420859
+result: <END> 去 医 院 看 看 <END>, score: 8.742467
+result: <END> 心 静 自 然 凉 ! <END>, score: 8.760957
+result: <END> 什 么 意 思 ? <END>, score: 8.849027
+
+快 来 蹂 躏 我
+result: <END> 去 医 院 看 看 <END>, score: 8.332539
+result: <END> 什 么 意 思 ? <END>, score: 8.548438
+result: <END> 我 来 告 诉 你 <END>, score: 9.196680
+result: <END> 生 命 在 于 运 动 <END>, score: 9.593239
+result: <END> 什 么 意 思 啊 <END>, score: 9.635493
+
+你 要 去 哪 儿 旅 游
+result: <END> 自 己 喜 欢 的 地 方 <END>, score: 8.932765
+result: <END> 你 最 想 去 的 地 方 <END>, score: 9.046743
+result: <END> 自 己 想 去 的 地 方 <END>, score: 9.098008
+result: <END> 去 你 想 去 的 地 方 <END>, score: 9.123963
+result: <END> 你 想 去 哪 就 去 哪 <END>, score: 9.533720
+
+红 公 鸡 囧 哦 呵 呵
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.888308
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.963300
+result: <END> 没 有 这 种 说 法 。 <END>, score: 11.637555
+result: <END> 你 是 男 的 女 的 ? <END>, score: 11.807122
+result: <END> 你 想 问 什 么 呢 ? <END>, score: 11.834155
+
+鳄 鱼
+result: <END> 可 以 吃 的 <END>, score: 8.584088
+result: <END> 没 听 说 过 <END>, score: 9.007872
+result: <END> 五 谷 杂 粮 <END>, score: 9.431013
+result: <END> 爬 行 动 物 <END>, score: 9.591439
+result: <END> 去 医 院 看 看 <END>, score: 9.860530
+
+她 在 吃 水 果
+result: <END> 可 以 吃 苹 果 <END>, score: 8.148000
+result: <END> 想 吃 就 吃 呗 <END>, score: 8.353673
+result: <END> 可 以 吃 水 果 <END>, score: 8.491478
+result: <END> 想 吃 就 吃 吧 <END>, score: 8.494370
+result: <END> 女 人 吃 水 果 <END>, score: 8.656876
+
+如 何 照 顾 家 庭
+result: <END> 好 好 照 顾 自 己 <END>, score: 6.989571
+result: <END> 照 顾 好 自 己 。 <END>, score: 8.161770
+result: <END> 保 持 良 好 的 心 态 <END>, score: 8.365743
+result: <END> 好 好 照 顾 自 己 。 <END>, score: 8.587201
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 8.660351
+
+儿 童 节 怎 么 过
+result: <END> 想 怎 么 过 就 怎 么 过 <END>, score: 5.757853
+result: <END> 开 开 心 心 的 过 <END>, score: 6.369928
+result: <END> 该 怎 么 过 就 怎 么 过 <END>, score: 6.679360
+result: <END> 想 怎 么 过 就 怎 么 过 。 <END>, score: 8.020587
+result: <END> 开 开 心 心 就 好 <END>, score: 8.138188
+
+下 楼 吃 饭 去
+result: <END> 饭 后 半 小 时 <END>, score: 6.630673
+result: <END> 饭 前 半 小 时 <END>, score: 7.590613
+result: <END> 饭 后 一 小 时 <END>, score: 7.802141
+result: <END> 去 医 院 看 看 <END>, score: 8.058575
+result: <END> 想 吃 就 吃 呗 <END>, score: 8.085977
+
+什 么 时 候 能 凉 快 下 来
+result: <END> 心 静 自 然 凉 心 静 自 然 凉 <END>, score: 10.047591
+result: <END> 心 静 下 来 心 静 自 然 凉 <END>, score: 10.267448
+result: <END> 心 静 自 然 凉 ! 心 静 自 然 凉 <END>, score: 10.800220
+result: <END> 心 静 自 然 凉 。 心 静 自 然 凉 <END>, score: 10.822316
+result: <END> 做 梦 的 时 候 就 可 以 了 <END>, score: 11.125332
+
+你 知 道 的 太 多 了
+result: <END> 你 想 知 道 什 么 ? <END>, score: 8.755431
+result: <END> 你 知 道 的 太 多 了 <END>, score: 8.959355
+result: <END> 你 想 问 什 么 啊 ? <END>, score: 9.395001
+result: <END> 心 有 多 大 就 有 多 大 <END>, score: 9.495221
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 9.547513
+
+被 蚊 子 咬 了 好 几 口 啊
+result: <END> 最 好 去 医 院 检 查 一 下 <END>, score: 11.732823
+result: <END> 把 蚊 子 咬 一 下 就 好 了 <END>, score: 12.163802
+result: <END> 被 蚊 子 咬 一 下 就 好 了 <END>, score: 12.474728
+result: <END> 用 蚊 子 咬 一 下 就 好 了 <END>, score: 12.482548
+result: <END> 被 蚊 子 咬 了 就 不 咬 了 <END>, score: 12.494292
+
+三 里 屯 优 衣 库
+result: <END> 你 是 哪 里 的 ? <END>, score: 9.983402
+result: <END> 你 想 问 什 么 ? <END>, score: 10.911722
+result: <END> 什 么 意 思 啊 ? <END>, score: 11.493292
+result: <END> 你 可 以 去 看 看 <END>, score: 11.577576
+result: <END> 什 么 地 方 的 ? <END>, score: 11.852148
+
+心 里 不 好 受 怎 么 办
+result: <END> 该 怎 么 办 就 怎 么 办 <END>, score: 8.684873
+result: <END> 找 个 女 朋 友 就 好 了 <END>, score: 9.855456
+result: <END> 去 医 院 做 个 心 理 医 生 <END>, score: 10.081710
+result: <END> 心 病 还 需 心 药 医 。 <END>, score: 10.170603
+result: <END> 心 病 还 需 心 药 医 ! <END>, score: 10.244332
+
+这 个 世 界 谁 最 有 钱
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 7.675388
+result: <END> 世 界 上 最 有 钱 的 人 <END>, score: 9.228996
+result: <END> 世 界 之 大 无 奇 不 有 。 <END>, score: 9.362794
+result: <END> 世 界 之 大 无 奇 不 有 ! <END>, score: 9.369645
+result: <END> 世 界 上 最 有 钱 的 地 方 <END>, score: 10.369053
+
+葫 芦 娃 你 认 识 吗 ？
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.625057
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.697892
+result: <END> 我 觉 得 还 是 不 错 的 <END>, score: 11.802854
+result: <END> 我 个 人 认 为 不 认 识 <END>, score: 11.954180
+result: <END> 认 识 一 下 就 知 道 了 <END>, score: 12.193775
+
+哥 买 了 个 自 行 车
+result: <END> 什 么 牌 子 的 牌 子 <END>, score: 9.967906
+result: <END> 什 么 牌 子 的 车 ? <END>, score: 10.107838
+result: <END> 什 么 牌 子 的 牌 子 ? <END>, score: 10.662383
+result: <END> 什 么 牌 子 的 啊 ? <END>, score: 10.916461
+result: <END> 你 想 买 什 么 样 的 <END>, score: 11.075656
+
+a 股 明 天 涨 不 涨
+result: <END> 这 是 正 常 现 象 。 <END>, score: 11.511811
+result: <END> 去 医 院 检 查 一 下 <END>, score: 11.555373
+result: <END> 当 然 涨 不 出 来 了 <END>, score: 11.782823
+result: <END> 这 是 正 常 现 象 ! <END>, score: 11.832043
+result: <END> 肯 定 涨 不 出 来 了 <END>, score: 11.900903
+
+为 啥 喝 咖 啡 不 好
+result: <END> 因 为 咖 啡 里 含 有 咖 啡 因 <END>, score: 7.050942
+result: <END> 因 为 咖 啡 里 有 咖 啡 因 <END>, score: 7.148735
+result: <END> 因 为 里 面 有 咖 啡 因 <END>, score: 7.547627
+result: <END> 因 为 你 不 喜 欢 喝 <END>, score: 8.168828
+result: <END> 因 为 咖 啡 里 面 有 咖 啡 因 <END>, score: 8.217909
+
+天 空 是 蓝 的
+result: <END> 天 空 是 蓝 的 <END>, score: 6.336148
+result: <END> 天 空 是 蓝 色 的 <END>, score: 6.932638
+result: <END> 是 蓝 色 的 。 <END>, score: 7.692922
+result: <END> 应 该 是 蓝 的 <END>, score: 7.987150
+result: <END> 蓝 色 的 天 空 <END>, score: 8.010270
+
+去 台 湾 什 么 值 得 买
+result: <END> 各 大 药 店 都 有 卖 的 <END>, score: 9.825464
+result: <END> 适 合 自 己 的 就 是 最 好 的 <END>, score: 10.943570
+result: <END> 各 大 药 店 均 有 销 售 <END>, score: 11.319333
+result: <END> 一 般 商 店 都 有 卖 的 <END>, score: 11.352917
+result: <END> 各 大 药 店 都 有 卖 的 。 <END>, score: 11.390413
+
+刘 德 华 是 谁
+result: <END> 刘 德 华 刘 德 华 <END>, score: 5.872461
+result: <END> 刘 德 华 刘 德 华 刘 德 华 <END>, score: 8.201517
+result: <END> 就 是 刘 德 华 <END>, score: 8.260474
+result: <END> 应 该 是 刘 德 华 <END>, score: 8.439638
+result: <END> 刘 德 华 刘 德 华 。 <END>, score: 8.590363
+
+说 你 长 的 丑 你 还 美
+result: <END> 心 灵 美 才 是 真 的 美 <END>, score: 7.957426
+result: <END> 爱 美 之 心 人 皆 有 之 <END>, score: 8.860548
+result: <END> 心 灵 美 才 是 真 的 美 ! <END>, score: 9.004753
+result: <END> 心 灵 美 才 是 真 的 美 。 <END>, score: 9.141763
+result: <END> 心 灵 美 才 是 最 美 的 <END>, score: 9.472827
+
+你 去 吃 粑 粑
+result: <END> 想 吃 就 吃 呗 <END>, score: 7.860179
+result: <END> 你 想 吃 就 吃 <END>, score: 8.061906
+result: <END> 什 么 都 不 吃 <END>, score: 8.319281
+result: <END> 想 吃 就 吃 啊 <END>, score: 8.405729
+result: <END> 想 吃 就 吃 ! <END>, score: 8.456427
+
+那 些 出 来 好 了
+result: <END> 什 么 时 候 出 来 <END>, score: 8.522982
+result: <END> 什 么 时 候 出 来 ? <END>, score: 9.432555
+result: <END> 生 命 在 于 运 动 <END>, score: 9.654121
+result: <END> 什 么 时 候 出 来 的 ? <END>, score: 9.739828
+result: <END> 什 么 时 候 出 来 的 <END>, score: 9.760343
+
+家 里 突 然 没 电 了
+result: <END> 去 医 院 检 查 一 下 <END>, score: 9.191401
+result: <END> 去 医 院 检 查 下 吧 <END>, score: 9.955767
+result: <END> 去 医 院 检 查 下 。 <END>, score: 10.300908
+result: <END> 去 医 院 检 查 一 下 吧 <END>, score: 10.407683
+result: <END> 去 医 院 检 查 一 下 。 <END>, score: 10.549003
+
+家 里 黑 漆 漆 的
+result: <END> 当 然 是 黑 色 的 <END>, score: 9.291469
+result: <END> 应 该 是 黑 色 的 <END>, score: 9.306521
+result: <END> 黑 木 耳 黑 木 耳 <END>, score: 9.712707
+result: <END> 可 能 是 黑 色 的 <END>, score: 9.765197
+result: <END> 一 般 都 是 黑 色 的 <END>, score: 9.899023
+
+既 然 爱 我 那 就 跟 我 在 一 起 吧
+result: <END> 爱 一 个 人 不 一 定 要 在 一 起 。 <END>, score: 11.954334
+result: <END> 爱 一 个 人 不 一 定 要 在 一 起 ! <END>, score: 12.552308
+result: <END> 因 为 爱 所 以 爱 因 为 爱 所 以 爱 <END>, score: 12.749129
+result: <END> 爱 一 个 人 不 一 定 要 在 一 起 啊 <END>, score: 13.159828
+result: <END> 爱 一 个 人 不 一 定 非 要 在 一 起 <END>, score: 13.433341
+
+都 说 了 没 风
+result: <END> 心 静 自 然 凉 <END>, score: 6.338739
+result: <END> 心 静 自 然 凉 。 <END>, score: 8.366205
+result: <END> 去 医 院 看 看 <END>, score: 8.499528
+result: <END> 什 么 情 况 ? <END>, score: 8.579929
+result: <END> 什 么 意 思 ? <END>, score: 8.734067
+
+没 风 怎 么 放
+result: <END> 心 静 自 然 凉 <END>, score: 6.729425
+result: <END> 放 在 冰 箱 里 <END>, score: 7.633999
+result: <END> 去 医 院 看 看 <END>, score: 8.272727
+result: <END> 放 松 放 松 放 松 <END>, score: 8.651019
+result: <END> 心 静 自 然 凉 。 <END>, score: 8.900422
+
+没 有 止 疼 药
+result: <END> 去 医 院 看 看 <END>, score: 7.019773
+result: <END> 去 医 院 检 查 <END>, score: 8.103104
+result: <END> 是 药 三 分 毒 <END>, score: 8.141702
+result: <END> 去 医 院 检 查 下 <END>, score: 8.161813
+result: <END> 心 静 自 然 凉 <END>, score: 8.278774
+
+你 这 是 越 俎 代 庖
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 9.545362
+result: <END> 世 界 之 大 无 奇 不 有 。 <END>, score: 10.785870
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 11.008136
+result: <END> 本 来 就 是 这 样 的 <END>, score: 11.066661
+result: <END> 世 界 之 大 无 奇 不 有 ! <END>, score: 11.449012
+
+中 国 有 多 大
+result: <END> 9 6 万 平 方 公 里 <END>, score: 6.166023
+result: <END> 心 有 多 大 世 界 就 有 多 大 <END>, score: 6.460708
+result: <END> 3 6 万 平 方 公 里 <END>, score: 7.672838
+result: <END> 心 有 多 大 就 有 多 大 <END>, score: 7.676339
+result: <END> 很 大 很 大 。 <END>, score: 7.820425
+
+你 不 小 了 可 以 结 婚 了
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.177087
+result: <END> 为 什 么 不 可 以 结 婚 ? <END>, score: 10.934862
+result: <END> 为 什 么 不 可 以 结 婚 呢 <END>, score: 11.217782
+result: <END> 为 什 么 不 可 以 结 婚 呢 ? <END>, score: 11.558225
+result: <END> 不 可 以 这 样 对 身 体 不 好 <END>, score: 11.889921
+
+你 会 开 车 吗
+result: <END> 开 车 不 会 开 车 <END>, score: 7.158656
+result: <END> 当 然 不 会 了 <END>, score: 7.263642
+result: <END> 当 然 开 车 了 <END>, score: 7.590472
+result: <END> 开 车 肯 定 开 车 <END>, score: 7.682515
+result: <END> 开 车 就 开 车 <END>, score: 8.008816
+
+那 你 还 认 识 谁
+result: <END> 谁 都 不 认 识 谁 <END>, score: 8.098884
+result: <END> 什 么 都 不 认 识 <END>, score: 8.301314
+result: <END> 我 都 不 认 识 你 <END>, score: 8.326655
+result: <END> 谁 都 不 认 识 啊 <END>, score: 8.646314
+result: <END> 谁 都 不 认 识 ! <END>, score: 8.787728
+
+核 桃 好 吃 吗
+result: <END> 当 然 好 吃 了 <END>, score: 5.620567
+result: <END> 当 然 好 吃 啦 <END>, score: 6.435292
+result: <END> 当 然 好 吃 啊 <END>, score: 6.726182
+result: <END> 当 然 好 吃 。 <END>, score: 7.050423
+result: <END> 当 然 好 吃 了 。 <END>, score: 7.100445
+
+西 雅 图 有 什 么 好 玩 儿 的
+result: <END> 你 想 怎 么 玩 就 怎 么 玩 ! <END>, score: 11.757673
+result: <END> 你 想 怎 么 玩 就 怎 么 玩 。 <END>, score: 12.085481
+result: <END> 你 想 怎 么 玩 就 怎 么 玩 啊 <END>, score: 12.356862
+result: <END> 想 怎 么 玩 就 怎 么 玩 哈 哈 <END>, score: 12.541819
+result: <END> 自 己 喜 欢 的 就 是 最 好 的 <END>, score: 12.642305
+
+那 你 会 做 什 么 菜
+result: <END> 想 做 什 么 就 做 什 么 <END>, score: 8.142461
+result: <END> 做 自 己 喜 欢 做 的 事 <END>, score: 8.689871
+result: <END> 你 想 做 什 么 就 做 什 么 <END>, score: 8.896598
+result: <END> 做 你 喜 欢 做 的 事 <END>, score: 8.916967
+result: <END> 想 怎 么 做 就 怎 么 做 <END>, score: 9.035908
+
+你 嫁 我 可 好 ~
+result: <END> 自 己 喜 欢 就 好 <END>, score: 7.883314
+result: <END> 你 男 的 女 的 ? <END>, score: 8.175865
+result: <END> 只 要 你 喜 欢 就 好 <END>, score: 8.911431
+result: <END> 自 己 觉 得 好 就 好 <END>, score: 9.267915
+result: <END> 自 己 喜 欢 就 行 <END>, score: 9.332855
+
+你 有 兄 弟 姐 妹 吗
+result: <END> 我 没 有 兄 弟 兄 弟 <END>, score: 9.231082
+result: <END> 没 有 兄 弟 的 兄 弟 <END>, score: 9.327336
+result: <END> 兄 弟 没 有 兄 弟 兄 弟 <END>, score: 9.957005
+result: <END> 我 没 有 妹 妹 妹 妹 <END>, score: 10.122000
+result: <END> 没 有 兄 弟 没 有 兄 弟 <END>, score: 10.126287
+
+你 喜 欢 张 小 龙 吗
+result: <END> 喜 欢 因 为 我 喜 欢 <END>, score: 6.823476
+result: <END> 不 喜 欢 因 为 喜 欢 <END>, score: 7.939893
+result: <END> 我 喜 欢 非 常 喜 欢 <END>, score: 8.056505
+result: <END> 喜 欢 非 常 喜 欢 ! <END>, score: 8.143591
+result: <END> 喜 欢 ! 我 喜 欢 ! <END>, score: 8.185977
+
+来 和 我 聊 天
+result: <END> 我 陪 你 聊 天 <END>, score: 6.228777
+result: <END> 我 来 陪 你 聊 天 <END>, score: 6.603444
+result: <END> 我 和 你 聊 天 <END>, score: 7.506467
+result: <END> 我 跟 你 聊 天 <END>, score: 7.785883
+result: <END> 我 陪 你 聊 聊 天 <END>, score: 7.926972
+
+自 然 语 言 处 理
+result: <END> 生 命 在 于 运 动 <END>, score: 9.029774
+result: <END> 这 是 自 然 现 象 <END>, score: 9.754947
+result: <END> 去 医 院 检 查 下 <END>, score: 9.804038
+result: <END> 去 医 院 看 医 生 <END>, score: 9.829842
+result: <END> 这 是 自 然 规 律 <END>, score: 10.173102
+
+心 情 不 好 听 什 么
+result: <END> 伤 心 的 时 候 听 情 歌 <END>, score: 7.139427
+result: <END> 听 自 己 喜 欢 的 歌 <END>, score: 7.945997
+result: <END> 心 情 好 什 么 都 好 <END>, score: 7.991359
+result: <END> 伤 心 的 时 候 听 听 音 乐 <END>, score: 8.402204
+result: <END> 心 情 不 好 的 时 候 <END>, score: 8.435171
+
+电 影 不 好 看
+result: <END> 对 眼 睛 不 好 <END>, score: 6.252261
+result: <END> 好 看 不 好 看 <END>, score: 7.261841
+result: <END> 当 然 不 好 看 <END>, score: 7.281570
+result: <END> 非 常 不 好 看 <END>, score: 7.513102
+result: <END> 当 然 不 好 了 <END>, score: 7.573708
+
+不 喜 欢 看 小 说
+result: <END> 不 喜 欢 看 小 说 <END>, score: 7.449721
+result: <END> 我 喜 欢 看 小 说 <END>, score: 7.556759
+result: <END> 不 喜 欢 看 电 视 <END>, score: 8.550762
+result: <END> 非 常 不 喜 欢 看 <END>, score: 8.580218
+result: <END> 喜 欢 看 什 么 ? <END>, score: 8.589967
+
+背 首 诗 给 我
+result: <END> 什 么 意 思 ? <END>, score: 7.894582
+result: <END> 什 么 意 思 啊 <END>, score: 8.030911
+result: <END> 什 么 情 况 ? <END>, score: 9.013524
+result: <END> 什 么 意 思 啊 ? <END>, score: 9.224438
+result: <END> 去 医 院 看 看 <END>, score: 9.679788
+
+你 给 我 找 个 妹 子 聊
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 8.223806
+result: <END> 想 聊 什 么 就 聊 什 么 <END>, score: 9.142357
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 9.656775
+result: <END> 想 做 什 么 就 做 什 么 <END>, score: 9.721838
+result: <END> 我 可 以 陪 你 聊 聊 天 <END>, score: 10.369849
+
+轮 胎 坏 了 怎 么 办
+result: <END> 去 医 院 检 查 一 下 <END>, score: 7.876801
+result: <END> 到 医 院 检 查 一 下 <END>, score: 8.688942
+result: <END> 去 医 院 检 查 一 下 。 <END>, score: 9.314946
+result: <END> 去 医 院 检 查 检 查 <END>, score: 9.669202
+result: <END> 去 医 院 检 查 治 疗 <END>, score: 9.800622
+
+微 信 牛 逼 吗
+result: <END> 信 则 有 不 信 则 无 <END>, score: 6.951859
+result: <END> 不 信 你 试 试 <END>, score: 7.043372
+result: <END> 信 则 有 不 信 则 无 。 <END>, score: 7.921882
+result: <END> 信 则 有 不 信 则 无 ! <END>, score: 8.723346
+result: <END> 宁 可 信 其 有 不 可 信 其 无 <END>, score: 8.742316
+
+刘 小 宁 是 条 狗
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 10.042875
+result: <END> 我 认 为 是 小 狗 <END>, score: 10.301349
+result: <END> 我 知 道 我 知 道 <END>, score: 10.689280
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 11.028342
+result: <END> 是 一 个 中 国 人 <END>, score: 11.032123
+
+叶 良 辰 是 谁
+result: <END> 六 味 地 黄 丸 <END>, score: 8.703215
+result: <END> 没 有 科 学 依 据 <END>, score: 9.573673
+result: <END> 自 己 的 父 母 <END>, score: 10.088643
+result: <END> 爸 爸 妈 妈 。 <END>, score: 10.219874
+result: <END> 生 命 在 于 运 动 <END>, score: 10.376786
+
+贱 人 就 是 矫 情
+result: <END> 因 为 贱 所 以 贱 <END>, score: 8.098779
+result: <END> 人 之 初 性 本 善 <END>, score: 8.484888
+result: <END> 因 为 贱 所 以 贱 。 <END>, score: 9.955585
+result: <END> 因 为 贱 所 以 贱 ! <END>, score: 9.973725
+result: <END> 人 是 高 级 动 物 <END>, score: 10.219214
+
+床 上 躺 好 等 我
+result: <END> 你 男 的 女 的 ? <END>, score: 8.772359
+result: <END> 早 睡 早 起 身 体 好 <END>, score: 9.665104
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 9.761581
+result: <END> 睡 觉 是 最 好 的 <END>, score: 9.774112
+result: <END> 自 己 喜 欢 就 好 <END>, score: 9.779597
+
+日 日 日
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 4.989057
+result: <END> 日 日 一 日 <END>, score: 5.442327
+result: <END> 日 有 所 思 <END>, score: 6.499176
+result: <END> 一 日 三 日 <END>, score: 6.608582
+result: <END> 日 有 所 思 夜 有 所 梦 。 <END>, score: 6.663711
+
+你 喝 牛 奶
+result: <END> 喝 牛 奶 好 <END>, score: 6.151963
+result: <END> 喝 纯 牛 奶 <END>, score: 6.829832
+result: <END> 我 喜 欢 喝 <END>, score: 6.951746
+result: <END> 喝 牛 奶 吧 <END>, score: 7.191563
+result: <END> 喝 牛 奶 啊 <END>, score: 7.552328
+
+我 要 1 0 0 0 万 现 金
+result: <END> 0 . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 8.796076
+result: <END> 0 . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 8.835881
+result: <END> 0 . 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 9.027742
+result: <END> 0 . 0 0 0 0 0 0 0 <END>, score: 9.056913
+result: <END> 0 . 0 0 0 0 0 0 0 0 <END>, score: 9.087612
+
+不 想 起 床
+result: <END> 想 睡 就 睡 <END>, score: 6.468393
+result: <END> 早 睡 早 起 <END>, score: 7.096873
+result: <END> 那 就 不 起 <END>, score: 7.518566
+result: <END> 不 想 起 床 <END>, score: 7.625306
+result: <END> 那 就 睡 吧 <END>, score: 7.635736
+
+那 买 什 么 车 好
+result: <END> 卖 电 脑 的 地 方 <END>, score: 8.700983
+result: <END> 买 电 脑 的 地 方 <END>, score: 9.398876
+result: <END> 适 合 自 己 的 最 好 <END>, score: 9.768820
+result: <END> 适 合 自 己 的 就 是 最 好 的 <END>, score: 9.771482
+result: <END> 自 己 喜 欢 的 最 好 <END>, score: 9.788783
+
+猪 八 戒 照 镜 子
+result: <END> 没 有 这 种 说 法 <END>, score: 10.421418
+result: <END> 应 该 是 可 以 的 <END>, score: 10.551270
+result: <END> 你 想 问 什 么 ? <END>, score: 10.678916
+result: <END> 应 该 可 以 吧 ! <END>, score: 10.727751
+result: <END> 应 该 不 会 吧 ! <END>, score: 10.775004
+
+唐 僧 话 太 多
+result: <END> 什 么 意 思 ? <END>, score: 9.010025
+result: <END> 你 多 大 了 ? <END>, score: 9.040403
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 9.193541
+result: <END> 什 么 意 思 啊 <END>, score: 9.371197
+result: <END> 应 该 不 会 吧 <END>, score: 9.946068
+
+打 印 机 坏 了
+result: <END> 对 眼 睛 不 好 <END>, score: 8.298098
+result: <END> 对 身 体 不 好 <END>, score: 8.396670
+result: <END> 内 分 泌 失 调 <END>, score: 8.770215
+result: <END> 去 医 院 看 看 <END>, score: 9.233621
+result: <END> 去 医 院 检 查 <END>, score: 9.281952
+
+中 午 要 午 休 了
+result: <END> 午 休 半 个 小 时 <END>, score: 7.016871
+result: <END> 午 休 1 个 小 时 <END>, score: 7.443689
+result: <END> 午 休 一 个 午 休 <END>, score: 7.975808
+result: <END> 午 休 午 午 午 休 <END>, score: 8.033484
+result: <END> 应 该 是 午 休 吧 <END>, score: 8.062423
+
+咖 啡 机
+result: <END> 咖 啡 提 神 <END>, score: 6.149179
+result: <END> 咖 啡 咖 啡 <END>, score: 6.377095
+result: <END> 咖 啡 不 错 <END>, score: 6.597997
+result: <END> 有 咖 啡 因 <END>, score: 6.725307
+result: <END> 咖 啡 因 人 而 异 <END>, score: 7.254560
+
+我 有 个 好 消 息
+result: <END> 可 以 消 除 疲 劳 <END>, score: 9.310440
+result: <END> 只 有 你 自 己 知 道 <END>, score: 9.376125
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.390502
+result: <END> 你 想 问 什 么 ? <END>, score: 9.448261
+result: <END> 没 有 什 么 好 处 <END>, score: 9.574515
+
+聊 着 天 喝 着 酒
+result: <END> 借 酒 消 愁 愁 更 愁 <END>, score: 8.162211
+result: <END> 酒 不 醉 人 人 自 醉 <END>, score: 8.356425
+result: <END> 想 点 开 心 的 事 <END>, score: 8.470102
+result: <END> 喝 酒 可 以 解 酒 <END>, score: 8.508534
+result: <END> 可 以 听 听 音 乐 <END>, score: 8.549768
+
+那 你 到 底 被 强 奸 没 有
+result: <END> 世 界 之 大 无 奇 不 有 。 <END>, score: 10.034609
+result: <END> 世 界 之 大 无 奇 不 有 ! <END>, score: 10.482212
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 11.238981
+result: <END> 世 界 之 大 无 奇 不 有 啊 <END>, score: 11.488278
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 11.503150
+
+明 天 周 五 啦
+result: <END> 心 静 自 然 凉 <END>, score: 7.947353
+result: <END> 什 么 意 思 ? <END>, score: 9.210924
+result: <END> 什 么 意 思 啊 <END>, score: 9.294006
+result: <END> 去 医 院 看 看 <END>, score: 9.454411
+result: <END> 这 是 自 然 规 律 <END>, score: 9.595762
+
+拉 倒 吧 ， 你 就 是 坏 银
+result: <END> 男 人 不 坏 女 人 不 爱 。 <END>, score: 10.321452
+result: <END> 男 人 不 坏 女 人 不 爱 ! <END>, score: 10.365009
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 11.739171
+result: <END> 男 人 不 坏 女 人 不 爱 啊 <END>, score: 12.327379
+result: <END> 你 是 男 的 还 是 女 的 啊 <END>, score: 13.006461
+
+今 天 出 差
+result: <END> 一 个 星 期 <END>, score: 7.578027
+result: <END> 内 分 泌 失 调 <END>, score: 8.270450
+result: <END> 新 陈 代 谢 <END>, score: 8.382476
+result: <END> 天 气 问 题 <END>, score: 8.421595
+result: <END> 自 然 规 律 <END>, score: 8.595129
+
+灯 好 暗
+result: <END> 喜 欢 就 好 <END>, score: 7.382108
+result: <END> 心 静 自 然 凉 <END>, score: 7.624353
+result: <END> 闭 上 眼 睛 <END>, score: 7.857467
+result: <END> 对 眼 睛 不 好 <END>, score: 8.427953
+result: <END> 日 有 所 思 夜 有 所 梦 <END>, score: 8.625493
+
+聚 餐 一 起 吧
+result: <END> 可 以 一 起 吃 <END>, score: 8.846888
+result: <END> 什 么 意 思 啊 <END>, score: 9.555292
+result: <END> 什 么 意 思 ? <END>, score: 9.636760
+result: <END> 对 身 体 不 好 <END>, score: 9.943774
+result: <END> 应 该 可 以 吧 <END>, score: 10.177301
+
+躺 床 上 看 电 视
+result: <END> 裸 睡 对 身 体 好 <END>, score: 8.750813
+result: <END> 闭 着 眼 睛 睡 觉 <END>, score: 9.230584
+result: <END> 裸 睡 对 身 体 不 好 <END>, score: 9.279668
+result: <END> 对 眼 睛 不 好 。 <END>, score: 9.650692
+result: <END> 裸 睡 对 身 体 有 好 处 <END>, score: 9.724630
+
+小 微 你 很 骚 啊
+result: <END> 你 想 问 什 么 ? <END>, score: 10.014763
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.743339
+result: <END> 很 多 人 都 这 样 <END>, score: 10.999848
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 11.022239
+result: <END> 什 么 意 思 啊 ? <END>, score: 11.024059
+
+看 来 不 错 ， 适 合 外 出 吗
+result: <END> 适 合 自 己 的 就 是 最 好 的 <END>, score: 11.964771
+result: <END> 不 可 以 这 样 对 身 体 不 好 <END>, score: 12.071973
+result: <END> 当 然 不 好 了 对 身 体 不 好 <END>, score: 12.077983
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 <END>, score: 12.159192
+result: <END> 当 然 不 行 了 对 身 体 不 好 <END>, score: 12.232031
+
+你 有 平 板 电 脑 吗
+result: <END> 有 的 有 有 的 没 有 <END>, score: 10.643593
+result: <END> 有 啊 在 电 脑 旁 边 <END>, score: 10.866321
+result: <END> 没 有 科 学 依 据 。 <END>, score: 10.915241
+result: <END> 没 有 科 学 依 据 的 <END>, score: 10.956679
+result: <END> 有 啊 很 多 人 都 有 <END>, score: 11.392130
+
+我 想 去 广 州
+result: <END> 那 就 去 广 州 吧 <END>, score: 8.448164
+result: <END> 那 就 去 广 州 <END>, score: 8.480587
+result: <END> 可 以 去 广 州 <END>, score: 8.824328
+result: <END> 去 广 州 吧 ! <END>, score: 8.940108
+result: <END> 那 就 去 广 州 啊 <END>, score: 9.039802
+
+你 们 那 现 在 几 点 了
+result: <END> 早 晨 6 点 到 早 晨 6 点 <END>, score: 11.728681
+result: <END> 在 我 们 生 活 的 时 候 <END>, score: 12.126114
+result: <END> 我 们 在 一 起 的 时 候 <END>, score: 12.314721
+result: <END> 早 晨 6 点 到 晚 6 点 <END>, score: 12.550127
+result: <END> 天 知 地 知 你 知 我 知 <END>, score: 12.576611
+
+什 么 时 候 过 年
+result: <END> 过 年 的 时 候 。 <END>, score: 7.387884
+result: <END> 未 成 年 的 时 候 <END>, score: 7.649428
+result: <END> 过 了 就 是 过 年 <END>, score: 7.793264
+result: <END> 心 情 好 的 时 候 <END>, score: 7.938347
+result: <END> 过 年 的 时 候 ! <END>, score: 8.070784
+
+待 会 儿 就 把 那 人 给 杀 了
+result: <END> 人 死 了 就 什 么 都 没 有 了 <END>, score: 14.001430
+result: <END> 那 要 看 是 什 么 样 的 人 了 <END>, score: 14.123042
+result: <END> 保 护 好 自 己 的 身 体 健 康 <END>, score: 14.420035
+result: <END> 这 是 人 的 正 常 生 理 现 象 <END>, score: 14.532440
+result: <END> 人 死 了 就 什 么 都 没 了 。 <END>, score: 14.587104
+
+小 微 你 懂 哲 学 吗
+result: <END> 没 有 科 学 依 据 。 <END>, score: 9.808433
+result: <END> 每 个 人 都 不 一 样 <END>, score: 10.213993
+result: <END> 没 有 科 学 依 据 的 <END>, score: 10.274848
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 10.486224
+result: <END> 没 有 科 学 依 据 ! <END>, score: 10.643571
+
+我 去 洗 澡 ， 一 会 再 聊
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.663046
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 11.349857
+result: <END> 最 好 去 医 院 检 查 一 下 <END>, score: 12.008273
+result: <END> 你 是 男 的 还 是 女 的 啊 <END>, score: 12.467476
+result: <END> 你 试 试 不 就 知 道 了 。 <END>, score: 12.556480
+
+洗 干 净 了 没
+result: <END> 洗 干 净 再 洗 <END>, score: 6.820216
+result: <END> 洗 干 净 了 。 <END>, score: 7.415234
+result: <END> 洗 洗 更 健 康 <END>, score: 7.627984
+result: <END> 可 以 洗 干 净 <END>, score: 7.832068
+result: <END> 洗 干 净 不 干 净 <END>, score: 7.833145
+
+北 京 天 气
+result: <END> 天 气 问 题 <END>, score: 8.371288
+result: <END> 天 气 变 化 <END>, score: 8.605542
+result: <END> 天 气 预 报 <END>, score: 8.786393
+result: <END> 新 陈 代 谢 <END>, score: 8.812266
+result: <END> 春 天 来 了 <END>, score: 8.928699
+
+你 会 打 乒 乓 球 吗
+result: <END> 不 会 因 为 我 会 打 球 <END>, score: 10.301234
+result: <END> 不 会 的 我 会 打 球 <END>, score: 10.903709
+result: <END> 不 会 我 会 打 球 。 <END>, score: 10.946024
+result: <END> 不 会 因 为 我 不 会 <END>, score: 11.136933
+result: <END> 不 会 。 我 会 打 球 <END>, score: 11.167715
+
+厉 害 个 锤 子
+result: <END> 厉 害 的 厉 害 <END>, score: 8.728321
+result: <END> 非 常 厉 害 。 <END>, score: 9.403410
+result: <END> 非 常 厉 害 ! <END>, score: 9.417770
+result: <END> 当 然 厉 害 了 <END>, score: 9.452356
+result: <END> 锤 子 厉 害 ! <END>, score: 9.620687
+
+我 还 没 有 喜 欢 的 人 呢
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 10.640354
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.815227
+result: <END> 每 个 人 都 有 自 己 的 喜 好 <END>, score: 10.915899
+result: <END> 有 的 人 喜 欢 有 的 人 不 喜 欢 <END>, score: 10.942104
+result: <END> 每 个 人 都 有 喜 欢 的 人 <END>, score: 11.143824
+
+世 界 第 一 高 峰
+result: <END> 世 界 之 大 无 奇 不 有 <END>, score: 7.529165
+result: <END> 是 珠 穆 朗 玛 峰 <END>, score: 7.843927
+result: <END> 珠 穆 朗 玛 峰 。 <END>, score: 7.967105
+result: <END> 珠 穆 朗 玛 峰 ! <END>, score: 8.231531
+result: <END> 当 然 是 珠 穆 朗 玛 峰 了 <END>, score: 9.006363
+
+我 的 意 思 是 你 废 话 多
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 10.274565
+result: <END> 你 的 意 思 是 什 么 意 思 <END>, score: 10.849781
+result: <END> 你 的 意 思 是 什 么 意 思 ? <END>, score: 11.065367
+result: <END> 每 个 人 都 是 不 一 样 的 <END>, score: 11.583528
+result: <END> 你 问 的 是 什 么 意 思 ? <END>, score: 11.661094
+
+这 种 心 理 的 折 磨 让 我 生 不 如 死
+result: <END> 心 态 决 定 一 切 顺 其 自 然 就 好 了 <END>, score: 14.927527
+result: <END> 生 老 病 死 自 然 规 律 无 法 改 变 。 <END>, score: 14.927679
+result: <END> 生 老 病 死 是 自 然 规 律 无 法 改 变 <END>, score: 15.454753
+result: <END> 心 态 决 定 一 切 顺 其 自 然 就 好 。 <END>, score: 15.479190
+result: <END> 生 老 病 死 是 自 然 规 律 无 法 改 变 的 <END>, score: 15.547370
+
+我 昨 天 和 女 朋 友 分 手 了
+result: <END> 请 问 你 是 男 的 还 是 女 的 <END>, score: 12.229786
+result: <END> 你 是 男 人 还 是 女 朋 友 ? <END>, score: 12.493108
+result: <END> 请 问 你 是 男 的 还 是 女 的 ? <END>, score: 12.594144
+result: <END> 你 是 男 的 女 的 还 是 女 的 <END>, score: 12.636274
+result: <END> 你 是 男 的 还 是 女 的 啊 ? <END>, score: 12.918603
+
+我 今 天 和 女 朋 友 和 好 了
+result: <END> 女 朋 友 和 女 朋 友 在 一 起 <END>, score: 12.172818
+result: <END> 只 要 心 情 好 什 么 都 好 。 <END>, score: 12.674886
+result: <END> 女 朋 友 和 女 朋 友 谈 恋 爱 <END>, score: 12.751339
+result: <END> 只 要 心 情 好 什 么 都 好 ! <END>, score: 12.756497
+result: <END> 每 个 人 都 有 自 己 的 好 处 <END>, score: 13.019913
+
+我 把 朋 友 老 婆 睡 了 咋 办
+result: <END> 找 个 女 朋 友 就 可 以 了 。 <END>, score: 12.284714
+result: <END> 找 个 女 朋 友 好 好 睡 一 觉 <END>, score: 12.500457
+result: <END> 睡 前 喝 杯 热 牛 奶 有 助 睡 眠 <END>, score: 12.786938
+result: <END> 睡 前 喝 杯 热 牛 奶 有 助 于 睡 眠 <END>, score: 12.976217
+result: <END> 最 好 的 办 法 就 是 去 睡 觉 <END>, score: 13.061320
+
+有 个 女 人 把 我 睡 了
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 9.300354
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 9.903214
+result: <END> 你 是 男 人 还 是 女 人 <END>, score: 9.928981
+result: <END> 是 男 人 还 是 女 人 ? <END>, score: 10.179881
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 10.182594
+
+天 天 坐 公 交 回 家
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 10.843691
+result: <END> 你 是 男 的 还 是 女 的 <END>, score: 10.918776
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 11.208135
+result: <END> 一 个 月 就 可 以 了 <END>, score: 11.426717
+result: <END> 你 想 问 什 么 啊 ? <END>, score: 11.482223
+
+年 会 发 了 个 手 机
+result: <END> 建 议 你 去 看 医 生 <END>, score: 10.340035
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 10.375893
+result: <END> 有 的 会 有 的 不 会 <END>, score: 10.408767
+result: <END> 建 议 去 医 院 看 看 <END>, score: 10.793623
+result: <END> 建 议 你 去 医 院 看 看 <END>, score: 10.946439
+
+我 要 娶 个 美 国 妞
+result: <END> 只 要 你 喜 欢 就 行 <END>, score: 8.397301
+result: <END> 自 己 喜 欢 的 就 行 <END>, score: 9.069923
+result: <END> 爱 美 之 心 人 皆 有 之 <END>, score: 9.175470
+result: <END> 自 己 喜 欢 就 可 以 了 <END>, score: 9.394958
+result: <END> 自 己 喜 欢 就 行 了 <END>, score: 9.522069
+
+过 年 太 没 意 思 了
+result: <END> 过 了 就 没 意 思 了 <END>, score: 8.028253
+result: <END> 过 年 就 没 意 思 了 <END>, score: 8.991879
+result: <END> 过 了 就 没 意 思 了 。 <END>, score: 9.756418
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 9.799727
+result: <END> 过 年 了 就 没 意 思 了 <END>, score: 10.020086
+
+我 明 天 去 理 发
+result: <END> 去 医 院 看 医 生 <END>, score: 7.281151
+result: <END> 去 医 院 看 看 吧 <END>, score: 7.690166
+result: <END> 去 医 院 看 看 。 <END>, score: 8.181651
+result: <END> 去 医 院 检 查 下 <END>, score: 8.289195
+result: <END> 去 医 院 检 查 一 下 <END>, score: 8.369079
+
+你 害 怕 什 么
+result: <END> 什 么 都 不 怕 <END>, score: 6.902542
+result: <END> 害 人 害 己 。 <END>, score: 7.065700
+result: <END> 对 身 体 不 好 <END>, score: 7.903255
+result: <END> 害 人 害 己 ! <END>, score: 8.069129
+result: <END> 有 害 身 体 健 康 <END>, score: 8.162221
+
+我 们 一 起 玩 吧
+result: <END> 想 怎 么 玩 就 怎 么 玩 <END>, score: 7.913630
+result: <END> 你 想 怎 么 玩 就 怎 么 玩 <END>, score: 8.696186
+result: <END> 该 怎 么 玩 就 怎 么 玩 <END>, score: 8.772764
+result: <END> 一 点 都 不 好 玩 <END>, score: 8.980720
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.205945
+
+你 丫 话 太 多
+result: <END> 什 么 意 思 啊 <END>, score: 8.465655
+result: <END> 你 多 大 了 ? <END>, score: 8.560647
+result: <END> 什 么 意 思 ? <END>, score: 8.577732
+result: <END> 什 么 意 思 啊 ? <END>, score: 9.297143
+result: <END> 你 想 问 什 么 ? <END>, score: 9.483346
+
+有 人 生 病 了
+result: <END> 去 医 院 看 看 <END>, score: 6.919565
+result: <END> 抵 抗 力 下 降 <END>, score: 7.029638
+result: <END> 免 疫 力 下 降 <END>, score: 7.204677
+result: <END> 抵 抗 力 下 降 。 <END>, score: 8.586421
+result: <END> 去 医 院 看 看 吧 <END>, score: 8.609080
+
+空 气 清 新 环 境 好
+result: <END> 建 议 去 医 院 看 看 <END>, score: 10.340420
+result: <END> 空 气 清 新 空 气 。 <END>, score: 10.554175
+result: <END> 建 议 你 去 医 院 看 看 <END>, score: 10.620290
+result: <END> 建 议 你 去 看 医 生 <END>, score: 11.125567
+result: <END> 什 么 时 候 都 不 好 <END>, score: 11.131895
+
+我 回 家 了
+result: <END> 什 么 意 思 <END>, score: 7.863412
+result: <END> 什 么 情 况 <END>, score: 8.322275
+result: <END> 什 么 情 况 ? <END>, score: 8.385919
+result: <END> 去 医 院 看 看 <END>, score: 8.396499
+result: <END> 那 就 回 家 <END>, score: 8.408542
+
+你 知 道 形 而 上 吗
+result: <END> 信 则 有 不 信 则 无 <END>, score: 7.623959
+result: <END> 信 则 有 不 信 则 无 。 <END>, score: 8.622620
+result: <END> 信 则 有 不 信 则 无 ! <END>, score: 9.253891
+result: <END> 你 说 的 是 什 么 ? <END>, score: 9.467354
+result: <END> 你 想 知 道 什 么 ? <END>, score: 9.799280
+
+我 在 开 会 呢
+result: <END> 开 心 就 开 心 <END>, score: 7.122299
+result: <END> 开 心 就 会 开 心 <END>, score: 7.693456
+result: <END> 开 了 就 开 了 <END>, score: 8.185252
+result: <END> 开 心 就 开 心 了 <END>, score: 8.300064
+result: <END> 想 开 心 的 事 <END>, score: 8.309996
+
+元 宵 节 怎 么 过
+result: <END> 想 怎 么 过 就 怎 么 过 <END>, score: 5.523884
+result: <END> 想 怎 么 过 就 怎 么 过 。 <END>, score: 7.565817
+result: <END> 你 想 怎 么 过 就 怎 么 过 <END>, score: 7.599755
+result: <END> 和 家 人 一 起 过 <END>, score: 7.672241
+result: <END> 想 怎 么 过 就 怎 么 过 ! <END>, score: 7.937238
+
+你 脑 子 有 屎
+result: <END> 什 么 意 思 ? <END>, score: 8.260251
+result: <END> 脑 子 有 问 题 <END>, score: 8.607267
+result: <END> 每 个 人 都 有 <END>, score: 8.896951
+result: <END> 什 么 意 思 啊 <END>, score: 8.989174
+result: <END> 你 想 问 什 么 ? <END>, score: 9.677750
+
+被 妈 妈 打 了 一 下
+result: <END> 去 医 院 检 查 一 下 <END>, score: 7.856296
+result: <END> 去 医 院 检 查 一 下 。 <END>, score: 9.352465
+result: <END> 去 医 院 检 查 下 。 <END>, score: 9.907572
+result: <END> 去 医 院 检 查 一 下 ! <END>, score: 10.038008
+result: <END> 去 医 院 检 查 一 下 吧 <END>, score: 10.039506
+
+我 肏 你 全 家
+result: <END> 我 来 告 诉 你 <END>, score: 8.814418
+result: <END> 我 不 告 诉 你 <END>, score: 9.077653
+result: <END> 你 想 问 什 么 ? <END>, score: 9.129594
+result: <END> 我 不 认 识 你 <END>, score: 9.147907
+result: <END> 什 么 意 思 ? <END>, score: 9.255028
+
+狂 欢 周
+result: <END> 新 陈 代 谢 <END>, score: 8.109794
+result: <END> 因 人 而 异 <END>, score: 8.202451
+result: <END> 一 个 星 期 <END>, score: 8.445340
+result: <END> 心 静 自 然 凉 <END>, score: 8.582539
+result: <END> 自 然 规 律 <END>, score: 8.598864
+
+一 加 一 等 于 几
+result: <END> 一 加 一 等 于 二 <END>, score: 7.541570
+result: <END> 一 加 一 等 于 一 <END>, score: 8.467509
+result: <END> 一 加 一 等 于 2 <END>, score: 8.530683
+result: <END> 一 个 等 于 一 个 <END>, score: 8.736281
+result: <END> 你 想 问 什 么 ? <END>, score: 8.777346
+
+不 和 你 聊 了 我 得 干 活 了
+result: <END> 找 朋 友 聊 聊 天 玩 玩 游 戏 <END>, score: 11.971009
+result: <END> 聊 聊 天 玩 玩 游 戏 聊 聊 天 <END>, score: 12.039143
+result: <END> 找 朋 友 聊 聊 天 啊 聊 聊 天 <END>, score: 12.162234
+result: <END> 做 自 己 想 做 的 事 就 行 了 <END>, score: 12.228330
+result: <END> 做 自 己 喜 欢 做 的 事 情 。 <END>, score: 12.274115
+
+不 和 你 聊 了 写 作 业 去 了
+result: <END> 你 想 做 什 么 就 做 什 么 啊 <END>, score: 12.171783
+result: <END> 做 自 己 喜 欢 的 事 就 行 了 <END>, score: 12.264416
+result: <END> 做 自 己 想 做 的 事 就 行 了 <END>, score: 12.289181
+result: <END> 想 做 什 么 就 做 什 么 啊 ! <END>, score: 12.408155
+result: <END> 出 去 走 走 找 朋 友 聊 聊 天 <END>, score: 12.679775
+
+不 可 能 ， 你 绝 对 有 腹 黑 属 性
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 。 <END>, score: 12.506340
+result: <END> 不 可 以 因 为 这 样 对 身 体 不 好 <END>, score: 12.765582
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 ! <END>, score: 13.388676
+result: <END> 绝 对 不 可 以 这 样 对 身 体 不 好 <END>, score: 13.405051
+result: <END> 当 然 不 可 以 这 样 对 身 体 不 好 <END>, score: 13.836077
+
+不 老 实 交 代 拉 你 出 去 枪 毙
+result: <END> 去 医 院 检 查 一 下 就 知 道 了 <END>, score: 13.558954
+result: <END> 去 医 院 检 查 一 下 不 就 知 道 了 <END>, score: 14.192159
+result: <END> 去 医 院 检 查 下 不 就 知 道 了 <END>, score: 14.585685
+result: <END> 去 医 院 检 查 一 下 就 知 道 了 。 <END>, score: 14.753641
+result: <END> 去 医 院 检 查 下 就 知 道 了 。 <END>, score: 15.037000
+
+不 是 说 法 律 吗
+result: <END> 当 然 不 是 了 。 <END>, score: 8.798961
+result: <END> 当 然 不 是 了 ! <END>, score: 9.664240
+result: <END> 你 说 的 是 什 么 <END>, score: 9.725351
+result: <END> 当 然 不 是 啦 ! <END>, score: 9.791993
+result: <END> 当 然 不 是 啦 。 <END>, score: 9.828721
+
+不 说 实 话 我 早 晚 让 你 害 死
+result: <END> 睡 前 喝 杯 牛 奶 有 助 于 睡 眠 <END>, score: 13.264548
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 <END>, score: 13.873541
+result: <END> 对 身 体 不 好 影 响 身 体 健 康 <END>, score: 13.961895
+result: <END> 日 有 所 思 夜 有 所 梦 不 必 担 心 <END>, score: 14.421202
+result: <END> 对 身 体 不 好 有 害 身 体 健 康 <END>, score: 14.441010
+
+不 是 傻 子 怎 么 会 把 衣 服 穿 反
+result: <END> 不 穿 衣 服 就 不 会 穿 衣 服 了 。 <END>, score: 14.702221
+result: <END> 你 不 穿 衣 服 就 不 会 穿 衣 服 了 <END>, score: 15.193451
+result: <END> 不 穿 衣 服 就 不 会 穿 衣 服 了 ! <END>, score: 15.349213
+result: <END> 如 果 不 穿 衣 服 就 不 穿 衣 服 了 <END>, score: 15.991408
+result: <END> 如 果 你 不 穿 衣 服 就 不 会 穿 衣 服 了 <END>, score: 16.007936
+
+不 是 喜 欢 用 毒 蛐 我 吗
+result: <END> 不 喜 欢 因 为 我 不 喜 欢 <END>, score: 10.650369
+result: <END> 我 不 喜 欢 因 为 我 喜 欢 <END>, score: 10.798180
+result: <END> 不 是 所 有 的 人 都 喜 欢 <END>, score: 10.872205
+result: <END> 不 喜 欢 因 为 不 喜 欢 。 <END>, score: 11.298434
+result: <END> 不 喜 欢 因 为 你 不 喜 欢 <END>, score: 11.327115
+
+不 是 哑 巴 就 说 一 句 话 咯
+result: <END> 哑 巴 不 是 哑 巴 是 哑 巴 。 <END>, score: 12.184767
+result: <END> 每 个 人 都 有 自 己 的 语 言 <END>, score: 12.420487
+result: <END> 哑 巴 不 是 哑 巴 是 哑 巴 ! <END>, score: 12.961097
+result: <END> 不 是 只 是 一 种 习 惯 而 已 <END>, score: 13.003418
+result: <END> 哑 巴 不 是 哑 巴 不 是 哑 巴 <END>, score: 13.143996
+
+不 是 一 直 是 你 带 我 混 的 吗 ？
+result: <END> 每 个 人 都 有 自 己 的 生 活 方 式 <END>, score: 13.509463
+result: <END> 每 个 人 都 有 自 己 的 生 活 习 惯 <END>, score: 14.105852
+result: <END> 不 是 的 只 是 一 种 习 惯 而 已 。 <END>, score: 14.564112
+result: <END> 每 个 人 都 有 自 己 的 生 活 方 式 。 <END>, score: 14.801332
+result: <END> 每 个 人 都 有 自 己 的 生 存 方 式 <END>, score: 14.962426
+
+猜 我 心 中 所 想 的 人 物
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 10.509768
+result: <END> 因 为 所 以 科 学 道 理 。 <END>, score: 11.100187
+result: <END> 因 为 所 以 科 学 道 理 ! <END>, score: 11.358089
+result: <END> 你 是 男 人 还 是 女 人 啊 <END>, score: 11.444862
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 11.849613
+
+猜 我 有 没 有 在 谈 恋 爱
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.805391
+result: <END> 没 有 只 有 你 自 己 知 道 <END>, score: 11.614252
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 11.797578
+result: <END> 没 有 只 是 你 没 有 发 现 <END>, score: 11.960417
+result: <END> 你 是 男 的 还 是 女 的 。 <END>, score: 12.311777
+
+才 发 现 爱 情 竟 是 一 场 考 验
+result: <END> 爱 情 是 一 种 很 奇 妙 的 东 西 <END>, score: 12.894163
+result: <END> 爱 情 是 一 种 很 奇 妙 的 感 觉 <END>, score: 13.201914
+result: <END> 因 为 爱 所 以 爱 因 为 爱 所 以 爱 <END>, score: 13.674209
+result: <END> 爱 情 就 像 一 场 游 戏 一 场 梦 <END>, score: 13.783393
+result: <END> 爱 情 是 世 界 上 最 好 的 东 西 <END>, score: 14.004569
+
+才 给 我 买 了 五 千 多 的 首 饰 ， 没 有 镯 子
+result: <END> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 19.291844
+result: <END> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 19.653022
+result: <END> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 20.215554
+result: <END> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 毫 升 <END>, score: 21.187713
+result: <END> 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 <END>, score: 21.213127
+
+才 工 作 了 半 年 左 右 就 换 来 换 去
+result: <END> 你 是 男 的 还 是 女 的 还 是 女 的 ? <END>, score: 16.168544
+result: <END> 你 是 男 的 还 是 男 的 还 是 女 的 ? <END>, score: 16.556014
+result: <END> 每 个 人 都 有 自 己 的 生 活 方 式 。 <END>, score: 16.775168
+result: <END> 这 是 正 常 的 生 理 现 象 不 用 担 心 <END>, score: 16.838006
+result: <END> 换 新 的 不 换 新 的 不 换 新 的 不 来 <END>, score: 16.922281
+
+才 华 横 溢 就 是 形 容 我 。
+result: <END> 这 是 正 常 的 生 理 现 象 。 <END>, score: 13.649771
+result: <END> 你 的 意 思 是 什 么 意 思 ? <END>, score: 13.897062
+result: <END> 每 个 人 都 有 自 己 的 位 置 <END>, score: 14.060043
+result: <END> 你 说 的 是 什 么 意 思 啊 ? <END>, score: 14.064362
+result: <END> 你 说 的 是 哪 个 方 面 的 ? <END>, score: 14.154552
+
+财 迷 个 大 头 鬼
+result: <END> 信 则 有 不 信 则 无 <END>, score: 7.201461
+result: <END> 当 然 是 迷 信 了 <END>, score: 8.504319
+result: <END> 信 则 有 不 信 则 无 。 <END>, score: 8.518176
+result: <END> 信 则 有 不 信 则 无 ! <END>, score: 8.800602
+result: <END> 没 有 科 学 依 据 <END>, score: 8.847553
+
+踩 着 七 彩 祥 云 去 娶 你
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 12.076287
+result: <END> 走 自 己 的 路 让 别 人 去 说 <END>, score: 12.299954
+result: <END> 想 怎 么 办 就 怎 么 办 。 <END>, score: 12.549898
+result: <END> 你 想 怎 么 办 就 怎 么 办 <END>, score: 12.780458
+result: <END> 想 怎 么 办 就 怎 么 办 ! <END>, score: 12.811825
+
+采 桑 归 西 露 沾 我 衣 。
+result: <END> 你 是 男 的 还 是 女 的 ? <END>, score: 10.570652
+result: <END> 你 是 男 人 还 是 女 人 ? <END>, score: 12.284952
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 12.408664
+result: <END> 最 好 去 医 院 检 查 一 下 <END>, score: 12.830160
+result: <END> 你 是 男 的 还 是 女 的 啊 <END>, score: 13.027687
+
+蔡 港 林 是 备 胎
+result: <END> 去 医 院 检 查 下 <END>, score: 10.879970
+result: <END> 去 医 院 检 查 一 下 <END>, score: 11.049412
+result: <END> 每 个 地 方 都 有 <END>, score: 11.230903
+result: <END> 这 个 没 听 说 过 <END>, score: 11.279960
+result: <END> 是 胎 儿 的 胎 儿 <END>, score: 11.318108
+
+蔡 伟 聪 ， 我 喜 欢 你
+result: <END> 好 好 学 习 天 天 向 上 <END>, score: 9.556301
+result: <END> 喜 欢 你 的 人 喜 欢 你 <END>, score: 10.947195
+result: <END> 好 好 学 习 天 天 向 上 ! <END>, score: 11.236520
+result: <END> 你 喜 欢 我 就 喜 欢 你 <END>, score: 11.261658
+result: <END> 只 要 自 己 喜 欢 就 行 <END>, score: 11.305885
+
+蔡 伟 这 个 娘 娘 腔 。
+result: <END> 窈 窕 淑 女 君 子 好 逑 <END>, score: 9.923030
+result: <END> 窈 窕 淑 女 君 子 好 逑 。 <END>, score: 11.031320
+result: <END> 窈 窕 淑 女 君 子 好 逑 ! <END>, score: 11.301887
+result: <END> 窈 窕 淑 女 娘 娘 娘 娘 <END>, score: 11.929401
+result: <END> 每 个 人 都 有 自 己 的 名 字 <END>, score: 12.340700
+
+参 加 别 人 的 婚 礼 好 感 慨
+result: <END> 适 合 自 己 的 才 是 最 好 的 <END>, score: 11.442840
+result: <END> 适 合 自 己 的 就 是 最 好 的 <END>, score: 11.669989
+result: <END> 适 合 自 己 的 才 是 最 好 的 。 <END>, score: 12.672247
+result: <END> 你 是 男 的 女 的 还 是 女 的 <END>, score: 12.701698
+result: <END> 自 己 喜 欢 的 就 是 最 好 的 <END>, score: 12.710895
+
+参 见 陛 下 ， 微 臣 有 礼 了
+result: <END> 去 医 院 看 看 就 知 道 了 。 <END>, score: 12.568514
+result: <END> 去 医 院 看 看 不 就 知 道 了 <END>, score: 12.696679
+result: <END> 请 问 你 是 男 的 还 是 女 的 <END>, score: 12.725178
+result: <END> 请 问 你 是 男 孩 还 是 女 孩 <END>, score: 12.985538
+result: <END> 请 问 你 是 男 的 还 是 女 的 ? <END>, score: 13.041226
+
+苍 井 空 和 波 多 野 结 衣 更 喜 欢 谁 一 点
+result: <END> 自 己 喜 欢 的 人 喜 欢 的 就 是 最 好 的 。 <END>, score: 18.219008
+result: <END> 不 同 的 人 喜 欢 不 同 的 人 喜 欢 不 一 样 <END>, score: 18.941802
+result: <END> 不 同 的 人 喜 欢 不 同 的 人 喜 欢 不 同 的 <END>, score: 18.945564
+result: <END> 自 己 喜 欢 的 人 喜 欢 的 就 是 最 喜 欢 的 <END>, score: 18.947227
+result: <END> 不 同 的 人 喜 欢 不 同 的 人 喜 欢 都 不 同 <END>, score: 18.976519
+
+苍 老 师 长 什 么 样 子
+result: <END> 生 老 病 死 自 然 规 律 <END>, score: 11.396658
+result: <END> 没 什 么 科 学 依 据 。 <END>, score: 11.714201
+result: <END> 这 个 没 有 科 学 依 据 <END>, score: 11.812655
+result: <END> 没 什 么 科 学 依 据 的 <END>, score: 11.912663
+result: <END> 建 议 你 去 医 院 看 看 <END>, score: 11.997826
+
+苍 老 师 照 片 没 穿 衣 服 的
+result: <END> 只 要 不 穿 衣 服 就 可 以 了 <END>, score: 12.998301
+result: <END> 这 个 没 有 科 学 依 据 的 。 <END>, score: 13.320348
+result: <END> 不 穿 衣 服 就 不 穿 衣 服 了 <END>, score: 13.513915
+result: <END> 怎 么 可 能 不 穿 衣 服 呢 ? <END>, score: 14.000998
+result: <END> 我 觉 得 还 是 不 穿 衣 服 的 <END>, score: 14.073105
+
+草 泥 马 又 回 答 错 误
+result: <END> 林 子 大 了 什 么 鸟 都 有 <END>, score: 10.890417
+result: <END> 那 要 看 是 什 么 原 因 <END>, score: 11.285643
+result: <END> 好 马 不 吃 回 头 草 。 <END>, score: 11.816148
+result: <END> 林 子 大 了 什 么 鸟 都 有 。 <END>, score: 12.008471
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 12.167791
+
+蹭 蹭 你 平 胸
+result: <END> 什 么 意 思 ? <END>, score: 9.302479
+result: <END> 你 男 的 女 的 ? <END>, score: 9.681708
+result: <END> 去 医 院 看 看 <END>, score: 9.799144
+result: <END> 你 男 的 女 的 <END>, score: 9.815939
+result: <END> 你 可 以 试 试 <END>, score: 9.929523
+
+茶 叶 蛋 是 土 豪 吃 得 起
+result: <END> 什 么 东 西 吃 多 了 都 不 好 <END>, score: 11.902738
+result: <END> 你 说 的 是 什 么 意 思 ? <END>, score: 12.865616
+result: <END> 什 么 意 思 ? 说 清 楚 点 <END>, score: 13.198884
+result: <END> 应 该 是 不 错 的 选 择 。 <END>, score: 13.322783
+result: <END> 可 以 吃 但 不 能 多 吃 。 <END>, score: 13.351114
+
+岔 开 你 的 腿 让 我 看 看 那 里 有 什 么
+result: <END> 建 议 你 去 医 院 检 查 一 下 就 知 道 了 <END>, score: 18.270821
+result: <END> 什 么 都 看 不 出 来 只 有 你 自 己 知 道 <END>, score: 18.504114
+result: <END> 什 么 都 看 不 到 只 有 你 自 己 知 道 。 <END>, score: 18.643609
+result: <END> 什 么 都 看 不 到 只 有 你 自 己 知 道 ! <END>, score: 18.722095
+result: <END> 什 么 都 看 不 到 只 有 你 自 己 才 知 道 <END>, score: 18.850535
+
+尝 尝 我 的 厉 害
+result: <END> 尝 试 就 知 道 了 <END>, score: 8.565448
+result: <END> 尝 尝 就 知 道 了 <END>, score: 8.586588
+result: <END> 试 试 就 知 道 了 <END>, score: 8.872633
+result: <END> 吃 了 就 知 道 了 <END>, score: 8.962479
+result: <END> 尝 试 不 就 知 道 了 <END>, score: 9.499350
+
+长 大 后 才 发 觉 天 是 黑 的
+result: <END> 最 好 去 医 院 检 查 一 下 。 <END>, score: 11.659379
+result: <END> 去 医 院 检 查 一 下 就 知 道 了 <END>, score: 11.989131
+result: <END> 这 是 正 常 的 生 理 现 象 。 <END>, score: 12.363900
+result: <END> 去 医 院 检 查 下 就 知 道 了 <END>, score: 12.365329
+result: <END> 建 议 你 去 医 院 检 查 一 下 <END>, score: 12.444980
+
+车 费 还 差 几 块 回 不 了 家
+result: <END> 一 般 情 况 下 是 不 一 样 的 <END>, score: 12.555088
+result: <END> 最 好 去 医 院 检 查 一 下 。 <END>, score: 13.359450
+result: <END> 一 般 情 况 下 是 不 可 以 的 <END>, score: 13.499944
+result: <END> 什 么 东 西 吃 多 了 都 不 好 <END>, score: 13.532866
+result: <END> 一 般 情 况 下 是 不 可 能 的 <END>, score: 13.658601
+
+扯 淡 ， 我 能 甩 你 九 条 街
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 <END>, score: 12.713449
+result: <END> 不 可 以 这 样 对 身 体 不 好 <END>, score: 13.542812
+result: <END> 不 能 这 样 对 身 体 不 好 。 <END>, score: 14.516944
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 。 <END>, score: 14.642268
+result: <END> 最 好 不 要 这 样 会 伤 害 身 体 <END>, score: 14.789409
+
+帮 我 叫 一 个 大 保 健
+result: <END> 每 个 人 都 是 一 样 的 <END>, score: 10.408622
+result: <END> 保 持 呼 吸 不 要 断 气 <END>, score: 10.828354
+result: <END> 保 持 一 个 好 的 心 态 <END>, score: 10.963290
+result: <END> 你 说 的 是 什 么 意 思 <END>, score: 11.547036
+result: <END> 加 强 体 育 锻 炼 身 体 <END>, score: 11.564574
+
+你 数 学 是 体 育 老 师 教 的 吗 ？
+result: <END> 每 个 人 都 有 自 己 的 生 活 习 惯 <END>, score: 15.267797
+result: <END> 每 个 人 都 有 自 己 的 生 活 方 式 <END>, score: 15.294671
+result: <END> 因 人 而 异 因 人 而 异 因 人 而 异 <END>, score: 15.636864
+result: <END> 每 个 人 的 体 质 是 不 一 样 的 。 <END>, score: 15.655701
+result: <END> 请 问 你 是 男 的 女 的 还 是 女 的 <END>, score: 15.784181
+
+你 提 出 话 题 我 们 聊 天 好 不 好
+result: <END> 当 然 不 好 了 这 样 对 身 体 不 好 <END>, score: 14.192609
+result: <END> 最 好 不 要 这 样 对 身 体 不 好 。 <END>, score: 14.719036
+result: <END> 不 好 对 身 体 不 好 对 身 体 不 好 <END>, score: 14.815659
+result: <END> 不 好 因 为 这 样 对 身 体 不 好 。 <END>, score: 15.232713
+result: <END> 没 有 什 么 好 不 好 只 要 你 喜 欢 <END>, score: 15.259407
+
+最 近 几 天 南 方 降 温
+result: <END> 一 般 在 3 月 份 左 右 <END>, score: 11.784314
+result: <END> 一 般 在 四 月 份 左 右 <END>, score: 11.912611
+result: <END> 一 般 在 3 2 天 左 右 <END>, score: 11.988945
+result: <END> 一 般 在 4 个 月 左 右 <END>, score: 12.058601
+result: <END> 一 般 在 2 5 天 左 右 <END>, score: 12.081127
+
+我 朋 友 叫 什 么 名 字 ？
+result: <END> 你 的 名 字 叫 什 么 名 字 <END>, score: 10.801544
+result: <END> 我 知 道 你 叫 什 么 名 字 <END>, score: 11.356831
+result: <END> 你 的 名 字 叫 什 么 名 字 ? <END>, score: 11.436253
+result: <END> 我 知 道 你 叫 什 么 名 字 ? <END>, score: 11.950763
+result: <END> 你 朋 友 叫 什 么 名 字 ? <END>, score: 12.128411
+
+请 赐 予 我 无 比 强 大 的 性 能 力 吧
+result: <END> 强 迫 自 己 强 迫 自 己 强 迫 自 己 。 <END>, score: 15.324873
+result: <END> 你 是 男 的 还 是 女 的 还 是 女 的 ? <END>, score: 15.847986
+result: <END> 你 是 男 的 还 是 女 的 ? 男 的 还 是 女 的 ? <END>, score: 15.970002
+result: <END> 请 问 你 是 男 的 还 是 男 的 女 的 ? <END>, score: 16.148046
+result: <END> 加 强 体 育 锻 炼 加 强 体 育 锻 炼 。 <END>, score: 16.267044
+
+你 在 烦 恼 什 么
+result: <END> 想 烦 恼 的 事 情 <END>, score: 7.838545
+result: <END> 烦 心 事 太 多 了 <END>, score: 7.880173
+result: <END> 想 想 开 心 的 事 <END>, score: 8.256199
+result: <END> 烦 恼 没 有 烦 恼 <END>, score: 8.449588
+result: <END> 想 开 心 的 事 情 <END>, score: 8.496271
+
+那 感 情 受 挫 呢
+result: <END> 当 然 是 受 伤 了 <END>, score: 9.406216
+result: <END> 当 然 是 感 情 了 <END>, score: 9.611367
+result: <END> 经 常 锻 炼 身 体 <END>, score: 9.828253
+result: <END> 去 医 院 看 看 吧 <END>, score: 10.190347
+result: <END> 因 为 你 受 伤 了 <END>, score: 10.370422
+
+地 球 为 何 是 圆 的
+result: <END> 因 为 地 球 是 椭 圆 的 <END>, score: 5.436853
+result: <END> 因 为 地 球 是 圆 的 <END>, score: 5.628483
+result: <END> 因 为 它 是 椭 圆 的 <END>, score: 6.798689
+result: <END> 因 为 所 以 科 学 道 理 <END>, score: 7.023792
+result: <END> 因 为 地 球 是 椭 圆 的 。 <END>, score: 7.278505
+
+那 你 解 释 一 下 量 子 物 理
+result: <END> 什 么 意 思 ? 什 么 意 思 ? <END>, score: 11.787763
+result: <END> 你 说 的 是 什 么 意 思 啊 ? <END>, score: 12.696630
+result: <END> 什 么 意 思 就 是 什 么 意 思 <END>, score: 13.025701
+result: <END> 你 说 的 是 什 么 意 思 呢 ? <END>, score: 13.325473
+result: <END> 每 个 人 的 体 质 都 不 一 样 <END>, score: 13.473392
+
+有 什 么 好 看 的 喜 剧 ？
+result: <END> 自 己 喜 欢 的 就 是 最 好 看 的 <END>, score: 9.577839
+result: <END> 自 己 喜 欢 的 就 是 好 看 的 <END>, score: 9.841956
+result: <END> 自 己 喜 欢 的 就 是 最 好 的 <END>, score: 10.379578
+result: <END> 看 你 喜 欢 什 么 类 型 的 <END>, score: 10.488951
+result: <END> 你 喜 欢 的 就 是 好 看 的 <END>, score: 10.503144
+
+你 是 我 知 心 朋 友
+result: <END> 天 知 地 知 你 知 我 知 <END>, score: 9.051400
+result: <END> 我 知 道 我 知 道 。 <END>, score: 9.600194
+result: <END> 你 想 知 道 什 么 ? <END>, score: 9.723310
+result: <END> 我 知 道 我 知 道 的 <END>, score: 9.840446
+result: <END> 我 知 道 我 知 道 ! <END>, score: 9.931727
+
+我 只 想 有 个 真 心 的 朋 友
+result: <END> 相 信 就 有 不 相 信 就 没 有 <END>, score: 10.950255
+result: <END> 那 就 找 一 个 真 心 爱 你 的 人 <END>, score: 11.125038
+result: <END> 每 个 人 都 有 自 己 的 想 法 <END>, score: 11.899708
+result: <END> 只 要 你 相 信 就 一 定 会 有 的 <END>, score: 11.908093
+result: <END> 那 就 找 个 真 心 爱 你 的 人 <END>, score: 11.917633
+
+云 南 在 哪 里 ？
+result: <END> 在 云 南 的 北 边 <END>, score: 7.892471
+result: <END> 云 南 省 在 云 南 <END>, score: 8.440109
+result: <END> 云 南 省 云 南 市 <END>, score: 8.471136
+result: <END> 在 云 南 在 云 南 <END>, score: 8.497300
+result: <END> 云 南 省 云 南 省 <END>, score: 8.518656
+
+世 界 上 最 高 的 山 是 什 么
+result: <END> 珠 穆 朗 玛 峰 珠 穆 朗 玛 峰 <END>, score: 7.605721
+result: <END> 最 高 的 就 是 珠 穆 朗 玛 峰 <END>, score: 9.171589
+result: <END> 珠 穆 朗 玛 峰 的 珠 穆 朗 玛 峰 <END>, score: 10.070651
+result: <END> 当 然 是 珠 穆 朗 玛 峰 了 ! <END>, score: 10.156667
+result: <END> 当 然 是 珠 穆 朗 玛 峰 了 。 <END>, score: 10.265623
+
