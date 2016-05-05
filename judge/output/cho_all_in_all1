@@ -1,6 +1,6 @@
 还记得我吗
 当然记得了	normal
-一切皆有可能	unknown
+一切皆有可能	bad
 记得什么?	unknown
 应该不会吧	unknown
 看你自己了	unknown
@@ -21,9 +21,9 @@
 你的意思是什么意思	unknown
 你的意思是什么意思?	unknown
 每个人都是不一样的	unknown
-你问的是什么意思?	unknown
+你问的是什么意思?	bad
 北京天气
-天气问题	unknown
+天气问题	bad
 天气变化	bad
 天气预报	bad
 新陈代谢	unknown
@@ -42,48 +42,48 @@
 地球人都知道。	unknown
 股市现在怎么样
 没有科学依据。	unknown
-我觉得不怎么样	unknown
+我觉得不怎么样	normal
 每个人都不一样	unknown
 去医院检查一下	unknown
 很不错很有营养	unknown
 爱情最害怕犹豫
 爱情是没有害处的	unknown
 爱情是最害怕的	unknown
-没有最好只有更好	unknown
+没有最好只有更好	bad
 爱情是最重要的	unknown
 应该是爱情吧!	unknown
 广州有什么好吃的
 江中牌健胃消食片	unknown
 喜欢吃什么就吃什么	unknown
-心情好吃什么都好吃	unknown
+心情好吃什么都好吃	normal
 喜欢吃什么吃什么	unknown
 你喜欢吃什么就吃什么	unknown
 广州天气
-心静自然凉	unknown
-广州广州	unknown
-广东广州	unknown
+心静自然凉	bad
+广州广州	bad
+广东广州	bad
 什么意思	unknown
 天气预报	bad
 广州有什么好玩的
 只要你喜欢就好玩	unknown
 世界之大无奇不有	unknown
 广州有很多好玩的	unknown
-没有什么好玩的。	unknown
+没有什么好玩的。	normal
 没什么好玩的地方	unknown
 广州怎么样
-不怎么样。	unknown
-不怎么样!	unknown
+不怎么样。	normal
+不怎么样!	normal
 很不错的。	unknown
 不怎么样?	unknown
-很不错的!	unknown
+很不错的!	normal
 今天有什么新闻
 新陈代谢新陈代谢	unknown
-心情好什么都好	unknown
+心情好什么都好	bad
 世界之大无奇不有	unknown
 你想知道什么?	unknown
 你说的是什么?	unknown
 最近有什么资讯
-没有最好只有更好	unknown
+没有最好只有更好	bad
 没有最好只有更好。	unknown
 有利于身体健康	unknown
 世界之大无奇不有	unknown
@@ -91,12 +91,12 @@
 你好
 顺其自然	bad
 开心就好	unknown
-喜欢就好	unknown
-爱你的人	unknown
+喜欢就好	bad
+爱你的人	bad
 什么都不好	unknown
 晚上好
-早睡早起	unknown
-晚上睡觉好	unknown
+早睡早起	bad
+晚上睡觉好	normal
 晚上睡好	unknown
 晚上最好	unknown
 晚上不好	unknown
@@ -104,7 +104,7 @@
 拜拜拜拜	normal
 顺其自然	bad
 早睡早起	unknown
-闭上眼睛	unknown
+闭上眼睛	bad
 恭喜恭喜	unknown
 你好吗？
 当然好了	normal
@@ -113,14 +113,14 @@
 不怎么好	unknown
 非常好啊	unknown
 你好漂亮
-自己喜欢就好	unknown
-个人喜好	unknown
+自己喜欢就好	bad
+个人喜好	bad
 非常漂亮	normal
 我很漂亮	normal
 你喜欢就好	unknown
 永远一直爱你
 爱你的人永远爱你	unknown
-因为爱所以爱	unknown
+因为爱所以爱	bad
 永远永远永远	unknown
 生命在于运动	unknown
 没有永远的爱	good
@@ -131,19 +131,19 @@
 我很喜欢你	normal
 因为喜欢你	unknown
 你是不是快死了
-生老病死自然规律	unknown
-死了就知道了。	unknown
+生老病死自然规律	normal
+死了就知道了。	normal
 死了就不会死了	normal
 生老病死自然规律。	unknown
-死了就是死了。	unknown
+死了就是死了。	bad
 你觉得我漂亮吗
 我觉得我很漂亮	unknown
-你觉得漂亮就漂亮	unknown
+你觉得漂亮就漂亮	normal
 我觉得挺漂亮的	normal
 我觉得你很漂亮	good
 自己觉得漂亮就漂亮	unknown
 美女美女你在哪
-爱美之心人皆有之	unknown
+爱美之心人皆有之	bad
 美女就在你身边	normal
 美女在你心里!	unknown
 在你妈妈肚子里	unknown
@@ -152,7 +152,7 @@
 饿了就吃	good
 吃东西啊	unknown
 饿了再吃	unknown
-肚子饿了	unknown
+肚子饿了	bad
 因为你饿了	bad
 今天有点事
 日有所思夜有所梦	bad
@@ -163,36 +163,36 @@
 我下午要开会
 这是自然现象	unknown
 日有所思夜有所梦	unknown
-这是自然规律	unknown
+这是自然规律	bad
 这是正常现象	unknown
-你想问什么?	unknown
+你想问什么?	bad
 北京有什么好吃的
 想吃什么就吃什么	bad
-你喜欢吃什么就吃什么	unknown
-喜欢吃什么就吃什么	unknown
-喜欢吃什么吃什么	unknown
+你喜欢吃什么就吃什么	normal
+喜欢吃什么就吃什么	normal
+喜欢吃什么吃什么	good
 你喜欢吃什么吃什么	unknown
 春天有什么好玩的
-想怎么玩就怎么玩	unknown
+想怎么玩就怎么玩	good
 做自己喜欢做的事	unknown
-心情好什么都好玩	unknown
+心情好什么都好玩	good
 春天来了春天还会远吗	unknown
 春天来了春天还会远吗?	unknown
 去哪里玩比较好玩呢
-自己喜欢的地方最好玩	unknown
+自己喜欢的地方最好玩	normal
 最好玩的地方最好玩	unknown
 你想玩什么就玩什么	normal
-自己觉得好玩的地方	unknown
+自己觉得好玩的地方	normal
 自己觉得好玩就好玩	unknown
 今天天气好晴朗
-心情好自然就好	unknown
-心情好什么都好	unknown
+心情好自然就好	bad
+心情好什么都好	normal
 心情好自然晴朗	unknown
 心情好自然就好了	unknown
-心情好就是晴天	unknown
+心情好就是晴天	normal
 我喜欢今天天气
 因为喜欢所以喜欢	unknown
-日有所思夜有所梦	unknown
+日有所思夜有所梦	bad
 因为喜欢所以喜欢!	unknown
 我喜欢天天开心	unknown
 因为喜欢所以喜欢。	unknown
@@ -203,11 +203,11 @@
 你是男的女的	unknown
 你是男的女的?	unknown
 男朋友找什么样的好
-适合自己的才是最好的	unknown
+适合自己的才是最好的	good
 适合自己的就是最好的	good
-适合自己的就是好的	unknown
+适合自己的就是好的	normal
 自己喜欢的就是最好的	normal
-适合自己的就是最好的。	unknown
+适合自己的就是最好的。	good
 你是哲学家吗
 好好学习天天向上	unknown
 世界之大无奇不有	unknown
@@ -227,25 +227,25 @@
 因为你没有工作	bad
 工作没有工作	unknown
 你有办法让我开心吗
-做自己喜欢做的事!	unknown
+做自己喜欢做的事!	normal
 做自己喜欢做的事。	unknown
 想开心的事想开心的事	unknown
 想开心的事就开心了	unknown
 想开心的事就可以了	unknown
 你喜欢聊什么
-我喜欢聊天。	unknown
-我喜欢聊天!	unknown
+我喜欢聊天。	normal
+我喜欢聊天!	normal
 我喜欢聊聊天	bad
-我喜欢聊天啊	unknown
+我喜欢聊天啊	normal
 我很喜欢聊天	unknown
 万圣节怎么过
 想怎么过就怎么过	normal
 该怎么过就怎么过	normal
 想怎么过就怎么过。	unknown
-想怎么过就怎么过!	unknown
+想怎么过就怎么过!	good
 和朋友一起过	normal
 我先去睡觉了
-当然是睡觉了	unknown
+当然是睡觉了	normal
 闭上眼睛睡觉	normal
 头悬梁锥刺股	unknown
 睡觉是最好的	bad
@@ -263,16 +263,16 @@
 什么事情说明白点	unknown
 什么意思说清楚点	unknown
 你敢买切糕吗
-一切皆有可能	unknown
+一切皆有可能	bad
 有什么不敢的	good
-一切皆有可能。	unknown
+一切皆有可能。	bad
 应该不可以吧	unknown
 我觉得不可以	unknown
 我今天没有捡到钱，好伤心
-钱不是万能的没有钱是万万不能的	unknown
+钱不是万能的没有钱是万万不能的	normal
 钱不是万能的没有钱是万万不能的。	unknown
 钱不是万能的但没有钱是万万不能的	normal
-钱不是万能的没有钱是万万不能的!	unknown
+钱不是万能的没有钱是万万不能的!	normal
 钱不是万能的但没有钱是万万不能的。	unknown
 天上有多少颗星星
 天上的星星数不清	normal
@@ -297,7 +297,7 @@
 应该是可以吧	unknown
 应该是可以的	unknown
 你可以试试看	unknown
-应该是这样的	unknown
+应该是这样的	bad
 有人跟我撕逼，不讲理
 请问你是男人还是女人	unknown
 请问你是男人还是女人?	unknown
@@ -317,9 +317,9 @@
 去医院看看吧	unknown
 去医院检查下	unknown
 我老板就在我身边
-你是男的还是女的	unknown
+你是男的还是女的	bad
 去医院检查一下。	unknown
-去医院检查一下吧	unknown
+去医院检查一下吧	bad
 你是男人还是女人	unknown
 去医院检查一下!	unknown
 你什么地方冒出来的
@@ -330,16 +330,16 @@
 妈妈肚子里出来的。	unknown
 你会做爱吗
 当然会啦!	normal
-当然会了。	unknown
+当然会了。	normal
 会因为爱所以爱	normal
-当然不会了	unknown
+当然不会了	good
 当然会啦。	unknown
 你能陪我睡觉吗
 我可以陪你聊天	normal
 可以只要你愿意	normal
 可以我陪你聊天	normal
 你是男的还是女的	unknown
-我陪你一起睡觉	unknown
+我陪你一起睡觉	normal
 你有私生子吗
 信则有不信则无	normal
 世界之大无奇不有	unknown
@@ -347,29 +347,29 @@
 有的有有的没有	unknown
 每个人都有的	unknown
 我早上工作感觉死死的是怎么回事
-劳累过度劳累过度劳累过度劳累。	unknown
+劳累过度劳累过度劳累过度劳累。	normal
 劳累过度劳累过度劳累过度劳累!	unknown
 去医院检查一下最好去医院检查一下	unknown
 劳累过度劳累过度劳累过度疲劳。	unknown
 日有所思夜有所梦。心静自然凉。	unknown
 有没有搞笑的欢乐的段子
 笑一笑十年少笑一笑十年少	unknown
-自己喜欢的就是最开心的	unknown
+自己喜欢的就是最开心的	bad
 自己喜欢的就是最好的。	unknown
-自己喜欢的就是最好的!	unknown
+自己喜欢的就是最好的!	bad
 每个人都有自己的生活方式	unknown
 发个给力图片看哈喽
-你是男的还是女的?	unknown
-你说的是什么意思?	unknown
-你是男的还是女的啊	unknown
+你是男的还是女的?	bad
+你说的是什么意思?	bad
+你是男的还是女的啊	bad
 这个没有科学依据的	unknown
 你说的是什么意思啊	unknown
 天天锻炼身体好
-天天锻炼身体好	unknown
+天天锻炼身体好	bad
 早睡早起身体好	bad
-天天锻炼身体最好	unknown
+天天锻炼身体最好	bad
 天天锻炼身体。	unknown
-天天锻炼身体!	unknown
+天天锻炼身体!	bad
 李白的诗你会吗
 日有所思夜有所梦	unknown
 日有所思夜有所梦。	unknown
@@ -377,7 +377,7 @@
 日有所思夜有所梦!	unknown
 我想应该不会。	unknown
 我问的不是这个意思
-你说的是什么意思?	unknown
+你说的是什么意思?	normal
 你问的是什么意思?	good
 你的意思是什么意思	unknown
 你的意思是什么意思?	unknown
@@ -386,7 +386,7 @@
 你想说什么就说什么	bad
 不知不觉就知道了。	unknown
 想说什么就说什么啊	unknown
-你说的是什么意思?	unknown
+你说的是什么意思?	bad
 我知道你在说什么?	unknown
 牛头不对马嘴
 对皮肤不好。	unknown
@@ -407,29 +407,29 @@
 恭喜恭喜	unknown
 什么意思啊	unknown
 我他妈宰了你
-你的爸爸妈妈	unknown
+你的爸爸妈妈	bad
 只有你自己知道	bad
 好好保护自己	unknown
 什么意思啊?	unknown
 那就去找他啊	unknown
 她是我的学姐，我喜欢她。
-喜欢一个人是不需要理由的	unknown
+喜欢一个人是不需要理由的	normal
 因为她喜欢你所以你喜欢她	unknown
 因为你喜欢她所以你喜欢她	unknown
-喜欢一个人是不需要理由的!	unknown
+喜欢一个人是不需要理由的!	normal
 因为她喜欢你所以她喜欢你	unknown
 我喜欢你离我远一点
 我喜欢你离我远一点	normal
 不喜欢你离我远一点	unknown
 我不喜欢你离我远一点	unknown
 喜欢你离我远一点。	unknown
-喜欢你的人不喜欢你	unknown
+喜欢你的人不喜欢你	bad
 明天把秋裤脱了
 这是自然规律。	unknown
 这是正常现象。	unknown
 这是正常现象!	unknown
 当然是冬天了。	unknown
-这是正常的现象	unknown
+这是正常的现象	bad
 抽根烟睡觉
 抽烟有害健康	good
 吸烟有害健康	good
@@ -438,9 +438,9 @@
 抽烟有害身体健康	good
 牛逼吹大了
 最好不要吹	unknown
-当然是吹牛	unknown
-当然是吹牛了	unknown
-牛逼的牛逼	unknown
+当然是吹牛	bad
+当然是吹牛了	bad
+牛逼的牛逼	bad
 这是天生的	unknown
 干你娘
 你想干嘛	unknown
@@ -450,7 +450,7 @@
 吃饭睡觉	unknown
 你妈逼的
 什么意思	unknown
-爱你的人	unknown
+爱你的人	bad
 爸爸妈妈	bad
 你想问什么?	unknown
 什么意思?	unknown
@@ -465,12 +465,12 @@
 去看医生	unknown
 去医院看看	unknown
 什么意思	normal
-闭上眼睛	unknown
+闭上眼睛	bad
 日了狗了
 日有所思夜有所梦	normal
-什么意思	unknown
+什么意思	normal
 死了算了	unknown
-什么意思?	unknown
+什么意思?	normal
 顺其自然	unknown
 我是外地打工的
 去医院检查一下	unknown
@@ -481,13 +481,13 @@
 我过去是个老师
 好好学习天天向上	bad
 好好学习天天向上!	bad
-好好学习天天向上。	unknown
+好好学习天天向上。	bad
 去医院检查一下	unknown
 生老病死自然规律	unknown
 我昨天找过你了
 该怎么过就怎么过	bad
-好好学习天天向上	unknown
-该怎么办就怎么办	unknown
+好好学习天天向上	bad
+该怎么办就怎么办	bad
 该怎么过就怎么过。	unknown
 你想问什么啊?	unknown
 我是个坏男人，你不要相信我
@@ -497,15 +497,15 @@
 相信自己是最好的相信自己。	unknown
 相信自己相信自己是最好的。	unknown
 今天心情很好大大好
-心情好什么时候都好	unknown
+心情好什么时候都好	normal
 心情好什么事情都好	unknown
-心情好啊心情好就好	unknown
-只要心情好什么都好	unknown
-心情好了心情好就好	unknown
+心情好啊心情好就好	bad
+只要心情好什么都好	good
+心情好了心情好就好	bad
 我刚上公交车
-你是男的还是女的	unknown
-你想问什么?	unknown
-你是男的还是女的?	unknown
+你是男的还是女的	bad
+你想问什么?	bad
+你是男的还是女的?	bad
 你男的女的?	unknown
 你想问什么啊	unknown
 我要坐地铁回家
@@ -517,7 +517,7 @@
 大早上就无聊啊，想找点事干
 看看电影听听音乐看看电影。	unknown
 看看电影听听音乐或看看电影	unknown
-听听音乐看看电影听听音乐。	unknown
+听听音乐看看电影听听音乐。	good
 看看电视看看电影听听音乐。	unknown
 做点自己感兴趣的事就可以了	unknown
 偶尔睡眠不好怎么办
@@ -531,10 +531,10 @@
 日有所思夜有所梦	unknown
 生命在于运动	unknown
 祝你生日快乐	bad
-我的生日快乐	unknown
+我的生日快乐	bad
 生活中怎样感到开心快乐
 做自己喜欢做的事就行了	unknown
-做自己喜欢做的事就会快乐	unknown
+做自己喜欢做的事就会快乐	normal
 做自己喜欢做的事最开心	unknown
 做自己喜欢做的事让自己开心	unknown
 做自己喜欢做的事就快乐	unknown
@@ -549,30 +549,30 @@
 好好学习天天向上!	normal
 请问你想问什么?	unknown
 你说的是什么意思	unknown
-好好学习天天向上。	unknown
+好好学习天天向上。	bad
 听说过外星生命吗
-信则有不信则无。	unknown
-信则有不信则无!	unknown
+信则有不信则无。	bad
+信则有不信则无!	bad
 宁可信其有不可信其无	normal
 宁可信其有不可信其无。	unknown
 有的可以有的不可以	unknown
 我命令你以后只能呆在家里
-命里有时终须有命里无时莫强求	unknown
-命里有时终须有命里无时莫强求。	unknown
-命里有时终须有命里无时莫强求!	unknown
+命里有时终须有命里无时莫强求	bad
+命里有时终须有命里无时莫强求。	bad
+命里有时终须有命里无时莫强求!	bad
 命里有时终需有命里无时莫强求	unknown
 命里有时终需有命里无时莫强求。	unknown
 你等会我过会跟你说
-爱你的人和你爱的人	unknown
+爱你的人和你爱的人	bad
 如果是我我会告诉你	unknown
 我会我相信你一定会	unknown
 我会好好学习天天向上	unknown
 我会因为我不认识你	unknown
 我来把你胸抓大
-你是男的还是女的	unknown
+你是男的还是女的	bad
 你是男的还是女的?	bad
-你是男的女的?	unknown
-没什么大不了的	unknown
+你是男的女的?	bad
+没什么大不了的	bad
 你是男人还是女人	unknown
 你叫个春
 春夏秋冬	bad
@@ -588,7 +588,7 @@
 那就休息一下	normal
 我在等地铁
 什么意思啊	unknown
-在你的心里	unknown
+在你的心里	bad
 在一个地方	unknown
 生命在于运动	unknown
 正常情况下	unknown
@@ -596,7 +596,7 @@
 闭上眼睛	bad
 闭着眼睛	bad
 闭着眼睛睡	unknown
-睁开眼睛	unknown
+睁开眼睛	bad
 闭着眼睛睡觉	unknown
 那就放给我听吧
 放松放松放松放松	unknown
@@ -614,7 +614,7 @@
 建议你去医院检查一下。	unknown
 建议你去医院检查一下吧	unknown
 什么意思?什么意思啊?	unknown
-恭喜恭喜恭喜恭喜恭喜恭喜	unknown
+恭喜恭喜恭喜恭喜恭喜恭喜	bad
 不懂你说的是什么意思?	unknown
 让你慢慢喜欢
 慢慢就习惯了	unknown
@@ -624,13 +624,13 @@
 慢慢就习惯了。	unknown
 你和过儿什么关系
 没有关系的关系。	unknown
-没什么关系的关系	unknown
-当然是朋友关系了	unknown
+没什么关系的关系	good
+当然是朋友关系了	good
 人与人之间的关系	unknown
 朋友和家人的关系	unknown
 你和张小龙什么关系
 人与人之间的关系。	unknown
-没什么关系的关系。	unknown
+没什么关系的关系。	good
 关系没有关系的关系	unknown
 人与人之间的关系!	unknown
 没有关系。没有关系	unknown
@@ -657,7 +657,7 @@
 当然伤心了	normal
 伤心的时候	unknown
 因为伤心	normal
-当然伤心	unknown
+当然伤心	good
 我要问你一个很长的问题你准备好了吗
 每个人都有自己的好处没有什么不好的	unknown
 每个人都是不一样的只要自己喜欢就好	unknown
@@ -679,13 +679,13 @@
 我永远都在你身边
 远在天边近在眼前	bad
 世界之大无奇不有	unknown
-走自己的路让别人说去吧	unknown
-远在天边近在眼前。	unknown
+走自己的路让别人说去吧	bad
+远在天边近在眼前。	bad
 你是男的还是女的	unknown
 这你都能看出来
-什么都看不出来	unknown
+什么都看不出来	bad
 什么都能看出来	unknown
-这是什么问题?	unknown
+这是什么问题?	bad
 什么都可以看出来	normal
 什么时候出来?	unknown
 刚刚公司有人打架
@@ -707,38 +707,38 @@
 最好去医院看看	unknown
 可以去火车站!	unknown
 火车为什么总晚点
-日有所思夜有所梦	unknown
-因为所以科学道理	unknown
-日有所思夜有所梦。	unknown
+日有所思夜有所梦	bad
+因为所以科学道理	bad
+日有所思夜有所梦。	bad
 日有所思夜有所梦!	unknown
 因为日有所思夜有所梦	unknown
 你好无聊
 我很无聊	normal
 我陪你聊天	unknown
-无聊的人	unknown
+无聊的人	normal
 你很无聊	unknown
 无聊无聊	normal
 肚子右边隐隐作痛
-最好去医院检查一下	unknown
+最好去医院检查一下	normal
 最好去医院检查下	unknown
-去医院检查一下。	unknown
+去医院检查一下。	good
 建议你去医院看看	normal
 去医院检查一下吧	normal
 外面很气冷
-心静自然凉	unknown
+心静自然凉	bad
 多穿点衣服	normal
-多穿衣服。	unknown
+多穿衣服。	good
 多穿衣服啊	unknown
 多穿点就不冷了	unknown
 昨晚刮大风了
 去医院看看吧	unknown
 这是正常现象	unknown
-心静自然凉。	unknown
+心静自然凉。	bad
 去医院看看。	unknown
 去医院检查下	unknown
 公司有人打架
 没有打架的人	unknown
-当然是打架了	unknown
+当然是打架了	normal
 为什么打架?	unknown
 打架是什么?	unknown
 为什么要打架?	unknown
@@ -749,22 +749,22 @@
 去医院检查	unknown
 去医院看看	unknown
 最近股票大跌
-当然是股票了	unknown
-当然是股票啊	unknown
-当然是股票啦	unknown
+当然是股票了	bad
+当然是股票啊	bad
+当然是股票啦	bad
 当然是股票咯	unknown
-应该是股票吧	unknown
+应该是股票吧	bad
 对面哪个妹子好看
 自己喜欢的最好看	unknown
-自己喜欢的就好看	unknown
-萝卜白菜各有所爱	unknown
-自己喜欢的都好看	unknown
+自己喜欢的就好看	good
+萝卜白菜各有所爱	normal
+自己喜欢的都好看	normal
 自己喜欢的就是最好看的	normal
 公司不让抽烟了
 抽烟对身体不好	good
 吸烟对身体不好	unknown
 不抽烟对身体不好	bad
-吸烟有害健康!	unknown
+吸烟有害健康!	good
 不抽烟就不抽了	normal
 能做什么菜
 什么都可以做	normal
@@ -773,8 +773,8 @@
 什么都不做	normal
 想做什么就做什么	normal
 你会做什么菜
-做自己喜欢做的事	unknown
-想做什么就做什么	unknown
+做自己喜欢做的事	bad
+想做什么就做什么	bad
 做你喜欢做的事	unknown
 什么都不做。	unknown
 做你想做的事	unknown
@@ -798,18 +798,18 @@
 你问的是什么?	unknown
 猫和狗不好
 当然不好了	normal
-当然不好啦	unknown
+当然不好啦	normal
 我觉得不好	normal
 当然不好。	unknown
 非常不好。	unknown
 杨过和你是啥关系
 没有关系的关系。	unknown
-没什么关系的关系	unknown
+没什么关系的关系	good
 人与人之间的关系	unknown
 你说的是什么关系	unknown
 没有关系的关系!	unknown
 有多美
-因人而异	unknown
+因人而异	bad
 什么都有	unknown
 越多越好	unknown
 非常美丽	unknown
@@ -827,7 +827,7 @@
 因为我的爸爸妈妈都是这样的。	unknown
 因为你爸爸妈妈不是你爸爸妈妈	unknown
 不去吃饭
-最好不吃	unknown
+最好不吃	normal
 想吃就吃	bad
 饿了就吃	bad
 当然不吃了	unknown
@@ -839,16 +839,16 @@
 人是由动物进化而来的	unknown
 跑步是最好的方法。	unknown
 学挖掘技术哪家强
-好好学习天天向上	unknown
+好好学习天天向上	bad
 世界之大无奇不有	unknown
 好好学习天天向上!	unknown
 好好学习天天向上。	unknown
-没有最强只有更强	unknown
+没有最强只有更强	normal
 抽根烟冷静一下
 抽烟对身体不好	good
 吸烟有害身体健康	normal
-吸烟有害健康。	unknown
-吸烟有害健康!	unknown
+吸烟有害健康。	normal
+吸烟有害健康!	good
 吸烟对身体不好	unknown
 我的书包在哪里
 在你的肚子里。	unknown
@@ -857,9 +857,9 @@
 在你自己的心里	bad
 在你的肚子里!	unknown
 我的书包坏了
-去医院看看吧	unknown
+去医院看看吧	bad
 去医院检查一下	unknown
-好好学习天天向上	unknown
+好好学习天天向上	bad
 去医院检查下	unknown
 去医院看看。	unknown
 哪里地震了
@@ -867,12 +867,12 @@
 地震或地震	unknown
 什么地震?	unknown
 地震的地震	bad
-汶川地震。	unknown
+汶川地震。	good
 外面下大雨了
 这是正常现象	unknown
 这是自然现象	unknown
 去医院看看吧	unknown
-当然是下雨了	unknown
+当然是下雨了	bad
 去医院看医生	unknown
 后天中午两点半去吃饭。
 饭后半小时饭后半小时。	unknown
@@ -883,7 +883,7 @@
 明天领导要来
 这是自然规律	unknown
 你想问什么?	unknown
-世界之大无奇不有	unknown
+世界之大无奇不有	bad
 因为所以科学道理	unknown
 这是自然现象	unknown
 我看看有没有空
@@ -899,47 +899,47 @@
 当然没有了	normal
 应该是有的	unknown
 快来骚扰我
-心静自然凉	unknown
-心静自然凉。	unknown
+心静自然凉	bad
+心静自然凉。	bad
 去医院看看	unknown
 心静自然凉!	unknown
 什么意思?	bad
 快来蹂躏我
 去医院看看	unknown
-什么意思?	unknown
+什么意思?	bad
 我来告诉你	unknown
 生命在于运动	unknown
 什么意思啊	unknown
 你要去哪儿旅游
-自己喜欢的地方	unknown
+自己喜欢的地方	normal
 你最想去的地方	unknown
 自己想去的地方	good
 去你想去的地方	normal
 你想去哪就去哪	unknown
 红公鸡囧哦呵呵
-你是男的还是女的	unknown
+你是男的还是女的	bad
 你是男的还是女的?	unknown
 没有这种说法。	unknown
 你是男的女的?	unknown
-你想问什么呢?	unknown
+你想问什么呢?	bad
 鳄鱼
 可以吃的	unknown
-没听说过	unknown
+没听说过	bad
 五谷杂粮	unknown
 爬行动物	unknown
 去医院看看	unknown
 她在吃水果
 可以吃苹果	unknown
-想吃就吃呗	unknown
+想吃就吃呗	normal
 可以吃水果	unknown
-想吃就吃吧	unknown
+想吃就吃吧	good
 女人吃水果	unknown
 如何照顾家庭
-好好照顾自己	unknown
+好好照顾自己	bad
 照顾好自己。	unknown
 保持良好的心态	unknown
-好好照顾自己。	unknown
-好好学习天天向上	unknown
+好好照顾自己。	bad
+好好学习天天向上	bad
 儿童节怎么过
 想怎么过就怎么过	good
 开开心心的过	normal
@@ -947,11 +947,11 @@
 想怎么过就怎么过。	unknown
 开开心心就好	unknown
 下楼吃饭去
-饭后半小时	unknown
+饭后半小时	bad
 饭前半小时	unknown
 饭后一小时	unknown
 去医院看看	unknown
-想吃就吃呗	unknown
+想吃就吃呗	normal
 什么时候能凉快下来
 心静自然凉心静自然凉	unknown
 心静下来心静自然凉	unknown
@@ -963,9 +963,9 @@
 你知道的太多了	normal
 你想问什么啊?	unknown
 心有多大就有多大	unknown
-世界之大无奇不有	unknown
+世界之大无奇不有	bad
 被蚊子咬了好几口啊
-最好去医院检查一下	unknown
+最好去医院检查一下	bad
 把蚊子咬一下就好了	unknown
 被蚊子咬一下就好了	unknown
 用蚊子咬一下就好了	unknown
@@ -973,7 +973,7 @@
 三里屯优衣库
 你是哪里的?	unknown
 你想问什么?	unknown
-什么意思啊?	unknown
+什么意思啊?	bad
 你可以去看看	unknown
 什么地方的?	unknown
 心里不好受怎么办
@@ -983,7 +983,7 @@
 心病还需心药医。	unknown
 心病还需心药医!	unknown
 这个世界谁最有钱
-世界之大无奇不有	unknown
+世界之大无奇不有	bad
 世界上最有钱的人	normal
 世界之大无奇不有。	unknown
 世界之大无奇不有!	unknown
@@ -995,9 +995,9 @@
 我个人认为不认识	unknown
 认识一下就知道了	unknown
 哥买了个自行车
-什么牌子的牌子	unknown
-什么牌子的车?	unknown
-什么牌子的牌子?	unknown
+什么牌子的牌子	bad
+什么牌子的车?	good
+什么牌子的牌子?	bad
 什么牌子的啊?	unknown
 你想买什么样的	unknown
 a股明天涨不涨
@@ -1016,11 +1016,11 @@ a股明天涨不涨
 天空是蓝的	bad
 天空是蓝色的	bad
 是蓝色的。	unknown
-应该是蓝的	unknown
+应该是蓝的	bad
 蓝色的天空	bad
 去台湾什么值得买
 各大药店都有卖的	unknown
-适合自己的就是最好的	unknown
+适合自己的就是最好的	bad
 各大药店均有销售	unknown
 一般商店都有卖的	unknown
 各大药店都有卖的。	unknown
@@ -1032,15 +1032,15 @@ a股明天涨不涨
 刘德华刘德华。	unknown
 说你长的丑你还美
 心灵美才是真的美	normal
-爱美之心人皆有之	unknown
-心灵美才是真的美!	unknown
-心灵美才是真的美。	unknown
+爱美之心人皆有之	good
+心灵美才是真的美!	normal
+心灵美才是真的美。	normal
 心灵美才是最美的	good
 你去吃粑粑
-想吃就吃呗	unknown
+想吃就吃呗	bad
 你想吃就吃	unknown
 什么都不吃	unknown
-想吃就吃啊	unknown
+想吃就吃啊	bad
 想吃就吃!	unknown
 那些出来好了
 什么时候出来	normal
@@ -1049,19 +1049,19 @@ a股明天涨不涨
 什么时候出来的?	unknown
 什么时候出来的	unknown
 家里突然没电了
-去医院检查一下	unknown
+去医院检查一下	bad
 去医院检查下吧	unknown
 去医院检查下。	unknown
-去医院检查一下吧	unknown
+去医院检查一下吧	bad
 去医院检查一下。	unknown
 家里黑漆漆的
-当然是黑色的	unknown
-应该是黑色的	unknown
+当然是黑色的	bad
+应该是黑色的	bad
 黑木耳黑木耳	unknown
 可能是黑色的	unknown
 一般都是黑色的	unknown
 既然爱我那就跟我在一起吧
-爱一个人不一定要在一起。	unknown
+爱一个人不一定要在一起。	normal
 爱一个人不一定要在一起!	unknown
 因为爱所以爱因为爱所以爱	unknown
 爱一个人不一定要在一起啊	unknown
@@ -1070,22 +1070,22 @@ a股明天涨不涨
 心静自然凉	bad
 心静自然凉。	unknown
 去医院看看	unknown
-什么情况?	unknown
-什么意思?	unknown
+什么情况?	bad
+什么意思?	bad
 没风怎么放
 心静自然凉	bad
-放在冰箱里	unknown
+放在冰箱里	bad
 去医院看看	unknown
 放松放松放松	unknown
-心静自然凉。	unknown
+心静自然凉。	bad
 没有止疼药
 去医院看看	normal
 去医院检查	unknown
 是药三分毒	unknown
 去医院检查下	unknown
-心静自然凉	unknown
+心静自然凉	bad
 你这是越俎代庖
-世界之大无奇不有	unknown
+世界之大无奇不有	bad
 世界之大无奇不有。	unknown
 因为所以科学道理	unknown
 本来就是这样的	unknown
@@ -1093,31 +1093,31 @@ a股明天涨不涨
 中国有多大
 96万平方公里	bad
 心有多大世界就有多大	bad
-36万平方公里	unknown
+36万平方公里	normal
 心有多大就有多大	normal
 很大很大。	unknown
 你不小了可以结婚了
 你是男的还是女的?	unknown
 为什么不可以结婚?	unknown
-为什么不可以结婚呢	unknown
-为什么不可以结婚呢?	unknown
+为什么不可以结婚呢	bad
+为什么不可以结婚呢?	bad
 不可以这样对身体不好	unknown
 你会开车吗
 开车不会开车	unknown
-当然不会了	unknown
-当然开车了	unknown
+当然不会了	good
+当然开车了	good
 开车肯定开车	unknown
 开车就开车	unknown
 那你还认识谁
-谁都不认识谁	unknown
-什么都不认识	unknown
+谁都不认识谁	bad
+什么都不认识	bad
 我都不认识你	unknown
 谁都不认识啊	unknown
 谁都不认识!	unknown
 核桃好吃吗
 当然好吃了	good
-当然好吃啦	unknown
-当然好吃啊	unknown
+当然好吃啦	good
+当然好吃啊	good
 当然好吃。	unknown
 当然好吃了。	unknown
 西雅图有什么好玩儿的
@@ -1125,19 +1125,19 @@ a股明天涨不涨
 你想怎么玩就怎么玩。	unknown
 你想怎么玩就怎么玩啊	unknown
 想怎么玩就怎么玩哈哈	unknown
-自己喜欢的就是最好的	unknown
+自己喜欢的就是最好的	normal
 那你会做什么菜
-想做什么就做什么	unknown
-做自己喜欢做的事	unknown
+想做什么就做什么	normal
+做自己喜欢做的事	bad
 你想做什么就做什么	normal
 做你喜欢做的事	unknown
 想怎么做就怎么做	unknown
 你嫁我可好~
-自己喜欢就好	unknown
+自己喜欢就好	bad
 你男的女的?	unknown
 只要你喜欢就好	normal
 自己觉得好就好	unknown
-自己喜欢就行	unknown
+自己喜欢就行	bad
 你有兄弟姐妹吗
 我没有兄弟兄弟	unknown
 没有兄弟的兄弟	unknown
@@ -1145,11 +1145,11 @@ a股明天涨不涨
 我没有妹妹妹妹	unknown
 没有兄弟没有兄弟	unknown
 你喜欢张小龙吗
-喜欢因为我喜欢	unknown
+喜欢因为我喜欢	normal
 不喜欢因为喜欢	unknown
 我喜欢非常喜欢	unknown
-喜欢非常喜欢!	unknown
-喜欢!我喜欢!	unknown
+喜欢非常喜欢!	normal
+喜欢!我喜欢!	good
 来和我聊天
 我陪你聊天	unknown
 我来陪你聊天	normal
@@ -1165,38 +1165,38 @@ a股明天涨不涨
 心情不好听什么
 伤心的时候听情歌	normal
 听自己喜欢的歌	good
-心情好什么都好	unknown
+心情好什么都好	bad
 伤心的时候听听音乐	unknown
-心情不好的时候	unknown
+心情不好的时候	bad
 电影不好看
 对眼睛不好	unknown
 好看不好看	bad
-当然不好看	unknown
+当然不好看	normal
 非常不好看	unknown
 当然不好了	unknown
 不喜欢看小说
 不喜欢看小说	normal
 我喜欢看小说	good
-不喜欢看电视	unknown
+不喜欢看电视	bad
 非常不喜欢看	unknown
 喜欢看什么?	unknown
 背首诗给我
 什么意思?	bad
-什么意思啊	unknown
+什么意思啊	bad
 什么情况?	unknown
 什么意思啊?	unknown
 去医院看看	unknown
 你给我找个妹子聊
-你是男的还是女的	unknown
-想聊什么就聊什么	unknown
+你是男的还是女的	bad
+想聊什么就聊什么	bad
 你是男的还是女的?	bad
 想做什么就做什么	unknown
 我可以陪你聊聊天	unknown
 轮胎坏了怎么办
 去医院检查一下	bad
-到医院检查一下	unknown
-去医院检查一下。	unknown
-去医院检查检查	unknown
+到医院检查一下	bad
+去医院检查一下。	bad
+去医院检查检查	bad
 去医院检查治疗	unknown
 微信牛逼吗
 信则有不信则无	bad
@@ -1205,7 +1205,7 @@ a股明天涨不涨
 信则有不信则无!	bad
 宁可信其有不可信其无	unknown
 刘小宁是条狗
-世界之大无奇不有	unknown
+世界之大无奇不有	bad
 我认为是小狗	unknown
 我知道我知道	unknown
 你是男的还是女的	unknown
@@ -1217,7 +1217,7 @@ a股明天涨不涨
 爸爸妈妈。	unknown
 生命在于运动	unknown
 贱人就是矫情
-因为贱所以贱	unknown
+因为贱所以贱	bad
 人之初性本善	normal
 因为贱所以贱。	unknown
 因为贱所以贱!	unknown
@@ -1225,9 +1225,9 @@ a股明天涨不涨
 床上躺好等我
 你男的女的?	unknown
 早睡早起身体好	bad
-你是男的还是女的	unknown
+你是男的还是女的	bad
 睡觉是最好的	unknown
-自己喜欢就好	unknown
+自己喜欢就好	bad
 日日日
 日有所思夜有所梦	bad
 日日一日	unknown
@@ -1239,7 +1239,7 @@ a股明天涨不涨
 喝纯牛奶	unknown
 我喜欢喝	unknown
 喝牛奶吧	bad
-喝牛奶啊	unknown
+喝牛奶啊	bad
 我要1000万现金
 0.00000000000000000	unknown
 0.0000000000000000	unknown
@@ -1253,7 +1253,7 @@ a股明天涨不涨
 不想起床	bad
 那就睡吧	good
 那买什么车好
-卖电脑的地方	unknown
+卖电脑的地方	bad
 买电脑的地方	unknown
 适合自己的最好	unknown
 适合自己的就是最好的	unknown
@@ -1265,10 +1265,10 @@ a股明天涨不涨
 应该可以吧!	unknown
 应该不会吧!	unknown
 唐僧话太多
-什么意思?	unknown
+什么意思?	bad
 你多大了?	unknown
-世界之大无奇不有	unknown
-什么意思啊	unknown
+世界之大无奇不有	bad
+什么意思啊	bad
 应该不会吧	unknown
 打印机坏了
 对眼睛不好	unknown
@@ -1286,11 +1286,11 @@ a股明天涨不涨
 咖啡提神	unknown
 咖啡咖啡	bad
 咖啡不错	unknown
-有咖啡因	unknown
+有咖啡因	bad
 咖啡因人而异	unknown
 我有个好消息
 可以消除疲劳	unknown
-只有你自己知道	unknown
+只有你自己知道	bad
 好好学习天天向上	bad
 你想问什么?	unknown
 没有什么好处	unknown
@@ -1299,12 +1299,12 @@ a股明天涨不涨
 酒不醉人人自醉	good
 想点开心的事	unknown
 喝酒可以解酒	unknown
-可以听听音乐	unknown
+可以听听音乐	bad
 那你到底被强奸没有
-世界之大无奇不有。	unknown
-世界之大无奇不有!	unknown
+世界之大无奇不有。	bad
+世界之大无奇不有!	bad
 你是男的还是女的?	unknown
-世界之大无奇不有啊	unknown
+世界之大无奇不有啊	bad
 你是男人还是女人?	unknown
 明天周五啦
 心静自然凉	unknown
@@ -1315,25 +1315,25 @@ a股明天涨不涨
 拉倒吧，你就是坏银
 男人不坏女人不爱。	unknown
 男人不坏女人不爱!	unknown
-你是男的还是女的?	unknown
+你是男的还是女的?	bad
 男人不坏女人不爱啊	unknown
-你是男的还是女的啊	unknown
+你是男的还是女的啊	bad
 今天出差
 一个星期	unknown
 内分泌失调	unknown
 新陈代谢	unknown
-天气问题	unknown
+天气问题	bad
 自然规律	unknown
 灯好暗
-喜欢就好	unknown
-心静自然凉	unknown
-闭上眼睛	unknown
+喜欢就好	bad
+心静自然凉	bad
+闭上眼睛	bad
 对眼睛不好	unknown
 日有所思夜有所梦	bad
 聚餐一起吧
 可以一起吃	normal
 什么意思啊	unknown
-什么意思?	unknown
+什么意思?	bad
 对身体不好	unknown
 应该可以吧	normal
 躺床上看电视
@@ -1349,7 +1349,7 @@ a股明天涨不涨
 你是男的还是女的?	unknown
 什么意思啊?	unknown
 看来不错，适合外出吗
-适合自己的就是最好的	unknown
+适合自己的就是最好的	bad
 不可以这样对身体不好	unknown
 当然不好了对身体不好	unknown
 最好不要这样对身体不好	unknown
@@ -1373,11 +1373,11 @@ a股明天涨不涨
 早晨6点到晚6点	unknown
 天知地知你知我知	unknown
 什么时候过年
-过年的时候。	unknown
+过年的时候。	good
 未成年的时候	unknown
 过了就是过年	unknown
-心情好的时候	unknown
-过年的时候!	unknown
+心情好的时候	bad
+过年的时候!	good
 待会儿就把那人给杀了
 人死了就什么都没有了	unknown
 那要看是什么样的人了	bad
@@ -1391,19 +1391,19 @@ a股明天涨不涨
 好好学习天天向上	unknown
 没有科学依据!	unknown
 我去洗澡，一会再聊
-你是男的还是女的?	unknown
+你是男的还是女的?	bad
 你是男人还是女人?	unknown
 最好去医院检查一下	unknown
-你是男的还是女的啊	unknown
+你是男的还是女的啊	bad
 你试试不就知道了。	unknown
 洗干净了没
 洗干净再洗	unknown
-洗干净了。	unknown
+洗干净了。	good
 洗洗更健康	unknown
 可以洗干净	normal
 洗干净不干净	unknown
 北京天气
-天气问题	unknown
+天气问题	bad
 天气变化	bad
 天气预报	bad
 新陈代谢	unknown
@@ -1415,10 +1415,10 @@ a股明天涨不涨
 不会因为我不会	unknown
 不会。我会打球	unknown
 厉害个锤子
-厉害的厉害	unknown
+厉害的厉害	normal
 非常厉害。	unknown
-非常厉害!	unknown
-当然厉害了	unknown
+非常厉害!	normal
+当然厉害了	normal
 锤子厉害!	unknown
 我还没有喜欢的人呢
 你是男人还是女人?	unknown
@@ -1429,7 +1429,7 @@ a股明天涨不涨
 世界第一高峰
 世界之大无奇不有	bad
 是珠穆朗玛峰	normal
-珠穆朗玛峰。	unknown
+珠穆朗玛峰。	good
 珠穆朗玛峰!	good
 当然是珠穆朗玛峰了	unknown
 我的意思是你废话多
@@ -1437,24 +1437,24 @@ a股明天涨不涨
 你的意思是什么意思	unknown
 你的意思是什么意思?	unknown
 每个人都是不一样的	unknown
-你问的是什么意思?	unknown
+你问的是什么意思?	bad
 这种心理的折磨让我生不如死
-心态决定一切顺其自然就好了	unknown
+心态决定一切顺其自然就好了	bad
 生老病死自然规律无法改变。	unknown
 生老病死是自然规律无法改变	unknown
-心态决定一切顺其自然就好。	unknown
+心态决定一切顺其自然就好。	bad
 生老病死是自然规律无法改变的	unknown
 我昨天和女朋友分手了
-请问你是男的还是女的	unknown
+请问你是男的还是女的	bad
 你是男人还是女朋友?	unknown
-请问你是男的还是女的?	unknown
-你是男的女的还是女的	unknown
-你是男的还是女的啊?	unknown
+请问你是男的还是女的?	bad
+你是男的女的还是女的	bad
+你是男的还是女的啊?	bad
 我今天和女朋友和好了
 女朋友和女朋友在一起	unknown
-只要心情好什么都好。	unknown
+只要心情好什么都好。	bad
 女朋友和女朋友谈恋爱	unknown
-只要心情好什么都好!	unknown
+只要心情好什么都好!	bad
 每个人都有自己的好处	unknown
 我把朋友老婆睡了咋办
 找个女朋友就可以了。	unknown
@@ -1463,7 +1463,7 @@ a股明天涨不涨
 睡前喝杯热牛奶有助于睡眠	unknown
 最好的办法就是去睡觉	unknown
 有个女人把我睡了
-你是男的还是女的	unknown
+你是男的还是女的	bad
 你是男的还是女的?	bad
 你是男人还是女人	unknown
 是男人还是女人?	unknown
@@ -1483,21 +1483,21 @@ a股明天涨不涨
 我要娶个美国妞
 只要你喜欢就行	good
 自己喜欢的就行	unknown
-爱美之心人皆有之	unknown
+爱美之心人皆有之	bad
 自己喜欢就可以了	unknown
 自己喜欢就行了	unknown
 过年太没意思了
-过了就没意思了	unknown
-过年就没意思了	unknown
+过了就没意思了	normal
+过年就没意思了	normal
 过了就没意思了。	unknown
 因为所以科学道理	unknown
-过年了就没意思了	unknown
+过年了就没意思了	normal
 我明天去理发
-去医院看医生	unknown
+去医院看医生	bad
 去医院看看吧	unknown
 去医院看看。	unknown
 去医院检查下	unknown
-去医院检查一下	unknown
+去医院检查一下	bad
 你害怕什么
 什么都不怕	good
 害人害己。	unknown
@@ -1505,13 +1505,13 @@ a股明天涨不涨
 害人害己!	unknown
 有害身体健康	unknown
 我们一起玩吧
-想怎么玩就怎么玩	unknown
-你想怎么玩就怎么玩	unknown
-该怎么玩就怎么玩	unknown
+想怎么玩就怎么玩	normal
+你想怎么玩就怎么玩	normal
+该怎么玩就怎么玩	bad
 一点都不好玩	unknown
 好好学习天天向上	unknown
 你丫话太多
-什么意思啊	unknown
+什么意思啊	bad
 你多大了?	unknown
 什么意思?	bad
 什么意思啊?	unknown
@@ -1524,7 +1524,7 @@ a股明天涨不涨
 去医院看看吧	good
 空气清新环境好
 建议去医院看看	unknown
-空气清新空气。	unknown
+空气清新空气。	bad
 建议你去医院看看	unknown
 建议你去看医生	unknown
 什么时候都不好	unknown
@@ -1553,17 +1553,17 @@ a股明天涨不涨
 和家人一起过	good
 想怎么过就怎么过!	unknown
 你脑子有屎
-什么意思?	unknown
+什么意思?	normal
 脑子有问题	normal
 每个人都有	unknown
 什么意思啊	unknown
 你想问什么?	unknown
 被妈妈打了一下
-去医院检查一下	unknown
-去医院检查一下。	unknown
+去医院检查一下	bad
+去医院检查一下。	bad
 去医院检查下。	unknown
 去医院检查一下!	unknown
-去医院检查一下吧	unknown
+去医院检查一下吧	bad
 我肏你全家
 我来告诉你	unknown
 我不告诉你	unknown
@@ -1579,7 +1579,7 @@ a股明天涨不涨
 一加一等于几
 一加一等于二	good
 一加一等于一	normal
-一加一等于2	unknown
+一加一等于2	good
 一个等于一个	unknown
 你想问什么?	unknown
 不和你聊了我得干活了
@@ -1607,10 +1607,10 @@ a股明天涨不涨
 去医院检查一下就知道了。	unknown
 去医院检查下就知道了。	unknown
 不是说法律吗
-当然不是了。	unknown
-当然不是了!	unknown
+当然不是了。	normal
+当然不是了!	normal
 你说的是什么	bad
-当然不是啦!	unknown
+当然不是啦!	normal
 当然不是啦。	unknown
 不说实话我早晚让你害死
 睡前喝杯牛奶有助于睡眠	unknown
@@ -1625,7 +1625,7 @@ a股明天涨不涨
 如果不穿衣服就不穿衣服了	unknown
 如果你不穿衣服就不会穿衣服了	unknown
 不是喜欢用毒蛐我吗
-不喜欢因为我不喜欢	unknown
+不喜欢因为我不喜欢	bad
 我不喜欢因为我喜欢	unknown
 不是所有的人都喜欢	unknown
 不喜欢因为不喜欢。	unknown
@@ -1647,9 +1647,9 @@ a股明天涨不涨
 因为所以科学道理。	unknown
 因为所以科学道理!	unknown
 你是男人还是女人啊	unknown
-你是男的还是女的?	unknown
+你是男的还是女的?	bad
 猜我有没有在谈恋爱
-你是男的还是女的?	unknown
+你是男的还是女的?	bad
 没有只有你自己知道	unknown
 你是男人还是女人?	unknown
 没有只是你没有发现	unknown
@@ -1667,8 +1667,8 @@ a股明天涨不涨
 10000000000000毫升	unknown
 1000000000000000000	unknown
 才工作了半年左右就换来换去
-你是男的还是女的还是女的?	unknown
-你是男的还是男的还是女的?	unknown
+你是男的还是女的还是女的?	bad
+你是男的还是男的还是女的?	bad
 每个人都有自己的生活方式。	unknown
 这是正常的生理现象不用担心	unknown
 换新的不换新的不换新的不来	unknown
@@ -1676,26 +1676,26 @@ a股明天涨不涨
 这是正常的生理现象。	unknown
 你的意思是什么意思?	unknown
 每个人都有自己的位置	unknown
-你说的是什么意思啊?	unknown
+你说的是什么意思啊?	bad
 你说的是哪个方面的?	unknown
 财迷个大头鬼
 信则有不信则无	bad
-当然是迷信了	unknown
+当然是迷信了	bad
 信则有不信则无。	unknown
 信则有不信则无!	unknown
 没有科学依据	unknown
 踩着七彩祥云去娶你
-你是男的还是女的?	unknown
-走自己的路让别人去说	unknown
+你是男的还是女的?	bad
+走自己的路让别人去说	bad
 想怎么办就怎么办。	unknown
 你想怎么办就怎么办	unknown
 想怎么办就怎么办!	unknown
 采桑归西露沾我衣。
-你是男的还是女的?	unknown
+你是男的还是女的?	bad
 你是男人还是女人?	unknown
-你说的是什么意思?	unknown
+你说的是什么意思?	bad
 最好去医院检查一下	unknown
-你是男的还是女的啊	unknown
+你是男的还是女的啊	bad
 蔡港林是备胎
 去医院检查下	unknown
 去医院检查一下	unknown
@@ -1707,16 +1707,16 @@ a股明天涨不涨
 喜欢你的人喜欢你	unknown
 好好学习天天向上!	unknown
 你喜欢我就喜欢你	unknown
-只要自己喜欢就行	unknown
+只要自己喜欢就行	normal
 蔡伟这个娘娘腔。
-窈窕淑女君子好逑	unknown
-窈窕淑女君子好逑。	unknown
-窈窕淑女君子好逑!	unknown
+窈窕淑女君子好逑	bad
+窈窕淑女君子好逑。	bad
+窈窕淑女君子好逑!	bad
 窈窕淑女娘娘娘娘	unknown
-每个人都有自己的名字	unknown
+每个人都有自己的名字	bad
 参加别人的婚礼好感慨
-适合自己的才是最好的	unknown
-适合自己的就是最好的	unknown
+适合自己的才是最好的	bad
+适合自己的就是最好的	bad
 适合自己的才是最好的。	unknown
 你是男的女的还是女的	unknown
 自己喜欢的就是最好的	unknown
@@ -1739,7 +1739,7 @@ a股明天涨不涨
 没什么科学依据的	unknown
 建议你去医院看看	unknown
 苍老师照片没穿衣服的
-只要不穿衣服就可以了	unknown
+只要不穿衣服就可以了	bad
 这个没有科学依据的。	unknown
 不穿衣服就不穿衣服了	unknown
 怎么可能不穿衣服呢?	unknown
@@ -1747,7 +1747,7 @@ a股明天涨不涨
 草泥马又回答错误
 林子大了什么鸟都有	unknown
 那要看是什么原因	unknown
-好马不吃回头草。	unknown
+好马不吃回头草。	bad
 林子大了什么鸟都有。	unknown
 你说的是什么意思?	unknown
 蹭蹭你平胸
@@ -1758,18 +1758,18 @@ a股明天涨不涨
 你可以试试	unknown
 茶叶蛋是土豪吃得起
 什么东西吃多了都不好	unknown
-你说的是什么意思?	unknown
+你说的是什么意思?	bad
 什么意思?说清楚点	unknown
 应该是不错的选择。	unknown
 可以吃但不能多吃。	unknown
 岔开你的腿让我看看那里有什么
 建议你去医院检查一下就知道了	unknown
 什么都看不出来只有你自己知道	unknown
-什么都看不到只有你自己知道。	unknown
-什么都看不到只有你自己知道!	unknown
+什么都看不到只有你自己知道。	normal
+什么都看不到只有你自己知道!	normal
 什么都看不到只有你自己才知道	unknown
 尝尝我的厉害
-尝试就知道了	unknown
+尝试就知道了	normal
 尝尝就知道了	normal
 试试就知道了	normal
 吃了就知道了	unknown
@@ -1793,7 +1793,7 @@ a股明天涨不涨
 最好不要这样对身体不好。	unknown
 最好不要这样会伤害身体	unknown
 帮我叫一个大保健
-每个人都是一样的	unknown
+每个人都是一样的	bad
 保持呼吸不要断气	unknown
 保持一个好的心态	unknown
 你说的是什么意思	unknown
@@ -1807,7 +1807,7 @@ a股明天涨不涨
 你提出话题我们聊天好不好
 当然不好了这样对身体不好	unknown
 最好不要这样对身体不好。	unknown
-不好对身体不好对身体不好	unknown
+不好对身体不好对身体不好	bad
 不好因为这样对身体不好。	unknown
 没有什么好不好只要你喜欢	unknown
 最近几天南方降温
@@ -1817,7 +1817,7 @@ a股明天涨不涨
 一般在4个月左右	unknown
 一般在25天左右	unknown
 我朋友叫什么名字？
-你的名字叫什么名字	unknown
+你的名字叫什么名字	bad
 我知道你叫什么名字	unknown
 你的名字叫什么名字?	unknown
 我知道你叫什么名字?	unknown
@@ -1835,19 +1835,19 @@ a股明天涨不涨
 烦恼没有烦恼	unknown
 想开心的事情	unknown
 那感情受挫呢
-当然是受伤了	unknown
+当然是受伤了	normal
 当然是感情了	bad
 经常锻炼身体	unknown
 去医院看看吧	unknown
-因为你受伤了	unknown
+因为你受伤了	bad
 地球为何是圆的
-因为地球是椭圆的	unknown
+因为地球是椭圆的	normal
 因为地球是圆的	bad
-因为它是椭圆的	unknown
+因为它是椭圆的	normal
 因为所以科学道理	bad
 因为地球是椭圆的。	unknown
 那你解释一下量子物理
-什么意思?什么意思?	unknown
+什么意思?什么意思?	bad
 你说的是什么意思啊?	unknown
 什么意思就是什么意思	unknown
 你说的是什么意思呢?	unknown
@@ -1859,7 +1859,7 @@ a股明天涨不涨
 看你喜欢什么类型的	normal
 你喜欢的就是好看的	unknown
 你是我知心朋友
-天知地知你知我知	unknown
+天知地知你知我知	bad
 我知道我知道。	unknown
 你想知道什么?	unknown
 我知道我知道的	unknown
@@ -1868,17 +1868,17 @@ a股明天涨不涨
 相信就有不相信就没有	unknown
 那就找一个真心爱你的人	unknown
 每个人都有自己的想法	unknown
-只要你相信就一定会有的	unknown
+只要你相信就一定会有的	good
 那就找个真心爱你的人	bad
 云南在哪里？
-在云南的北边	unknown
+在云南的北边	bad
 云南省在云南	unknown
 云南省云南市	unknown
 在云南在云南	unknown
 云南省云南省	unknown
 世界上最高的山是什么
-珠穆朗玛峰珠穆朗玛峰	unknown
-最高的就是珠穆朗玛峰	unknown
-珠穆朗玛峰的珠穆朗玛峰	unknown
-当然是珠穆朗玛峰了!	unknown
+珠穆朗玛峰珠穆朗玛峰	normal
+最高的就是珠穆朗玛峰	normal
+珠穆朗玛峰的珠穆朗玛峰	normal
+当然是珠穆朗玛峰了!	normal
 当然是珠穆朗玛峰了。	unknown

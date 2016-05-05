@@ -1,81 +1,81 @@
 还记得我吗
-一切皆有可能	unknown
-当然是了!	unknown
-一切皆有可能!	unknown
-一定会的!	unknown
-当然不是了	unknown
+一切皆有可能	bad
+当然是了!	bad
+一切皆有可能!	bad
+一定会的!	bad
+当然不是了	bad
 你在干嘛呢
-想干什么就干什么	unknown
-在家看电影	unknown
-在家睡觉!	unknown
-做自己喜欢的事情	unknown
-在家睡觉。	unknown
+想干什么就干什么	bad
+在家看电影	normal
+在家睡觉!	normal
+做自己喜欢的事情	normal
+在家睡觉。	good
 才发现爱情竟是一场考验
-相信自己一切皆有可能!	unknown
-一切皆有可能一切皆有可能	unknown
-平平淡淡才是真正的爱情	unknown
-相信自己一切皆有可能。	unknown
-只要真心相爱就一定可以	unknown
+相信自己一切皆有可能!	bad
+一切皆有可能一切皆有可能	bad
+平平淡淡才是真正的爱情	normal
+相信自己一切皆有可能。	bad
+只要真心相爱就一定可以	good
 我的意思是你废话多
-你说的是什么意思啊	unknown
+你说的是什么意思啊	normal
 你说的是什么意思?	normal
-你说的是什么意思啊?	unknown
-你说的是什么意思。	unknown
-你说的是什么意思呀	unknown
+你说的是什么意思啊?	good
+你说的是什么意思。	normal
+你说的是什么意思呀	normal
 北京天气
-冬天来了	unknown
-什么意思?	unknown
-天气不好	unknown
+冬天来了	bad
+什么意思?	bad
+天气不好	normal
 没听说过	unknown
 当然是啊	unknown
 待会儿就把那人给杀了
-我相信他一定要相信他	unknown
-因为他是中国人的骄傲	unknown
+我相信他一定要相信他	bad
+因为他是中国人的骄傲	bad
 那要看是什么样的人了	bad
-一切皆有可能我相信他	unknown
-那得看是什么样的人了	unknown
+一切皆有可能我相信他	bad
+那得看是什么样的人了	bad
 我们去动物园吧
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
 只要你喜欢就行	unknown
 股市现在怎么样
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
-想怎么样就怎么样	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
+想怎么样就怎么样	bad
 爱情最害怕犹豫
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-没有最爱只有更爱	unknown
-没有最好只有更爱	unknown
-爱情的力量最强	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+没有最爱只有更爱	bad
+没有最好只有更爱	bad
+爱情的力量最强	normal
 广州有什么好吃的
 想吃什么就吃什么	normal
-应该没什么好吃的	unknown
-好吃的就是好吃的	unknown
-想怎么吃就怎么吃	unknown
+应该没什么好吃的	normal
+好吃的就是好吃的	bad
+想怎么吃就怎么吃	bad
 你想吃什么就吃什么	normal
 广州天气
-一定会的	unknown
-没听说过	unknown
-冬天来了	unknown
+一定会的	bad
+没听说过	bad
+冬天来了	normal
 天气不好	unknown
 什么意思?	unknown
 广州有什么好玩的
-应该没什么好玩的	unknown
-好像没什么好玩的	unknown
-想怎么玩就怎么玩	unknown
-没什么好玩的啊!	unknown
-你想怎么玩就怎么玩	unknown
+应该没什么好玩的	normal
+好像没什么好玩的	normal
+想怎么玩就怎么玩	bad
+没什么好玩的啊!	normal
+你想怎么玩就怎么玩	normal
 广州怎么样
-一切皆有可能	unknown
-挺不错的!	unknown
-不怎么样!	unknown
-不怎么样啊	unknown
-很不错的!	unknown
+一切皆有可能	bad
+挺不错的!	good
+不怎么样!	normal
+不怎么样啊	normal
+很不错的!	normal
 今天有什么新闻
 想干什么就干什么	unknown
 日有所思夜有所梦	bad
@@ -83,215 +83,215 @@
 梦里花落知多少	unknown
 心情不好的时候	unknown
 最近有什么资讯
-中华人民共和国	unknown
-身体健康身体健康	unknown
-没有最好只有更好	unknown
+中华人民共和国	bad
+身体健康身体健康	bad
+没有最好只有更好	bad
 做自己想做的事	unknown
 只有他自己知道	unknown
 你好
-相信自己	unknown
-当然是了	unknown
-一切皆有可能	unknown
-当然是啊	unknown
-什么都好	unknown
+相信自己	bad
+当然是了	bad
+一切皆有可能	bad
+当然是啊	bad
+什么都好	normal
 晚上好
-早睡早起	unknown
-在家睡觉	unknown
+早睡早起	bad
+在家睡觉	bad
 晚上睡觉	bad
-闭上眼睛	unknown
-好好休息	unknown
+闭上眼睛	bad
+好好休息	bad
 拜拜
-闭上眼睛	unknown
-相信自己	unknown
-一切皆有可能	unknown
-什么意思?	unknown
-睁开眼睛	unknown
+闭上眼睛	bad
+相信自己	bad
+一切皆有可能	bad
+什么意思?	bad
+睁开眼睛	bad
 你好吗？
 当然好了	normal
 当然好啊	normal
 当然好啦	normal
-一切皆有可能	unknown
-相信自己	unknown
+一切皆有可能	bad
+相信自己	bad
 你好漂亮
-很漂亮的	unknown
+很漂亮的	normal
 非常漂亮	normal
-各有千秋	unknown
-相信自己	unknown
-个人喜好	unknown
+各有千秋	bad
+相信自己	bad
+个人喜好	bad
 永远一直爱你
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
 没有永远的爱	good
-一切皆有可能啊	unknown
+一切皆有可能啊	bad
 我不喜欢你
 喜欢就喜欢	bad
 我不喜欢你	normal
-当然喜欢啊	unknown
+当然喜欢啊	bad
 不喜欢就不喜欢	normal
 我很喜欢你	normal
 你是不是快死了
-快死了就是死了	unknown
-死了就是快死了	unknown
-死了就是死了!	unknown
-快死了就没事了	unknown
-死了就是死了。	unknown
+快死了就是死了	bad
+死了就是快死了	normal
+死了就是死了!	bad
+快死了就没事了	bad
+死了就是死了。	bad
 你觉得我漂亮吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
 我觉得挺漂亮的	normal
-我觉得很漂亮!	unknown
-一切皆有可能的	unknown
+我觉得很漂亮!	good
+一切皆有可能的	bad
 美女美女你在哪
-爱美之心人皆有之	unknown
-当然是美女了!	unknown
-在美国就是美女	unknown
-美女在美国美女	unknown
+爱美之心人皆有之	bad
+当然是美女了!	bad
+在美国就是美女	normal
+美女在美国美女	bad
 情人眼里出西施	bad
 我饿了
 吃饭睡觉	bad
-肚子饿了	unknown
-在家睡觉	unknown
+肚子饿了	bad
+在家睡觉	bad
 因为他饿了	unknown
 当然是了	unknown
 今天有点事
-一切皆有可能	unknown
-应该没事吧	unknown
-没什么问题	unknown
-做梦的时候	unknown
-只要开心就好	unknown
+一切皆有可能	bad
+应该没事吧	bad
+没什么问题	bad
+做梦的时候	bad
+只要开心就好	bad
 我下午要开会
-一切皆有可能	unknown
-一切皆有可能!	unknown
-只要开心就好	unknown
-一切皆有可能。	unknown
-这是自然规律	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+只要开心就好	bad
+一切皆有可能。	bad
+这是自然规律	bad
 北京有什么好吃的
 想吃什么就吃什么	bad
 你想吃什么就吃什么	bad
-好吃的就是好吃的	unknown
-你喜欢吃什么就吃什么	unknown
-喜欢吃什么就吃什么	unknown
+好吃的就是好吃的	bad
+你喜欢吃什么就吃什么	normal
+喜欢吃什么就吃什么	normal
 春天有什么好玩的
-想干什么就干什么	unknown
-想怎么玩就怎么玩	unknown
-想玩什么就玩什么	unknown
-心情好什么都好玩	unknown
-和自己喜欢的人在一起	unknown
+想干什么就干什么	bad
+想怎么玩就怎么玩	good
+想玩什么就玩什么	bad
+心情好什么都好玩	good
+和自己喜欢的人在一起	normal
 去哪里玩比较好玩呢
-去自己喜欢的地方玩	unknown
-自己喜欢玩的地方玩	unknown
-自己喜欢的地方最好玩	unknown
-自己喜欢的地方就好玩	unknown
-自己觉得好玩的地方	unknown
+去自己喜欢的地方玩	good
+自己喜欢玩的地方玩	normal
+自己喜欢的地方最好玩	normal
+自己喜欢的地方就好玩	normal
+自己觉得好玩的地方	normal
 今天天气好晴朗
-心情好什么都好	unknown
-和心爱的人在一起	unknown
-心情好的时候!	unknown
-心情好的时候。	unknown
-做自己喜欢的事情	unknown
+心情好什么都好	normal
+和心爱的人在一起	bad
+心情好的时候!	bad
+心情好的时候。	bad
+做自己喜欢的事情	normal
 我喜欢今天天气
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-只要你喜欢就好	unknown
-一切皆有可能啊	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+只要你喜欢就好	good
+一切皆有可能啊	bad
 和喜欢的人在一起	unknown
 我没有男朋友
-一切皆有可能	unknown
-没有男朋友了	unknown
-没有男朋友啊	unknown
-还没有男朋友	unknown
-没有男女朋友	unknown
+一切皆有可能	bad
+没有男朋友了	bad
+没有男朋友啊	bad
+还没有男朋友	bad
+没有男女朋友	bad
 男朋友找什么样的好
 适合自己的就是最好的	good
-你是男的还是女的?	unknown
+你是男的还是女的?	bad
 看你喜欢什么样的了	normal
-适合自己的才是最好的	unknown
+适合自己的才是最好的	good
 自己喜欢的就是最好的	normal
 你是哲学家吗
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-当然是上海了	unknown
-我认为是的!	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+当然是上海了	bad
+我认为是的!	good
 不开心也是一天
-一切皆有可能!	unknown
-应该是一个月吧	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-平平淡淡才是真	unknown
+一切皆有可能!	bad
+应该是一个月吧	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+平平淡淡才是真	bad
 我现在没工作
-一切皆有可能	unknown
-做自己想做的事	unknown
-做自己喜欢的事情	unknown
-一切皆有可能!	unknown
-做自己喜欢的事	unknown
+一切皆有可能	bad
+做自己想做的事	normal
+做自己喜欢的事情	normal
+一切皆有可能!	bad
+做自己喜欢的事	normal
 你有办法让我开心吗
 做自己喜欢做的事情	normal
-做一些有意义的事情	unknown
-做自己喜欢的事情!	unknown
-做自己喜欢的事情。	unknown
-我相信一切皆有可能	unknown
+做一些有意义的事情	normal
+做自己喜欢的事情!	normal
+做自己喜欢的事情。	normal
+我相信一切皆有可能	bad
 你喜欢聊什么
-喜欢你喜欢的人	unknown
-想干什么就干什么	unknown
-喜欢什么就干什么	unknown
-和喜欢的人在一起	unknown
-我喜欢我喜欢	unknown
+喜欢你喜欢的人	bad
+想干什么就干什么	bad
+喜欢什么就干什么	bad
+和喜欢的人在一起	bad
+我喜欢我喜欢	bad
 万圣节怎么过
 想怎么过就怎么过	normal
 和朋友一起过	normal
 该怎么过就怎么过	normal
-和家人一起过	unknown
-想怎么过就怎么过!	unknown
+和家人一起过	good
+想怎么过就怎么过!	good
 我先去睡觉了
 闭上眼睛睡觉	normal
-当然是睡觉了	unknown
-睡前喝杯牛奶	unknown
-闭着眼睛睡觉	unknown
-好好的睡一觉	unknown
+当然是睡觉了	normal
+睡前喝杯牛奶	normal
+闭着眼睛睡觉	normal
+好好的睡一觉	good
 老板不给发工资怎么办
-去当地派出所就可以了	unknown
-到当地派出所就可以了	unknown
-只要自己努力就可以了	unknown
-去当地派出所办理一下	unknown
-去当地派出所咨询一下	unknown
+去当地派出所就可以了	normal
+到当地派出所就可以了	normal
+只要自己努力就可以了	bad
+去当地派出所办理一下	normal
+去当地派出所咨询一下	good
 你以后别跟着我了
-相信自己相信自己	unknown
-一切顺其自然吧!	unknown
-我相信一切皆有可能	unknown
-一定要相信自己!	unknown
-一定要相信自己。	unknown
+相信自己相信自己	bad
+一切顺其自然吧!	bad
+我相信一切皆有可能	bad
+一定要相信自己!	bad
+一定要相信自己。	bad
 你敢买切糕吗
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能的	unknown
-一切皆有可能啊	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能的	bad
+一切皆有可能啊	bad
 我今天没有捡到钱，好伤心
-只要你有信心就一定会好的	unknown
-走自己的路让别人去说吧!	unknown
-只要你有信心就一定可以的	unknown
-只要有信心就一定会好的!	unknown
-做自己想做的事情是最好的	unknown
+只要你有信心就一定会好的	bad
+走自己的路让别人去说吧!	bad
+只要你有信心就一定可以的	bad
+只要有信心就一定会好的!	bad
+做自己想做的事情是最好的	bad
 天上有多少颗星星
 天上有多少颗星星	bad
-你有多少颗星星就有多少颗星星	unknown
-有多少颗星星就有多少颗星星	unknown
-心有多少颗星星就有多少颗星星	unknown
+你有多少颗星星就有多少颗星星	normal
+有多少颗星星就有多少颗星星	normal
+心有多少颗星星就有多少颗星星	good
 天上有多少个星星	bad
 今天天气不好
-一切皆有可能	unknown
-心情好的时候	unknown
-只要开心就好	unknown
-心静自然凉!	unknown
-天天开心就好	unknown
+一切皆有可能	bad
+心情好的时候	bad
+只要开心就好	bad
+心静自然凉!	bad
+天天开心就好	bad
 太阳好大啊
-一切皆有可能	unknown
-当然是好啊	unknown
-当然是好了	unknown
-只要开心就好	unknown
-当然好啊!	unknown
+一切皆有可能	bad
+当然是好啊	bad
+当然是好了	bad
+只要开心就好	bad
+当然好啊!	bad
 北风嗖嗖的吹
 好像没听说过	unknown
 科比布莱恩特	unknown
@@ -299,389 +299,389 @@
 应该是风扇吧	unknown
 悲伤逆流成河	unknown
 有人跟我撕逼，不讲理
-相信自己一切皆有可能	unknown
-我相信一切皆有可能!	unknown
-我相信一切皆有可能。	unknown
-我相信他一切皆有可能	unknown
-我相信他一定要相信他	unknown
+相信自己一切皆有可能	bad
+我相信一切皆有可能!	bad
+我相信一切皆有可能。	bad
+我相信他一切皆有可能	bad
+我相信他一定要相信他	bad
 不要这么谦虚嘛
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-信则有不信则无	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+信则有不信则无	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
 明天去打球
-一切皆有可能	unknown
-做梦的时候	unknown
-打篮球打篮球	unknown
-打篮球啊!	unknown
-去打篮球啊	unknown
+一切皆有可能	bad
+做梦的时候	bad
+打篮球打篮球	normal
+打篮球啊!	normal
+去打篮球啊	normal
 我老板就在我身边
-好好学习天天向上	unknown
-你是男的还是女的	unknown
-你是男的还是女的?	unknown
-一切皆有可能啊!	unknown
-因为你是我的母亲	unknown
+好好学习天天向上	bad
+你是男的还是女的	bad
+你是男的还是女的?	bad
+一切皆有可能啊!	bad
+因为你是我的母亲	bad
 你什么地方冒出来的
-在妈妈肚子里出来的	unknown
-在火箭的地方出来的	unknown
-打出来的地方出来的	unknown
-妈妈的肚子里出来的	unknown
+在妈妈肚子里出来的	normal
+在火箭的地方出来的	normal
+打出来的地方出来的	normal
+妈妈的肚子里出来的	normal
 打出来的地方就来了	unknown
 你会做爱吗
-一切皆有可能	unknown
-当然不会了	unknown
-一定会的!	unknown
-一定会的。	unknown
-会的我相信他	unknown
+一切皆有可能	bad
+当然不会了	good
+一定会的!	normal
+一定会的。	normal
+会的我相信他	bad
 你能陪我睡觉吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能的	unknown
-一切皆有可能啊	unknown
-我相信我一定能	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能的	bad
+一切皆有可能啊	bad
+我相信我一定能	bad
 你有私生子吗
-一切皆有可能	unknown
-一切皆有可能!	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
 信则有不信则无	normal
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
+一切皆有可能。	bad
+一切皆有可能啊	bad
 我早上工作感觉死死的是怎么回事
-做自己喜欢的事情做自己喜欢做的事	unknown
+做自己喜欢的事情做自己喜欢做的事	bad
 做自己喜欢的事情做自己喜欢的事	unknown
 做自己喜欢的事去做自己喜欢做的事	unknown
 做自己喜欢的事情做自己喜欢的事情	unknown
 做自己喜欢做的事做自己喜欢做的事	unknown
 有没有搞笑的欢乐的段子
-和自己喜欢的人在一起。	unknown
-和自己喜欢的人一起过。	unknown
-和自己喜欢的人在一起!	unknown
-和自己喜欢的人在一起啊	unknown
-和自己喜欢的人一起过啊	unknown
+和自己喜欢的人在一起。	bad
+和自己喜欢的人一起过。	bad
+和自己喜欢的人在一起!	bad
+和自己喜欢的人在一起啊	bad
+和自己喜欢的人一起过啊	bad
 发个给力图片看哈喽
-郭晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶晶	unknown
+郭晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶晶	bad
 天天锻炼身体好
-好好学习天天向上	unknown
-锻炼身体锻炼身体	unknown
-适当的锻炼身体	unknown
-做自己喜欢的事	unknown
-多运动锻炼身体	unknown
+好好学习天天向上	bad
+锻炼身体锻炼身体	normal
+适当的锻炼身体	good
+做自己喜欢的事	bad
+多运动锻炼身体	normal
 李白的诗你会吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-我相信他一定会的	unknown
-一切皆有可能啊	unknown
-我相信一定会的	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+我相信他一定会的	bad
+一切皆有可能啊	bad
+我相信一定会的	bad
 我问的不是这个意思
-你说的是什么意思啊	unknown
-你说的是什么意思?	unknown
-就是没有问题的意思	unknown
-你说的是什么意思啊?	unknown
-就是这个问题的意思	unknown
+你说的是什么意思啊	normal
+你说的是什么意思?	normal
+就是没有问题的意思	bad
+你说的是什么意思啊?	good
+就是这个问题的意思	bad
 完全不知道你在说啥
-你说的是什么意思?	unknown
-你说的是什么意思啊	unknown
-你说的是哪个城市?	unknown
+你说的是什么意思?	bad
+你说的是什么意思啊	bad
+你说的是哪个城市?	bad
 你说的是什么意思啊?	unknown
 什么意思?说清楚点	unknown
 牛头不对马嘴
-一切皆有可能	unknown
-神马都是浮云	unknown
-对身体有问题	unknown
-马上就没事了	unknown
-晚上喝点牛奶	unknown
+一切皆有可能	bad
+神马都是浮云	bad
+对身体有问题	bad
+马上就没事了	bad
+晚上喝点牛奶	bad
 你是不是傻逼
-一切皆有可能	unknown
-不是傻就是傻	unknown
-我认为是傻子	unknown
-一切皆有可能!	unknown
-我认为是笨蛋	unknown
+一切皆有可能	bad
+不是傻就是傻	bad
+我认为是傻子	bad
+一切皆有可能!	bad
+我认为是笨蛋	bad
 你个白痴
-相信自己	unknown
-一切皆有可能	unknown
-我很喜欢	unknown
-当然是啊	unknown
+相信自己	bad
+一切皆有可能	bad
+我很喜欢	bad
+当然是啊	bad
 非常喜欢	unknown
 我他妈宰了你
-一切皆有可能	unknown
-一切顺其自然	unknown
-他是我的父母	unknown
-一切顺其自然吧	unknown
-一定要相信他	unknown
+一切皆有可能	bad
+一切顺其自然	bad
+他是我的父母	bad
+一切顺其自然吧	bad
+一定要相信他	bad
 她是我的学姐，我喜欢她。
-喜欢一个人是不需要理由的	unknown
-喜欢一个人是没有理由的。	unknown
-喜欢就喜欢不喜欢就不喜欢	unknown
-喜欢一个人是没有理由的!	unknown
-如果你真的喜欢她就相信她	unknown
+喜欢一个人是不需要理由的	normal
+喜欢一个人是没有理由的。	good
+喜欢就喜欢不喜欢就不喜欢	normal
+喜欢一个人是没有理由的!	normal
+如果你真的喜欢她就相信她	bad
 我喜欢你离我远一点
-我相信一切皆有可能	unknown
-相信他一切皆有可能	unknown
-相信自己一切皆有可能	unknown
-我相信一切皆有可能!	unknown
-我相信他一切皆有可能	unknown
+我相信一切皆有可能	bad
+相信他一切皆有可能	bad
+相信自己一切皆有可能	bad
+我相信一切皆有可能!	bad
+我相信他一切皆有可能	bad
 明天把秋裤脱了
-好好休息一下吧	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-当然是春天来了	unknown
-去医院检查一下	unknown
+好好休息一下吧	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+当然是春天来了	bad
+去医院检查一下	bad
 抽根烟睡觉
 抽烟有害健康	good
 吸烟有害健康	good
-对身体有害	unknown
+对身体有害	good
 对身体不好	normal
-寂寞的时候	unknown
+寂寞的时候	bad
 牛逼吹大了
-心静自然凉	unknown
-一切皆有可能	unknown
-当然是吹牛了	unknown
-心静自然凉!	unknown
-什么问题?	unknown
+心静自然凉	bad
+一切皆有可能	bad
+当然是吹牛了	bad
+心静自然凉!	bad
+什么问题?	normal
 干你娘
-打篮球啊	unknown
-在家睡觉	unknown
-打篮球的	unknown
-干自己喜欢的事情	unknown
-做自己喜欢的事情	unknown
+打篮球啊	bad
+在家睡觉	bad
+打篮球的	bad
+干自己喜欢的事情	bad
+做自己喜欢的事情	bad
 你妈逼的
-一切皆有可能	unknown
+一切皆有可能	bad
 爸爸妈妈	bad
-打篮球的	unknown
-相信自己	unknown
+打篮球的	bad
+相信自己	bad
 爸妈妈妈	unknown
 去你妹的
-一切皆有可能	unknown
-在家睡觉	unknown
-当然是啊	unknown
-一切皆有可能!	unknown
+一切皆有可能	bad
+在家睡觉	bad
+当然是啊	bad
+一切皆有可能!	bad
 当然是了	unknown
 赶紧滚蛋
-一切皆有可能	unknown
-闭上眼睛	unknown
-好好学习	unknown
+一切皆有可能	bad
+闭上眼睛	bad
+好好学习	bad
 什么意思?	good
-没听说过	unknown
+没听说过	bad
 日了狗了
-打篮球啊	unknown
+打篮球啊	bad
 当然是了	bad
-圣诞老人	unknown
-生日快乐	unknown
-打篮球了	unknown
+圣诞老人	bad
+生日快乐	bad
+打篮球了	bad
 我是外地打工的
-打打篮球的地方	unknown
-当然是打篮球的	unknown
-当然是打篮球了	unknown
+打打篮球的地方	bad
+当然是打篮球的	bad
+当然是打篮球了	bad
 应该是打篮球的	unknown
-中华人民共和国	unknown
+中华人民共和国	bad
 我过去是个老师
 好好学习天天向上	bad
-一切皆有可能!	unknown
-日有所思夜有所梦	unknown
-做自己喜欢的事	unknown
-想怎么过就怎么过	unknown
+一切皆有可能!	bad
+日有所思夜有所梦	bad
+做自己喜欢的事	bad
+想怎么过就怎么过	bad
 我昨天找过你了
-想怎么过就怎么过	unknown
-找朋友一起过啊	unknown
-一切顺其自然吧	unknown
+想怎么过就怎么过	bad
+找朋友一起过啊	bad
+一切顺其自然吧	bad
 该怎么过就怎么过	bad
-做自己喜欢的事	unknown
+做自己喜欢的事	bad
 我是个坏男人，你不要相信我
-相信他一定要相信他一定要相信他	unknown
-我相信他一定要相信我相信他	unknown
-我相信我相信他一定要相信他	unknown
-相信他就相信他一定要相信他	unknown
-不要相信他就一定要相信他!	unknown
+相信他一定要相信他一定要相信他	bad
+我相信他一定要相信我相信他	bad
+我相信我相信他一定要相信他	bad
+相信他就相信他一定要相信他	bad
+不要相信他就一定要相信他!	bad
 今天心情很好大大好
-心情好了心情好就好	unknown
-心情好的时候就大了	unknown
-心情好啊心情好就好	unknown
-心情好的时候是最好的	unknown
-心情好的时候就大好	unknown
+心情好了心情好就好	bad
+心情好的时候就大了	bad
+心情好啊心情好就好	bad
+心情好的时候是最好的	good
+心情好的时候就大好	bad
 我刚上公交车
-你是男的还是女的?	unknown
-好像没有问题	unknown
-你是男的还是女的	unknown
+你是男的还是女的?	bad
+好像没有问题	bad
+你是男的还是女的	bad
 去公安局看看	unknown
 好像没有关系	unknown
 我要坐地铁回家
-一切皆有可能!	unknown
-为什么要回家呢?	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-为什么要回家啊	unknown
+一切皆有可能!	bad
+为什么要回家呢?	normal
+一切皆有可能。	bad
+一切皆有可能啊	bad
+为什么要回家啊	normal
 大早上就无聊啊，想找点事干
-找点事情做点自己喜欢做的事	unknown
-找点自己喜欢的事做就不无聊了	unknown
-找点有意义的事做就不无聊了	unknown
-找点有意思的事做就不无聊了	unknown
-找点有兴趣的事做就不无聊了	unknown
+找点事情做点自己喜欢做的事	normal
+找点自己喜欢的事做就不无聊了	good
+找点有意义的事做就不无聊了	normal
+找点有意思的事做就不无聊了	normal
+找点有兴趣的事做就不无聊了	normal
 偶尔睡眠不好怎么办
-晚上睡觉前喝杯牛奶	unknown
-晚上睡觉前喝点牛奶	unknown
-想怎么睡就怎么睡啊	unknown
-好好的睡一觉就好了	unknown
-想怎么睡就怎么睡呗	unknown
+晚上睡觉前喝杯牛奶	good
+晚上睡觉前喝点牛奶	normal
+想怎么睡就怎么睡啊	bad
+好好的睡一觉就好了	bad
+想怎么睡就怎么睡呗	bad
 祝你生日快乐
-快乐的生日快乐	unknown
-我的生日快乐	unknown
-生日快乐啊!	unknown
-做自己喜欢的事	unknown
-生日快乐快乐	unknown
+快乐的生日快乐	bad
+我的生日快乐	bad
+生日快乐啊!	bad
+做自己喜欢的事	bad
+生日快乐快乐	bad
 生活中怎样感到开心快乐
-做自己想做的事做自己喜欢做的事	unknown
-做自己想做的事做自己想做的事	unknown
-和心爱的人在一起就是快乐	unknown
-和自己喜欢的人在一起!	unknown
-和自己喜欢的人在一起啊	unknown
+做自己想做的事做自己喜欢做的事	good
+做自己想做的事做自己想做的事	normal
+和心爱的人在一起就是快乐	normal
+和自己喜欢的人在一起!	good
+和自己喜欢的人在一起啊	normal
 失败了怎么办，如何才能成功
-努力+努力+努力+努力+努力	unknown
-努力+努力+努力+努力+努力!	unknown
-努力+努力+努力+努力+努力+努力	unknown
-努力+努力+努力+努力加油	unknown
-努力努力+努力+努力+努力	unknown
+努力+努力+努力+努力+努力	good
+努力+努力+努力+努力+努力!	normal
+努力+努力+努力+努力+努力+努力	normal
+努力+努力+努力+努力加油	normal
+努力努力+努力+努力+努力	normal
 明天考试、求安慰
-做自己喜欢的事情	unknown
+做自己喜欢的事情	bad
 好好学习天天向上	normal
-做自己喜欢做的事	unknown
-做自己喜欢做的事情	unknown
+做自己喜欢做的事	bad
+做自己喜欢做的事情	bad
 做自己想做的事情	unknown
 听说过外星生命吗
-我相信一切皆有可能	unknown
-信则有不信则无!	unknown
-信则有不信则无。	unknown
-相信一切皆有可能	unknown
-相信他一切皆有可能	unknown
+我相信一切皆有可能	bad
+信则有不信则无!	bad
+信则有不信则无。	bad
+相信一切皆有可能	bad
+相信他一切皆有可能	bad
 我命令你以后只能呆在家里
-走自己的路让别人说去吧!	unknown
-一切皆有可能只要你有信心	unknown
-一切皆有可能一切皆有可能	unknown
-走自己的路让别人说去吧。	unknown
-只要有信心一切皆有可能!	unknown
+走自己的路让别人说去吧!	bad
+一切皆有可能只要你有信心	bad
+一切皆有可能一切皆有可能	bad
+走自己的路让别人说去吧。	bad
+只要有信心一切皆有可能!	bad
 你等会我过会跟你说
-我相信一切皆有可能	unknown
-我相信一切皆有可能!	unknown
-我会相信一切皆有可能	unknown
-我相信一切皆有可能。	unknown
-我会我相信一切皆有可能	unknown
+我相信一切皆有可能	bad
+我相信一切皆有可能!	bad
+我会相信一切皆有可能	bad
+我相信一切皆有可能。	bad
+我会我相信一切皆有可能	bad
 我来把你胸抓大
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切顺其自然吧	unknown
-一切皆有可能的	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切顺其自然吧	bad
+一切皆有可能的	bad
 你叫个春
-圣诞老人	unknown
-当然是啊	unknown
-当然是了	unknown
+圣诞老人	bad
+当然是啊	bad
+当然是了	bad
 科比布莱恩特	unknown
 在我心中	unknown
 上班好累啊
-不累就不累	unknown
-不累就不累了	unknown
+不累就不累	bad
+不累就不累了	bad
 累了就休息	normal
 好好休息一下	normal
-好好休息啊	unknown
+好好休息啊	good
 我在等地铁
-在你的心里	unknown
-一切皆有可能	unknown
-在你的心中	unknown
-什么意思?	unknown
+在你的心里	bad
+一切皆有可能	bad
+在你的心中	bad
+什么意思?	bad
 在你的身边	unknown
 你闭嘴
 闭上眼睛	bad
 闭着眼睛	bad
 什么意思	normal
 什么意思?	normal
-没听说过	unknown
+没听说过	bad
 那就放给我听吧
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-做自己喜欢的事情	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+做自己喜欢的事情	bad
 一切顺其自然吧	unknown
 我的好友喜欢吃什么
 喜欢吃什么就吃什么	normal
 你喜欢吃什么就吃什么	bad
-喜欢吃什么就吃什么啊	unknown
-喜欢什么就吃什么啊	unknown
-当然是喜欢吃的东西了	unknown
+喜欢吃什么就吃什么啊	bad
+喜欢什么就吃什么啊	bad
+当然是喜欢吃的东西了	normal
 你这智商哥都不稀罕说了
-什么意思?说清楚点吗?	unknown
-因为他是中国人的骄傲!	unknown
-因为他是中国人的骄傲。	unknown
+什么意思?说清楚点吗?	bad
+因为他是中国人的骄傲!	bad
+因为他是中国人的骄傲。	bad
 因为他是我们中国的骄傲	unknown
 因为他是中国人的骄傲啊	unknown
 让你慢慢喜欢
-一切皆有可能	unknown
+一切皆有可能	bad
 喜欢就是喜欢	bad
-因为他是中国人	unknown
-不喜欢就不喜欢	unknown
-喜欢就不喜欢	unknown
+因为他是中国人	bad
+不喜欢就不喜欢	normal
+喜欢就不喜欢	bad
 你和过儿什么关系
-没什么关系的关系	unknown
-朋友和朋友一起过	unknown
-和朋友朋友一起过	unknown
-和朋友一样的关系	unknown
-朋友和朋友的关系	unknown
+没什么关系的关系	good
+朋友和朋友一起过	bad
+和朋友朋友一起过	bad
+和朋友一样的关系	normal
+朋友和朋友的关系	normal
 你和张小龙什么关系
-没什么关系都没关系	unknown
-没什么关系没有关系	unknown
-没什么关系的关系。	unknown
+没什么关系都没关系	bad
+没什么关系没有关系	bad
+没什么关系的关系。	good
 没什么关系都是关系	unknown
 没什么关系的关系!	unknown
 你是白富美吗
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-非常非常漂亮	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+非常非常漂亮	bad
 只要努力就行	unknown
 外面有摩托车的响声
-你说的是什么意思?	unknown
-有可能是网速的问题	unknown
-应该没什么关系吧!	unknown
+你说的是什么意思?	bad
+有可能是网速的问题	bad
+应该没什么关系吧!	bad
 什么意思?说清楚点	unknown
 有什么问题说清楚点	unknown
 哥很伤心
-开心就好	unknown
+开心就好	bad
 找个女朋友	normal
-当然是啊	unknown
-当然是了	unknown
-一切皆有可能	unknown
+当然是啊	bad
+当然是了	bad
+一切皆有可能	bad
 我要问你一个很长的问题你准备好了吗
-一切皆有可能只要你努力了就没问题了	unknown
-只要有信心就一定能实力一切皆有可能	unknown
-一切皆有可能只要你有信心就可以了!	unknown
-只要有信心就一定能实现一切皆有可能	unknown
-一切皆有可能只要你有信心就可以了。	unknown
+一切皆有可能只要你努力了就没问题了	bad
+只要有信心就一定能实力一切皆有可能	bad
+一切皆有可能只要你有信心就可以了!	bad
+只要有信心就一定能实现一切皆有可能	bad
+一切皆有可能只要你有信心就可以了。	bad
 我坐到电梯了
-一切皆有可能	unknown
-一切顺其自然	unknown
-好好休息一下	unknown
+一切皆有可能	bad
+一切顺其自然	bad
+好好休息一下	bad
 当然是上海了	unknown
 什么意思啊?	unknown
 你和杨过谁牛逼
-当然是我最爱的人	unknown
-当然是诸葛亮了	unknown
-当然是牛郎啊!	unknown
-当然是你自己了	unknown
-当然是牛郎织女了	unknown
+当然是我最爱的人	bad
+当然是诸葛亮了	bad
+当然是牛郎啊!	bad
+当然是你自己了	bad
+当然是牛郎织女了	bad
 我永远都在你身边
-我相信一切皆有可能	unknown
-一切都在你的身边	unknown
-我相信一切皆有可能!	unknown
-我相信他一定会的	unknown
-我们一切皆有可能	unknown
+我相信一切皆有可能	bad
+一切都在你的身边	bad
+我相信一切皆有可能!	bad
+我相信他一定会的	bad
+我们一切皆有可能	bad
 这你都能看出来
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
-一切皆有可能~	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
+一切皆有可能~	bad
 刚刚公司有人打架
 没听说过这个问题	unknown
 因为他是中国人!	unknown
@@ -689,947 +689,947 @@
 是男的还是女的?	unknown
 应该是打篮球吧!	unknown
 就是那天你碰到的骚浪贱
-这个世界上没有绝对的事	unknown
-这个世界上没有绝对的。	unknown
-这个世界上没有绝对的!	unknown
-这个世界上没有绝对的人	unknown
-这个世界上没有绝对的事情	unknown
+这个世界上没有绝对的事	bad
+这个世界上没有绝对的。	bad
+这个世界上没有绝对的!	bad
+这个世界上没有绝对的人	bad
+这个世界上没有绝对的事情	bad
 你去火车站了么
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
-当然是火箭了!	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
+当然是火箭了!	bad
 火车为什么总晚点
-因为晚上早点休息	unknown
+因为晚上早点休息	bad
 因为晚上早点睡觉	unknown
 因为他是中国人!	unknown
 因为中国人太累了	unknown
 因为他是中国人啊	unknown
 你好无聊
 无聊的时候	bad
-无聊的人	unknown
-找朋友聊天	unknown
-找人聊天	unknown
+无聊的人	normal
+找朋友聊天	bad
+找人聊天	bad
 非常无聊	normal
 肚子右边隐隐作痛
-日有所思夜有所梦	unknown
-日有所思夜有所思	unknown
+日有所思夜有所梦	bad
+日有所思夜有所思	bad
 去医院检查一下吧	normal
-最好去医院看医生	unknown
-日有所思夜有所梦。	unknown
+最好去医院看医生	good
+日有所思夜有所梦。	bad
 外面很气冷
-心静自然凉	unknown
+心静自然凉	bad
 多穿点衣服	normal
-心静自然凉!	unknown
-心静自然凉。	unknown
-一切皆有可能	unknown
+心静自然凉!	bad
+心静自然凉。	bad
+一切皆有可能	bad
 昨晚刮大风了
-一切皆有可能	unknown
-心静自然凉!	unknown
-心静自然凉。	unknown
-一切皆有可能!	unknown
-没什么大不了	unknown
+一切皆有可能	bad
+心静自然凉!	bad
+心静自然凉。	bad
+一切皆有可能!	bad
+没什么大不了	bad
 公司有人打架
-一切皆有可能	unknown
+一切皆有可能	bad
 科比布莱恩特	unknown
-打篮球打篮球	unknown
+打篮球打篮球	bad
 古巴小将罗伯斯	unknown
 当然是打篮球了	unknown
 我是邓超
 当然是了	normal
-当然是啊	unknown
-一切皆有可能	unknown
+当然是啊	bad
+一切皆有可能	bad
 比尔盖茨	unknown
 应该是吧	unknown
 最近股票大跌
-一切皆有可能	unknown
-当然是火箭了	unknown
+一切皆有可能	bad
+当然是火箭了	bad
 200万美元	unknown
 打篮球的时候	unknown
 100万左右	unknown
 对面哪个妹子好看
-没有最好只有更好看	unknown
-没有最好只有更好	unknown
-自己喜欢的就好看	unknown
+没有最好只有更好看	normal
+没有最好只有更好	normal
+自己喜欢的就好看	good
 你喜欢哪个就好看	unknown
 萝卜青菜各有所爱	normal
 公司不让抽烟了
 抽烟对身体不好	good
-吸烟有害健康!	unknown
-抽烟有害健康!	unknown
-吸烟有害健康。	unknown
-抽烟有害健康。	unknown
+吸烟有害健康!	good
+抽烟有害健康!	normal
+吸烟有害健康。	normal
+抽烟有害健康。	normal
 能做什么菜
-做自己喜欢做的事	unknown
-做自己想做的事	unknown
-做自己喜欢的事	unknown
+做自己喜欢做的事	bad
+做自己想做的事	bad
+做自己喜欢的事	bad
 想做什么就做什么	normal
-做梦的时候	unknown
+做梦的时候	bad
 你会做什么菜
-做自己喜欢的事	unknown
-做自己想做的事	unknown
-做自己喜欢做的事	unknown
-做自己喜欢的事情	unknown
-想做什么就做什么	unknown
+做自己喜欢的事	bad
+做自己想做的事	bad
+做自己喜欢做的事	bad
+做自己喜欢的事情	bad
+想做什么就做什么	bad
 吃了什么
-吃饭睡觉	unknown
-吃好吃的	unknown
-吃口香糖	unknown
+吃饭睡觉	bad
+吃好吃的	good
+吃口香糖	normal
 想吃什么就吃什么	normal
 吃饭吃饭	unknown
 不给你喝
-一切皆有可能	unknown
-我不喜欢	unknown
-当然要了	unknown
-当然喝了	unknown
-相信自己	unknown
+一切皆有可能	bad
+我不喜欢	bad
+当然要了	bad
+当然喝了	bad
+相信自己	bad
 这么高级的东西
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-打篮球运动打篮球	unknown
-做自己喜欢的事情	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+打篮球运动打篮球	bad
+做自己喜欢的事情	bad
 猫和狗不好
 当然不好了	normal
-当然不好啦	unknown
-当然不好啊	unknown
-没什么不好	unknown
-只要喜欢就好	unknown
+当然不好啦	normal
+当然不好啊	normal
+没什么不好	good
+只要喜欢就好	normal
 杨过和你是啥关系
-互相关心互相关心	unknown
-和喜欢的人在一起	unknown
-和喜欢的人一起过	unknown
-互相关心互相关怀	unknown
-没什么关系的关系	unknown
+互相关心互相关心	bad
+和喜欢的人在一起	bad
+和喜欢的人一起过	bad
+互相关心互相关怀	bad
+没什么关系的关系	good
 有多美
-一切皆有可能	unknown
-各有千秋	unknown
-一切皆有可能!	unknown
-因人而异	unknown
+一切皆有可能	bad
+各有千秋	bad
+一切皆有可能!	bad
+因人而异	bad
 天天向上	unknown
 她在吃香蕉
-喜欢吃就吃	unknown
-一切皆有可能	unknown
-当然是香蕉	unknown
-我喜欢吃香蕉	unknown
-喜欢吃香蕉	unknown
+喜欢吃就吃	good
+一切皆有可能	bad
+当然是香蕉	bad
+我喜欢吃香蕉	good
+喜欢吃香蕉	normal
 为什么你妈妈生出你这么个脑残
-因为他是中国人的爸爸妈妈生的	unknown
-因为他是中国人是最伟大的动物	unknown
-因为他是中国的爸爸妈妈生的!	unknown
-因为他是中国的爸爸妈妈生的。	unknown
-因为他是中国人因为他是中国人	unknown
+因为他是中国人的爸爸妈妈生的	bad
+因为他是中国人是最伟大的动物	bad
+因为他是中国的爸爸妈妈生的!	bad
+因为他是中国的爸爸妈妈生的。	bad
+因为他是中国人因为他是中国人	bad
 不去吃饭
-肚子饿了	unknown
+肚子饿了	normal
 吃饭睡觉	bad
-在家吃饭	unknown
-不要吃饭	unknown
-当然吃了	unknown
+在家吃饭	bad
+不要吃饭	bad
+当然吃了	bad
 动车是怎么跑起来的
-因为他是篮球运动员	unknown
-打篮球运动打篮球的	unknown
-打篮球打篮球运动员	unknown
-走自己的路让别人去走	unknown
-走自己的路让别人来说	unknown
+因为他是篮球运动员	bad
+打篮球运动打篮球的	bad
+打篮球打篮球运动员	bad
+走自己的路让别人去走	bad
+走自己的路让别人来说	bad
 学挖掘技术哪家强
-没有最强只有更强	unknown
-没有最强只有更强!	unknown
-当然是比尔盖茨了	unknown
+没有最强只有更强	normal
+没有最强只有更强!	bad
+当然是比尔盖茨了	bad
 没有最强只有更厉害	unknown
 没有最强只有更好	unknown
 抽根烟冷静一下
-吸烟有害健康!	unknown
-吸烟有害健康。	unknown
+吸烟有害健康!	good
+吸烟有害健康。	normal
 抽烟对身体不好	good
 吸烟有害身体健康	normal
-一切皆有可能!	unknown
+一切皆有可能!	bad
 我的书包在哪里
 在你自己的心里	bad
-在你喜欢的地方	unknown
-中华人民共和国	unknown
-在美国的地方!	unknown
-在你自己的身边	unknown
+在你喜欢的地方	normal
+中华人民共和国	normal
+在美国的地方!	normal
+在你自己的身边	normal
 我的书包坏了
-坏蛋是怎样炼成的	unknown
-坏了就是坏了	unknown
-坏蛋是怎么坏	unknown
-坏了就没事了	unknown
+坏蛋是怎样炼成的	bad
+坏了就是坏了	bad
+坏蛋是怎么坏	bad
+坏了就没事了	bad
 坏了就知道了	unknown
 哪里地震了
-地壳运动员	unknown
-地狱的地方	unknown
-在火箭的地方	unknown
-火箭的地方	unknown
-什么地方?	unknown
+地壳运动员	bad
+地狱的地方	bad
+在火箭的地方	bad
+火箭的地方	bad
+什么地方?	bad
 外面下大雨了
-当然是下雨了	unknown
-当然是下雪了	unknown
+当然是下雨了	bad
+当然是下雪了	bad
 应该是下雨了	bad
 悲伤逆流成河	unknown
 没什么大不了	unknown
 后天中午两点半去吃饭。
-该吃饭的时候就该吃饭了	unknown
-当然是饭后一定要吃饭了	unknown
-一切皆有可能是最好的选择	unknown
-该怎么吃就怎么吃就怎么吃	unknown
-和家人一起吃饭一起吃饭	unknown
+该吃饭的时候就该吃饭了	bad
+当然是饭后一定要吃饭了	bad
+一切皆有可能是最好的选择	bad
+该怎么吃就怎么吃就怎么吃	bad
+和家人一起吃饭一起吃饭	bad
 明天领导要来
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-当然是上帝了	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+当然是上帝了	bad
 当然是姚明了	unknown
 我看看有没有空
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-我相信一切皆有可能	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+我相信一切皆有可能	bad
 一切皆有可能~	unknown
 没有花露水
 应该没有吧	bad
 当然没有了	normal
-应该没有吧!	unknown
+应该没有吧!	bad
 当然是花了	unknown
 好像没有吧	normal
 快来骚扰我
-一切皆有可能	unknown
-做梦的时候	unknown
-做自己喜欢的事	unknown
-做自己喜欢的事情	unknown
-做自己想做的事	unknown
+一切皆有可能	bad
+做梦的时候	bad
+做自己喜欢的事	bad
+做自己喜欢的事情	bad
+做自己想做的事	bad
 快来蹂躏我
-一切皆有可能	unknown
-做梦的时候	unknown
-做自己喜欢的事	unknown
-做自己喜欢的事情	unknown
-什么意思?	unknown
+一切皆有可能	bad
+做梦的时候	bad
+做自己喜欢的事	bad
+做自己喜欢的事情	bad
+什么意思?	bad
 你要去哪儿旅游
-去自己喜欢的地方	unknown
-自己喜欢的地方	unknown
+去自己喜欢的地方	good
+自己喜欢的地方	normal
 去你想去的地方	normal
 自己想去的地方	good
-去你喜欢的地方	unknown
+去你喜欢的地方	normal
 红公鸡囧哦呵呵
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-男的还是女的?	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+男的还是女的?	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
 鳄鱼
-当然是啊	unknown
-当然是了	unknown
-好像没有	unknown
-一切皆有可能	unknown
-没听说过	unknown
+当然是啊	bad
+当然是了	bad
+好像没有	bad
+一切皆有可能	bad
+没听说过	bad
 她在吃水果
-一切皆有可能	unknown
-喜欢吃就吃	unknown
+一切皆有可能	bad
+喜欢吃就吃	good
 当然是吃了	bad
-想吃就吃啊	unknown
-一切皆有可能!	unknown
+想吃就吃啊	normal
+一切皆有可能!	bad
 如何照顾家庭
-好好学习天天向上	unknown
-一切顺其自然	unknown
-用心就可以了	unknown
-一切皆有可能	unknown
-去当地派出所	unknown
+好好学习天天向上	bad
+一切顺其自然	bad
+用心就可以了	normal
+一切皆有可能	bad
+去当地派出所	bad
 儿童节怎么过
 和朋友一起过	normal
 想怎么过就怎么过	good
 和家人一起过	normal
-找朋友一起过	unknown
-和朋友一起过啊	unknown
+找朋友一起过	good
+和朋友一起过啊	normal
 下楼吃饭去
-当然是饭了	unknown
-饿死的时候	unknown
-当然是饭啊	unknown
-当然是吃饭了	unknown
+当然是饭了	bad
+饿死的时候	good
+当然是饭啊	bad
+当然是吃饭了	bad
 当然是饭啦	unknown
 什么时候能凉快下来
-心静自然醒来的时候	unknown
-心静自然凉的时候!	unknown
-心情好的时候就快了	unknown
-做自己喜欢做的事情	unknown
-心静自然凉的时候。	unknown
+心静自然醒来的时候	bad
+心静自然凉的时候!	good
+心情好的时候就快了	bad
+做自己喜欢做的事情	bad
+心静自然凉的时候。	normal
 你知道的太多了
-你说的是什么?	unknown
-你说的是什么啊	unknown
-你问的是什么?	unknown
+你说的是什么?	bad
+你说的是什么啊	bad
+你问的是什么?	bad
 你问的是什么啊	unknown
 你说的是什么啊?	unknown
 被蚊子咬了好几口啊
-去医院检查一下就知道了	unknown
-去医院查一下就知道了	unknown
-去医院看看就知道了	unknown
+去医院检查一下就知道了	bad
+去医院查一下就知道了	bad
+去医院看看就知道了	bad
 你可以去医院看看吧	unknown
 去医院一下就知道了	unknown
 三里屯优衣库
-科比布莱恩特	unknown
-中华人民共和国	unknown
+科比布莱恩特	bad
+中华人民共和国	bad
 好像没听说过	unknown
 什么东西啊?	unknown
 应该还可以吧	unknown
 心里不好受怎么办
 该怎么办就怎么办	normal
 想怎么办就怎么办	normal
-做自己喜欢的事情	unknown
-做自己喜欢做的事	unknown
-去医院检查一下吧	unknown
+做自己喜欢的事情	normal
+做自己喜欢做的事	normal
+去医院检查一下吧	bad
 这个世界谁最有钱
-没有钱的人最有钱	unknown
-没有最厉害只有更有钱	unknown
-没有最强只有更有钱	unknown
-没有最强只有更强	unknown
-没有最棒只有更有钱	unknown
+没有钱的人最有钱	normal
+没有最厉害只有更有钱	bad
+没有最强只有更有钱	bad
+没有最强只有更强	bad
+没有最棒只有更有钱	bad
 葫芦娃你认识吗？
-我认为应该没问题	unknown
-不认识就不认识了	unknown
-我相信他一定会的	unknown
-我觉得应该没问题	unknown
-只要你喜欢就可以	unknown
+我认为应该没问题	bad
+不认识就不认识了	normal
+我相信他一定会的	bad
+我觉得应该没问题	bad
+只要你喜欢就可以	bad
 哥买了个自行车
-没有最好只有更好	unknown
+没有最好只有更好	bad
 好像没有问题的	unknown
 这个没有问题的	unknown
 中华人民共和国	unknown
 好像没什么问题	unknown
 a股明天涨不涨
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-好好休息一下吧	unknown
-一切皆有可能的	unknown
-一切皆有可能啊	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+好好休息一下吧	bad
+一切皆有可能的	bad
+一切皆有可能啊	bad
 为啥喝咖啡不好
-因为他是中国人	unknown
-因为吸烟有害健康	unknown
-因为对身体不好	unknown
-因为他喝的太多了	unknown
+因为他是中国人	bad
+因为吸烟有害健康	bad
+因为对身体不好	good
+因为他喝的太多了	normal
 因为你喝的太多了	unknown
 天空是蓝的
 天空是蓝色的	bad
 天空是蓝的	bad
-天是蓝色的	unknown
-蓝天是蓝色的	unknown
-蓝天是蓝的	unknown
+天是蓝色的	bad
+蓝天是蓝色的	bad
+蓝天是蓝的	bad
 去台湾什么值得买
 想买什么就买什么	normal
-新华书店都有卖的	unknown
+新华书店都有卖的	bad
 你想买什么就买什么	good
 什么东西都可以买	unknown
 没有最好只有更好	unknown
 刘德华是谁
-当然是刘翔	unknown
-刘翔是刘翔	unknown
-当然是刘翔啊	unknown
-当然是刘翔啦	unknown
+当然是刘翔	bad
+刘翔是刘翔	bad
+当然是刘翔啊	bad
+当然是刘翔啦	bad
 他是中国人	normal
 说你长的丑你还美
 心灵美才是最美的	good
 心灵美才是真的美	normal
 心灵美才是最美的!	normal
-自信一切皆有可能	unknown
-心灵美才是最美的。	unknown
+自信一切皆有可能	bad
+心灵美才是最美的。	normal
 你去吃粑粑
-当然是吃了	unknown
-我吃西红柿	unknown
-一切皆有可能	unknown
-我喜欢吃西瓜	unknown
-什么意思?	unknown
+当然是吃了	normal
+我吃西红柿	normal
+一切皆有可能	bad
+我喜欢吃西瓜	good
+什么意思?	bad
 那些出来好了
-只要开心就好	unknown
-自己喜欢就好	unknown
-当然是上海了	unknown
-当然是好的了	unknown
-当然是上帝了	unknown
+只要开心就好	good
+自己喜欢就好	normal
+当然是上海了	bad
+当然是好的了	bad
+当然是上帝了	bad
 家里突然没电了
-因为他是中国人	unknown
-一切皆有可能!	unknown
-建议去医院检查	unknown
-建议去医院看看	unknown
-一切皆有可能。	unknown
+因为他是中国人	bad
+一切皆有可能!	bad
+建议去医院检查	bad
+建议去医院看看	bad
+一切皆有可能。	bad
 家里黑漆漆的
-当然是黑色的	unknown
-好像是黑色的	unknown
-科比布莱恩特	unknown
-应该是黑色的	unknown
+当然是黑色的	bad
+好像是黑色的	bad
+科比布莱恩特	bad
+应该是黑色的	bad
 当然是黑色的啊	unknown
 既然爱我那就跟我在一起吧
-一切皆有可能一切皆有可能	unknown
-只要你努力就一定能在一起	unknown
-只要你喜欢就一定能在一起	unknown
-一切皆有可能只要你有信心	unknown
-只要你相信就一定能在一起	unknown
+一切皆有可能一切皆有可能	bad
+只要你努力就一定能在一起	bad
+只要你喜欢就一定能在一起	bad
+一切皆有可能只要你有信心	bad
+只要你相信就一定能在一起	bad
 都说了没风
-悲伤逆流成河	unknown
-什么意思?	unknown
-应该没有吧	unknown
+悲伤逆流成河	bad
+什么意思?	bad
+应该没有吧	normal
 没什么问题	unknown
 那是肯定的	unknown
 没风怎么放
 心静自然凉	bad
-一切皆有可能	unknown
-转移注意力	unknown
-心静自然凉!	unknown
-放在冰箱里	unknown
+一切皆有可能	bad
+转移注意力	bad
+心静自然凉!	bad
+放在冰箱里	bad
 没有止疼药
 去医院看看	normal
-心静自然凉	unknown
+心静自然凉	bad
 去医院检查一下	unknown
 一切皆有可能	unknown
 时间是最好的疗伤药	unknown
 你这是越俎代庖
-中华人民共和国	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
+中华人民共和国	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
 因为他是中国人	unknown
 中国人民共和国	unknown
 中国有多大
 中国有多大	bad
 心有多大就有多大	normal
-有多大就有多大	unknown
+有多大就有多大	bad
 想有多大就有多大	unknown
 你说有多大就有多大	unknown
 你不小了可以结婚了
-结婚了就不要结婚了	unknown
-没有结婚了就结婚了	unknown
-结婚了还没结婚呢?	unknown
-没有结婚只有结婚了	unknown
-结婚了就可以结婚了	unknown
+结婚了就不要结婚了	bad
+没有结婚了就结婚了	bad
+结婚了还没结婚呢?	bad
+没有结婚只有结婚了	bad
+结婚了就可以结婚了	bad
 你会开车吗
-一切皆有可能	unknown
-一定会的!	unknown
-一定会的。	unknown
-当然不会了	unknown
-一切皆有可能!	unknown
+一切皆有可能	bad
+一定会的!	normal
+一定会的。	normal
+当然不会了	good
+一切皆有可能!	bad
 那你还认识谁
-当然是姚明了	unknown
-当然是李宁啊	unknown
-我认为是李宁	unknown
-当然是李宁啦	unknown
-当然是自己了	unknown
+当然是姚明了	normal
+当然是李宁啊	normal
+我认为是李宁	normal
+当然是李宁啦	normal
+当然是自己了	good
 核桃好吃吗
 当然好吃了	good
-当然好吃啦	unknown
-当然好吃啊	unknown
-好吃就好吃	unknown
-当然好吃!	unknown
+当然好吃啦	good
+当然好吃啊	good
+好吃就好吃	bad
+当然好吃!	normal
 西雅图有什么好玩儿的
-要看你喜欢什么类型的	unknown
-看你喜欢什么类型的了	unknown
-自己喜欢的就是好玩的	unknown
+要看你喜欢什么类型的	normal
+看你喜欢什么类型的了	normal
+自己喜欢的就是好玩的	normal
 看你喜欢什么类型的啊	unknown
 那要看你喜欢什么类型的	unknown
 那你会做什么菜
-做自己想做的事	unknown
-做自己喜欢的事	unknown
-做自己喜欢做的事	unknown
-做自己喜欢的事情	unknown
-想做什么就做什么	unknown
+做自己想做的事	bad
+做自己喜欢的事	bad
+做自己喜欢做的事	bad
+做自己喜欢的事情	bad
+想做什么就做什么	normal
 你嫁我可好~
-一切皆有可能	unknown
-自己喜欢就好	unknown
-一切皆有可能!	unknown
+一切皆有可能	bad
+自己喜欢就好	bad
+一切皆有可能!	bad
 只要你喜欢就好	normal
-只要你喜欢就行	unknown
+只要你喜欢就行	normal
 你有兄弟姐妹吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-没有姐姐的弟弟	unknown
-没有姐姐的姐姐	unknown
-一切皆有可能啊	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+没有姐姐的弟弟	bad
+没有姐姐的姐姐	bad
+一切皆有可能啊	bad
 你喜欢张小龙吗
-喜欢啊非常喜欢	unknown
-喜欢就是喜欢!	unknown
-一切皆有可能!	unknown
-不喜欢就不喜欢	unknown
-喜欢就是喜欢。	unknown
+喜欢啊非常喜欢	good
+喜欢就是喜欢!	bad
+一切皆有可能!	bad
+不喜欢就不喜欢	bad
+喜欢就是喜欢。	bad
 来和我聊天
-找朋友聊天	unknown
-和朋友聊天	unknown
-找朋友聊天啊	unknown
-找个女朋友	unknown
+找朋友聊天	normal
+和朋友聊天	normal
+找朋友聊天啊	normal
+找个女朋友	bad
 我陪你聊天	unknown
 自然语言处理
-一切皆有可能	unknown
-一切皆有可能!	unknown
-对自己有信心	unknown
-一切皆有可能。	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+对自己有信心	bad
+一切皆有可能。	bad
 一切顺其自然	bad
 心情不好听什么
-和心爱的人在一起	unknown
-做自己喜欢的事情	unknown
-看自己的心情了	unknown
+和心爱的人在一起	bad
+做自己喜欢的事情	bad
+看自己的心情了	bad
 心情好什么都好听	bad
-做自己喜欢的事	unknown
+做自己喜欢的事	bad
 电影不好看
 当然好看了	normal
-当然好看啊	unknown
-当然不好看	unknown
+当然好看啊	normal
+当然不好看	normal
 没什么好看的	normal
-当然好看啦	unknown
+当然好看啦	normal
 不喜欢看小说
 悲伤逆流成河	bad
-不喜欢就不喜欢	unknown
-喜欢什么类型的	unknown
-喜欢就是喜欢	unknown
+不喜欢就不喜欢	normal
+喜欢什么类型的	bad
+喜欢就是喜欢	bad
 梦里花落知多少	unknown
 背首诗给我
 什么意思?	bad
-一切皆有可能	unknown
-什么意思啊	unknown
-一切皆有可能!	unknown
+一切皆有可能	bad
+什么意思啊	bad
+一切皆有可能!	bad
 什么名字啊	unknown
 你给我找个妹子聊
-找点有意义的事做	unknown
-做自己喜欢的事情	unknown
+找点有意义的事做	bad
+做自己喜欢的事情	bad
 你是男的还是女的?	bad
-你是男的还是女的	unknown
-找自己喜欢的事做	unknown
+你是男的还是女的	bad
+找自己喜欢的事做	bad
 轮胎坏了怎么办
 去医院检查一下	bad
 该怎么办就怎么办	normal
-去医院检查一下吧	unknown
-好好休息一下吧	unknown
-去当地派出所啊	unknown
+去医院检查一下吧	bad
+好好休息一下吧	bad
+去当地派出所啊	bad
 微信牛逼吗
-一切皆有可能	unknown
+一切皆有可能	bad
 信则有不信则无	bad
-相信自己!	unknown
-相信自己。	unknown
-一切皆有可能!	unknown
+相信自己!	bad
+相信自己。	bad
+一切皆有可能!	bad
 刘小宁是条狗
-科比布莱恩特	unknown
-当然是姚明了	unknown
+科比布莱恩特	bad
+当然是姚明了	bad
 古巴小将罗伯斯	unknown
 应该是乔丹吧	unknown
 当然是乔丹了	unknown
 叶良辰是谁
-科比布莱恩特	unknown
-当然是李宁	unknown
-应该是李宁吧	unknown
-当然是叶莉	unknown
+科比布莱恩特	bad
+当然是李宁	bad
+应该是李宁吧	bad
+当然是叶莉	bad
 应该是李宁	unknown
 贱人就是矫情
 人之初性本善	normal
-人之初性本善!	unknown
-一切皆有可能	unknown
-人至贱则无敌	unknown
+人之初性本善!	bad
+一切皆有可能	bad
+人至贱则无敌	bad
 人之初性本善。	unknown
 床上躺好等我
-该睡觉的时候	unknown
-闭上眼睛睡觉	unknown
-躺在床上睡觉	unknown
-当然是睡觉了	unknown
-想睡觉的时候	unknown
+该睡觉的时候	bad
+闭上眼睛睡觉	bad
+躺在床上睡觉	bad
+当然是睡觉了	bad
+想睡觉的时候	bad
 日日日
-生日快乐	unknown
-好好的生日	unknown
-生日快乐!	unknown
-开心的日子	unknown
-快乐的生日	unknown
+生日快乐	bad
+好好的生日	bad
+生日快乐!	bad
+开心的日子	bad
+快乐的生日	bad
 你喝牛奶
-牛奶牛奶	unknown
-当然是牛奶	unknown
-当然是牛奶了	unknown
-当然牛奶	unknown
-早睡早起	unknown
+牛奶牛奶	bad
+当然是牛奶	bad
+当然是牛奶了	bad
+当然牛奶	bad
+早睡早起	bad
 我要1000万现金
-我相信一切皆有可能	unknown
+我相信一切皆有可能	bad
 200万美元00万	unknown
-我相信一切皆有可能!	unknown
+我相信一切皆有可能!	bad
 那要看是什么东西了	unknown
 200万美国人民币	unknown
 不想起床
-在家睡觉	unknown
-闭上眼睛	unknown
-应该没事	unknown
+在家睡觉	normal
+闭上眼睛	normal
+应该没事	bad
 不想起床	bad
-没听说过	unknown
+没听说过	bad
 那买什么车好
-没有最好只有更好	unknown
-打篮球的地方	unknown
-卖电脑的地方	unknown
-自己喜欢的地方	unknown
+没有最好只有更好	bad
+打篮球的地方	bad
+卖电脑的地方	bad
+自己喜欢的地方	bad
 想买什么就买什么	normal
 猪八戒照镜子
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
 当然是刘翔了	unknown
 唐僧话太多
-什么意思?	unknown
-什么意思啊	unknown
-中华人民共和国	unknown
-做梦的时候	unknown
+什么意思?	bad
+什么意思啊	bad
+中华人民共和国	bad
+做梦的时候	bad
 他是中国人	unknown
 打印机坏了
-可能是坏了	unknown
-没什么问题	unknown
-应该不错吧	unknown
-好像没有吧	unknown
+可能是坏了	bad
+没什么问题	bad
+应该不错吧	bad
+好像没有吧	bad
 好像没问题	unknown
 中午要午休了
 当然要休息了	normal
-早上早点休息	unknown
-好好休息一下	unknown
+早上早点休息	bad
+好好休息一下	good
 应该是休息吧	unknown
 应该是休息了	unknown
 咖啡机
-一切皆有可能	unknown
+一切皆有可能	bad
 咖啡咖啡	bad
-放松心情	unknown
+放松心情	bad
 没听说过	bad
-做梦的时候	unknown
+做梦的时候	bad
 我有个好消息
-一切皆有可能	unknown
-好好休息一下	unknown
-没什么好处的	unknown
-好好的休息一下	unknown
-好好休息一下吧	unknown
+一切皆有可能	bad
+好好休息一下	bad
+没什么好处的	bad
+好好的休息一下	bad
+好好休息一下吧	bad
 聊着天喝着酒
-睡前喝杯牛奶	unknown
+睡前喝杯牛奶	bad
 借酒消愁愁更愁	normal
-做自己喜欢的事情	unknown
-想的事情太多了	unknown
-做自己喜欢的事	unknown
+做自己喜欢的事情	bad
+想的事情太多了	bad
+做自己喜欢的事	bad
 那你到底被强奸没有
-没有最强只有更厉害	unknown
-没有最强只有更强!	unknown
-没有最厉害只有更强	unknown
-没有最强只有更强。	unknown
-没有最厉害只有更厉害	unknown
+没有最强只有更厉害	bad
+没有最强只有更强!	bad
+没有最厉害只有更强	bad
+没有最强只有更强。	bad
+没有最厉害只有更厉害	bad
 明天周五啦
-做梦的时候	unknown
-八月十五号	unknown
-八月十五日	unknown
-日有所思夜有所梦	unknown
+做梦的时候	bad
+八月十五号	bad
+八月十五日	bad
+日有所思夜有所梦	bad
 应该是7天	unknown
 拉倒吧，你就是坏银
 不是坏蛋是怎样炼成的	unknown
-我相信一切皆有可能	unknown
-那要看是什么东西了	unknown
+我相信一切皆有可能	bad
+那要看是什么东西了	bad
 没有坏蛋是怎样炼成的	unknown
 那要看是什么样的人了	unknown
 今天出差
-一切皆有可能	unknown
-闭上眼睛	unknown
-好好休息	unknown
-相信自己	unknown
-天天向上	unknown
+一切皆有可能	bad
+闭上眼睛	bad
+好好休息	bad
+相信自己	bad
+天天向上	bad
 灯好暗
-喜欢就好	unknown
-闭上眼睛	unknown
-相信自己	unknown
-个人爱好	unknown
+喜欢就好	bad
+闭上眼睛	bad
+相信自己	bad
+个人爱好	bad
 当然好了	unknown
 聚餐一起吧
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一定可以的	unknown
-什么意思?	unknown
-一切皆有可能。	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一定可以的	bad
+什么意思?	bad
+一切皆有可能。	bad
 躺床上看电视
-闭上眼睛睡觉	unknown
-当然是上海了	unknown
-上网看电视剧	unknown
-当然是睡觉了	unknown
+闭上眼睛睡觉	bad
+当然是上海了	bad
+上网看电视剧	normal
+当然是睡觉了	bad
 当然是上网了	unknown
 小微你很骚啊
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
 一切皆有可能的	unknown
 看来不错，适合外出吗
-没错只要自己喜欢就好	unknown
-没错只要自己喜欢就行	unknown
-相信自己一切皆有可能	unknown
-当然只要自己喜欢就好	unknown
-只要自己喜欢就没问题	unknown
+没错只要自己喜欢就好	good
+没错只要自己喜欢就行	normal
+相信自己一切皆有可能	bad
+当然只要自己喜欢就好	normal
+只要自己喜欢就没问题	normal
 你有平板电脑吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
-只要你喜欢就行	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
+只要你喜欢就行	bad
 我想去广州
-一切皆有可能	unknown
-什么意思?	unknown
-想去的地方	unknown
-什么意思啊	unknown
-去当地派出所	unknown
+一切皆有可能	bad
+什么意思?	bad
+想去的地方	normal
+什么意思啊	bad
+去当地派出所	bad
 你们那现在几点了
-2008年出生的	unknown
-2009年出生的	unknown
+2008年出生的	bad
+2009年出生的	bad
 在2008年左右	unknown
 当然是在中国了!	unknown
 在2008年出生的	unknown
 什么时候过年
-和家人一起过	unknown
-和朋友一起过	unknown
-2008年吧	unknown
-跟家人一起过	unknown
-2009年吧	unknown
+和家人一起过	bad
+和朋友一起过	bad
+2008年吧	bad
+跟家人一起过	bad
+2009年吧	bad
 小微你懂哲学吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
-我相信一切皆有可能	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
+我相信一切皆有可能	bad
 我去洗澡，一会再聊
-做自己喜欢做的事情	unknown
-你是男的还是女的?	unknown
-做一些有意义的事情	unknown
-好好的睡一觉就好了	unknown
-你想干什么就干什么	unknown
+做自己喜欢做的事情	bad
+你是男的还是女的?	bad
+做一些有意义的事情	bad
+好好的睡一觉就好了	bad
+你想干什么就干什么	bad
 洗干净了没
-当然是洗了	unknown
-用牙膏试试	unknown
-好好睡一觉	unknown
+当然是洗了	normal
+用牙膏试试	bad
+好好睡一觉	bad
 一切皆有可能	unknown
 应该没事吧	unknown
 你会打乒乓球吗
-一切皆有可能!	unknown
-会的一切皆有可能	unknown
-一切皆有可能。	unknown
-会的一切皆有可能!	unknown
-一切皆有可能啊	unknown
+一切皆有可能!	bad
+会的一切皆有可能	bad
+一切皆有可能。	bad
+会的一切皆有可能!	bad
+一切皆有可能啊	bad
 厉害个锤子
-詹姆斯厉害	unknown
-科比布莱恩特	unknown
-非常厉害!	unknown
-当然厉害了	unknown
-非常厉害啊	unknown
+詹姆斯厉害	bad
+科比布莱恩特	bad
+非常厉害!	normal
+当然厉害了	normal
+非常厉害啊	normal
 我还没有喜欢的人呢
-我喜欢中国人都喜欢	unknown
-没有喜欢只有更喜欢	unknown
-没有喜欢就没有喜欢	unknown
-只要你喜欢就可以了	unknown
-没有喜欢你喜欢的人	unknown
+我喜欢中国人都喜欢	bad
+没有喜欢只有更喜欢	bad
+没有喜欢就没有喜欢	bad
+只要你喜欢就可以了	bad
+没有喜欢你喜欢的人	bad
 世界第一高峰
 珠穆朗玛峰!	good
-当然是第一了	unknown
+当然是第一了	bad
 当然是第一啦	unknown
-一切皆有可能	unknown
+一切皆有可能	bad
 第一世界第一	unknown
 这种心理的折磨让我生不如死
-一切皆有可能一切皆有可能!	unknown
-做自己喜欢做的事情就可以了	unknown
-一切皆有可能是一切皆有可能	unknown
-一切皆有可能一切皆有可能。	unknown
-那要看你自己的身体情况而定	unknown
+一切皆有可能一切皆有可能!	bad
+做自己喜欢做的事情就可以了	bad
+一切皆有可能是一切皆有可能	bad
+一切皆有可能一切皆有可能。	bad
+那要看你自己的身体情况而定	bad
 我昨天和女朋友分手了
-你是男的还是女的吗?	unknown
-你是男的还是女的呢?	unknown
-你是男的女的还是女的	unknown
-你是男的还是女的啊?	unknown
-你是男的女的还是女的?	unknown
+你是男的还是女的吗?	bad
+你是男的还是女的呢?	bad
+你是男的女的还是女的	bad
+你是男的还是女的啊?	bad
+你是男的女的还是女的?	bad
 我今天和女朋友和好了
-男的还是女的还是女的	unknown
-男的还是女的还是女的?	unknown
-那就要看你喜欢什么了	unknown
-适合自己的就是最好的	unknown
-你是男的还是女的吗?	unknown
+男的还是女的还是女的	bad
+男的还是女的还是女的?	bad
+那就要看你喜欢什么了	bad
+适合自己的就是最好的	bad
+你是男的还是女的吗?	bad
 我把朋友老婆睡了咋办
-找点自己喜欢的事情做	unknown
-该怎么办就怎么办啊!	unknown
-想怎么办就怎么办啊!	unknown
-想怎么办就怎么办呗!	unknown
-该怎么办就怎么办呗!	unknown
+找点自己喜欢的事情做	bad
+该怎么办就怎么办啊!	bad
+想怎么办就怎么办啊!	bad
+想怎么办就怎么办呗!	bad
+该怎么办就怎么办呗!	bad
 有个女人把我睡了
-你是男的还是女的	unknown
-好好学习天天向上	unknown
+你是男的还是女的	bad
+好好学习天天向上	bad
 你是男的还是女的?	bad
 只要自己喜欢就好	unknown
 可能是你太累了吧	unknown
 天天坐公交回家
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
 为什么要回家呢?	unknown
 年会发了个手机
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一定会的相信他	unknown
-当然是打篮球了	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一定会的相信他	bad
+当然是打篮球了	bad
 我要娶个美国妞
-一切皆有可能!	unknown
-一切皆有可能。	unknown
+一切皆有可能!	normal
+一切皆有可能。	normal
 只要你喜欢就行	good
-一切皆有可能啊	unknown
-只要努力就行了	unknown
+一切皆有可能啊	normal
+只要努力就行了	good
 过年太没意思了
-没意思没意思了	unknown
+没意思没意思了	normal
 没意思就没意思了	bad
-就是没有意思了	unknown
-过年了没意思了	unknown
+就是没有意思了	normal
+过年了没意思了	normal
 想怎么过就怎么过	unknown
 我明天去理发
-一切皆有可能	unknown
-去医院检查一下	unknown
-做梦的时候。	unknown
-做梦的时候!	unknown
-去医院看医生	unknown
+一切皆有可能	bad
+去医院检查一下	bad
+做梦的时候。	bad
+做梦的时候!	bad
+去医院看医生	bad
 你害怕什么
-没什么害怕	unknown
+没什么害怕	normal
 什么都不怕	good
-一切皆有可能	unknown
-一切都不怕	unknown
+一切皆有可能	bad
+一切都不怕	good
 相信自己!	unknown
 我们一起玩吧
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-该怎么玩就怎么玩	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+该怎么玩就怎么玩	bad
 你丫话太多
-一切皆有可能	unknown
+一切皆有可能	bad
 什么意思?	bad
-什么意思啊	unknown
-做梦的时候	unknown
-无聊的时候	unknown
+什么意思啊	bad
+做梦的时候	bad
+无聊的时候	bad
 有人生病了
-生老病死了	unknown
-生老病死人	unknown
-一切皆有可能	unknown
-应该没有吧	unknown
-当然没有了	unknown
+生老病死了	bad
+生老病死人	bad
+一切皆有可能	bad
+应该没有吧	normal
+当然没有了	bad
 空气清新环境好
-没有最好只有更好	unknown
+没有最好只有更好	bad
 应该没什么影响	unknown
 应该没什么好处	unknown
 应该没什么问题	unknown
 当然是空气好了	unknown
 我回家了
-一切皆有可能	unknown
-回家回家	unknown
-回家睡觉	unknown
+一切皆有可能	bad
+回家回家	bad
+回家睡觉	normal
 回家过年	normal
-回家过去	unknown
+回家过去	bad
 你知道形而上吗
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一切皆有可能啊	unknown
-一切皆有可能的	unknown
-一切皆有可能~	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
+一切皆有可能啊	bad
+一切皆有可能的	bad
+一切皆有可能~	bad
 我在开会呢
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-一定会的!	unknown
-一定会的。	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+一定会的!	bad
+一定会的。	bad
 元宵节怎么过
 和家人一起过	good
 想怎么过就怎么过	good
 和家人一起过啊	normal
-跟家人一起过	unknown
+跟家人一起过	good
 该怎么过就怎么过	normal
 你脑子有屎
-一切皆有可能	unknown
-当然没有了	unknown
-一切皆有可能!	unknown
-应该没有吧	unknown
-什么都没有	unknown
+一切皆有可能	bad
+当然没有了	good
+一切皆有可能!	bad
+应该没有吧	normal
+什么都没有	normal
 被妈妈打了一下
-去医院检查一下	unknown
-一切皆有可能!	unknown
+去医院检查一下	bad
+一切皆有可能!	bad
 当然是打篮球了	unknown
-一切皆有可能。	unknown
+一切皆有可能。	bad
 当然是母亲了!	unknown
 我肏你全家
-一切皆有可能	unknown
+一切皆有可能	bad
 什么意思?	bad
-什么意思啊	unknown
-相信自己。	unknown
-相信自己!	unknown
+什么意思啊	bad
+相信自己。	bad
+相信自己!	bad
 狂欢周
-喜欢就喜欢	unknown
-喜欢就好	unknown
-非常喜欢	unknown
-早睡早起	unknown
-在家睡觉	unknown
+喜欢就喜欢	bad
+喜欢就好	bad
+非常喜欢	normal
+早睡早起	bad
+在家睡觉	normal
 一加一等于几
-等于一生一世	unknown
-等于一等于2	unknown
+等于一生一世	normal
+等于一等于2	bad
 一共一等于2	unknown
-一加一等于2	unknown
+一加一等于2	good
 一加一等于一	normal
 不和你聊了我得干活了
-和自己喜欢的人一起过	unknown
-找点自己喜欢的事做啊	unknown
-做自己喜欢做的事啊!	unknown
-找点自己喜欢的事来做	unknown
-找点自己喜欢的事情做	unknown
+和自己喜欢的人一起过	bad
+找点自己喜欢的事做啊	bad
+做自己喜欢做的事啊!	bad
+找点自己喜欢的事来做	bad
+找点自己喜欢的事情做	bad
 不和你聊了写作业去了
-做自己喜欢的事情啊!	unknown
-和自己喜欢的人一起过	unknown
-做一些有意义的事情。	unknown
-和自己喜欢的人在一起	unknown
-做一些有意义的事情啊	unknown
+做自己喜欢的事情啊!	bad
+和自己喜欢的人一起过	bad
+做一些有意义的事情。	bad
+和自己喜欢的人在一起	bad
+做一些有意义的事情啊	bad
 不可能，你绝对有腹黑属性
-一切皆有可能一切皆有可能	unknown
-只要相信他就一定可以的!	unknown
-我相信他一定可以的相信他	unknown
-一切皆有可能!相信自己!	unknown
-只要相信他就一定可以的。	unknown
+一切皆有可能一切皆有可能	bad
+只要相信他就一定可以的!	bad
+我相信他一定可以的相信他	bad
+一切皆有可能!相信自己!	bad
+只要相信他就一定可以的。	bad
 不老实交代拉你出去枪毙
 什么意思?说清楚点吗?	unknown
 什么意思啊?什么意思?	unknown
 什么意思?说清楚点啊!	unknown
 什么意思?说清楚点吧?	unknown
-什么意思?什么意思啊?	unknown
+什么意思?什么意思啊?	bad
 不是说法律吗
-一切皆有可能	unknown
-一切皆有可能!	unknown
-一切皆有可能。	unknown
-当然不是啊!	unknown
-当然不是啦!	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+一切皆有可能。	bad
+当然不是啊!	normal
+当然不是啦!	normal
 不说实话我早晚让你害死
-相信自己一切皆有可能!	unknown
-勇敢面对一切皆有可能!	unknown
-我相信他一定要相信他!	unknown
-我们一定要对自己有信心	unknown
-我相信他一定会实现的!	unknown
+相信自己一切皆有可能!	bad
+勇敢面对一切皆有可能!	bad
+我相信他一定要相信他!	bad
+我们一定要对自己有信心	bad
+我相信他一定会实现的!	bad
 不是傻子怎么会把衣服穿反
-一切皆有可能一切皆有可能	unknown
-那就要看是什么样的女孩了	unknown
-没事找事做有意义的事情!	unknown
-没事找事做有意义的事情。	unknown
+一切皆有可能一切皆有可能	bad
+那就要看是什么样的女孩了	bad
+没事找事做有意义的事情!	bad
+没事找事做有意义的事情。	bad
 一切皆有可能但是要有信心	unknown
 不是喜欢用毒蛐我吗
-不喜欢因为他是中国人	unknown
-我相信他一定会的!	unknown
-不喜欢因为他不喜欢你	unknown
-只要你喜欢就没问题	unknown
-不会因为他是中国人	unknown
+不喜欢因为他是中国人	bad
+我相信他一定会的!	bad
+不喜欢因为他不喜欢你	bad
+只要你喜欢就没问题	bad
+不会因为他是中国人	bad
 不是哑巴就说一句话咯
-你说的是什么意思啊?	unknown
+你说的是什么意思啊?	bad
 你说的是什么意思呢?	unknown
 你说的是什么意思啊!	unknown
 什么意思?说清楚点。	unknown
 你说的是什么意思呀?	unknown
 不是一直是你带我混的吗？
-一切皆有可能一切皆有可能	unknown
-我相信他的一切皆有可能!	unknown
-我相信我一定会的我相信他	unknown
-一切皆有可能只要你有信心	unknown
-我相信他一定会的我相信他	unknown
+一切皆有可能一切皆有可能	bad
+我相信他的一切皆有可能!	bad
+我相信我一定会的我相信他	bad
+一切皆有可能只要你有信心	bad
+我相信他一定会的我相信他	bad
 猜我心中所想的人物
-我相信一切皆有可能	unknown
-你想问什么就问什么	unknown
-只要你喜欢就可以了	unknown
-一切顺其自然就是了	unknown
-你是男的还是女的?	unknown
+我相信一切皆有可能	bad
+你想问什么就问什么	bad
+只要你喜欢就可以了	bad
+一切顺其自然就是了	bad
+你是男的还是女的?	bad
 猜我有没有在谈恋爱
-我相信一切皆有可能	unknown
-相信自己一切皆有可能	unknown
-没有爱就没有谈恋爱	unknown
-我相信他一定会有的	unknown
-我相信你一定会有的	unknown
+我相信一切皆有可能	bad
+相信自己一切皆有可能	bad
+没有爱就没有谈恋爱	bad
+我相信他一定会有的	bad
+我相信你一定会有的	bad
 才给我买了五千多的首饰，没有镯子
 你说的是什么意思啊?说清楚点吗?	unknown
 那就要看你喜欢什么类型的东西了!	unknown
@@ -1643,53 +1643,53 @@ a股明天涨不涨
 去当地的地派出所换就可以了	unknown
 去医院检查一下就可以换了。	unknown
 才华横溢就是形容我。
-你说的是什么意思啊?	unknown
-郭晶晶晶晶晶晶晶晶晶	unknown
+你说的是什么意思啊?	bad
+郭晶晶晶晶晶晶晶晶晶	bad
 郭晶晶晶晶晶晶晶晶晶晶	unknown
 郭晶晶晶晶晶晶晶晶晶晶晶	unknown
 这个世界上没有绝对的	unknown
 财迷个大头鬼
-一切皆有可能	unknown
+一切皆有可能	bad
 信则有不信则无	bad
-一切皆有可能!	unknown
-一切皆有可能。	unknown
+一切皆有可能!	bad
+一切皆有可能。	bad
 没什么大不了	unknown
 踩着七彩祥云去娶你
-我相信一切皆有可能	unknown
-郭晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶	unknown
+我相信一切皆有可能	bad
+郭晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶	bad
 采桑归西露沾我衣。
-郭晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶晶	unknown
+郭晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶晶	bad
 蔡港林是备胎
-科比布莱恩特	unknown
-当然是姚明了	unknown
-当然是上海了	unknown
+科比布莱恩特	bad
+当然是姚明了	bad
+当然是上海了	bad
 当然是姚明啊	unknown
 当然是姚明啦	unknown
 蔡伟聪，我喜欢你
-只要自己喜欢就行	unknown
-只要你喜欢就可以	unknown
-一切皆有可能啊!	unknown
-一切顺其自然吧!	unknown
-只要你努力就行了	unknown
+只要自己喜欢就行	normal
+只要你喜欢就可以	normal
+一切皆有可能啊!	bad
+一切顺其自然吧!	bad
+只要你努力就行了	bad
 蔡伟这个娘娘腔。
-这个问题太深奥了	unknown
-这个问题太简单了	unknown
+这个问题太深奥了	bad
+这个问题太简单了	bad
 爱美之心人皆有之	unknown
 科比布莱恩布莱恩特	unknown
 因为科比布莱恩特	unknown
 参加别人的婚礼好感慨
-只要有信心一定可以的	unknown
-适合自己的就是最好的	unknown
-适合自己的才是最好的	unknown
-只要有信心就可以了!	unknown
-相信自己就是最好的礼物	unknown
+只要有信心一定可以的	bad
+适合自己的就是最好的	bad
+适合自己的才是最好的	bad
+只要有信心就可以了!	bad
+相信自己就是最好的礼物	bad
 参见陛下，微臣有礼了
 你说的是什么意思啊?	unknown
 什么意思?说清楚点。	unknown
@@ -1697,158 +1697,158 @@ a股明天涨不涨
 什么意思?说清楚点!	unknown
 什么意思?说清楚点啊	unknown
 苍井空和波多野结衣更喜欢谁一点
-郭晶晶晶晶晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶晶最高	unknown
-当然是郭晶晶晶晶晶晶晶晶晶晶晶	unknown
-当然是郭晶晶晶晶晶晶晶晶晶晶晶晶	unknown
+郭晶晶晶晶晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶晶最高	bad
+当然是郭晶晶晶晶晶晶晶晶晶晶晶	bad
+当然是郭晶晶晶晶晶晶晶晶晶晶晶晶	bad
 苍老师长什么样子
-坏蛋是怎样炼成的	unknown
+坏蛋是怎样炼成的	bad
 很有可能性很大的	unknown
 坏蛋是怎样练成的	unknown
 很有可能性很不好	unknown
 很有可能性不一样	unknown
 苍老师照片没穿衣服的
-郭晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶晶	unknown
+郭晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶晶	bad
 郭晶晶晶晶晶晶晶晶晶晶晶晶	unknown
 郭晶晶晶晶晶晶晶晶晶晶晶晶晶	unknown
 草泥马又回答错误
-什么问题说清楚点	unknown
-没什么问题的问题	unknown
-勇敢一切皆有可能	unknown
+什么问题说清楚点	bad
+没什么问题的问题	bad
+勇敢一切皆有可能	bad
 没错只是时间问题	unknown
 什么意思?说清楚点	unknown
 蹭蹭你平胸
-一切皆有可能	unknown
-一切顺其自然	unknown
+一切皆有可能	bad
+一切顺其自然	bad
 什么意思?	bad
-一切皆有可能!	unknown
-做梦的时候	unknown
+一切皆有可能!	bad
+做梦的时候	bad
 茶叶蛋是土豪吃得起
-你想吃什么就吃什么	unknown
+你想吃什么就吃什么	bad
 根据个人口味一起吃	unknown
 那要看是什么东西了	bad
 我觉得应该是麦迪吧	unknown
 应该是中国的传统吧	unknown
 岔开你的腿让我看看那里有什么
-看你喜欢什么类型的什么类型的	unknown
-那要看你喜欢什么类型的东西了	unknown
-看不到自己喜欢的就是最好看的	unknown
-坏蛋是怎样炼成的都可以看到了	unknown
-那要看你喜欢什么类型的电影了	unknown
+看你喜欢什么类型的什么类型的	bad
+那要看你喜欢什么类型的东西了	bad
+看不到自己喜欢的就是最好看的	bad
+坏蛋是怎样炼成的都可以看到了	bad
+那要看你喜欢什么类型的电影了	bad
 尝尝我的厉害
-一切皆有可能	unknown
-一切皆有可能!	unknown
-对自己有信心	unknown
-一切皆有可能。	unknown
-我觉得很厉害	unknown
+一切皆有可能	bad
+一切皆有可能!	bad
+对自己有信心	bad
+一切皆有可能。	bad
+我觉得很厉害	bad
 长大后才发觉天是黑的
-当然是黑的时候是黑的	unknown
-睡觉的时候睡觉的时候	unknown
-不睡觉的时候就是黑的	unknown
-晚上睡觉的时候就黑了	unknown
+当然是黑的时候是黑的	bad
+睡觉的时候睡觉的时候	bad
+不睡觉的时候就是黑的	bad
+晚上睡觉的时候就黑了	normal
 睡觉的时候做梦的时候	unknown
 车费还差几块回不了家
-只要有钱没钱就没事了	unknown
-只要有钱就可以回家了	unknown
-回家和家人一起过啊!	unknown
-回家了回家就不回家了	unknown
+只要有钱没钱就没事了	bad
+只要有钱就可以回家了	normal
+回家和家人一起过啊!	bad
+回家了回家就不回家了	bad
 有钱没钱回家就回家了	unknown
 扯淡，我能甩你九条街
-相信自己一切皆有可能	unknown
-我相信一切皆有可能!	unknown
-一切皆有可能一切皆有可能	unknown
-我相信他一切皆有可能	unknown
-我相信一切皆有可能。	unknown
+相信自己一切皆有可能	bad
+我相信一切皆有可能!	bad
+一切皆有可能一切皆有可能	bad
+我相信他一切皆有可能	bad
+我相信一切皆有可能。	bad
 帮我叫一个大保健
-一切皆有一切皆有可能	unknown
-相信一切皆有可能	unknown
-一切皆有可能啊!	unknown
-一切皆有可能的!	unknown
-我相信一切皆有可能	unknown
+一切皆有一切皆有可能	bad
+相信一切皆有可能	bad
+一切皆有可能啊!	bad
+一切皆有可能的!	bad
+我相信一切皆有可能	bad
 你数学是体育老师教的吗？
-没听说过这个问题没有问题	unknown
+没听说过这个问题没有问题	bad
 没听说过这个问题很有问题	unknown
 你说的是男的还是女的吗?	unknown
 没听说过这个问题就知道了	unknown
 没听说过这个问题很难说的	unknown
 你提出话题我们聊天好不好
-没什么不好的只要自己喜欢就好	unknown
-没什么不好的只要自己开心就好	unknown
-没什么好只要自己喜欢就好	unknown
-没什么不好只要自己开心就好	unknown
-没什么好只要自己开心就好	unknown
+没什么不好的只要自己喜欢就好	bad
+没什么不好的只要自己开心就好	bad
+没什么好只要自己喜欢就好	bad
+没什么不好只要自己开心就好	bad
+没什么好只要自己开心就好	bad
 最近几天南方降温
-和心爱的人在一起	unknown
-和最爱的人在一起	unknown
-只要心静自然凉!	unknown
-和心爱的人在一起!	unknown
-和心爱的人在一起。	unknown
+和心爱的人在一起	bad
+和最爱的人在一起	bad
+只要心静自然凉!	bad
+和心爱的人在一起!	bad
+和心爱的人在一起。	bad
 我朋友叫什么名字？
-郭晶晶晶晶晶晶晶晶	unknown
-郭晶晶晶晶晶晶晶晶晶晶	unknown
-你问的是什么名字啊	unknown
-郭晶晶晶晶晶晶晶晶晶	unknown
-你说的是什么名字啊	unknown
+郭晶晶晶晶晶晶晶晶	bad
+郭晶晶晶晶晶晶晶晶晶晶	bad
+你问的是什么名字啊	bad
+郭晶晶晶晶晶晶晶晶晶	bad
+你说的是什么名字啊	bad
 请赐予我无比强大的性能力吧
-一切皆有可能!一切皆有可能	unknown
-一切皆有可能!一切皆有可能!	unknown
-一切皆有可能一切皆有可能!	unknown
-只要对自己有信心一定可以的	unknown
-只要你有信心就一定能实力!	unknown
+一切皆有可能!一切皆有可能	bad
+一切皆有可能!一切皆有可能!	bad
+一切皆有可能一切皆有可能!	bad
+只要对自己有信心一定可以的	bad
+只要你有信心就一定能实力!	bad
 你在烦恼什么
-做自己喜欢的事情	unknown
+做自己喜欢的事情	bad
 做自己想做的事	bad
-做自己喜欢的事	unknown
-想干什么就干什么	unknown
-做自己想做的事情	unknown
+做自己喜欢的事	bad
+想干什么就干什么	bad
+做自己想做的事情	bad
 那感情受挫呢
-一切皆有可能	unknown
-爱情亲情友情	unknown
-亲情友情爱情	unknown
-做自己喜欢的事情	unknown
+一切皆有可能	bad
+爱情亲情友情	bad
+亲情友情爱情	bad
+做自己喜欢的事情	bad
 相信自己的感觉	unknown
 地球为何是圆的
 因为地球是圆的	bad
-因为它是圆的!	unknown
-因为地球是圆的!	unknown
-因为它是圆的。	unknown
-因为它是椭圆的	unknown
+因为它是圆的!	normal
+因为地球是圆的!	normal
+因为它是圆的。	normal
+因为它是椭圆的	normal
 那你解释一下量子物理
-你说的是什么东西啊?	unknown
-什么东西?什么意思?	unknown
-我只知道一切皆有可能	unknown
+你说的是什么东西啊?	bad
+什么东西?什么意思?	bad
+我只知道一切皆有可能	bad
 你说的是什么意思啊?	unknown
 什么东西?什么东西?	unknown
 有什么好看的喜剧？
 看你喜欢什么类型的	normal
-看他喜欢什么类型的	unknown
+看他喜欢什么类型的	normal
 你喜欢看什么类型的	good
-看你喜欢哪种类型的	unknown
+看你喜欢哪种类型的	normal
 你喜欢什么类型的?	good
 你是我知心朋友
-你是男朋友吗?	unknown
-当然是我的朋友	unknown
-你是女朋友吗?	unknown
-只有你自己知道	unknown
-一切皆有可能!	unknown
+你是男朋友吗?	bad
+当然是我的朋友	bad
+你是女朋友吗?	bad
+只有你自己知道	normal
+一切皆有可能!	bad
 我只想有个真心的朋友
-相信自己一切皆有可能	unknown
-我相信一切皆有可能!	unknown
-世界上没有真正的朋友	unknown
-没有只是你没遇到而已	unknown
-我相信一切皆有可能。	unknown
+相信自己一切皆有可能	bad
+我相信一切皆有可能!	bad
+世界上没有真正的朋友	bad
+没有只是你没遇到而已	bad
+我相信一切皆有可能。	bad
 云南在哪里？
-在美国的地方	unknown
-在北京的地方	unknown
+在美国的地方	bad
+在北京的地方	bad
 在中国上海!	unknown
-在自己的心里	unknown
+在自己的心里	bad
 在广西的地方	unknown
 世界上最高的山是什么
-珠穆朗玛峰珠穆朗玛峰	unknown
-当然是珠穆朗玛峰啦!	unknown
-世界上最高的是珠穆朗玛峰	unknown
-当然是珠穆朗玛峰了!	unknown
-珠穆朗玛峰的珠穆朗玛峰	unknown
+珠穆朗玛峰珠穆朗玛峰	normal
+当然是珠穆朗玛峰啦!	normal
+世界上最高的是珠穆朗玛峰	good
+当然是珠穆朗玛峰了!	normal
+珠穆朗玛峰的珠穆朗玛峰	normal
