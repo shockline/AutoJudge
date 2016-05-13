@@ -34,12 +34,19 @@ for basename in file_list:
     count_dict['normal'] = 0
     count_dict['unknown'] = 0
     
+    response_per_input = 5
+    
+    top_acc = [0] * response_per_input
+    top_error = [0] * response_per_input
+    
     with codecs.open('judge/input/' + basename, 'r', 'gb18030') as f_in:
         with codecs.open('judge/output/' + basename, 'w', 'gb18030') as f_out:
             with codecs.open('judge/unknown/' + basename, 'w', 'gb18030') as f_out_unkonwn:
                 key = ''
                 unknonwn_key = ''
                 value = ''
+                
+                question_count = 0
                 
                 for line in f_in:
                     line = line.strip().replace(' ', '')
@@ -48,6 +55,7 @@ for basename in file_list:
                     if not '<END>' in line and not '<START>' in line:
                         key = line
                         f_out.write('%s\n' % key)
+                        question_count = 0
                     else:
                         if '<START>' in line:
                             start_index = line.find('<START>') + len('<START>')
@@ -60,6 +68,16 @@ for basename in file_list:
                             label = d[(key, v)]
                         else:
                             label = 'unknown'
+                        
+                        if label == 'good' or label == 'normal':
+                            for i in xrange(question_count, response_per_input):
+                                top_acc[i] += 1
+                        else:
+                            for i in xrange(question_count, response_per_input):
+                                top_error[i] += 1
+                                    
+                                
+                        
                         count_dict[label] += 1
                         f_out.write('%s\t%s\n' % (v, label))
                         if label == 'unknown':
@@ -67,12 +85,18 @@ for basename in file_list:
                                 unknonwn_key = key
                                 f_out_unkonwn.write('%s\n' % unknonwn_key)
                             f_out_unkonwn.write('<END>%s<END>\n' % v)
+                        
+                        question_count += 1
+    
+    total_data_count = count_dict['bad'] + count_dict['normal'] + count_dict['good']
     
     print '%s:' % basename
     for k, v in count_dict.items():
         print '%s\t%d' % (k, v)
-    print 'Error Rate:\t%f' % (count_dict['bad'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
-    print 'Good Rate:\t%f' % (count_dict['good'] / 1.0 / (count_dict['bad'] + count_dict['normal'] + count_dict['good']))
+    for i, (acc, error) in enumerate(zip(top_acc, top_error)):
+        print 'top %d acc: %f' % (i, acc / 1.0 / (acc + error))
+    print 'Error Rate:\t%f' % (count_dict['bad'] / 1.0 / total_data_count)
+    print 'Good Rate:\t%f' % (count_dict['good'] / 1.0 / total_data_count)
     print
 print 'All finished!'                   
                     

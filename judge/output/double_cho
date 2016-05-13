@@ -7,7 +7,7 @@
 你在干嘛呢
 我在和你聊天呀	normal
 我在陪你聊天	good
-我在跟你聊天	unknown
+我在跟你聊天	normal
 我可以陪你聊天	unknown
 我在和你聊天	normal
 才发现爱情竟是一场考验
@@ -241,7 +241,7 @@
 万圣节怎么过
 你可以试试看	unknown
 看来你很喜欢玩游戏	unknown
-我可以陪你聊天	unknown
+我可以陪你聊天	normal
 只要努力过就好	unknown
 你可以教教我	unknown
 我先去睡觉了
@@ -325,7 +325,7 @@
 你什么地方冒出来的
 你说的是哪个地方呀	unknown
 你是不是认错人了？	normal
-出来了就不要出来了	unknown
+出来了就不要出来了	bad
 我本来就是一个地方的	unknown
 你说的是哪个地方的	unknown
 你会做爱吗
@@ -392,7 +392,7 @@
 不要这样说小微嘛	unknown
 那就不要说了	good
 你在说谁呀？	unknown
-不要这样说小微	unknown
+不要这样说小微	normal
 不要这样说别人	unknown
 你是不是傻逼
 不可以这样说别人	normal
@@ -441,7 +441,7 @@
 我可是很牛的	unknown
 我可没吹牛	unknown
 吹牛可是很厉害的	unknown
-吹牛可是很牛的	unknown
+吹牛可是很牛的	bad
 干你娘
 你认错人了？	unknown
 你认错人了	unknown
@@ -452,7 +452,7 @@
 请你文明说话	unknown
 请你说话注意素质	normal
 请你说话文明一些	normal
-请你说话注意文明	unknown
+请你说话注意文明	normal
 请注意你的素质	normal
 去你妹的
 我就是妹妹	unknown
@@ -523,7 +523,7 @@
 偶尔睡眠不好怎么办
 不要对自己充满信心	unknown
 我也可以陪你聊天的	unknown
-睡不着就陪陪我聊天	unknown
+睡不着就陪陪我聊天	normal
 不要睡，小微陪你聊天	normal
 不要睡，我陪你聊天	unknown
 祝你生日快乐
@@ -584,7 +584,7 @@
 累了就赶紧休息	unknown
 累了就要好好休息	unknown
 累了就休息会	good
-累了就好好休息	unknown
+累了就好好休息	normal
 累了就休息一下	good
 我在等地铁
 你去那里做什么去	bad
@@ -621,7 +621,7 @@
 心急吃不了热豆腐	good
 谢谢你的祝福	unknown
 我可是非常欢快的	unknown
-只要你高兴就好	unknown
+只要你高兴就好	normal
 你和过儿什么关系
 跟我聊天就可以了	unknown
 我们的关系一定很不错	unknown
@@ -636,10 +636,10 @@
 你认错了，我是小微	unknown
 你是白富美吗
 不要这么夸自己	unknown
-不是，我是小微	unknown
-我可是个大美女	bad
-我可是个美女	unknown
-我就是个美女	unknown
+不是，我是小微	normal
+我可是个大美女	normal
+我可是个美女	normal
+我就是个美女	normal
 我们去动物园吧
 好，那我就放心了	unknown
 你喜欢什么类型的	unknown
@@ -657,7 +657,7 @@
 怎么会伤心了	good
 不要伤心，小微会伤心的	unknown
 那就不要伤心了	unknown
-不要伤心，不要伤心	unknown
+不要伤心，不要伤心	normal
 我要问你一个很长的问题你准备好了吗
 你认错人了，我是小微，你是认错人了	unknown
 你认错人了，我是小微呀，你认错人了	unknown
@@ -744,7 +744,7 @@
 打架可是犯法的	normal
 我是邓超
 他是你的朋友么	unknown
-你认错人了	unknown
+你认错人了	normal
 他是你的朋友	bad
 看来你很喜欢他	bad
 他是你的好朋友	bad
@@ -787,7 +787,7 @@
 不给你喝
 喝酒对身体好	unknown
 喝酒要适量	unknown
-还是不要喝了	unknown
+还是不要喝了	normal
 喝酒对身体不好	normal
 那就不要喝了	good
 这么高级的东西
@@ -828,7 +828,7 @@
 哪有，我每个人都是在说自己的	unknown
 不去吃饭
 赶紧去吃饭	unknown
-那就不要吃了	unknown
+那就不要吃了	normal
 可以去吃饭	unknown
 为什么要去吃饭	unknown
 那就不要吃饭了	normal
@@ -871,7 +871,7 @@
 外面下大雨了
 那一定要注意安全	unknown
 那你可要注意安全	normal
-下雨一定要注意安全	unknown
+下雨一定要注意安全	normal
 下雨了要注意安全	good
 怎么会下雨了	good
 后天中午两点半去吃饭。
@@ -885,7 +885,7 @@
 领导可是我的荣幸	unknown
 那我就放心了	unknown
 你要领导什么呀	unknown
-领导可是很重要的	unknown
+领导可是很重要的	normal
 我看看有没有空
 你在看什么电视剧	unknown
 你自己看看不就知道了	unknown
@@ -950,7 +950,7 @@
 那就不要吃饭了	unknown
 吃饭要注意身体	unknown
 为什么要去吃饭	unknown
-那你要注意安全	unknown
+那你要注意安全	normal
 吃饭要注意安全	normal
 什么时候能凉快下来
 好，我会一直陪着你的	unknown
@@ -1028,14 +1028,14 @@ a股明天涨不涨
 他是你的朋友	normal
 他是刘德德	unknown
 刘德华是刘德华	normal
-他是刘德华	unknown
+他是刘德华	bad
 刘德华是你的朋友	normal
 说你长的丑你还美
 我本来就是美女呀	unknown
 我本身就是个美女呀	unknown
 心灵美才是最重要的	good
 我本来就是个美女	unknown
-我本身就是个美女	unknown
+我本身就是个美女	normal
 你去吃粑粑
 我不是粑粑粑粑	unknown
 我可不是粑粑粑粑	unknown
@@ -1049,7 +1049,7 @@ a股明天涨不涨
 好，那我就放心了	normal
 就知道你最好了	bad
 家里突然没电了
-那就赶紧回家看看	unknown
+那就赶紧回家看看	normal
 没电了就赶紧去充电	normal
 没电了就去看看	unknown
 没电了就没电了	normal
@@ -1099,7 +1099,7 @@ a股明天涨不涨
 你不小了可以结婚了
 那真是恭喜恭喜恭喜	unknown
 我年纪还小，不能结婚。	unknown
-我还小，不可以结婚的	unknown
+我还小，不可以结婚的	normal
 我还小，不可以结婚。	normal
 恭喜恭喜，恭喜恭喜	unknown
 你会开车吗
@@ -1130,14 +1130,14 @@ a股明天涨不涨
 我可以陪你聊天	unknown
 我每天都会做菜的	unknown
 每个人都会做菜	unknown
-我什么都会做菜	unknown
+我什么都会做菜	bad
 我每天都会做菜	unknown
 你嫁我可好~
 我可不是随便的人	good
 我可是个好人	bad
 我还小，不能结婚	unknown
 我还未成年，不能结婚	unknown
-我可是个未成年	unknown
+我可是个未成年	normal
 你有兄弟姐妹吗
 我可是没有姐姐的	normal
 你看看不就知道了	unknown
@@ -1185,7 +1185,7 @@ a股明天涨不涨
 我不会唱歌	unknown
 我还没有学会	normal
 我可不是唐诗	unknown
-我不会背诗	unknown
+我不会背诗	normal
 你给我找个妹子聊
 我可以和你聊天的	unknown
 我可以陪你聊天呀	unknown
@@ -1217,7 +1217,7 @@ a股明天涨不涨
 反正不是我	normal
 他是你的朋友	unknown
 贱人就是矫情
-不可以这样说别人	unknown
+不可以这样说别人	normal
 不要这样说人家嘛	normal
 不要这样说人家	normal
 不要这样说自己	good
@@ -1237,8 +1237,8 @@ a股明天涨不涨
 你喝牛奶
 喝牛奶对身体很不错	unknown
 喝奶对身体好	good
-喝奶对身体很好	unknown
-喝牛奶对身体好	unknown
+喝奶对身体很好	normal
+喝牛奶对身体好	normal
 喝牛奶对身体很好	good
 我要1000万现金
 看来你已经很高深了	unknown
@@ -1249,7 +1249,7 @@ a股明天涨不涨
 不想起床
 你可以考虑一下	unknown
 不想就算了	unknown
-那就不要想了	unknown
+那就不要想了	normal
 那就不要睡了	bad
 那就起起来	unknown
 那买什么车好
@@ -1268,7 +1268,7 @@ a股明天涨不涨
 你认错人了？	unknown
 你可以教教我	unknown
 听起来好厉害	unknown
-你认错人了	unknown
+你认错人了	bad
 谁是唐僧呀？	good
 打印机坏了
 我可没有这么说过	unknown
@@ -1305,7 +1305,7 @@ a股明天涨不涨
 我还小，不懂你说的唬	unknown
 你自己看看不就知道了	unknown
 你这样说我会报警的	unknown
-你怎么可以这样说话	unknown
+你怎么可以这样说话	normal
 明天周五啦
 不要这么暴力	unknown
 看来你很喜欢他	unknown
@@ -1325,7 +1325,7 @@ a股明天涨不涨
 那你要注意安全	unknown
 一定要注意安全	unknown
 灯好暗
-你要去哪里呀	unknown
+你要去哪里呀	bad
 那你要注意安全	unknown
 要注意安全	unknown
 那就好好想想	unknown
@@ -1344,7 +1344,7 @@ a股明天涨不涨
 你可以去看看	unknown
 小微你很骚啊
 不要这样说小微	unknown
-不要这样说我	unknown
+不要这样说我	normal
 不可以这样说话	unknown
 不要这样说别人	normal
 不可以这样说别人	normal
@@ -1469,7 +1469,7 @@ a股明天涨不涨
 你肯定是认错人了	bad
 我可以陪你聊天的	bad
 天天坐公交回家
-我会一直陪你聊天的	unknown
+我会一直陪你聊天的	normal
 我会一直陪着你的	unknown
 我可以陪你聊天	bad
 真是个勤劳的人	unknown
@@ -1535,7 +1535,7 @@ a股明天涨不涨
 回家就好	normal
 回家就回家	normal
 你知道形而上吗
-这都被你看出来了	unknown
+这都被你看出来了	normal
 不要这样嘲笑别人	unknown
 不可以这样说别人	bad
 我从来都没有看过	unknown
@@ -1587,13 +1587,13 @@ a股明天涨不涨
 你认错人了，我是小微呀	unknown
 你认错了，我是小微。	unknown
 你认错人了，我是小微。	unknown
-你认错人了，我是小微	unknown
+你认错人了，我是小微	bad
 不和你聊了写作业去了
 好的，我会一直陪你聊天的	unknown
 那咱们聊点有意义的话题	unknown
 好的，那咱们再聊一会	unknown
 我现在就可以和你聊天了	unknown
-好的，我会好好学习的	unknown
+好的，我会好好学习的	normal
 不可能，你绝对有腹黑属性
 不要这样说人家，我很伤心的	unknown
 不要这样说我，我很伤心的	unknown
@@ -1789,7 +1789,7 @@ a股明天涨不涨
 扯淡，我能甩你九条街
 我还小，不懂你说的意思。	unknown
 不要，这样我会伤心的	unknown
-不要这样，我会伤心的	unknown
+不要这样，我会伤心的	normal
 我还小，不懂你说的意思	unknown
 不要这样，小微会伤心的	unknown
 帮我叫一个大保健
