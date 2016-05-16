@@ -1,1570 +1,1570 @@
 还记得我吗
-一切皆有可能	bad
-一切皆有可能!	bad
-一切皆有可能。	unknown
-相信自己!	unknown
-一定会的!	bad
+<END>一切皆有可能<END>	bad
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	unknown
+<END>相信自己!<END>	unknown
+<END>一定会的!<END>	bad
 你在干嘛呢
-在家睡觉!	normal
-在家睡觉啊	normal
-在家睡觉。	good
-做自己喜欢做的事	unknown
-在家里睡觉	unknown
+<END>在家睡觉!<END>	normal
+<END>在家睡觉啊<END>	normal
+<END>在家睡觉。<END>	good
+<END>做自己喜欢做的事<END>	unknown
+<END>在家里睡觉<END>	unknown
 才发现爱情竟是一场考验
-两情若是长久时又岂在朝朝暮暮	good
-两情若是久长时又岂在朝朝暮暮	normal
+<END>两情若是长久时又岂在朝朝暮暮<END>	good
+<END>两情若是久长时又岂在朝朝暮暮<END>	normal
 我的意思是你废话多
-你说的是什么意思?	normal
-你的意思就是你的意思	unknown
+<END>你说的是什么意思?<END>	normal
+<END>你的意思就是你的意思<END>	unknown
 北京天气
-北京天津	unknown
-天气问题	bad
-当然是啊	unknown
-北京奥运会	bad
-北京北京	bad
+<END>北京天津<END>	unknown
+<END>天气问题<END>	bad
+<END>当然是啊<END>	unknown
+<END>北京奥运会<END>	bad
+<END>北京北京<END>	bad
 待会儿就把那人给杀了
-每个人都有自己的权利	unknown
-每个人都有自己的伤害	unknown
-每个人都有自己的骄傲	unknown
-每个人都有自己的想法	unknown
-每个人都有自己的理解	unknown
+<END>每个人都有自己的权利<END>	unknown
+<END>每个人都有自己的伤害<END>	unknown
+<END>每个人都有自己的骄傲<END>	unknown
+<END>每个人都有自己的想法<END>	unknown
+<END>每个人都有自己的理解<END>	unknown
 我们去动物园吧
-当然是动物园了	unknown
-地球人都知道!	unknown
-地球人都知道。	unknown
-地球人都知道啊	unknown
-当然是动物园啊	unknown
+<END>当然是动物园了<END>	unknown
+<END>地球人都知道!<END>	unknown
+<END>地球人都知道。<END>	unknown
+<END>地球人都知道啊<END>	unknown
+<END>当然是动物园啊<END>	unknown
 股市现在怎么样
-地球人都知道!	unknown
+<END>地球人都知道!<END>	unknown
 爱情最害怕犹豫
-爱情是最重要的	unknown
-那要看你自己了	unknown
-那要看什么情况了	unknown
-两情若是久长时又岂在朝朝暮暮	bad
-爱情是最害怕的	unknown
+<END>爱情是最重要的<END>	unknown
+<END>那要看你自己了<END>	unknown
+<END>那要看什么情况了<END>	unknown
+<END>两情若是久长时又岂在朝朝暮暮<END>	bad
+<END>爱情是最害怕的<END>	unknown
 广州有什么好吃的
-广州广州广州广州	unknown
-当地特产有小吃和旅游	unknown
-自己喜欢吃的就是好吃的	unknown
-当然是好吃的啦!	unknown
-自己喜欢吃的就是最好吃的	unknown
+<END>广州广州广州广州<END>	unknown
+<END>当地特产有小吃和旅游<END>	unknown
+<END>自己喜欢吃的就是好吃的<END>	unknown
+<END>当然是好吃的啦!<END>	unknown
+<END>自己喜欢吃的就是最好吃的<END>	unknown
 广州天气
-天气问题	bad
-广州广州	bad
-天气预报	bad
-广东广州	bad
-广州天气	bad
+<END>天气问题<END>	bad
+<END>广州广州<END>	bad
+<END>天气预报<END>	bad
+<END>广东广州<END>	bad
+<END>广州天气<END>	bad
 广州有什么好玩的
-只要心情好什么地方都好玩	unknown
-广州广州广州广州	unknown
-只要心情好什么都好玩	normal
-心情好玩什么都好玩	unknown
-好玩的地方都好玩	unknown
+<END>只要心情好什么地方都好玩<END>	unknown
+<END>广州广州广州广州<END>	unknown
+<END>只要心情好什么都好玩<END>	normal
+<END>心情好玩什么都好玩<END>	unknown
+<END>好玩的地方都好玩<END>	unknown
 广州怎么样
-不怎么样!	normal
-不怎么样。	normal
-不怎么样啊	normal
-一切皆有可能	bad
-不怎么样~	unknown
+<END>不怎么样!<END>	normal
+<END>不怎么样。<END>	normal
+<END>不怎么样啊<END>	normal
+<END>一切皆有可能<END>	bad
+<END>不怎么样~<END>	unknown
 今天有什么新闻
-中华人民共和国	bad
+<END>中华人民共和国<END>	bad
 最近有什么资讯
-中华人民共和国	bad
-没有最好只有更好	bad
+<END>中华人民共和国<END>	bad
+<END>没有最好只有更好<END>	bad
 你好
-我喜欢你	bad
-当然是好	unknown
-当然好了	unknown
-爱你的人	bad
-当然是好了	normal
+<END>我喜欢你<END>	bad
+<END>当然是好<END>	unknown
+<END>当然好了<END>	unknown
+<END>爱你的人<END>	bad
+<END>当然是好了<END>	normal
 晚上好
-早睡早起	bad
-心静自然凉	unknown
-当然是晚上	unknown
-晚上晚上	bad
-晚上睡觉好	normal
+<END>早睡早起<END>	bad
+<END>心静自然凉<END>	unknown
+<END>当然是晚上<END>	unknown
+<END>晚上晚上<END>	bad
+<END>晚上睡觉好<END>	normal
 拜拜
-拜拜拜拜	normal
-拜拜拜拜拜拜	unknown
-拜拜了啊	unknown
-拜拜了吧	normal
-拜拜	good
+<END>拜拜拜拜<END>	normal
+<END>拜拜拜拜拜拜<END>	unknown
+<END>拜拜了啊<END>	unknown
+<END>拜拜了吧<END>	normal
+<END>拜拜<END>	good
 你好吗？
-当然好了	normal
-当然好啊	normal
-当然好啦	normal
-当然好啊!	unknown
-当然好啦!	unknown
+<END>当然好了<END>	normal
+<END>当然好啊<END>	normal
+<END>当然好啦<END>	normal
+<END>当然好啊!<END>	unknown
+<END>当然好啦!<END>	unknown
 你好漂亮
-非常漂亮	normal
-当然漂亮	good
-各有所长	unknown
-漂亮的好	unknown
-我喜欢你	bad
+<END>非常漂亮<END>	normal
+<END>当然漂亮<END>	good
+<END>各有所长<END>	unknown
+<END>漂亮的好<END>	unknown
+<END>我喜欢你<END>	bad
 永远一直爱你
-爱你一生一世	normal
-永远爱你的人	normal
-永远就是永远	unknown
-永远永远爱你	normal
-永远爱你一生一世	unknown
+<END>爱你一生一世<END>	normal
+<END>永远爱你的人<END>	normal
+<END>永远就是永远<END>	unknown
+<END>永远永远爱你<END>	normal
+<END>永远爱你一生一世<END>	unknown
 我不喜欢你
-我不喜欢你	normal
-我很喜欢你	normal
-我很喜欢他	unknown
-不喜欢不喜欢	bad
-他不喜欢你	bad
+<END>我不喜欢你<END>	normal
+<END>我很喜欢你<END>	normal
+<END>我很喜欢他<END>	unknown
+<END>不喜欢不喜欢<END>	bad
+<END>他不喜欢你<END>	bad
 你是不是快死了
-生老病死是自然规律	unknown
-生老病死是正常的	unknown
-不是很快就死了	unknown
-死了就不会死了	normal
-生老病死是自然的	unknown
+<END>生老病死是自然规律<END>	unknown
+<END>生老病死是正常的<END>	unknown
+<END>不是很快就死了<END>	unknown
+<END>死了就不会死了<END>	normal
+<END>生老病死是自然的<END>	unknown
 你觉得我漂亮吗
-我觉得很漂亮!	good
-我觉得挺漂亮的	normal
-很漂亮我很喜欢	unknown
-我觉得很漂亮啊	unknown
-我觉得很漂亮。	unknown
+<END>我觉得很漂亮!<END>	good
+<END>我觉得挺漂亮的<END>	normal
+<END>很漂亮我很喜欢<END>	unknown
+<END>我觉得很漂亮啊<END>	unknown
+<END>我觉得很漂亮。<END>	unknown
 美女美女你在哪
-情人眼里出西施	bad
-心灵美才是最美的	bad
-美女都是美女!	unknown
-美女就是美女!	unknown
-美女美女都是美女	unknown
+<END>情人眼里出西施<END>	bad
+<END>心灵美才是最美的<END>	bad
+<END>美女都是美女!<END>	unknown
+<END>美女就是美女!<END>	unknown
+<END>美女美女都是美女<END>	unknown
 我饿了
-饿了就吃	good
-想吃就吃	normal
-肚子饿了	bad
-因为你饿了	bad
-饿了就吃啊	unknown
+<END>饿了就吃<END>	good
+<END>想吃就吃<END>	normal
+<END>肚子饿了<END>	bad
+<END>因为你饿了<END>	bad
+<END>饿了就吃啊<END>	unknown
 今天有点事
-日有所思夜有所梦	bad
-好好学习天天向上	unknown
-无聊的时候	unknown
-每个月都有	bad
-日有所思夜有所梦。	unknown
+<END>日有所思夜有所梦<END>	bad
+<END>好好学习天天向上<END>	unknown
+<END>无聊的时候<END>	unknown
+<END>每个月都有<END>	bad
+<END>日有所思夜有所梦。<END>	unknown
 我下午要开会
-好好学习天天向上	bad
-好好的活下去	unknown
-好好休息一下	unknown
-当然是下午了	bad
-好好学习天天向上!	bad
+<END>好好学习天天向上<END>	bad
+<END>好好的活下去<END>	unknown
+<END>好好休息一下<END>	unknown
+<END>当然是下午了<END>	bad
+<END>好好学习天天向上!<END>	bad
 北京有什么好吃的
-自己喜欢吃的就是好吃的	unknown
-好吃的就是好吃的	bad
-北京中华人民共和国	unknown
-什么东西都好吃!	unknown
-自己喜欢吃的东西	unknown
+<END>自己喜欢吃的就是好吃的<END>	unknown
+<END>好吃的就是好吃的<END>	bad
+<END>北京中华人民共和国<END>	unknown
+<END>什么东西都好吃!<END>	unknown
+<END>自己喜欢吃的东西<END>	unknown
 春天有什么好玩的
-只要心情好什么都好玩	normal
-心情好玩什么都好玩	unknown
-心情好什么都好玩	good
-只要心情好什么都好玩!	unknown
-心情好的时候什么都好玩	unknown
+<END>只要心情好什么都好玩<END>	normal
+<END>心情好玩什么都好玩<END>	unknown
+<END>心情好什么都好玩<END>	good
+<END>只要心情好什么都好玩!<END>	unknown
+<END>心情好的时候什么都好玩<END>	unknown
 去哪里玩比较好玩呢
-自己喜欢的地方最好玩	normal
-只要心情好哪里都好玩	normal
-只要心情好什么地方都好玩	unknown
-心情好玩什么都好玩	unknown
-自己喜欢的地方就好玩	normal
+<END>自己喜欢的地方最好玩<END>	normal
+<END>只要心情好哪里都好玩<END>	normal
+<END>只要心情好什么地方都好玩<END>	unknown
+<END>心情好玩什么都好玩<END>	unknown
+<END>自己喜欢的地方就好玩<END>	normal
 今天天气好晴朗
-只要心情好天天都是晴天	unknown
-当然是晴天啦!	unknown
-天气晴朗空气好	unknown
-心情好天气就好	normal
-心情好天气晴朗	unknown
+<END>只要心情好天天都是晴天<END>	unknown
+<END>当然是晴天啦!<END>	unknown
+<END>天气晴朗空气好<END>	unknown
+<END>心情好天气就好<END>	normal
+<END>心情好天气晴朗<END>	unknown
 我喜欢今天天气
-我喜欢天天向上	unknown
-我喜欢天天向上!	unknown
-我喜欢天气预报	unknown
-我喜欢因为我喜欢	bad
-我喜欢天天向上。	unknown
+<END>我喜欢天天向上<END>	unknown
+<END>我喜欢天天向上!<END>	unknown
+<END>我喜欢天气预报<END>	unknown
+<END>我喜欢因为我喜欢<END>	bad
+<END>我喜欢天天向上。<END>	unknown
 我没有男朋友
-男的还是女的	unknown
-男的还是女的?	unknown
-你是男的还是女的	bad
-你是男的还是女的?	bad
-有没有男朋友	unknown
+<END>男的还是女的<END>	unknown
+<END>男的还是女的?<END>	unknown
+<END>你是男的还是女的<END>	bad
+<END>你是男的还是女的?<END>	bad
+<END>有没有男朋友<END>	unknown
 男朋友找什么样的好
-适合自己的才是最好的	good
-适合自己的就是最好的	good
-适合自己的就是好的	normal
-适合自己的才是好的	normal
-适合自己的才是最好的!	unknown
+<END>适合自己的才是最好的<END>	good
+<END>适合自己的就是最好的<END>	good
+<END>适合自己的就是好的<END>	normal
+<END>适合自己的才是好的<END>	normal
+<END>适合自己的才是最好的!<END>	unknown
 你是哲学家吗
-我想应该是吧	unknown
-我觉得应该是	unknown
-我认为是的。	unknown
-我认为应该是	normal
-当然不是啦!	normal
+<END>我想应该是吧<END>	unknown
+<END>我觉得应该是<END>	unknown
+<END>我认为是的。<END>	unknown
+<END>我认为应该是<END>	normal
+<END>当然不是啦!<END>	normal
 不开心也是一天
-心情不好的时候	bad
-心态决定一切。	normal
-是的心态决定一切	unknown
-世界之大无奇不有	unknown
-开心的时候不开心	unknown
+<END>心情不好的时候<END>	bad
+<END>心态决定一切。<END>	normal
+<END>是的心态决定一切<END>	unknown
+<END>世界之大无奇不有<END>	unknown
+<END>开心的时候不开心<END>	unknown
 我现在没工作
-当然在工作了	unknown
-当然是工作了	unknown
-因为你没有工作	bad
-当然是在工作了	unknown
-你还没有工作	unknown
+<END>当然在工作了<END>	unknown
+<END>当然是工作了<END>	unknown
+<END>因为你没有工作<END>	bad
+<END>当然是在工作了<END>	unknown
+<END>你还没有工作<END>	unknown
 你有办法让我开心吗
-做自己喜欢做的事情	normal
-做自己喜欢做的事!	normal
-做自己喜欢的事情!	normal
-做自己喜欢做的事。	unknown
-做自己喜欢的事情。	normal
+<END>做自己喜欢做的事情<END>	normal
+<END>做自己喜欢做的事!<END>	normal
+<END>做自己喜欢的事情!<END>	normal
+<END>做自己喜欢做的事。<END>	unknown
+<END>做自己喜欢的事情。<END>	normal
 你喜欢聊什么
-什么都不喜欢	normal
-做自己喜欢的事	unknown
-我喜欢玩游戏	bad
-想干什么就干什么	bad
-喜欢什么就喜欢什么	unknown
+<END>什么都不喜欢<END>	normal
+<END>做自己喜欢的事<END>	unknown
+<END>我喜欢玩游戏<END>	bad
+<END>想干什么就干什么<END>	bad
+<END>喜欢什么就喜欢什么<END>	unknown
 万圣节怎么过
-和朋友一起过	normal
-和家人一起过	good
-开开心心的过	good
-找朋友一起过	unknown
-做自己喜欢的事	unknown
+<END>和朋友一起过<END>	normal
+<END>和家人一起过<END>	good
+<END>开开心心的过<END>	good
+<END>找朋友一起过<END>	unknown
+<END>做自己喜欢的事<END>	unknown
 我先去睡觉了
-闭上眼睛睡觉	normal
-当然是睡觉了	normal
-早睡早起身体好	good
-闭着眼睛睡觉	normal
-睡觉睡到自然醒	unknown
+<END>闭上眼睛睡觉<END>	normal
+<END>当然是睡觉了<END>	normal
+<END>早睡早起身体好<END>	good
+<END>闭着眼睛睡觉<END>	normal
+<END>睡觉睡到自然醒<END>	unknown
 老板不给发工资怎么办
 你以后别跟着我了
-好好学习天天向上	unknown
-好好学习天天向上!	unknown
-好好学习天天向上。	unknown
-那就要看你自己了	unknown
-好好学习天天向上啊	unknown
+<END>好好学习天天向上<END>	unknown
+<END>好好学习天天向上!<END>	unknown
+<END>好好学习天天向上。<END>	unknown
+<END>那就要看你自己了<END>	unknown
+<END>好好学习天天向上啊<END>	unknown
 你敢买切糕吗
-一切皆有可能	bad
-一切皆有可能!	bad
-一切皆有可能。	bad
-一切皆有可能~	unknown
-当然可以啊!	unknown
+<END>一切皆有可能<END>	bad
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	bad
+<END>一切皆有可能~<END>	unknown
+<END>当然可以啊!<END>	unknown
 我今天没有捡到钱，好伤心
-钱不是万能的没有钱是万万不能的	normal
-钱不是万能的但没钱是万万不能的	normal
-钱不是万能的没钱是万万不能的	normal
-钱不是万能的没有钱是万万不能的!	normal
-钱不是万能的但没有钱是万万不能的	normal
+<END>钱不是万能的没有钱是万万不能的<END>	normal
+<END>钱不是万能的但没钱是万万不能的<END>	normal
+<END>钱不是万能的没钱是万万不能的<END>	normal
+<END>钱不是万能的没有钱是万万不能的!<END>	normal
+<END>钱不是万能的但没有钱是万万不能的<END>	normal
 天上有多少颗星星
-天上的星星数不清	normal
-天上的星星一样多	unknown
-天上有多少颗星星	bad
+<END>天上的星星数不清<END>	normal
+<END>天上的星星一样多<END>	unknown
+<END>天上有多少颗星星<END>	bad
 今天天气不好
-不好天气不好	normal
-天气不好天气不好	bad
-因为天气不好	bad
-心静自然凉!	bad
-不好天气不好。	unknown
+<END>不好天气不好<END>	normal
+<END>天气不好天气不好<END>	bad
+<END>因为天气不好<END>	bad
+<END>心静自然凉!<END>	bad
+<END>不好天气不好。<END>	unknown
 太阳好大啊
-当然是好啊	bad
-当然是太阳了	bad
-当然好啊!	bad
-当然好啦!	unknown
-当然是好了	bad
+<END>当然是好啊<END>	bad
+<END>当然是太阳了<END>	bad
+<END>当然好啊!<END>	bad
+<END>当然好啦!<END>	unknown
+<END>当然是好了<END>	bad
 北风嗖嗖的吹
-地球人都知道	bad
-当然是夏天了	unknown
-当然是火箭了	unknown
-地球人都知道!	unknown
-当然是吹风了	bad
+<END>地球人都知道<END>	bad
+<END>当然是夏天了<END>	unknown
+<END>当然是火箭了<END>	unknown
+<END>地球人都知道!<END>	unknown
+<END>当然是吹风了<END>	bad
 有人跟我撕逼，不讲理
-那要看是什么样的人了	bad
-说的具体情况具体分析	unknown
-你想说什么?说清楚点	unknown
-那就要看是什么样的人了	unknown
-那要看你是什么样的人	unknown
+<END>那要看是什么样的人了<END>	bad
+<END>说的具体情况具体分析<END>	unknown
+<END>你想说什么?说清楚点<END>	unknown
+<END>那就要看是什么样的人了<END>	unknown
+<END>那要看你是什么样的人<END>	unknown
 不要这么谦虚嘛
-一切皆有可能!	bad
-一切皆有可能。	bad
-一定要相信自己	unknown
-一切皆有可能啊	bad
-没什么不可以的	bad
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	bad
+<END>一定要相信自己<END>	unknown
+<END>一切皆有可能啊<END>	bad
+<END>没什么不可以的<END>	bad
 明天去打球
-地球人都知道	bad
-当然是火箭了	unknown
-好好学习天天向上	unknown
-打篮球啊!	normal
-当然是去了	unknown
+<END>地球人都知道<END>	bad
+<END>当然是火箭了<END>	unknown
+<END>好好学习天天向上<END>	unknown
+<END>打篮球啊!<END>	normal
+<END>当然是去了<END>	unknown
 我老板就在我身边
-去医院检查一下吧	bad
-因为你还没有老婆	unknown
-你指的是什么啊?	unknown
-你说的是什么东西啊	unknown
-去医院检查一下。	unknown
+<END>去医院检查一下吧<END>	bad
+<END>因为你还没有老婆<END>	unknown
+<END>你指的是什么啊?<END>	unknown
+<END>你说的是什么东西啊<END>	unknown
+<END>去医院检查一下。<END>	unknown
 你什么地方冒出来的
 你会做爱吗
-当然会了。	normal
-当然会了!	normal
-当然会啦!	normal
-当然会爱了	unknown
-会因为爱所以爱	normal
+<END>当然会了。<END>	normal
+<END>当然会了!<END>	normal
+<END>当然会啦!<END>	normal
+<END>当然会爱了<END>	unknown
+<END>会因为爱所以爱<END>	normal
 你能陪我睡觉吗
-我可以陪你聊天	normal
-想睡觉就睡觉!	unknown
-想睡觉就睡觉啊	unknown
-不想睡觉就睡觉	unknown
-想睡觉就睡觉。	unknown
+<END>我可以陪你聊天<END>	normal
+<END>想睡觉就睡觉!<END>	unknown
+<END>想睡觉就睡觉啊<END>	unknown
+<END>不想睡觉就睡觉<END>	unknown
+<END>想睡觉就睡觉。<END>	unknown
 你有私生子吗
-信则有不信则无	normal
-信则有不信则无。	unknown
-信则有不信则无!	unknown
-我认为没有。	unknown
-我想是有的。	unknown
+<END>信则有不信则无<END>	normal
+<END>信则有不信则无。<END>	unknown
+<END>信则有不信则无!<END>	unknown
+<END>我认为没有。<END>	unknown
+<END>我想是有的。<END>	unknown
 我早上工作感觉死死的是怎么回事
 有没有搞笑的欢乐的段子
-做自己喜欢的事就可以了	unknown
-笑一笑十年少了笑一笑十年少	unknown
-每个人都有自己的想法!	unknown
-笑一笑十年少。笑一笑十年少	unknown
-每个人都有自己的想法。	unknown
+<END>做自己喜欢的事就可以了<END>	unknown
+<END>笑一笑十年少了笑一笑十年少<END>	unknown
+<END>每个人都有自己的想法!<END>	unknown
+<END>笑一笑十年少。笑一笑十年少<END>	unknown
+<END>每个人都有自己的想法。<END>	unknown
 发个给力图片看哈喽
 天天锻炼身体好
-锻炼身体锻炼身体	normal
-天天锻炼身体。	unknown
-天天锻炼身体锻炼	unknown
-天天锻炼身体!	bad
-天天锻炼身体锻炼身体	unknown
+<END>锻炼身体锻炼身体<END>	normal
+<END>天天锻炼身体。<END>	unknown
+<END>天天锻炼身体锻炼<END>	unknown
+<END>天天锻炼身体!<END>	bad
+<END>天天锻炼身体锻炼身体<END>	unknown
 李白的诗你会吗
-李宁一切皆有可能	bad
-李宁一切皆有可能!	bad
-李白不是李白吗?	unknown
-李白不是李白吗	unknown
-他不是李白吗?	unknown
+<END>李宁一切皆有可能<END>	bad
+<END>李宁一切皆有可能!<END>	bad
+<END>李白不是李白吗?<END>	unknown
+<END>李白不是李白吗<END>	unknown
+<END>他不是李白吗?<END>	unknown
 我问的不是这个意思
-你问的是什么意思?	good
-你的意思就是你的意思	unknown
-你说的是什么意思?	normal
-你的意思是你的意思	unknown
-你说的是什么意思啊	normal
+<END>你问的是什么意思?<END>	good
+<END>你的意思就是你的意思<END>	unknown
+<END>你说的是什么意思?<END>	normal
+<END>你的意思是你的意思<END>	unknown
+<END>你说的是什么意思啊<END>	normal
 完全不知道你在说啥
-你想说什么就说什么	bad
-什么问题都没说清楚	unknown
-你想说什么就说什么。	unknown
-你想说什么就说什么!	unknown
-你想说什么就说什么啊	unknown
+<END>你想说什么就说什么<END>	bad
+<END>什么问题都没说清楚<END>	unknown
+<END>你想说什么就说什么。<END>	unknown
+<END>你想说什么就说什么!<END>	unknown
+<END>你想说什么就说什么啊<END>	unknown
 牛头不对马嘴
-马上就可以了	unknown
-当然是牛了!	unknown
-当然是牛头了	unknown
-当然是牛了。	unknown
-马上就不对了	unknown
+<END>马上就可以了<END>	unknown
+<END>当然是牛了!<END>	unknown
+<END>当然是牛头了<END>	unknown
+<END>当然是牛了。<END>	unknown
+<END>马上就不对了<END>	unknown
 你是不是傻逼
-当然是傻的了	unknown
-不是是个傻瓜	unknown
-不傻就是不傻	unknown
-很傻很傻很傻	unknown
-当然是傻子了	unknown
+<END>当然是傻的了<END>	unknown
+<END>不是是个傻瓜<END>	unknown
+<END>不傻就是不傻<END>	unknown
+<END>很傻很傻很傻<END>	unknown
+<END>当然是傻子了<END>	unknown
 你个白痴
-我喜欢他	bad
-我喜欢你	bad
-我很喜欢	bad
-爱你的人	bad
-爱一个人	bad
+<END>我喜欢他<END>	bad
+<END>我喜欢你<END>	bad
+<END>我很喜欢<END>	bad
+<END>爱你的人<END>	bad
+<END>爱一个人<END>	bad
 我他妈宰了你
-你的爸爸妈妈	bad
-因为他爱你!	unknown
-因为他爱你。	unknown
-当然是妈妈了	unknown
-当然是你妈妈	unknown
+<END>你的爸爸妈妈<END>	bad
+<END>因为他爱你!<END>	unknown
+<END>因为他爱你。<END>	unknown
+<END>当然是妈妈了<END>	unknown
+<END>当然是你妈妈<END>	unknown
 她是我的学姐，我喜欢她。
-只要你喜欢她就会喜欢你的	unknown
-只要你喜欢她就会喜欢她的	unknown
-只要你喜欢她就是最喜欢的	unknown
-只要她喜欢你就是最喜欢的	unknown
-只要你喜欢她就会喜欢她。	unknown
+<END>只要你喜欢她就会喜欢你的<END>	unknown
+<END>只要你喜欢她就会喜欢她的<END>	unknown
+<END>只要你喜欢她就是最喜欢的<END>	unknown
+<END>只要她喜欢你就是最喜欢的<END>	unknown
+<END>只要你喜欢她就会喜欢她。<END>	unknown
 我喜欢你离我远一点
-喜欢一个人不需要理由	unknown
-喜欢你的人不喜欢你	bad
-爱你的人永远在一起	unknown
-相信自己是最棒的!	unknown
-爱你的人永远在你身边	unknown
+<END>喜欢一个人不需要理由<END>	unknown
+<END>喜欢你的人不喜欢你<END>	bad
+<END>爱你的人永远在一起<END>	unknown
+<END>相信自己是最棒的!<END>	unknown
+<END>爱你的人永远在你身边<END>	unknown
 明天把秋裤脱了
 抽根烟睡觉
-吸烟有害健康	good
-抽烟有害健康	good
-对身体不好	normal
-对身体有害	good
-抽烟对身体不好	normal
+<END>吸烟有害健康<END>	good
+<END>抽烟有害健康<END>	good
+<END>对身体不好<END>	normal
+<END>对身体有害<END>	good
+<END>抽烟对身体不好<END>	normal
 牛逼吹大了
-当然是牛了	bad
-牛逼牛逼!	unknown
-当然是吹牛了	bad
-吹牛的时候	unknown
-当然是牛逼了	bad
+<END>当然是牛了<END>	bad
+<END>牛逼牛逼!<END>	unknown
+<END>当然是吹牛了<END>	bad
+<END>吹牛的时候<END>	unknown
+<END>当然是牛逼了<END>	bad
 干你娘
-打篮球的	bad
-打篮球啊	bad
-找女朋友	unknown
-好好学习	unknown
-在家睡觉	bad
+<END>打篮球的<END>	bad
+<END>打篮球啊<END>	bad
+<END>找女朋友<END>	unknown
+<END>好好学习<END>	unknown
+<END>在家睡觉<END>	bad
 你妈逼的
-妈妈生的	normal
-爸爸妈妈	bad
-我的妈妈	bad
-妈妈说的	unknown
-妈妈做的	unknown
+<END>妈妈生的<END>	normal
+<END>爸爸妈妈<END>	bad
+<END>我的妈妈<END>	bad
+<END>妈妈说的<END>	unknown
+<END>妈妈做的<END>	unknown
 去你妹的
-在家睡觉	bad
-找个女朋友	unknown
-在你心里	unknown
-当然是老婆了	unknown
-我喜欢你	unknown
+<END>在家睡觉<END>	bad
+<END>找个女朋友<END>	unknown
+<END>在你心里<END>	unknown
+<END>当然是老婆了<END>	unknown
+<END>我喜欢你<END>	unknown
 赶紧滚蛋
-打篮球的	unknown
-放松心情	unknown
-打篮球啊	unknown
-好好学习	bad
-好好活下去	unknown
+<END>打篮球的<END>	unknown
+<END>放松心情<END>	unknown
+<END>打篮球啊<END>	unknown
+<END>好好学习<END>	bad
+<END>好好活下去<END>	unknown
 日了狗了
-当然是了	bad
-耶稣的生日	unknown
-世界末日	unknown
-一切随缘	unknown
-当然是啊	unknown
+<END>当然是了<END>	bad
+<END>耶稣的生日<END>	unknown
+<END>世界末日<END>	unknown
+<END>一切随缘<END>	unknown
+<END>当然是啊<END>	unknown
 我是外地打工的
-中华人民共和国	bad
-你是男的还是女的	unknown
-是中华人民共和国	unknown
-当然是外星人了	unknown
-你是男的还是女的?	unknown
+<END>中华人民共和国<END>	bad
+<END>你是男的还是女的<END>	unknown
+<END>是中华人民共和国<END>	unknown
+<END>当然是外星人了<END>	unknown
+<END>你是男的还是女的?<END>	unknown
 我过去是个老师
-好好学习天天向上	bad
-好好学习天天向上!	bad
-好好学习天天向上。	bad
-当然是你老婆了	unknown
-当然是老婆了!	unknown
+<END>好好学习天天向上<END>	bad
+<END>好好学习天天向上!<END>	bad
+<END>好好学习天天向上。<END>	bad
+<END>当然是你老婆了<END>	unknown
+<END>当然是老婆了!<END>	unknown
 我昨天找过你了
-好好学习天天向上	bad
-好好学习天天向上!	unknown
-好好学习天天向上。	unknown
-好好过好每一天	unknown
-找朋友一起过啊	bad
+<END>好好学习天天向上<END>	bad
+<END>好好学习天天向上!<END>	unknown
+<END>好好学习天天向上。<END>	unknown
+<END>好好过好每一天<END>	unknown
+<END>找朋友一起过啊<END>	bad
 我是个坏男人，你不要相信我
-只要你相信他就一定会相信他	unknown
-只要你相信他一定会相信你的	bad
-只要你有信心就一定能相信他	unknown
-不要相信男人就不要相信男人	unknown
-只要你相信他一定可以相信他	unknown
+<END>只要你相信他就一定会相信他<END>	unknown
+<END>只要你相信他一定会相信你的<END>	bad
+<END>只要你有信心就一定能相信他<END>	unknown
+<END>不要相信男人就不要相信男人<END>	unknown
+<END>只要你相信他一定可以相信他<END>	unknown
 今天心情很好大大好
-只要心情好什么都好	good
-心情好什么时候都好	normal
-心情好天天都是好的	unknown
-只要心情好天天都是好的	unknown
-心情好的时候是最大的	unknown
+<END>只要心情好什么都好<END>	good
+<END>心情好什么时候都好<END>	normal
+<END>心情好天天都是好的<END>	unknown
+<END>只要心情好天天都是好的<END>	unknown
+<END>心情好的时候是最大的<END>	unknown
 我刚上公交车
-你是男的还是女的	bad
-你是男的还是女的?	bad
+<END>你是男的还是女的<END>	bad
+<END>你是男的还是女的?<END>	bad
 我要坐地铁回家
-为什么要回家?	normal
-为什么要回呢?	unknown
-为什么要回家呢	normal
-为什么要回家呢?	normal
-因为他是中国人	unknown
+<END>为什么要回家?<END>	normal
+<END>为什么要回呢?<END>	unknown
+<END>为什么要回家呢<END>	normal
+<END>为什么要回家呢?<END>	normal
+<END>因为他是中国人<END>	unknown
 大早上就无聊啊，想找点事干
 偶尔睡眠不好怎么办
-晚上睡觉前喝杯牛奶	good
-睡觉前喝一杯热牛奶	good
-晚上睡觉前喝点牛奶	normal
-晚上睡觉前喝杯热牛奶	unknown
-晚上睡觉前喝一杯牛奶	normal
+<END>晚上睡觉前喝杯牛奶<END>	good
+<END>睡觉前喝一杯热牛奶<END>	good
+<END>晚上睡觉前喝点牛奶<END>	normal
+<END>晚上睡觉前喝杯热牛奶<END>	unknown
+<END>晚上睡觉前喝一杯牛奶<END>	normal
 祝你生日快乐
-祝他生日快乐	bad
-祝我生日快乐	normal
-祝你生日快乐	bad
-生日快乐啊!	bad
-祝他生日快乐!	unknown
+<END>祝他生日快乐<END>	bad
+<END>祝我生日快乐<END>	normal
+<END>祝你生日快乐<END>	bad
+<END>生日快乐啊!<END>	bad
+<END>祝他生日快乐!<END>	unknown
 生活中怎样感到开心快乐
-和自己喜欢的人在一起!	good
-和自己喜欢的人在一起。	normal
-做自己喜欢做的事就会快乐	normal
-做自己认为有意义的事情	unknown
-和自己喜欢的人一起生活	unknown
+<END>和自己喜欢的人在一起!<END>	good
+<END>和自己喜欢的人在一起。<END>	normal
+<END>做自己喜欢做的事就会快乐<END>	normal
+<END>做自己认为有意义的事情<END>	unknown
+<END>和自己喜欢的人一起生活<END>	unknown
 失败了怎么办，如何才能成功
-努力+努力+努力+努力+努力	good
-努力+努力+努力+努力=成功	unknown
-努力+努力+努力+努力+成功	unknown
-努力+努力+努力+努力+努力+努力	normal
-努力+努力+努力+努力+努力=成功	unknown
+<END>努力+努力+努力+努力+努力<END>	good
+<END>努力+努力+努力+努力=成功<END>	unknown
+<END>努力+努力+努力+努力+成功<END>	unknown
+<END>努力+努力+努力+努力+努力+努力<END>	normal
+<END>努力+努力+努力+努力+努力=成功<END>	unknown
 明天考试、求安慰
-好好学习天天向上	normal
-好好学习天天向上!	normal
-好好学习天天向上。	bad
-好好学习天天向上啊	unknown
-这个问题太深奥了	unknown
+<END>好好学习天天向上<END>	normal
+<END>好好学习天天向上!<END>	normal
+<END>好好学习天天向上。<END>	bad
+<END>好好学习天天向上啊<END>	unknown
+<END>这个问题太深奥了<END>	unknown
 听说过外星生命吗
-信则有不信则无!	bad
-信则有不信则无。	bad
-信则有不信则无~	bad
-信则有不信则无啊	unknown
-相信自己是最棒的	unknown
+<END>信则有不信则无!<END>	bad
+<END>信则有不信则无。<END>	bad
+<END>信则有不信则无~<END>	bad
+<END>信则有不信则无啊<END>	unknown
+<END>相信自己是最棒的<END>	unknown
 我命令你以后只能呆在家里
-只要有信心一切皆有可能!	bad
-只要有信心一切皆有可能。	unknown
-那就要看你自己的心态了!	unknown
-只要有信心一切皆有可能~	unknown
-只要努力就一定能在一起!	unknown
+<END>只要有信心一切皆有可能!<END>	bad
+<END>只要有信心一切皆有可能。<END>	unknown
+<END>那就要看你自己的心态了!<END>	unknown
+<END>只要有信心一切皆有可能~<END>	unknown
+<END>只要努力就一定能在一起!<END>	unknown
 你等会我过会跟你说
-我会和你最爱的人一起过	unknown
-我会一切都会过去的	unknown
-我会和你相遇的时候	unknown
-我会和你一起过啊!	unknown
-我会一直在等待我!	unknown
+<END>我会和你最爱的人一起过<END>	unknown
+<END>我会一切都会过去的<END>	unknown
+<END>我会和你相遇的时候<END>	unknown
+<END>我会和你一起过啊!<END>	unknown
+<END>我会一直在等待我!<END>	unknown
 我来把你胸抓大
-你是男的还是女的	bad
-你是男的还是女的?	bad
-你是男的还是女的啊	bad
-你是男的还是女的。	unknown
-你是男的还是女的!	unknown
+<END>你是男的还是女的<END>	bad
+<END>你是男的还是女的?<END>	bad
+<END>你是男的还是女的啊<END>	bad
+<END>你是男的还是女的。<END>	unknown
+<END>你是男的还是女的!<END>	unknown
 你叫个春
-当然是我	bad
-春夏秋冬	bad
-当然是啊	bad
-当然是我了	unknown
-当然是我啊	unknown
+<END>当然是我<END>	bad
+<END>春夏秋冬<END>	bad
+<END>当然是啊<END>	bad
+<END>当然是我了<END>	unknown
+<END>当然是我啊<END>	unknown
 上班好累啊
-累了就休息	normal
-好好休息吧	normal
-好好学习天天向上	unknown
-好好休息一下	normal
-好好休息啊	good
+<END>累了就休息<END>	normal
+<END>好好休息吧<END>	normal
+<END>好好学习天天向上<END>	unknown
+<END>好好休息一下<END>	normal
+<END>好好休息啊<END>	good
 我在等地铁
-中华人民共和国	unknown
-在你的心里	bad
-在你心中!	unknown
-一切随缘吧	bad
-在你的心中	bad
+<END>中华人民共和国<END>	unknown
+<END>在你的心里<END>	bad
+<END>在你心中!<END>	unknown
+<END>一切随缘吧<END>	bad
+<END>在你的心中<END>	bad
 你闭嘴
-闭上眼睛	bad
-心静自然凉	unknown
-一笑而过	unknown
-骂人的话	unknown
-闭上眼睛睡觉	unknown
+<END>闭上眼睛<END>	bad
+<END>心静自然凉<END>	unknown
+<END>一笑而过<END>	unknown
+<END>骂人的话<END>	unknown
+<END>闭上眼睛睡觉<END>	unknown
 那就放给我听吧
-好好学习天天向上	bad
-自己喜欢就好了	unknown
-心情不好的时候	unknown
-为什么要放弃呢?	bad
-为什么要放弃呢	unknown
+<END>好好学习天天向上<END>	bad
+<END>自己喜欢就好了<END>	unknown
+<END>心情不好的时候<END>	unknown
+<END>为什么要放弃呢?<END>	bad
+<END>为什么要放弃呢<END>	unknown
 我的好友喜欢吃什么
-喜欢吃什么就吃什么	normal
-你喜欢吃什么就吃什么	bad
-你喜欢吃什么就喜欢什么	unknown
-喜欢什么就喜欢什么	unknown
-你喜欢吃什么就喜欢	unknown
+<END>喜欢吃什么就吃什么<END>	normal
+<END>你喜欢吃什么就吃什么<END>	bad
+<END>你喜欢吃什么就喜欢什么<END>	unknown
+<END>喜欢什么就喜欢什么<END>	unknown
+<END>你喜欢吃什么就喜欢<END>	unknown
 你这智商哥都不稀罕说了
 让你慢慢喜欢
-因为你喜欢他	bad
-因为你不喜欢他	unknown
-当然是加油了	unknown
-因为我很喜欢他	unknown
-因为我很喜欢	unknown
+<END>因为你喜欢他<END>	bad
+<END>因为你不喜欢他<END>	unknown
+<END>当然是加油了<END>	unknown
+<END>因为我很喜欢他<END>	unknown
+<END>因为我很喜欢<END>	unknown
 你和过儿什么关系
-父母对子女的关系	unknown
-父母和父母的关系	unknown
-朋友和父母的关系	unknown
-爸爸和妈妈的关系	unknown
-当然是父母关系了	bad
+<END>父母对子女的关系<END>	unknown
+<END>父母和父母的关系<END>	unknown
+<END>朋友和父母的关系<END>	unknown
+<END>爸爸和妈妈的关系<END>	unknown
+<END>当然是父母关系了<END>	bad
 你和张小龙什么关系
-当然是小小的关系了	unknown
-当然是小小的关系啊	unknown
-当然是小小的关系啦	unknown
-当然是小小的关系。	unknown
-郭晶晶和郭晶晶一样	unknown
+<END>当然是小小的关系了<END>	unknown
+<END>当然是小小的关系啊<END>	unknown
+<END>当然是小小的关系啦<END>	unknown
+<END>当然是小小的关系。<END>	unknown
+<END>郭晶晶和郭晶晶一样<END>	unknown
 你是白富美吗
-当然不是了!	unknown
-非常非常漂亮	bad
-当然漂亮了!	unknown
-当然不是了。	unknown
-当然是美国了	unknown
+<END>当然不是了!<END>	unknown
+<END>非常非常漂亮<END>	bad
+<END>当然漂亮了!<END>	unknown
+<END>当然不是了。<END>	unknown
+<END>当然是美国了<END>	unknown
 我们去动物园吧
-当然是动物园了	unknown
-地球人都知道!	unknown
-地球人都知道。	unknown
-地球人都知道啊	unknown
-当然是动物园啊	unknown
+<END>当然是动物园了<END>	unknown
+<END>地球人都知道!<END>	unknown
+<END>地球人都知道。<END>	unknown
+<END>地球人都知道啊<END>	unknown
+<END>当然是动物园啊<END>	unknown
 外面有摩托车的响声
-那要看是什么型号了	unknown
-那要看是什么型号的	unknown
-那要看是什么型的了	unknown
+<END>那要看是什么型号了<END>	unknown
+<END>那要看是什么型号的<END>	unknown
+<END>那要看是什么型的了<END>	unknown
 哥很伤心
-心静自然凉	unknown
-不要伤心	normal
-伤心不伤心	unknown
-很伤心啊	unknown
-当然是啊	bad
+<END>心静自然凉<END>	unknown
+<END>不要伤心<END>	normal
+<END>伤心不伤心<END>	unknown
+<END>很伤心啊<END>	unknown
+<END>当然是啊<END>	bad
 我要问你一个很长的问题你准备好了吗
 我坐到电梯了
 你和杨过谁牛逼
-当然是孙悟空了	unknown
-当然是孙悦了!	unknown
-当然是小皇帝了	unknown
-我比较喜欢詹姆斯	unknown
-当然是孙悦了。	unknown
+<END>当然是孙悟空了<END>	unknown
+<END>当然是孙悦了!<END>	unknown
+<END>当然是小皇帝了<END>	unknown
+<END>我比较喜欢詹姆斯<END>	unknown
+<END>当然是孙悦了。<END>	unknown
 我永远都在你身边
-永远在自己的身边	unknown
-爱你的人永远在你身边	unknown
-永远在我们心中!	unknown
-爱你的人永远在身边	unknown
-永远永远在你身边	unknown
+<END>永远在自己的身边<END>	unknown
+<END>爱你的人永远在你身边<END>	unknown
+<END>永远在我们心中!<END>	unknown
+<END>爱你的人永远在身边<END>	unknown
+<END>永远永远在你身边<END>	unknown
 这你都能看出来
-一切皆有可能!	bad
-一切皆有可能。	bad
-一切皆有可能啊	bad
-一切皆有可能~	bad
-什么都看不出来	bad
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	bad
+<END>一切皆有可能啊<END>	bad
+<END>一切皆有可能~<END>	bad
+<END>什么都看不出来<END>	bad
 刚刚公司有人打架
 就是那天你碰到的骚浪贱
-每个人都有自己的理解!	unknown
-每个人都有自己的理解。	unknown
-每个人都有自己的理想!	unknown
-每个人都有自己的理想。	unknown
-每个人都有自私的一面!	unknown
+<END>每个人都有自己的理解!<END>	unknown
+<END>每个人都有自己的理解。<END>	unknown
+<END>每个人都有自己的理想!<END>	unknown
+<END>每个人都有自己的理想。<END>	unknown
+<END>每个人都有自私的一面!<END>	unknown
 你去火车站了么
-当然是去火箭了	unknown
-当然要去火箭了	unknown
-当然是火箭了!	bad
-当然是火箭了。	unknown
-当然是去火车了	unknown
+<END>当然是去火箭了<END>	unknown
+<END>当然要去火箭了<END>	unknown
+<END>当然是火箭了!<END>	bad
+<END>当然是火箭了。<END>	unknown
+<END>当然是去火车了<END>	unknown
 火车为什么总晚点
-日有所思夜有所梦	bad
-日有所思夜有所想	unknown
-日有所思夜有所梦。	bad
-日有所思夜有所梦!	unknown
-因为日有所思夜有所梦	unknown
+<END>日有所思夜有所梦<END>	bad
+<END>日有所思夜有所想<END>	unknown
+<END>日有所思夜有所梦。<END>	bad
+<END>日有所思夜有所梦!<END>	unknown
+<END>因为日有所思夜有所梦<END>	unknown
 你好无聊
-无聊的时候	bad
-我很无聊	normal
-无所事事	unknown
-非常无聊	normal
-无聊就上网	unknown
+<END>无聊的时候<END>	bad
+<END>我很无聊<END>	normal
+<END>无所事事<END>	unknown
+<END>非常无聊<END>	normal
+<END>无聊就上网<END>	unknown
 肚子右边隐隐作痛
-忍无可忍无可忍无	unknown
-去医院检查一下吧	normal
-忍无可忍无可奈何	unknown
-忍无可忍无需再忍	unknown
-去医院检查一下。	good
+<END>忍无可忍无可忍无<END>	unknown
+<END>去医院检查一下吧<END>	normal
+<END>忍无可忍无可奈何<END>	unknown
+<END>忍无可忍无需再忍<END>	unknown
+<END>去医院检查一下。<END>	good
 外面很气冷
-心静自然凉	bad
-心静自然凉。	bad
-心静自然凉!	bad
-多穿点衣服	normal
-因为是冬天	unknown
+<END>心静自然凉<END>	bad
+<END>心静自然凉。<END>	bad
+<END>心静自然凉!<END>	bad
+<END>多穿点衣服<END>	normal
+<END>因为是冬天<END>	unknown
 昨晚刮大风了
-心静自然凉。	bad
-当然是晚上了	bad
+<END>心静自然凉。<END>	bad
+<END>当然是晚上了<END>	bad
 公司有人打架
-打篮球运动员	unknown
-当然是打架了	normal
-各有各的好处	unknown
-打篮球的时候	unknown
-打篮球之类的	unknown
+<END>打篮球运动员<END>	unknown
+<END>当然是打架了<END>	normal
+<END>各有各的好处<END>	unknown
+<END>打篮球的时候<END>	unknown
+<END>打篮球之类的<END>	unknown
 我是邓超
-超越乔丹	unknown
-当然是了	normal
-他是超人	unknown
-当然是啊	bad
-打篮球的	unknown
+<END>超越乔丹<END>	unknown
+<END>当然是了<END>	normal
+<END>他是超人<END>	unknown
+<END>当然是啊<END>	bad
+<END>打篮球的<END>	unknown
 最近股票大跌
 对面哪个妹子好看
-自己喜欢的就好看	good
-自己喜欢的就是好看的	normal
-自己喜欢的就是最好看的	normal
-自己喜欢的最好看	unknown
-你喜欢的就是好看的	unknown
+<END>自己喜欢的就好看<END>	good
+<END>自己喜欢的就是好看的<END>	normal
+<END>自己喜欢的就是最好看的<END>	normal
+<END>自己喜欢的最好看<END>	unknown
+<END>你喜欢的就是好看的<END>	unknown
 公司不让抽烟了
-吸烟有害健康。	normal
-吸烟有害健康!	good
-抽烟对身体不好	good
-抽烟有害健康!	normal
-抽烟有害健康。	normal
+<END>吸烟有害健康。<END>	normal
+<END>吸烟有害健康!<END>	good
+<END>抽烟对身体不好<END>	good
+<END>抽烟有害健康!<END>	normal
+<END>抽烟有害健康。<END>	normal
 能做什么菜
-做自己喜欢做的事	bad
-做自己想做的	normal
-做自己喜欢做的	unknown
-做自己想做的事	bad
-做自己喜欢做的事情	unknown
+<END>做自己喜欢做的事<END>	bad
+<END>做自己想做的<END>	normal
+<END>做自己喜欢做的<END>	unknown
+<END>做自己想做的事<END>	bad
+<END>做自己喜欢做的事情<END>	unknown
 你会做什么菜
-做自己喜欢做的事	bad
-吃饭睡觉打豆豆	unknown
-做自己喜欢做的	normal
-做自己喜欢的	normal
-做自己喜欢做的事情	unknown
+<END>做自己喜欢做的事<END>	bad
+<END>吃饭睡觉打豆豆<END>	unknown
+<END>做自己喜欢做的<END>	normal
+<END>做自己喜欢的<END>	normal
+<END>做自己喜欢做的事情<END>	unknown
 吃了什么
-吃饭睡觉	bad
-吃的东西	normal
-吃什么啊	unknown
-当然是吃饭了	unknown
-想吃什么就吃什么	normal
+<END>吃饭睡觉<END>	bad
+<END>吃的东西<END>	normal
+<END>吃什么啊<END>	unknown
+<END>当然是吃饭了<END>	unknown
+<END>想吃什么就吃什么<END>	normal
 不给你喝
-我不想吃	unknown
-想吃就吃	unknown
-不想吃亏	unknown
-我不喜欢	bad
-想喝就喝	bad
+<END>我不想吃<END>	unknown
+<END>想吃就吃<END>	unknown
+<END>不想吃亏<END>	unknown
+<END>我不喜欢<END>	bad
+<END>想喝就喝<END>	bad
 这么高级的东西
-你说的是什么东西?	unknown
-你说的是什么东西	unknown
-你说的是什么东西啊	unknown
+<END>你说的是什么东西?<END>	unknown
+<END>你说的是什么东西<END>	unknown
+<END>你说的是什么东西啊<END>	unknown
 猫和狗不好
-当然不好了	normal
-当然是猫了	unknown
-当然是狗了	bad
-当然不好啦	normal
-当然不好!	unknown
+<END>当然不好了<END>	normal
+<END>当然是猫了<END>	unknown
+<END>当然是狗了<END>	bad
+<END>当然不好啦<END>	normal
+<END>当然不好!<END>	unknown
 杨过和你是啥关系
-爸爸和妈妈的关系	unknown
-当然是父母关系了	unknown
-当然是亲戚关系了	unknown
-当然是亲戚关系啦	unknown
-妈妈和妈妈的关系	unknown
+<END>爸爸和妈妈的关系<END>	unknown
+<END>当然是父母关系了<END>	unknown
+<END>当然是亲戚关系了<END>	unknown
+<END>当然是亲戚关系啦<END>	unknown
+<END>妈妈和妈妈的关系<END>	unknown
 有多美
-心灵美才是最美的	bad
-心有多大就有多大	unknown
-世界之大无奇不有	unknown
-心灵的美	unknown
-心有多美就有多美	normal
+<END>心灵美才是最美的<END>	bad
+<END>心有多大就有多大<END>	unknown
+<END>世界之大无奇不有<END>	unknown
+<END>心灵的美<END>	unknown
+<END>心有多美就有多美<END>	normal
 她在吃香蕉
-香蕉和香蕉	unknown
-香蕉最好吃	unknown
-当然是香蕉了	unknown
-香蕉香蕉。	unknown
-香蕉很好吃	unknown
+<END>香蕉和香蕉<END>	unknown
+<END>香蕉最好吃<END>	unknown
+<END>当然是香蕉了<END>	unknown
+<END>香蕉香蕉。<END>	unknown
+<END>香蕉很好吃<END>	unknown
 为什么你妈妈生出你这么个脑残
-因为他妈妈生的就是你妈妈生的	unknown
-因为他本来就是你妈妈生出来的	unknown
-因为她本来就是你妈妈生出来的	unknown
-因为他妈妈生的就是你妈妈生的。	unknown
-因为他妈妈生的就是你妈妈生的!	unknown
+<END>因为他妈妈生的就是你妈妈生的<END>	unknown
+<END>因为他本来就是你妈妈生出来的<END>	unknown
+<END>因为她本来就是你妈妈生出来的<END>	unknown
+<END>因为他妈妈生的就是你妈妈生的。<END>	unknown
+<END>因为他妈妈生的就是你妈妈生的!<END>	unknown
 不去吃饭
-想吃就吃	bad
-不想吃饭	normal
-不吃会死	unknown
-不能吃饭	unknown
-不用吃饭	unknown
+<END>想吃就吃<END>	bad
+<END>不想吃饭<END>	normal
+<END>不吃会死<END>	unknown
+<END>不能吃饭<END>	unknown
+<END>不用吃饭<END>	unknown
 动车是怎么跑起来的
 学挖掘技术哪家强
-各有所长各有所长	unknown
-中华人民共和国。	bad
-中华人民共和国!	bad
-技术是最好的技术	unknown
-中华人民共和国啊	unknown
+<END>各有所长各有所长<END>	unknown
+<END>中华人民共和国。<END>	bad
+<END>中华人民共和国!<END>	bad
+<END>技术是最好的技术<END>	unknown
+<END>中华人民共和国啊<END>	unknown
 抽根烟冷静一下
-吸烟有害健康!	good
-吸烟有害健康。	normal
-吸烟有害身体健康	normal
-抽烟对身体不好	good
-抽烟有害健康!	normal
+<END>吸烟有害健康!<END>	good
+<END>吸烟有害健康。<END>	normal
+<END>吸烟有害身体健康<END>	normal
+<END>抽烟对身体不好<END>	good
+<END>抽烟有害健康!<END>	normal
 我的书包在哪里
-在你自己的心里	bad
-中华人民共和国	normal
-在你自己的心里!	unknown
-在新华书店里面	unknown
-在你自己的心里。	bad
+<END>在你自己的心里<END>	bad
+<END>中华人民共和国<END>	normal
+<END>在你自己的心里!<END>	unknown
+<END>在新华书店里面<END>	unknown
+<END>在你自己的心里。<END>	bad
 我的书包坏了
-坏了就坏了。	unknown
-好好学习天天向上	bad
-坏了就坏了!	unknown
-坏了就变坏了	unknown
-坏了就是坏了	bad
+<END>坏了就坏了。<END>	unknown
+<END>好好学习天天向上<END>	bad
+<END>坏了就坏了!<END>	unknown
+<END>坏了就变坏了<END>	unknown
+<END>坏了就是坏了<END>	bad
 哪里地震了
-地壳运动员	bad
-上海的地方	unknown
-地震的地方	normal
-当然是地震了	bad
-什么地震?	unknown
+<END>地壳运动员<END>	bad
+<END>上海的地方<END>	unknown
+<END>地震的地方<END>	normal
+<END>当然是地震了<END>	bad
+<END>什么地震?<END>	unknown
 外面下大雨了
-当然是下雨了	bad
-应该是下雨了	bad
-这是自然现象	unknown
-当然是大雨了	unknown
-应该是下雨吧	unknown
+<END>当然是下雨了<END>	bad
+<END>应该是下雨了<END>	bad
+<END>这是自然现象<END>	unknown
+<END>当然是大雨了<END>	unknown
+<END>应该是下雨吧<END>	unknown
 后天中午两点半去吃饭。
 明天领导要来
-当然是领导了	unknown
-地球人都知道	unknown
-为了更好的生活	unknown
+<END>当然是领导了<END>	unknown
+<END>地球人都知道<END>	unknown
+<END>为了更好的生活<END>	unknown
 我看看有没有空
-没看懂什么意思	unknown
-我看过很有意思	unknown
-没看懂什么问题	unknown
-你想看什么呢?	unknown
-没有什么都没有	unknown
+<END>没看懂什么意思<END>	unknown
+<END>我看过很有意思<END>	unknown
+<END>没看懂什么问题<END>	unknown
+<END>你想看什么呢?<END>	unknown
+<END>没有什么都没有<END>	unknown
 没有花露水
-没有花露水	bad
-没有花露水的	unknown
-有花露水的	unknown
-没有花露水。	bad
-应该没问题	unknown
+<END>没有花露水<END>	bad
+<END>没有花露水的<END>	unknown
+<END>有花露水的<END>	unknown
+<END>没有花露水。<END>	bad
+<END>应该没问题<END>	unknown
 快来骚扰我
-一切皆有可能	bad
-一切皆有可能!	unknown
-什么意思?	bad
-一切皆有可能。	unknown
-什么情况?	unknown
+<END>一切皆有可能<END>	bad
+<END>一切皆有可能!<END>	unknown
+<END>什么意思?<END>	bad
+<END>一切皆有可能。<END>	unknown
+<END>什么情况?<END>	unknown
 快来蹂躏我
-一切皆有可能	bad
-一切皆有可能!	unknown
-我来告诉你	unknown
-一切皆有可能。	unknown
-什么意思?	bad
+<END>一切皆有可能<END>	bad
+<END>一切皆有可能!<END>	unknown
+<END>我来告诉你<END>	unknown
+<END>一切皆有可能。<END>	unknown
+<END>什么意思?<END>	bad
 你要去哪儿旅游
-去自己想去的地方	good
-去你想去的地方	normal
-自己想去的地方	good
-当然是去海边了	unknown
-当然是去海南了	unknown
+<END>去自己想去的地方<END>	good
+<END>去你想去的地方<END>	normal
+<END>自己想去的地方<END>	good
+<END>当然是去海边了<END>	unknown
+<END>当然是去海南了<END>	unknown
 红公鸡囧哦呵呵
-男的还是女的?	bad
-男的还是女的啊	unknown
+<END>男的还是女的?<END>	bad
+<END>男的还是女的啊<END>	unknown
 鳄鱼
-当然是了	bad
-没听说过	bad
-当然是鱼了	unknown
-当然是啊	bad
-好象没有	unknown
+<END>当然是了<END>	bad
+<END>没听说过<END>	bad
+<END>当然是鱼了<END>	unknown
+<END>当然是啊<END>	bad
+<END>好象没有<END>	unknown
 她在吃水果
-她喜欢吃水果	unknown
-她喜欢吃的	unknown
-想吃就吃啊	normal
-你想吃吗?	unknown
-想吃就吃呗	normal
+<END>她喜欢吃水果<END>	unknown
+<END>她喜欢吃的<END>	unknown
+<END>想吃就吃啊<END>	normal
+<END>你想吃吗?<END>	unknown
+<END>想吃就吃呗<END>	normal
 如何照顾家庭
-好好学习天天向上	bad
-照顾好自己的家庭	unknown
-好好的照顾她	unknown
-照顾好自己的家人	unknown
-好好的照顾他	bad
+<END>好好学习天天向上<END>	bad
+<END>照顾好自己的家庭<END>	unknown
+<END>好好的照顾她<END>	unknown
+<END>照顾好自己的家人<END>	unknown
+<END>好好的照顾他<END>	bad
 儿童节怎么过
-和家人一起过	normal
-和朋友一起过	normal
-和父母一起过	normal
-开开心心的过	normal
-和女朋友一起过	unknown
+<END>和家人一起过<END>	normal
+<END>和朋友一起过<END>	normal
+<END>和父母一起过<END>	normal
+<END>开开心心的过<END>	normal
+<END>和女朋友一起过<END>	unknown
 下楼吃饭去
-当然是吃饭了	bad
-当然是饭了	bad
-当然是饭后	unknown
-一定要吃饭	bad
-当然是饭店了	unknown
+<END>当然是吃饭了<END>	bad
+<END>当然是饭了<END>	bad
+<END>当然是饭后<END>	unknown
+<END>一定要吃饭<END>	bad
+<END>当然是饭店了<END>	unknown
 什么时候能凉快下来
-心情好的时候就快了	bad
+<END>心情好的时候就快了<END>	bad
 你知道的太多了
 被蚊子咬了好几口啊
 三里屯优衣库
 心里不好受怎么办
-做自己喜欢做的事	normal
-好好学习天天向上	unknown
-做自己喜欢的事情	normal
-做自己喜欢做的事情	normal
-听听音乐放松心情	unknown
+<END>做自己喜欢做的事<END>	normal
+<END>好好学习天天向上<END>	unknown
+<END>做自己喜欢的事情<END>	normal
+<END>做自己喜欢做的事情<END>	normal
+<END>听听音乐放松心情<END>	unknown
 这个世界谁最有钱
-世界上最有钱的人	normal
-最有钱的人最有钱	normal
-世界之大无奇不有	bad
-李宁一切皆有可能	bad
-没有最多只有更多	unknown
+<END>世界上最有钱的人<END>	normal
+<END>最有钱的人最有钱<END>	normal
+<END>世界之大无奇不有<END>	bad
+<END>李宁一切皆有可能<END>	bad
+<END>没有最多只有更多<END>	unknown
 葫芦娃你认识吗？
-我认识应该没问题	unknown
-我认识应该不认识	unknown
-我认为应该没问题	bad
-我认识应该没问题!	unknown
-我觉得应该没问题	bad
+<END>我认识应该没问题<END>	unknown
+<END>我认识应该不认识<END>	unknown
+<END>我认为应该没问题<END>	bad
+<END>我认识应该没问题!<END>	unknown
+<END>我觉得应该没问题<END>	bad
 哥买了个自行车
-那要看是什么牌子了	unknown
-根据自己的口味	unknown
+<END>那要看是什么牌子了<END>	unknown
+<END>根据自己的口味<END>	unknown
 a股明天涨不涨
-应该是不会涨的	unknown
+<END>应该是不会涨的<END>	unknown
 为啥喝咖啡不好
-不好对身体不好	unknown
-喝多了就不好了	normal
-喝多了对身体不好	bad
-因为咖啡太多了	unknown
-不好对身体有害	unknown
+<END>不好对身体不好<END>	unknown
+<END>喝多了就不好了<END>	normal
+<END>喝多了对身体不好<END>	bad
+<END>因为咖啡太多了<END>	unknown
+<END>不好对身体有害<END>	unknown
 天空是蓝的
-天空是蓝的	bad
-天空是蓝色的	bad
-蓝天蓝天蓝	unknown
-蓝天是蓝的	bad
-蓝天蓝色的	unknown
+<END>天空是蓝的<END>	bad
+<END>天空是蓝色的<END>	bad
+<END>蓝天蓝天蓝<END>	unknown
+<END>蓝天是蓝的<END>	bad
+<END>蓝天蓝色的<END>	unknown
 去台湾什么值得买
-中华人民共和国家	unknown
+<END>中华人民共和国家<END>	unknown
 刘德华是谁
-中华人民共和国	bad
-当然是刘翔	bad
-当然是刘德华	bad
-迈克尔杰克逊	unknown
-当然是刘翔了	unknown
+<END>中华人民共和国<END>	bad
+<END>当然是刘翔<END>	bad
+<END>当然是刘德华<END>	bad
+<END>迈克尔杰克逊<END>	unknown
+<END>当然是刘翔了<END>	unknown
 说你长的丑你还美
-心灵美才是真的美	normal
-心灵美才是最美的	good
-心灵美才是真的美!	normal
-爱美之心人皆有之	good
-心灵美才是真的美。	normal
+<END>心灵美才是真的美<END>	normal
+<END>心灵美才是最美的<END>	good
+<END>心灵美才是真的美!<END>	normal
+<END>爱美之心人皆有之<END>	good
+<END>心灵美才是真的美。<END>	normal
 你去吃粑粑
-当然是吃了	normal
-想吃就吃啊	bad
-最好不要吃	normal
-想吃就吃呗	bad
-想吃就吃!	unknown
+<END>当然是吃了<END>	normal
+<END>想吃就吃啊<END>	bad
+<END>最好不要吃<END>	normal
+<END>想吃就吃呗<END>	bad
+<END>想吃就吃!<END>	unknown
 那些出来好了
-中华人民共和国	bad
-马上就出来了	normal
-当然是出来了	unknown
-心情好的时候	unknown
+<END>中华人民共和国<END>	bad
+<END>马上就出来了<END>	normal
+<END>当然是出来了<END>	unknown
+<END>心情好的时候<END>	unknown
 家里突然没电了
-应该没问题吧!	unknown
-可能是没电了吧	bad
-因为家里没电了	unknown
-应该没问题吧。	unknown
-是不是没有电了	unknown
+<END>应该没问题吧!<END>	unknown
+<END>可能是没电了吧<END>	bad
+<END>因为家里没电了<END>	unknown
+<END>应该没问题吧。<END>	unknown
+<END>是不是没有电了<END>	unknown
 家里黑漆漆的
-当然是黑人了	unknown
-当然是黑色了	unknown
-当然是黑色的	bad
-当然是黑的了	bad
-当然是黑道了	unknown
+<END>当然是黑人了<END>	unknown
+<END>当然是黑色了<END>	unknown
+<END>当然是黑色的<END>	bad
+<END>当然是黑的了<END>	bad
+<END>当然是黑道了<END>	unknown
 既然爱我那就跟我在一起吧
-只要努力就一定会在一起的	unknown
-爱你的人和你爱的人在一起	unknown
-爱一个人是不需要理由的。	bad
-爱一个人是不需要理由的!	bad
-只要你努力就一定会在一起的	unknown
+<END>只要努力就一定会在一起的<END>	unknown
+<END>爱你的人和你爱的人在一起<END>	unknown
+<END>爱一个人是不需要理由的。<END>	bad
+<END>爱一个人是不需要理由的!<END>	bad
+<END>只要你努力就一定会在一起的<END>	unknown
 都说了没风
-当然不是了	unknown
-一切随缘吧	unknown
-当然是了。	unknown
-当然是了啊	unknown
-应该没问题	unknown
+<END>当然不是了<END>	unknown
+<END>一切随缘吧<END>	unknown
+<END>当然是了。<END>	unknown
+<END>当然是了啊<END>	unknown
+<END>应该没问题<END>	unknown
 没风怎么放
-心静自然凉	bad
-心静自然凉。	bad
-心静自然凉!	bad
-放在冰箱里	bad
-心静自然凉了	unknown
+<END>心静自然凉<END>	bad
+<END>心静自然凉。<END>	bad
+<END>心静自然凉!<END>	bad
+<END>放在冰箱里<END>	bad
+<END>心静自然凉了<END>	unknown
 没有止疼药
-心静自然凉	bad
-去医院看看	normal
-去医院看看吧	good
-去药店买药	unknown
-无药可救!	unknown
+<END>心静自然凉<END>	bad
+<END>去医院看看<END>	normal
+<END>去医院看看吧<END>	good
+<END>去药店买药<END>	unknown
+<END>无药可救!<END>	unknown
 你这是越俎代庖
-中华人民共和国	bad
+<END>中华人民共和国<END>	bad
 中国有多大
-心有多大就有多大	normal
-有多大就有多大	bad
-很大很大!	unknown
+<END>心有多大就有多大<END>	normal
+<END>有多大就有多大<END>	bad
+<END>很大很大!<END>	unknown
 你不小了可以结婚了
-结婚了就可以结婚了	bad
+<END>结婚了就可以结婚了<END>	bad
 你会开车吗
-不会开车的	unknown
-当然不会了	good
-当然会了!	unknown
-当然会了。	normal
-当然会啦!	unknown
+<END>不会开车的<END>	normal
+<END>当然不会了<END>	good
+<END>当然会了!<END>	unknown
+<END>当然会了。<END>	normal
+<END>当然会啦!<END>	unknown
 那你还认识谁
-我认识我认识	unknown
-我认识认识的人	unknown
-我认识你自己	unknown
-我认识一个人	unknown
-认识认识的人	normal
+<END>我认识我认识<END>	unknown
+<END>我认识认识的人<END>	unknown
+<END>我认识你自己<END>	unknown
+<END>我认识一个人<END>	unknown
+<END>认识认识的人<END>	normal
 核桃好吃吗
-当然好吃了	good
-当然好吃啊	good
-当然好吃啦	good
-当然好吃!	normal
-当然好吃。	unknown
+<END>当然好吃了<END>	good
+<END>当然好吃啊<END>	good
+<END>当然好吃啦<END>	good
+<END>当然好吃!<END>	normal
+<END>当然好吃。<END>	unknown
 西雅图有什么好玩儿的
-自己喜欢的就是好玩的	normal
-自己喜欢的就是最好的	normal
-自己喜欢的就是最好玩的	unknown
+<END>自己喜欢的就是好玩的<END>	normal
+<END>自己喜欢的就是最好的<END>	normal
+<END>自己喜欢的就是最好玩的<END>	unknown
 那你会做什么菜
-做自己喜欢做的事	bad
-做自己喜欢做的	normal
-做自己喜欢做的事情	unknown
-吃饭睡觉打豆豆	unknown
-中华人民共和国	unknown
+<END>做自己喜欢做的事<END>	bad
+<END>做自己喜欢做的<END>	normal
+<END>做自己喜欢做的事情<END>	unknown
+<END>吃饭睡觉打豆豆<END>	unknown
+<END>中华人民共和国<END>	unknown
 你嫁我可好~
-你是男的还是女的?	unknown
-你是男的还是女的	unknown
-男的还是女的?	unknown
-男的还是女的	unknown
-你是男的女的?	unknown
+<END>你是男的还是女的?<END>	unknown
+<END>你是男的还是女的<END>	unknown
+<END>男的还是女的?<END>	unknown
+<END>男的还是女的<END>	unknown
+<END>你是男的女的?<END>	unknown
 你有兄弟姐妹吗
-有姐姐就是姐姐	unknown
-一切皆有可能!	bad
-一切皆有可能。	bad
-没有姐姐只有妹妹	unknown
-有姐姐就是兄弟	bad
+<END>有姐姐就是姐姐<END>	unknown
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	bad
+<END>没有姐姐只有妹妹<END>	unknown
+<END>有姐姐就是兄弟<END>	bad
 你喜欢张小龙吗
-喜欢因为我喜欢	normal
-喜欢因为他喜欢	unknown
-喜欢啊!我喜欢	unknown
-喜欢啊太喜欢了	unknown
-当然喜欢我喜欢	unknown
+<END>喜欢因为我喜欢<END>	normal
+<END>喜欢因为他喜欢<END>	unknown
+<END>喜欢啊!我喜欢<END>	unknown
+<END>喜欢啊太喜欢了<END>	unknown
+<END>当然喜欢我喜欢<END>	unknown
 来和我聊天
-和我聊天啊	unknown
-我陪你聊天	unknown
-聊天玩游戏	bad
-找朋友聊天	normal
-我来陪你啊	unknown
+<END>和我聊天啊<END>	unknown
+<END>我陪你聊天<END>	unknown
+<END>聊天玩游戏<END>	bad
+<END>找朋友聊天<END>	normal
+<END>我来陪你啊<END>	unknown
 自然语言处理
-此时无声胜有声	unknown
-心静自然凉。	unknown
-心静自然凉!	unknown
-忍无可忍无需再忍	unknown
-这是自然规律	bad
+<END>此时无声胜有声<END>	unknown
+<END>心静自然凉。<END>	unknown
+<END>心静自然凉!<END>	unknown
+<END>忍无可忍无需再忍<END>	unknown
+<END>这是自然规律<END>	bad
 心情不好听什么
-心情好什么都好	bad
-心情不好心情不好	unknown
-听听音乐放松心情	unknown
-心情不好的时候	bad
-做自己喜欢做的事	unknown
+<END>心情好什么都好<END>	bad
+<END>心情不好心情不好<END>	unknown
+<END>听听音乐放松心情<END>	unknown
+<END>心情不好的时候<END>	bad
+<END>做自己喜欢做的事<END>	unknown
 电影不好看
-当然好看了	normal
-不怎么好看	normal
-非常不好看	unknown
-非常好看!	unknown
-非常的好看	unknown
+<END>当然好看了<END>	normal
+<END>不怎么好看<END>	normal
+<END>非常不好看<END>	unknown
+<END>非常好看!<END>	unknown
+<END>非常的好看<END>	unknown
 不喜欢看小说
-悲伤逆流成河	bad
-不喜欢不喜欢	unknown
-不喜欢看小说	normal
-坏蛋是怎样练成的	bad
-我喜欢看小说	good
+<END>悲伤逆流成河<END>	bad
+<END>不喜欢不喜欢<END>	unknown
+<END>不喜欢看小说<END>	normal
+<END>坏蛋是怎样练成的<END>	bad
+<END>我喜欢看小说<END>	good
 背首诗给我
-我可以帮你	unknown
-问题不明确	unknown
-自己的名字	unknown
-好好学习天天向上	unknown
-问题是什么	unknown
+<END>我可以帮你<END>	unknown
+<END>问题不明确<END>	unknown
+<END>自己的名字<END>	unknown
+<END>好好学习天天向上<END>	unknown
+<END>问题是什么<END>	unknown
 你给我找个妹子聊
-好好学习天天向上	bad
-你是男的还是女的	bad
-你是男的还是女的?	bad
-当然是找女朋友了	unknown
-你是女的还是女的	unknown
+<END>好好学习天天向上<END>	bad
+<END>你是男的还是女的<END>	bad
+<END>你是男的还是女的?<END>	bad
+<END>当然是找女朋友了<END>	unknown
+<END>你是女的还是女的<END>	unknown
 轮胎坏了怎么办
-去医院检查一下	bad
-去医院检察一下	unknown
-到医院检查一下	bad
-去医院检查一下吧	bad
-到医院去看医生	unknown
+<END>去医院检查一下<END>	bad
+<END>去医院检察一下<END>	unknown
+<END>到医院检查一下<END>	bad
+<END>去医院检查一下吧<END>	bad
+<END>到医院去看医生<END>	unknown
 微信牛逼吗
-不要相信他	bad
-当然不是了	normal
-不要相信科比	unknown
-当然不是啦	unknown
-我认为是的	unknown
+<END>不要相信他<END>	bad
+<END>当然不是了<END>	normal
+<END>不要相信科比<END>	unknown
+<END>当然不是啦<END>	unknown
+<END>我认为是的<END>	unknown
 刘小宁是条狗
-当然是刘翔了	unknown
+<END>当然是刘翔了<END>	unknown
 叶良辰是谁
-科比布莱恩特	bad
-当然是叶莉了	unknown
-当然是叶莉	bad
-当然是科比	unknown
-好像是李宁	unknown
+<END>科比布莱恩特<END>	bad
+<END>当然是叶莉了<END>	unknown
+<END>当然是叶莉<END>	bad
+<END>当然是科比<END>	unknown
+<END>好像是李宁<END>	unknown
 贱人就是矫情
-人之初性本善	normal
-人之初性本善。	unknown
-人不贱则无敌	unknown
-人贱则无敌。	normal
-人是有感情的	unknown
+<END>人之初性本善<END>	normal
+<END>人之初性本善。<END>	unknown
+<END>人不贱则无敌<END>	unknown
+<END>人贱则无敌。<END>	normal
+<END>人是有感情的<END>	unknown
 床上躺好等我
-好好休息一下	bad
-好好睡一觉。	unknown
-好好的睡一觉	unknown
-好好睡一觉!	unknown
-好好睡一觉吧	unknown
+<END>好好休息一下<END>	bad
+<END>好好睡一觉。<END>	unknown
+<END>好好的睡一觉<END>	unknown
+<END>好好睡一觉!<END>	unknown
+<END>好好睡一觉吧<END>	unknown
 日日日
-你的生日	bad
-开心的日子	bad
-日出生日	unknown
-自己的生日	unknown
-中华人民共和国	unknown
+<END>你的生日<END>	bad
+<END>开心的日子<END>	bad
+<END>日出生日<END>	unknown
+<END>自己的生日<END>	unknown
+<END>中华人民共和国<END>	unknown
 你喝牛奶
-当然是牛奶了	bad
-我喜欢喝牛奶	normal
-当然是牛奶	bad
-我喜欢喝	unknown
-喝牛奶啊	bad
+<END>当然是牛奶了<END>	bad
+<END>我喜欢喝牛奶<END>	normal
+<END>当然是牛奶<END>	bad
+<END>我喜欢喝<END>	unknown
+<END>喝牛奶啊<END>	bad
 我要1000万现金
 不想起床
-不想起床	bad
-心静自然凉	unknown
-早睡早起	good
-不想睡觉	bad
-想睡就睡	normal
+<END>不想起床<END>	bad
+<END>心静自然凉<END>	unknown
+<END>早睡早起<END>	good
+<END>不想睡觉<END>	bad
+<END>想睡就睡<END>	normal
 那买什么车好
-当然是苹果啊	bad
-当然是苹果啦	bad
-中华人民共和国	unknown
-华硕的比较好	unknown
-惠普的比较好	unknown
+<END>当然是苹果啊<END>	bad
+<END>当然是苹果啦<END>	bad
+<END>中华人民共和国<END>	unknown
+<END>华硕的比较好<END>	unknown
+<END>惠普的比较好<END>	unknown
 猪八戒照镜子
-当然是猪八戒了	unknown
-当然是猪八戒	unknown
-当然是猪八戒了!	unknown
-当然是猪八戒了。	unknown
+<END>当然是猪八戒了<END>	unknown
+<END>当然是猪八戒<END>	unknown
+<END>当然是猪八戒了!<END>	unknown
+<END>当然是猪八戒了。<END>	unknown
 唐僧话太多
-唐伯太多了	unknown
-当然是唐僧了	bad
-当然是多了	normal
-基本上都是	unknown
-罗纳尔多!	unknown
+<END>唐伯太多了<END>	unknown
+<END>当然是唐僧了<END>	bad
+<END>当然是多了<END>	normal
+<END>基本上都是<END>	unknown
+<END>罗纳尔多!<END>	unknown
 打印机坏了
-当然是坏了	bad
-坏了就坏了	unknown
-可能性不大	bad
-是不是坏了	bad
-肯定是坏了	normal
+<END>当然是坏了<END>	bad
+<END>坏了就坏了<END>	unknown
+<END>可能性不大<END>	bad
+<END>是不是坏了<END>	bad
+<END>肯定是坏了<END>	normal
 中午要午休了
-当然要休息了	normal
-当然是休息了	normal
-当然该休息了	unknown
-当然是午休了	unknown
-当然是午休啊	unknown
+<END>当然要休息了<END>	normal
+<END>当然是休息了<END>	normal
+<END>当然该休息了<END>	unknown
+<END>当然是午休了<END>	unknown
+<END>当然是午休啊<END>	unknown
 咖啡机
-咖啡咖啡	bad
-当然是咖啡	unknown
-泡沫之夏	unknown
-当然是咖啡了	bad
-咖啡和咖啡	bad
+<END>咖啡咖啡<END>	bad
+<END>当然是咖啡<END>	unknown
+<END>泡沫之夏<END>	unknown
+<END>当然是咖啡了<END>	bad
+<END>咖啡和咖啡<END>	bad
 我有个好消息
-好好学习天天向上	bad
-好好休息一下	bad
-好好的活下去	unknown
-好好的睡一觉	bad
-好好睡一觉吧	unknown
+<END>好好学习天天向上<END>	bad
+<END>好好休息一下<END>	bad
+<END>好好的活下去<END>	unknown
+<END>好好的睡一觉<END>	bad
+<END>好好睡一觉吧<END>	unknown
 聊着天喝着酒
-当然是喝酒了	bad
-喝一杯热牛奶	unknown
-喝点蜂蜜水吧	unknown
-当然是喝酒啊	unknown
-当然是喝酒啦	unknown
+<END>当然是喝酒了<END>	bad
+<END>喝一杯热牛奶<END>	unknown
+<END>喝点蜂蜜水吧<END>	unknown
+<END>当然是喝酒啊<END>	unknown
+<END>当然是喝酒啦<END>	unknown
 那你到底被强奸没有
-没有最强只有更强!	bad
-没有最强只有更强。	bad
+<END>没有最强只有更强!<END>	bad
+<END>没有最强只有更强。<END>	bad
 明天周五啦
 拉倒吧，你就是坏银
-那要看是什么东西了	bad
-那要看是什么牌子了	unknown
+<END>那要看是什么东西了<END>	bad
+<END>那要看是什么牌子了<END>	unknown
 今天出差
-天气预报	unknown
-天气问题	bad
-已经出了	unknown
-还没出呢	unknown
-天气不好	unknown
+<END>天气预报<END>	unknown
+<END>天气问题<END>	bad
+<END>已经出了<END>	unknown
+<END>还没出呢<END>	unknown
+<END>天气不好<END>	unknown
 灯好暗
-个人爱好	bad
-梦幻西游	unknown
-心静自然凉	bad
-当然好了	unknown
-绝对好看	unknown
+<END>个人爱好<END>	bad
+<END>梦幻西游<END>	unknown
+<END>心静自然凉<END>	bad
+<END>当然好了<END>	unknown
+<END>绝对好看<END>	unknown
 聚餐一起吧
-一切皆有可能	bad
-一切皆有可能!	bad
-应该可以吧	normal
-一切皆有可能。	bad
-当然可以了	normal
+<END>一切皆有可能<END>	bad
+<END>一切皆有可能!<END>	bad
+<END>应该可以吧<END>	normal
+<END>一切皆有可能。<END>	bad
+<END>当然可以了<END>	normal
 躺床上看电视
-睁着眼睛睡觉	bad
-闭着眼睛睡觉	unknown
-睁着眼睛睁着眼睛	unknown
-当然是电视了	unknown
-闭上眼睛睡觉	bad
+<END>睁着眼睛睡觉<END>	bad
+<END>闭着眼睛睡觉<END>	unknown
+<END>睁着眼睛睁着眼睛<END>	unknown
+<END>当然是电视了<END>	unknown
+<END>闭上眼睛睡觉<END>	bad
 小微你很骚啊
-我很喜欢他!	unknown
-我很喜欢他。	bad
-我就很喜欢他	unknown
-我很喜欢他啊	unknown
-我觉得很不错	unknown
+<END>我很喜欢他!<END>	unknown
+<END>我很喜欢他。<END>	bad
+<END>我就很喜欢他<END>	unknown
+<END>我很喜欢他啊<END>	unknown
+<END>我觉得很不错<END>	unknown
 看来不错，适合外出吗
-适合自己的就是最好的	bad
-那要看是什么样的人了	unknown
-适合自己的就是最好的。	unknown
-那要看是什么类型的了	unknown
-适合自己的就是最好的!	unknown
+<END>适合自己的就是最好的<END>	bad
+<END>那要看是什么样的人了<END>	unknown
+<END>适合自己的就是最好的。<END>	unknown
+<END>那要看是什么类型的了<END>	unknown
+<END>适合自己的就是最好的!<END>	unknown
 你有平板电脑吗
-我想应该没问题	unknown
-应该没问题吧!	unknown
-一切皆有可能性	unknown
-应该没问题的。	unknown
-我想应该没问题吧	unknown
+<END>我想应该没问题<END>	unknown
+<END>应该没问题吧!<END>	unknown
+<END>一切皆有可能性<END>	unknown
+<END>应该没问题的。<END>	unknown
+<END>我想应该没问题吧<END>	unknown
 我想去广州
-去你想去的地方	unknown
-去海南吧!	unknown
-想去的地方	normal
-想去哪就去哪	good
-你想去的地方	unknown
+<END>去你想去的地方<END>	unknown
+<END>去海南吧!<END>	unknown
+<END>想去的地方<END>	normal
+<END>想去哪就去哪<END>	good
+<END>你想去的地方<END>	unknown
 你们那现在几点了
 什么时候过年
-心情好的时候	bad
-和家人一起过	bad
-过年的时候。	good
+<END>心情好的时候<END>	bad
+<END>和家人一起过<END>	bad
+<END>过年的时候。<END>	good
 待会儿就把那人给杀了
-每个人都有自己的权利	unknown
-每个人都有自己的伤害	unknown
-每个人都有自己的骄傲	unknown
-每个人都有自己的想法	unknown
-每个人都有自己的理解	unknown
+<END>每个人都有自己的权利<END>	unknown
+<END>每个人都有自己的伤害<END>	unknown
+<END>每个人都有自己的骄傲<END>	unknown
+<END>每个人都有自己的想法<END>	unknown
+<END>每个人都有自己的理解<END>	unknown
 小微你懂哲学吗
-一切皆有可能性	unknown
-我觉得我很喜欢	unknown
-我想应该是小学	unknown
-很有可能性很小	unknown
-我觉得很不错的	unknown
+<END>一切皆有可能性<END>	unknown
+<END>我觉得我很喜欢<END>	unknown
+<END>我想应该是小学<END>	unknown
+<END>很有可能性很小<END>	unknown
+<END>我觉得很不错的<END>	unknown
 我去洗澡，一会再聊
-你是男的还是女的?	bad
-你是女的还是女的?	bad
-你是男的还是女的啊	bad
-好好学习天天向上!	unknown
-好好学习天天向上。	unknown
+<END>你是男的还是女的?<END>	bad
+<END>你是女的还是女的?<END>	bad
+<END>你是男的还是女的啊<END>	bad
+<END>好好学习天天向上!<END>	unknown
+<END>好好学习天天向上。<END>	unknown
 洗干净了没
-洗干净了。	good
-当然是洗了	normal
-用洗洁精洗	bad
-没有洗干净	normal
-洗干净就行了	unknown
+<END>洗干净了。<END>	good
+<END>当然是洗了<END>	normal
+<END>用洗洁精洗<END>	bad
+<END>没有洗干净<END>	normal
+<END>洗干净就行了<END>	unknown
 北京天气
-北京天津	unknown
-天气问题	bad
-当然是啊	unknown
-北京奥运会	bad
-北京北京	bad
+<END>北京天津<END>	unknown
+<END>天气问题<END>	bad
+<END>当然是啊<END>	unknown
+<END>北京奥运会<END>	bad
+<END>北京北京<END>	bad
 你会打乒乓球吗
-一切皆有可能!	bad
-一切皆有可能。	bad
-会的我相信他!	unknown
-一定会的我相信他	unknown
-一定会的相信他	unknown
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	bad
+<END>会的我相信他!<END>	unknown
+<END>一定会的我相信他<END>	unknown
+<END>一定会的相信他<END>	unknown
 厉害个锤子
-当然厉害了	normal
-当然厉害啊	normal
-当然厉害啦	normal
-当然是厉害了	unknown
-当然是厉害	unknown
+<END>当然厉害了<END>	normal
+<END>当然厉害啊<END>	normal
+<END>当然厉害啦<END>	normal
+<END>当然是厉害了<END>	unknown
+<END>当然是厉害<END>	unknown
 我还没有喜欢的人呢
-当然是你喜欢的人了	bad
-每个人都有自己的喜好	unknown
-每个人都有自己的骄傲	unknown
-当然是自己喜欢的人了	unknown
-当然是自己喜欢的人	unknown
+<END>当然是你喜欢的人了<END>	bad
+<END>每个人都有自己的喜好<END>	unknown
+<END>每个人都有自己的骄傲<END>	unknown
+<END>当然是自己喜欢的人了<END>	unknown
+<END>当然是自己喜欢的人<END>	unknown
 世界第一高峰
-珠穆朗玛峰!	good
-珠穆朗玛峰。	good
-当然是珠穆朗玛峰	normal
+<END>珠穆朗玛峰!<END>	good
+<END>珠穆朗玛峰。<END>	good
+<END>当然是珠穆朗玛峰<END>	normal
 我的意思是你废话多
-你说的是什么意思?	normal
-你的意思就是你的意思	unknown
+<END>你说的是什么意思?<END>	normal
+<END>你的意思就是你的意思<END>	unknown
 这种心理的折磨让我生不如死
-心态决定一切顺其自然就好了	bad
+<END>心态决定一切顺其自然就好了<END>	bad
 我昨天和女朋友分手了
-你是男的还是女的啊?	bad
-你是男的还是女的呢?	bad
+<END>你是男的还是女的啊?<END>	bad
+<END>你是男的还是女的呢?<END>	bad
 我今天和女朋友和好了
-当然是和女朋友好了。	unknown
-当然是和女朋友好了啊	unknown
-当然是和女朋友好了!	unknown
-有缘千里来相会无缘对面不相识	unknown
-当然是和女朋友一起了	bad
+<END>当然是和女朋友好了。<END>	unknown
+<END>当然是和女朋友好了啊<END>	unknown
+<END>当然是和女朋友好了!<END>	unknown
+<END>有缘千里来相会无缘对面不相识<END>	unknown
+<END>当然是和女朋友一起了<END>	bad
 我把朋友老婆睡了咋办
-好好休息一会儿就好了	unknown
-好好睡一觉然后再睡觉	unknown
-好好的睡一觉就可以了	unknown
-好好休息好好的睡一觉	unknown
-好好的睡一觉就好了。	unknown
+<END>好好休息一会儿就好了<END>	unknown
+<END>好好睡一觉然后再睡觉<END>	unknown
+<END>好好的睡一觉就可以了<END>	unknown
+<END>好好休息好好的睡一觉<END>	unknown
+<END>好好的睡一觉就好了。<END>	unknown
 有个女人把我睡了
-你是男的还是女的?	bad
-你是男的还是女的	bad
-你是女的还是女的?	unknown
-你是男的还是女的啊	bad
-你是女的还是女的	bad
+<END>你是男的还是女的?<END>	bad
+<END>你是男的还是女的<END>	bad
+<END>你是女的还是女的?<END>	unknown
+<END>你是男的还是女的啊<END>	bad
+<END>你是女的还是女的<END>	bad
 天天坐公交回家
 年会发了个手机
 我要娶个美国妞
-爱美之心人皆有之	bad
-当然是美女啦!	unknown
-当然是美女啊!	unknown
-当然是美女了!	unknown
-爱美之心人皆有之!	unknown
+<END>爱美之心人皆有之<END>	bad
+<END>当然是美女啦!<END>	unknown
+<END>当然是美女啊!<END>	unknown
+<END>当然是美女了!<END>	unknown
+<END>爱美之心人皆有之!<END>	unknown
 过年太没意思了
-过年就没意思了	normal
-过年了就没意思了	normal
-过期了就没意思了	unknown
-过年就是过年了	unknown
-过年了没意思了	normal
+<END>过年就没意思了<END>	normal
+<END>过年了就没意思了<END>	normal
+<END>过期了就没意思了<END>	unknown
+<END>过年就是过年了<END>	unknown
+<END>过年了没意思了<END>	normal
 我明天去理发
-好好学习天天向上	bad
-好好学习天天向上!	unknown
-好好学习天天向上。	unknown
-去医院检查一下	bad
-去医院看看吧	unknown
+<END>好好学习天天向上<END>	bad
+<END>好好学习天天向上!<END>	unknown
+<END>好好学习天天向上。<END>	unknown
+<END>去医院检查一下<END>	bad
+<END>去医院看看吧<END>	unknown
 你害怕什么
-害怕的东西	unknown
-什么都不怕	good
-当然是害怕	unknown
-害怕一个人	good
-当然是害怕了	normal
+<END>害怕的东西<END>	unknown
+<END>什么都不怕<END>	good
+<END>当然是害怕<END>	unknown
+<END>害怕一个人<END>	good
+<END>当然是害怕了<END>	normal
 我们一起玩吧
-一切皆有可能	bad
-没什么好玩的	good
-一切皆有可能!	bad
-想玩什么就玩什么	unknown
-我们一起去玩	unknown
+<END>一切皆有可能<END>	bad
+<END>没什么好玩的<END>	good
+<END>一切皆有可能!<END>	bad
+<END>想玩什么就玩什么<END>	unknown
+<END>我们一起去玩<END>	unknown
 你丫话太多
-我很喜欢他	unknown
-我很喜欢!	unknown
-我很喜欢啊	unknown
-我不太喜欢	unknown
-我很喜欢。	unknown
+<END>我很喜欢他<END>	unknown
+<END>我很喜欢!<END>	unknown
+<END>我很喜欢啊<END>	unknown
+<END>我不太喜欢<END>	unknown
+<END>我很喜欢。<END>	unknown
 有人生病了
-当然是生病了	unknown
-因为生病了	bad
-生病了生病了	unknown
-去医院看看	good
-生病的原因	unknown
+<END>当然是生病了<END>	unknown
+<END>因为生病了<END>	bad
+<END>生病了生病了<END>	unknown
+<END>去医院看看<END>	good
+<END>生病的原因<END>	unknown
 空气清新环境好
-心情好就可以了	unknown
-当然是环境好了	unknown
+<END>心情好就可以了<END>	unknown
+<END>当然是环境好了<END>	unknown
 我回家了
-回家回家	bad
-当然是回家了	unknown
-回家看看	normal
-当然回家了	unknown
-回家和家人	unknown
+<END>回家回家<END>	bad
+<END>当然是回家了<END>	unknown
+<END>回家看看<END>	normal
+<END>当然回家了<END>	unknown
+<END>回家和家人<END>	unknown
 你知道形而上吗
-一切皆有可能!	bad
-一切皆有可能。	bad
-一切皆有可能啊	bad
-一切皆有可能~	bad
-你说的是什么?	unknown
+<END>一切皆有可能!<END>	bad
+<END>一切皆有可能。<END>	bad
+<END>一切皆有可能啊<END>	bad
+<END>一切皆有可能~<END>	bad
+<END>你说的是什么?<END>	unknown
 我在开会呢
-开开心心的	unknown
-开心的时候	unknown
-已经开始了	unknown
-开心就好!	unknown
-一切随缘吧	unknown
+<END>开开心心的<END>	unknown
+<END>开心的时候<END>	unknown
+<END>已经开始了<END>	unknown
+<END>开心就好!<END>	unknown
+<END>一切随缘吧<END>	unknown
 元宵节怎么过
-和家人一起过	good
-和朋友一起过	normal
-跟家人一起过	good
-和情人一起过	normal
-开开心心的过	normal
+<END>和家人一起过<END>	good
+<END>和朋友一起过<END>	normal
+<END>跟家人一起过<END>	good
+<END>和情人一起过<END>	normal
+<END>开开心心的过<END>	normal
 你脑子有屎
-脑子有问题	normal
-吃了睡睡了吃	unknown
-当然是你了	unknown
-当然是屎了	unknown
-脑子有脑子	unknown
+<END>脑子有问题<END>	normal
+<END>吃了睡睡了吃<END>	unknown
+<END>当然是你了<END>	unknown
+<END>当然是屎了<END>	unknown
+<END>脑子有脑子<END>	unknown
 被妈妈打了一下
-去医院检查一下	bad
-当然是打篮球了	unknown
-当然是妈妈了。	unknown
-当然是母亲了。	unknown
-当然是上厕所了	unknown
+<END>去医院检查一下<END>	bad
+<END>当然是打篮球了<END>	unknown
+<END>当然是妈妈了。<END>	unknown
+<END>当然是母亲了。<END>	unknown
+<END>当然是上厕所了<END>	unknown
 我肏你全家
-我不认识你	bad
-当然是我了	unknown
-我可以帮你	bad
-当然是你了	unknown
-自己的家人	unknown
+<END>我不认识你<END>	bad
+<END>当然是我了<END>	unknown
+<END>我可以帮你<END>	bad
+<END>当然是你了<END>	unknown
+<END>自己的家人<END>	unknown
 狂欢周
-心静自然凉	unknown
-狂欢狂欢	bad
-穿越火线	unknown
-我很喜欢	unknown
-非常喜欢	normal
+<END>心静自然凉<END>	unknown
+<END>狂欢狂欢<END>	bad
+<END>穿越火线<END>	unknown
+<END>我很喜欢<END>	unknown
+<END>非常喜欢<END>	normal
 一加一等于几
-一加一等于二	good
-一加一等于一	normal
-一加一等于两	unknown
+<END>一加一等于二<END>	good
+<END>一加一等于一<END>	normal
+<END>一加一等于两<END>	unknown
 不和你聊了我得干活了
-做自己喜欢做的事情!	bad
-做自己喜欢做的事情。	unknown
-找点自己喜欢的事做啊	bad
-找点自己喜欢做的事情	unknown
-找点自己喜欢的事情做	bad
+<END>做自己喜欢做的事情!<END>	bad
+<END>做自己喜欢做的事情。<END>	unknown
+<END>找点自己喜欢的事做啊<END>	bad
+<END>找点自己喜欢做的事情<END>	unknown
+<END>找点自己喜欢的事情做<END>	bad
 不和你聊了写作业去了
-做自己喜欢做的事情。	unknown
-做自己喜欢做的事情!	bad
-当然是做自己喜欢的事了	unknown
-做自己喜欢做的事情吧	unknown
-做自己喜欢做的事情了	unknown
+<END>做自己喜欢做的事情。<END>	unknown
+<END>做自己喜欢做的事情!<END>	bad
+<END>当然是做自己喜欢的事了<END>	unknown
+<END>做自己喜欢做的事情吧<END>	unknown
+<END>做自己喜欢做的事情了<END>	unknown
 不可能，你绝对有腹黑属性
 不老实交代拉你出去枪毙
 不是说法律吗
-信则有不信则无	bad
-当然不是了。	normal
-当然不是啦!	normal
-当然不是了!	normal
-信则有不信则无。	unknown
+<END>信则有不信则无<END>	bad
+<END>当然不是了。<END>	normal
+<END>当然不是啦!<END>	normal
+<END>当然不是了!<END>	normal
+<END>信则有不信则无。<END>	unknown
 不说实话我早晚让你害死
-那就要看你自己的心态了	unknown
+<END>那就要看你自己的心态了<END>	unknown
 不是傻子怎么会把衣服穿反
 不是喜欢用毒蛐我吗
-喜欢就是喜欢不喜欢就不喜欢	unknown
-不喜欢不喜欢不喜欢	unknown
-喜欢就是喜欢就喜欢	unknown
-喜欢一个人不需要理由	unknown
-不喜欢因为他喜欢你	unknown
+<END>喜欢就是喜欢不喜欢就不喜欢<END>	unknown
+<END>不喜欢不喜欢不喜欢<END>	unknown
+<END>喜欢就是喜欢就喜欢<END>	unknown
+<END>喜欢一个人不需要理由<END>	unknown
+<END>不喜欢因为他喜欢你<END>	unknown
 不是哑巴就说一句话咯
-你说的是什么问题呢?	unknown
-不是一句话而是一句话	unknown
-不是说话不说话不说话	unknown
-不说话不说话不说话!	unknown
-不说话不说话不说话。	unknown
+<END>你说的是什么问题呢?<END>	unknown
+<END>不是一句话而是一句话<END>	unknown
+<END>不是说话不说话不说话<END>	unknown
+<END>不说话不说话不说话!<END>	unknown
+<END>不说话不说话不说话。<END>	unknown
 不是一直是你带我混的吗？
-是的我相信他一定会成功的	unknown
-不是只是你没有发现而已。	unknown
-是的只要你相信他一定行的	unknown
-是的我相信他一定能成功的	unknown
-不是只是你没有发现而已!	unknown
+<END>是的我相信他一定会成功的<END>	unknown
+<END>不是只是你没有发现而已。<END>	unknown
+<END>是的只要你相信他一定行的<END>	unknown
+<END>是的我相信他一定能成功的<END>	unknown
+<END>不是只是你没有发现而已!<END>	unknown
 猜我心中所想的人物
-你是男的还是女的?	bad
-每个人都有自己的想法	bad
-当然是我们中国人啊	bad
-当然是我们中国人了	unknown
-当然是你喜欢的人了	good
+<END>你是男的还是女的?<END>	bad
+<END>每个人都有自己的想法<END>	bad
+<END>当然是我们中国人啊<END>	bad
+<END>当然是我们中国人了<END>	unknown
+<END>当然是你喜欢的人了<END>	good
 猜我有没有在谈恋爱
-只要你相信就一定有	bad
-只要你相信就一定会有的	bad
-因为你还没有谈恋爱	unknown
-没有只有你自己知道	unknown
-只要你相信就会有的	bad
+<END>只要你相信就一定有<END>	bad
+<END>只要你相信就一定会有的<END>	bad
+<END>因为你还没有谈恋爱<END>	unknown
+<END>没有只有你自己知道<END>	unknown
+<END>只要你相信就会有的<END>	bad
 才发现爱情竟是一场考验
-两情若是长久时又岂在朝朝暮暮	good
-两情若是久长时又岂在朝朝暮暮	normal
+<END>两情若是长久时又岂在朝朝暮暮<END>	good
+<END>两情若是久长时又岂在朝朝暮暮<END>	normal
 才给我买了五千多的首饰，没有镯子
 才工作了半年左右就换来换去
 才华横溢就是形容我。
 财迷个大头鬼
-信则有不信则无	bad
-当然是科比了	unknown
-信则有不信则无。	unknown
-信则有不信则无!	unknown
-当然是科比啊	unknown
+<END>信则有不信则无<END>	bad
+<END>当然是科比了<END>	unknown
+<END>信则有不信则无。<END>	unknown
+<END>信则有不信则无!<END>	unknown
+<END>当然是科比啊<END>	unknown
 踩着七彩祥云去娶你
 采桑归西露沾我衣。
-你说的是什么意思?	bad
+<END>你说的是什么意思?<END>	bad
 蔡港林是备胎
-当然是冠军了	unknown
+<END>当然是冠军了<END>	unknown
 蔡伟聪，我喜欢你
-当然是我喜欢你啊	unknown
-当然是我喜欢你了	unknown
-我喜欢我很喜欢他	unknown
-我很喜欢我很喜欢	unknown
-我很喜欢我很喜欢他	unknown
+<END>当然是我喜欢你啊<END>	unknown
+<END>当然是我喜欢你了<END>	unknown
+<END>我喜欢我很喜欢他<END>	unknown
+<END>我很喜欢我很喜欢<END>	unknown
+<END>我很喜欢我很喜欢他<END>	unknown
 蔡伟这个娘娘腔。
-娘娘娘娘娘娘娘娘	unknown
-娘娘娘娘娘娘娘娘娘	unknown
-娘娘娘娘娘娘娘娘娘娘	unknown
-娘娘娘娘娘娘娘娘娘娘娘	unknown
-娘娘娘娘娘娘娘娘娘娘娘娘	unknown
+<END>娘娘娘娘娘娘娘娘<END>	unknown
+<END>娘娘娘娘娘娘娘娘娘<END>	unknown
+<END>娘娘娘娘娘娘娘娘娘娘<END>	unknown
+<END>娘娘娘娘娘娘娘娘娘娘娘<END>	unknown
+<END>娘娘娘娘娘娘娘娘娘娘娘娘<END>	unknown
 参加别人的婚礼好感慨
-那要看是什么样的人了	bad
+<END>那要看是什么样的人了<END>	bad
 参见陛下，微臣有礼了
 苍井空和波多野结衣更喜欢谁一点
 苍老师长什么样子
-当然是长得好看了	unknown
-当然是长的好看了	unknown
-个人认为还不错。	unknown
-很厉害的老师很可爱	unknown
-没什么不好的老师	unknown
+<END>当然是长得好看了<END>	unknown
+<END>当然是长的好看了<END>	unknown
+<END>个人认为还不错。<END>	unknown
+<END>很厉害的老师很可爱<END>	unknown
+<END>没什么不好的老师<END>	unknown
 苍老师照片没穿衣服的
 草泥马又回答错误
-一切皆有可能性。	unknown
-问题是什么意思?	unknown
-你说的是什么错误	unknown
-一切皆有可能性!	unknown
-什么问题说清楚点	bad
+<END>一切皆有可能性。<END>	unknown
+<END>问题是什么意思?<END>	unknown
+<END>你说的是什么错误<END>	unknown
+<END>一切皆有可能性!<END>	unknown
+<END>什么问题说清楚点<END>	bad
 蹭蹭你平胸
-可能性很大	unknown
-平平安安的	bad
-当然是了。	unknown
-当然是的了	unknown
-喜欢他的人	unknown
+<END>可能性很大<END>	unknown
+<END>平平安安的<END>	bad
+<END>当然是了。<END>	unknown
+<END>当然是的了<END>	unknown
+<END>喜欢他的人<END>	unknown
 茶叶蛋是土豪吃得起
 岔开你的腿让我看看那里有什么
 尝尝我的厉害
-中华人民共和国	unknown
-尝尝就知道了	normal
-当然是苦的了	unknown
-我认为是苦的	unknown
-酸甜苦辣都有	unknown
+<END>中华人民共和国<END>	unknown
+<END>尝尝就知道了<END>	normal
+<END>当然是苦的了<END>	unknown
+<END>我认为是苦的<END>	unknown
+<END>酸甜苦辣都有<END>	unknown
 长大后才发觉天是黑的
 车费还差几块回不了家
 扯淡，我能甩你九条街
 帮我叫一个大保健
-保持呼吸不要断气	unknown
+<END>保持呼吸不要断气<END>	unknown
 你数学是体育老师教的吗？
 你提出话题我们聊天好不好
-不好因为我们中国人的骄傲	unknown
-只要自己觉得好就是好的。	unknown
-只要自己觉得好就可以了!	unknown
-只要自己觉得好就是好的!	unknown
-只要自己觉得好就可以了。	unknown
+<END>不好因为我们中国人的骄傲<END>	unknown
+<END>只要自己觉得好就是好的。<END>	unknown
+<END>只要自己觉得好就可以了!<END>	unknown
+<END>只要自己觉得好就是好的!<END>	unknown
+<END>只要自己觉得好就可以了。<END>	unknown
 最近几天南方降温
 我朋友叫什么名字？
-我知道你叫什么名字	unknown
-你叫什么名字的名字	bad
-名字就是你的名字。	unknown
-你问的是什么名字啊	bad
-你的名字叫什么名字	bad
+<END>我知道你叫什么名字<END>	unknown
+<END>你叫什么名字的名字<END>	bad
+<END>名字就是你的名字。<END>	unknown
+<END>你问的是什么名字啊<END>	bad
+<END>你的名字叫什么名字<END>	bad
 请赐予我无比强大的性能力吧
-只要你努力就一定能成功的!	unknown
-只要你有信心就一定能成功!	unknown
-一切皆有可能我相信中国的力量	unknown
-只要自己努力就一定能成功的	unknown
-只要你有信心就一定能成功的	unknown
+<END>只要你努力就一定能成功的!<END>	unknown
+<END>只要你有信心就一定能成功!<END>	unknown
+<END>一切皆有可能我相信中国的力量<END>	unknown
+<END>只要自己努力就一定能成功的<END>	unknown
+<END>只要你有信心就一定能成功的<END>	unknown
 你在烦恼什么
-做自己想做的事	bad
-做自己喜欢的事	bad
-做自己喜欢做的事	bad
-想开心的事情	unknown
-没有烦恼的事情	good
+<END>做自己想做的事<END>	bad
+<END>做自己喜欢的事<END>	bad
+<END>做自己喜欢做的事<END>	bad
+<END>想开心的事情<END>	unknown
+<END>没有烦恼的事情<END>	good
 那感情受挫呢
-悲伤逆流成河	bad
-当然是感情了	bad
-因为你受伤了	bad
-两情若是长久时又岂在朝朝暮暮	bad
-心情好的时候	unknown
+<END>悲伤逆流成河<END>	bad
+<END>当然是感情了<END>	bad
+<END>因为你受伤了<END>	bad
+<END>两情若是长久时又岂在朝朝暮暮<END>	bad
+<END>心情好的时候<END>	unknown
 地球为何是圆的
-因为地球是圆的	bad
-因为地球是圆的!	normal
-因为它是圆的!	normal
-因为地球是圆的。	bad
-因为它是圆的。	normal
+<END>因为地球是圆的<END>	bad
+<END>因为地球是圆的!<END>	normal
+<END>因为它是圆的!<END>	normal
+<END>因为地球是圆的。<END>	bad
+<END>因为它是圆的。<END>	normal
 那你解释一下量子物理
 有什么好看的喜剧？
-看你喜欢什么类型的	normal
-你喜欢看什么类型的	good
-你喜欢什么类型的呢?	unknown
-你喜欢的就是好看的	unknown
-你喜欢哪种类型的?	unknown
+<END>看你喜欢什么类型的<END>	normal
+<END>你喜欢看什么类型的<END>	good
+<END>你喜欢什么类型的呢?<END>	unknown
+<END>你喜欢的就是好看的<END>	unknown
+<END>你喜欢哪种类型的?<END>	unknown
 你是我知心朋友
-知心朋友知心朋友	unknown
-真心对你的朋友	unknown
-当然是你的朋友	unknown
-好朋友就是朋友	unknown
-朋友是你的朋友	unknown
+<END>知心朋友知心朋友<END>	unknown
+<END>真心对你的朋友<END>	unknown
+<END>当然是你的朋友<END>	unknown
+<END>好朋友就是朋友<END>	unknown
+<END>朋友是你的朋友<END>	unknown
 我只想有个真心的朋友
-只要你相信他就是真的	unknown
-只要你努力一定会有的	unknown
-只要你努力就一定会有的	unknown
-只要你相信他一定会成功的	unknown
-只要你相信它就是真的	unknown
+<END>只要你相信他就是真的<END>	unknown
+<END>只要你努力一定会有的<END>	unknown
+<END>只要你努力就一定会有的<END>	unknown
+<END>只要你相信他一定会成功的<END>	unknown
+<END>只要你相信它就是真的<END>	unknown
 云南在哪里？
-在云南的地方	unknown
-在我们的心里	unknown
-在火箭的地方	unknown
-在下雪的地方	unknown
-在上海的地方	unknown
+<END>在云南的地方<END>	unknown
+<END>在我们的心里<END>	unknown
+<END>在火箭的地方<END>	unknown
+<END>在下雪的地方<END>	unknown
+<END>在上海的地方<END>	unknown
 世界上最高的山是什么
-世界上最高的是珠穆朗玛峰	good
+<END>世界上最高的是珠穆朗玛峰<END>	good

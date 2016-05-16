@@ -79,7 +79,7 @@ for basename in file_list:
                                 
                         
                         count_dict[label] += 1
-                        f_out.write('%s\t%s\n' % (v, label))
+                        f_out.write('<END>%s<END>\t%s\n' % (v, label))
                         if label == 'unknown':
                             if unknonwn_key != key:
                                 unknonwn_key = key
