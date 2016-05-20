@@ -74,7 +74,7 @@
 <END>这个地方很不错<END>	unknown
 <END>是个不错的城市<END>	normal
 <END>是个很不错的地方<END>	unknown
-<END>我觉得挺不错的<END>	unknown
+<END>我觉得挺不错的<END>	normal
 <END>是个不错的地方<END>	unknown
 今天有什么新闻
 <END>发生了什么事情了<END>	unknown
@@ -107,7 +107,7 @@
 <END>拜拜，拜拜。<END>	unknown
 <END>拜拜，拜拜<END>	good
 你好吗？
-<END>你认错人了<END>	unknown
+<END>你认错人了<END>	normal
 <END>我可不是随便的人<END>	unknown
 <END>我可以陪你聊天<END>	unknown
 <END>我一直都很好呀<END>	good
@@ -271,7 +271,7 @@
 我今天没有捡到钱，好伤心
 <END>不要伤心，一切都会好起来的<END>	normal
 <END>不要伤心，小微会一直陪你的<END>	unknown
-<END>不要伤心，小微会一直陪着你的<END>	unknown
+<END>不要伤心，小微会一直陪着你的<END>	good
 <END>不要伤心，有小微陪你聊天<END>	unknown
 <END>不要伤心，我会一直陪着你的<END>	good
 天上有多少颗星星
@@ -290,7 +290,7 @@
 <END>你在说谁呀<END>	unknown
 <END>你在说谁呀？<END>	unknown
 <END>你认错人了<END>	unknown
-<END>你认错人了？<END>	unknown
+<END>你认错人了？<END>	bad
 <END>我可是个大美女<END>	unknown
 北风嗖嗖的吹
 <END>那一定要注意安全<END>	unknown
@@ -305,7 +305,7 @@
 <END>不要这样，小微会很伤心的<END>	unknown
 <END>不要这样，小微会伤心的<END>	unknown
 不要这么谦虚嘛
-<END>我可是很谦虚的呀<END>	unknown
+<END>我可是很谦虚的呀<END>	normal
 <END>当然要谦虚了呀<END>	unknown
 <END>我可是非常谦虚的<END>	unknown
 <END>我一直都很谦虚的<END>	good
@@ -343,7 +343,7 @@
 你有私生子吗
 <END>我可不是个随便的人<END>	normal
 <END>我没有这个本事<END>	normal
-<END>我没有这个癖好<END>	unknown
+<END>我没有这个癖好<END>	bad
 <END>我可是个正直的人<END>	unknown
 <END>不可以这样说别人<END>	unknown
 我早上工作感觉死死的是怎么回事
@@ -396,7 +396,7 @@
 <END>不要这样说别人<END>	unknown
 你是不是傻逼
 <END>不可以这样说别人<END>	normal
-<END>不要这么说别人<END>	unknown
+<END>不要这么说别人<END>	normal
 <END>不要这样骂别人<END>	good
 <END>不要这样说人家<END>	unknown
 <END>不要这样说别人<END>	normal
@@ -432,7 +432,7 @@
 <END>我还小，不懂你说的唬<END>	unknown
 抽根烟睡觉
 <END>我可是很害怕的<END>	unknown
-<END>吸烟有害健康的<END>	unknown
+<END>吸烟有害健康的<END>	good
 <END>那就不要抽了<END>	bad
 <END>吸烟有害健康<END>	good
 <END>抽烟有害健康<END>	good
@@ -450,10 +450,10 @@
 <END>请你说话注意文明<END>	normal
 你妈逼的
 <END>请你文明说话<END>	unknown
-<END>请你说话注意素质<END>	normal
+<END>请你说话注意素质<END>	good
 <END>请你说话文明一些<END>	normal
 <END>请你说话注意文明<END>	normal
-<END>请注意你的素质<END>	normal
+<END>请注意你的素质<END>	good
 去你妹的
 <END>我就是妹妹<END>	unknown
 <END>我可是没有妹妹的<END>	good
@@ -505,7 +505,7 @@
 我刚上公交车
 <END>听起来就很不错<END>	unknown
 <END>我还小，不懂你说的意思。<END>	unknown
-<END>请注意你的素质<END>	unknown
+<END>请注意你的素质<END>	bad
 <END>听起来就很厉害<END>	unknown
 <END>那你可要注意安全<END>	good
 我要坐地铁回家
@@ -617,7 +617,7 @@
 <END>不要这样说，我会伤心的<END>	normal
 <END>不要这样说小微会伤心的<END>	unknown
 让你慢慢喜欢
-<END>我一定会努力的<END>	unknown
+<END>我一定会努力的<END>	normal
 <END>心急吃不了热豆腐<END>	good
 <END>谢谢你的祝福<END>	unknown
 <END>我可是非常欢快的<END>	unknown
@@ -738,7 +738,7 @@
 <END>那你可要注意安全<END>	good
 公司有人打架
 <END>打架可是不对的<END>	normal
-<END>为什么要打架的呀<END>	normal
+<END>为什么要打架的呀<END>	good
 <END>打架可是很危险的<END>	unknown
 <END>不可以打架的<END>	normal
 <END>打架可是犯法的<END>	normal
@@ -776,7 +776,7 @@
 <END>我可以陪你聊天<END>	unknown
 <END>我可是很勤劳的<END>	unknown
 <END>每个人都会做菜<END>	unknown
-<END>我什么都会做菜<END>	unknown
+<END>我什么都会做菜<END>	bad
 <END>我每天都会做菜<END>	unknown
 吃了什么
 <END>你可以自己看看<END>	unknown
@@ -871,7 +871,7 @@
 外面下大雨了
 <END>那一定要注意安全<END>	unknown
 <END>那你可要注意安全<END>	normal
-<END>下雨一定要注意安全<END>	normal
+<END>下雨一定要注意安全<END>	good
 <END>下雨了要注意安全<END>	good
 <END>怎么会下雨了<END>	good
 后天中午两点半去吃饭。
@@ -884,7 +884,7 @@
 <END>好，那我就放心了<END>	unknown
 <END>领导可是我的荣幸<END>	unknown
 <END>那我就放心了<END>	unknown
-<END>你要领导什么呀<END>	unknown
+<END>你要领导什么呀<END>	bad
 <END>领导可是很重要的<END>	normal
 我看看有没有空
 <END>你在看什么电视剧<END>	unknown
@@ -1032,7 +1032,7 @@ a股明天涨不涨
 <END>刘德华是你的朋友<END>	normal
 说你长的丑你还美
 <END>我本来就是美女呀<END>	unknown
-<END>我本身就是个美女呀<END>	unknown
+<END>我本身就是个美女呀<END>	normal
 <END>心灵美才是最重要的<END>	good
 <END>我本来就是个美女<END>	unknown
 <END>我本身就是个美女<END>	normal
@@ -1079,7 +1079,7 @@ a股明天涨不涨
 <END>那就放松一下<END>	bad
 <END>你可以放松一下<END>	bad
 没有止疼药
-<END>你生病了么？<END>	normal
+<END>你生病了么？<END>	good
 <END>生病了就去医院<END>	normal
 <END>你生病了么<END>	unknown
 <END>生病了就赶紧去医院<END>	unknown
@@ -1182,7 +1182,7 @@ a股明天涨不涨
 <END>看来你很喜欢他<END>	unknown
 背首诗给我
 <END>这首歌很不错<END>	bad
-<END>我不会唱歌<END>	unknown
+<END>我不会唱歌<END>	bad
 <END>我还没有学会<END>	normal
 <END>我可不是唐诗<END>	unknown
 <END>我不会背诗<END>	normal
@@ -1296,7 +1296,7 @@ a股明天涨不涨
 <END>就知道你最好了<END>	bad
 聊着天喝着酒
 <END>喝酒酒要适量<END>	unknown
-<END>喝酒对身体不好的<END>	normal
+<END>喝酒对身体不好的<END>	good
 <END>喝酒要适量喝<END>	normal
 <END>喝酒要适量喝酒<END>	bad
 <END>喝酒对身体不好<END>	normal
@@ -1322,7 +1322,7 @@ a股明天涨不涨
 <END>那就好好努力<END>	unknown
 <END>那你可要注意安全<END>	good
 <END>一定会有回报的<END>	unknown
-<END>那你要注意安全<END>	unknown
+<END>那你要注意安全<END>	normal
 <END>一定要注意安全<END>	unknown
 灯好暗
 <END>你要去哪里呀<END>	bad
@@ -1397,7 +1397,7 @@ a股明天涨不涨
 <END>好的，那就等再聊聊<END>	unknown
 <END>好的，那就等一会再聊<END>	unknown
 洗干净了没
-<END>洗完了就好<END>	unknown
+<END>洗完了就好<END>	bad
 <END>洗洗净就好<END>	unknown
 <END>洗一定要注意安全<END>	unknown
 <END>洗洗就洗净<END>	unknown
@@ -1428,7 +1428,7 @@ a股明天涨不涨
 <END>你自己看看不就知道了<END>	unknown
 世界第一高峰
 <END>一定一定很棒<END>	unknown
-<END>第一次听说过<END>	unknown
+<END>第一次听说过<END>	bad
 <END>形容一定很棒<END>	unknown
 <END>第一位一定很棒<END>	unknown
 <END>一定是个很棒<END>	unknown
@@ -1518,7 +1518,7 @@ a股明天涨不涨
 <END>我一直都很温柔<END>	bad
 有人生病了
 <END>生病了就要去医院<END>	good
-<END>生病了就去医院看看<END>	unknown
+<END>生病了就去医院看看<END>	good
 <END>生病了就赶紧去医院<END>	good
 <END>怎么会生病了<END>	normal
 <END>生病了就要看医生<END>	unknown
@@ -1713,7 +1713,7 @@ a股明天涨不涨
 <END>你是不是认错人？<END>	bad
 <END>你肯定是认错人了<END>	unknown
 <END>不可以这样嘲笑别人<END>	unknown
-<END>你是不是认错人了？<END>	bad
+<END>你是不是认错人了？<END>	normal
 参加别人的婚礼好感慨
 <END>好呀，那我就交给你喽<END>	unknown
 <END>我还小，不懂你说的意思<END>	unknown
@@ -1787,7 +1787,7 @@ a股明天涨不涨
 <END>不要急，一定会回来的<END>	normal
 <END>不要急，一定会回家的<END>	bad
 扯淡，我能甩你九条街
-<END>我还小，不懂你说的意思。<END>	unknown
+<END>我还小，不懂你说的意思。<END>	bad
 <END>不要，这样我会伤心的<END>	unknown
 <END>不要这样，我会伤心的<END>	normal
 <END>我还小，不懂你说的意思<END>	unknown
@@ -1857,7 +1857,7 @@ a股明天涨不涨
 <END>你想看什么样的电视剧<END>	unknown
 <END>你可以看看我的电视剧<END>	unknown
 <END>你可以看看有没有喜剧<END>	unknown
-<END>你喜欢看什么样的电视剧<END>	unknown
+<END>你喜欢看什么样的电视剧<END>	bad
 你是我知心朋友
 <END>谢谢你的祝福了<END>	unknown
 <END>谢谢你的祝福我<END>	unknown

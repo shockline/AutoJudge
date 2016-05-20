@@ -666,10 +666,10 @@
 <END>你好啊。<END>	bad
 公司不让抽烟了
 <END>那好吧。<END>	good
-<END>吸烟有害健康。<END>	normal
+<END>吸烟有害健康。<END>	good
 <END>抽烟有害可耻啊。<END>	normal
 <END>抽烟有害可耻。<END>	normal
-<END>抽烟有害健康。<END>	normal
+<END>抽烟有害健康。<END>	good
 能做什么菜
 <END>什么菜都行。<END>	good
 <END>做菜啊。<END>	bad
@@ -821,7 +821,7 @@
 <END>主人，快从火星上回来吧。<END>	bad
 <END>没地方去。<END>	normal
 红公鸡囧哦呵呵
-<END>我不明白你要说什么。<END>	normal
+<END>我不明白你要说什么。<END>	good
 <END>主人，快从火星上回来吧。<END>	good
 <END>主人你好呀。<END>	bad
 <END>哈哈，你好呀。<END>	bad
@@ -1111,7 +1111,7 @@ a股明天涨不涨
 叶良辰是谁
 <END>你认错人了。<END>	bad
 <END>你认错人了吧。<END>	bad
-<END>反正不是我。<END>	normal
+<END>反正不是我。<END>	good
 <END>认错人了。<END>	bad
 <END>你认错人吧。<END>	bad
 贱人就是矫情

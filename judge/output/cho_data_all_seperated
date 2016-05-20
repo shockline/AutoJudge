@@ -679,11 +679,11 @@
 <END>自己喜欢的最好看<END>	unknown
 <END>你喜欢的就是好看的<END>	unknown
 公司不让抽烟了
-<END>吸烟有害健康。<END>	normal
+<END>吸烟有害健康。<END>	good
 <END>吸烟有害健康!<END>	good
 <END>抽烟对身体不好<END>	good
 <END>抽烟有害健康!<END>	normal
-<END>抽烟有害健康。<END>	normal
+<END>抽烟有害健康。<END>	good
 能做什么菜
 <END>做自己喜欢做的事<END>	bad
 <END>做自己想做的<END>	normal

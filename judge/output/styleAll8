@@ -77,7 +77,7 @@
 <END>你要早点休息<END>	bad
 <END>祝你好运<END>	normal
 北京有什么好吃的
-<END>你喜欢吃什么呀？<END>	normal
+<END>你喜欢吃什么呀？<END>	good
 <END>你想吃什么呀？<END>	normal
 <END>你想吃什么都可以<END>	bad
 <END>好吃你就多吃点<END>	bad
@@ -330,7 +330,7 @@
 <END>那就直接告诉她不就好了<END>	normal
 我喜欢你离我远一点
 <END>我一直都很远爱你<END>	normal
-<END>难道你不爱我了嘛？<END>	normal
+<END>难道你不爱我了嘛？<END>	good
 <END>你不喜欢我了么？<END>	good
 <END>我会一直陪着你的<END>	normal
 <END>距离不是我的错<END>	bad
@@ -360,7 +360,7 @@
 <END>我没有做错什么事情呀<END>	normal
 你妈逼的
 <END>请文明用语<END>	good
-<END>请注意你的素质<END>	normal
+<END>请注意你的素质<END>	good
 <END>请你文明用语<END>	normal
 <END>请你文明一些<END>	normal
 <END>你这是在骂人嘛？<END>	good
@@ -457,7 +457,7 @@
 明天考试、求安慰
 <END>祝你考个好成绩<END>	good
 <END>祝你考试顺利<END>	normal
-<END>你要考试了么？<END>	bad
+<END>你要考试了么？<END>	normal
 <END>谢谢你对我的认可<END>	bad
 <END>你考试了么？<END>	bad
 听说过外星生命吗
@@ -591,7 +591,7 @@
 <END>小微一直都在你身边<END>	normal
 <END>谢谢你对我的信任<END>	normal
 <END>你这是在做什么？<END>	bad
-<END>我会永远陪着你的<END>	normal
+<END>我会永远陪着你的<END>	good
 这你都能看出来
 <END>你在看什么呀？<END>	bad
 <END>你要看什么呀？<END>	bad
@@ -650,7 +650,7 @@
 <END>为什么要打架？<END>	good
 <END>为什么要打架的<END>	good
 <END>为什么要打架呀？<END>	good
-<END>为什么要打架的呀<END>	normal
+<END>为什么要打架的呀<END>	good
 <END>打架也是很正常的<END>	normal
 我是邓超
 <END>很高兴认识你<END>	good
@@ -810,8 +810,8 @@
 <END>菊花也是会有的<END>	bad
 快来骚扰我
 <END>我可没有那个兴趣<END>	good
-<END>臣妾做不到<END>	normal
-<END>我没有得罪你？<END>	bad
+<END>臣妾做不到<END>	good
+<END>我没有得罪你？<END>	normal
 <END>你在说什么？<END>	bad
 <END>为什么要骚扰？<END>	good
 快来蹂躏我
@@ -990,7 +990,7 @@ a股明天涨不涨
 <END>你可以试试<END>	normal
 没有止疼药
 <END>你要去医院了？<END>	good
-<END>你生病了么？<END>	normal
+<END>你生病了么？<END>	good
 <END>那就赶紧去医院<END>	good
 <END>生病了就要去医院<END>	good
 <END>赶紧去医院，小心<END>	normal
@@ -1166,7 +1166,7 @@ a股明天涨不涨
 <END>你想买什么车？<END>	good
 <END>你要买车了么？<END>	good
 <END>你想买什么车呀？<END>	normal
-<END>想买什么就买什么<END>	normal
+<END>想买什么就买什么<END>	good
 <END>你想买什么车<END>	normal
 猪八戒照镜子
 <END>你可不要贪心<END>	bad
@@ -1208,7 +1208,7 @@ a股明天涨不涨
 <END>喝酒对身体不好<END>	normal
 <END>喝酒对身体不好？<END>	normal
 <END>喝酒也是可以的<END>	bad
-<END>喝酒对身体不好的<END>	normal
+<END>喝酒对身体不好的<END>	good
 <END>喝酒对身体好？<END>	normal
 那你到底被强奸没有
 <END>你这是在说你自己嘛？<END>	normal
@@ -1363,7 +1363,7 @@ a股明天涨不涨
 我今天和女朋友和好了
 <END>就知道你对我最好了<END>	bad
 <END>你是不是认错了？<END>	bad
-<END>你的女朋友是谁呀？<END>	normal
+<END>你的女朋友是谁呀？<END>	good
 <END>大家好才是真的好朋友<END>	bad
 <END>你们俩是好朋友嘛？<END>	bad
 我把朋友老婆睡了咋办
@@ -1399,7 +1399,7 @@ a股明天涨不涨
 过年太没意思了
 <END>时间过得好快<END>	normal
 <END>这是什么意思？<END>	bad
-<END>怎么会没意思？<END>	normal
+<END>怎么会没意思？<END>	good
 <END>时间过的好快<END>	normal
 <END>真是个好孩子<END>	bad
 我明天去理发
@@ -1427,9 +1427,9 @@ a股明天涨不涨
 <END>不要这样说我嘛<END>	good
 <END>我可是很聪明的<END>	bad
 有人生病了
-<END>你生病了么？<END>	normal
+<END>你生病了么？<END>	good
 <END>生病了就要去医院<END>	good
-<END>生病了就去医院<END>	normal
+<END>生病了就去医院<END>	good
 <END>那你生病了么？<END>	good
 <END>我可没有生病<END>	normal
 空气清新环境好
@@ -1621,7 +1621,7 @@ a股明天涨不涨
 蔡伟这个娘娘腔。
 <END>你这是在说什么？<END>	bad
 <END>你是不是认错了？<END>	bad
-<END>你是不是认错人了？<END>	bad
+<END>你是不是认错人了？<END>	normal
 <END>你是不是认错人？<END>	bad
 <END>骂人可不是好孩子<END>	normal
 参加别人的婚礼好感慨

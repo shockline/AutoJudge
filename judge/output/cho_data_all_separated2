@@ -27,7 +27,7 @@
 <END>北京奥运会<END>	bad
 <END>北京地区<END>	bad
 <END>当然是北京了<END>	bad
-<END>天气预报<END>	bad
+<END>天气预报<END>	normal
 待会儿就把那人给杀了
 <END>命里有时终须有命里无时莫强求<END>	bad
 <END>命里有时终须有命里无时莫强求!<END>	bad
@@ -169,7 +169,7 @@
 北京有什么好吃的
 <END>萝卜白菜各有所爱<END>	normal
 <END>萝卜青菜各有所爱<END>	normal
-<END>想吃什么就吃什么<END>	bad
+<END>想吃什么就吃什么<END>	normal
 <END>萝卜白菜各有所爱。<END>	normal
 <END>喜欢吃什么吃什么<END>	good
 春天有什么好玩的
@@ -763,7 +763,7 @@
 公司不让抽烟了
 <END>抽烟对身体不好<END>	good
 <END>吸烟有害健康!<END>	good
-<END>吸烟有害健康。<END>	normal
+<END>吸烟有害健康。<END>	good
 <END>抽烟有害健康!<END>	normal
 <END>不抽烟对身体不好<END>	bad
 能做什么菜
@@ -1255,7 +1255,7 @@ a股明天涨不涨
 那买什么车好
 <END>当然是苹果啊<END>	bad
 <END>当然是苹果了<END>	bad
-<END>想买什么就买什么<END>	normal
+<END>想买什么就买什么<END>	good
 <END>当然是苹果啦<END>	bad
 <END>当然是苹果咯<END>	bad
 猪八戒照镜子
@@ -1407,7 +1407,7 @@ a股明天涨不涨
 <END>北京奥运会<END>	bad
 <END>北京地区<END>	bad
 <END>当然是北京了<END>	bad
-<END>天气预报<END>	bad
+<END>天气预报<END>	normal
 你会打乒乓球吗
 <END>会一切皆有可能<END>	bad
 <END>一切皆有可能!<END>	bad

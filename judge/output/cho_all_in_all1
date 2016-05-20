@@ -25,7 +25,7 @@
 北京天气
 <END>天气问题<END>	bad
 <END>天气变化<END>	bad
-<END>天气预报<END>	bad
+<END>天气预报<END>	normal
 <END>新陈代谢<END>	unknown
 <END>春天来了<END>	unknown
 待会儿就把那人给杀了
@@ -67,7 +67,7 @@
 广州有什么好玩的
 <END>只要你喜欢就好玩<END>	unknown
 <END>世界之大无奇不有<END>	unknown
-<END>广州有很多好玩的<END>	unknown
+<END>广州有很多好玩的<END>	good
 <END>没有什么好玩的。<END>	normal
 <END>没什么好玩的地方<END>	unknown
 广州怎么样
@@ -167,7 +167,7 @@
 <END>这是正常现象<END>	unknown
 <END>你想问什么?<END>	bad
 北京有什么好吃的
-<END>想吃什么就吃什么<END>	bad
+<END>想吃什么就吃什么<END>	normal
 <END>你喜欢吃什么就吃什么<END>	normal
 <END>喜欢吃什么就吃什么<END>	normal
 <END>喜欢吃什么吃什么<END>	good
@@ -1362,7 +1362,7 @@ a股明天涨不涨
 <END>有啊很多人都有<END>	unknown
 我想去广州
 <END>那就去广州吧<END>	bad
-<END>那就去广州<END>	unknown
+<END>那就去广州<END>	good
 <END>可以去广州<END>	unknown
 <END>去广州吧!<END>	unknown
 <END>那就去广州啊<END>	unknown
@@ -1405,7 +1405,7 @@ a股明天涨不涨
 北京天气
 <END>天气问题<END>	bad
 <END>天气变化<END>	bad
-<END>天气预报<END>	bad
+<END>天气预报<END>	normal
 <END>新陈代谢<END>	unknown
 <END>春天来了<END>	unknown
 你会打乒乓球吗

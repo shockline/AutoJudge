@@ -38,7 +38,9 @@ for basename in file_list:
     
     top_acc = [0] * response_per_input
     top_error = [0] * response_per_input
-    
+    not_bad_group_count = 0
+    group_count = 0
+    not_bad = False
     with codecs.open('judge/input/' + basename, 'r', 'gb18030') as f_in:
         with codecs.open('judge/output/' + basename, 'w', 'gb18030') as f_out:
             with codecs.open('judge/unknown/' + basename, 'w', 'gb18030') as f_out_unkonwn:
@@ -53,9 +55,17 @@ for basename in file_list:
                     if len(line) == 0:
                         continue
                     if not '<END>' in line and not '<START>' in line:
-                        key = line
+                        if '\t' in line:
+                            tt = line.find('\t')
+                            key = line[:tt]
+                        else:
+                            key = line
                         f_out.write('%s\n' % key)
                         question_count = 0
+                        group_count += 1
+                        if not_bad:
+                            not_bad_group_count += 1
+                        not_bad = False
                     else:
                         if '<START>' in line:
                             start_index = line.find('<START>') + len('<START>')
@@ -70,6 +80,7 @@ for basename in file_list:
                             label = 'unknown'
                         
                         if label == 'good' or label == 'normal':
+                            not_bad = True
                             for i in xrange(question_count, response_per_input):
                                 top_acc[i] += 1
                         else:
@@ -97,6 +108,7 @@ for basename in file_list:
         print 'top %d acc: %f' % (i, acc / 1.0 / (acc + error))
     print 'Error Rate:\t%f' % (count_dict['bad'] / 1.0 / total_data_count)
     print 'Good Rate:\t%f' % (count_dict['good'] / 1.0 / total_data_count)
+    print 'Not bad Rate:\t%f' % (not_bad_group_count / 1.0 / group_count)
     print
 print 'All finished!'                   
                     

@@ -591,7 +591,7 @@
 <END>永远在一起<END>	normal
 <END>永远在我心里<END>	normal
 <END>永远在我身边<END>	normal
-<END>我会永远陪着你的<END>	normal
+<END>我会永远陪着你的<END>	good
 这你都能看出来
 <END>看不出来<END>	normal
 <END>看到了<END>	normal
@@ -827,7 +827,7 @@
 <END>云南大理<END>	normal
 <END>我想去丽江<END>	normal
 红公鸡囧哦呵呵
-<END>我不明白你要说什么。<END>	normal
+<END>我不明白你要说什么。<END>	good
 <END>哦，我知道了。<END>	bad
 <END>主人，说话要文明呀。<END>	bad
 <END>主人，说话要讲文明哦。<END>	bad
@@ -1286,7 +1286,7 @@ a股明天涨不涨
 <END>二月二号<END>	normal
 <END>过年的时候<END>	normal
 <END>二月二十三号<END>	normal
-<END>过年的时候过年<END>	normal
+<END>过年的时候过年<END>	good
 <END>二月二十六日<END>	normal
 待会儿就把那人给杀了
 <END>杀人偿命<END>	normal
@@ -1315,7 +1315,7 @@ a股明天涨不涨
 北京天气
 <END>气候变化<END>	bad
 <END>天气不错<END>	normal
-<END>天气预报<END>	bad
+<END>天气预报<END>	normal
 <END>天气很好<END>	good
 <END>北京天气<END>	bad
 你会打乒乓球吗

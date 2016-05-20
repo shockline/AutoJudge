@@ -758,8 +758,8 @@
 <END>抽烟对身体不好<END>	good
 <END>吸烟有害健康!<END>	good
 <END>抽烟有害健康!<END>	normal
-<END>吸烟有害健康。<END>	normal
-<END>抽烟有害健康。<END>	normal
+<END>吸烟有害健康。<END>	good
+<END>抽烟有害健康。<END>	good
 能做什么菜
 <END>做自己喜欢做的事<END>	bad
 <END>做自己想做的事<END>	bad
@@ -1250,7 +1250,7 @@ a股明天涨不涨
 <END>打篮球的地方<END>	bad
 <END>卖电脑的地方<END>	bad
 <END>自己喜欢的地方<END>	bad
-<END>想买什么就买什么<END>	normal
+<END>想买什么就买什么<END>	good
 <END>自己喜欢的东西<END>	unknown
 猪八戒照镜子
 <END>当然是刘翔了<END>	unknown

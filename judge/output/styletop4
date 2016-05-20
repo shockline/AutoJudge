@@ -6,7 +6,7 @@
 <END>我当然记得<END>	normal
 你在干嘛呢
 <END>我在和你聊天呀<END>	normal
-<END>我在陪你聊天呀<END>	normal
+<END>我在陪你聊天呀<END>	good
 <END>我在陪你聊天<END>	good
 <END>我在和你聊天<END>	normal
 <END>我在跟你聊天呀<END>	normal
@@ -60,7 +60,7 @@
 <END>每天都有好吃的<END>	bad
 广州天气
 <END>广州是个不错的地方<END>	bad
-<END>广州是个不错的城市<END>	bad
+<END>广州是个不错的城市<END>	normal
 <END>你可以看一下天气预报<END>	normal
 <END>广州是个好地方<END>	bad
 <END>广州可是个好地方<END>	bad
@@ -78,7 +78,7 @@
 <END>你可以试试<END>	bad
 今天有什么新闻
 <END>你可以看一下<END>	normal
-<END>你想看什么新闻？<END>	normal
+<END>你想看什么新闻？<END>	good
 <END>你可以看看日历<END>	normal
 <END>你可以看看一下<END>	normal
 <END>你可以试一下<END>	bad
@@ -92,7 +92,7 @@
 <END>你好，很高兴认识你<END>	good
 <END>你好，我是小微<END>	normal
 <END>谢谢你对我的认可<END>	bad
-<END>你好，很高兴认识你。<END>	normal
+<END>你好，很高兴认识你。<END>	good
 <END>你高兴就好<END>	bad
 晚上好
 <END>晚上好，早点休息<END>	good
@@ -169,8 +169,8 @@
 北京有什么好吃的
 <END>你想吃什么都可以<END>	bad
 <END>好吃你就多吃点<END>	bad
-<END>你想吃什么就吃什么<END>	bad
-<END>你想吃啥就吃啥<END>	bad
+<END>你想吃什么就吃什么<END>	normal
+<END>你想吃啥就吃啥<END>	normal
 <END>有什么好吃的？<END>	bad
 春天有什么好玩的
 <END>你喜欢什么样的？<END>	bad
@@ -420,7 +420,7 @@
 <END>你要相信她一定会喜欢你的<END>	normal
 我喜欢你离我远一点
 <END>我一直都很远爱你<END>	normal
-<END>难道你不爱我了嘛？<END>	normal
+<END>难道你不爱我了嘛？<END>	good
 <END>我会一直陪着你的<END>	normal
 <END>距离不是我的错<END>	bad
 <END>难道你不爱小微嘛？<END>	good
@@ -450,7 +450,7 @@
 <END>请你说话文明一些<END>	good
 你妈逼的
 <END>请文明用语<END>	good
-<END>请注意你的素质<END>	normal
+<END>请注意你的素质<END>	good
 <END>请注意文明用语<END>	normal
 <END>请你文明用语<END>	normal
 <END>请注意你的言辞<END>	normal
@@ -548,7 +548,7 @@
 <END>祝你考个好成绩<END>	good
 <END>祝你考试顺利<END>	normal
 <END>相信你一定可以的<END>	good
-<END>相信你一定会成功的<END>	normal
+<END>相信你一定会成功的<END>	good
 <END>加油，你是最棒的<END>	good
 听说过外星生命吗
 <END>星星可是很漂亮的<END>	bad
@@ -627,7 +627,7 @@
 <END>我们没有什么关系的<END>	normal
 <END>我们没有什么关系呀<END>	good
 <END>我们是很好的朋友<END>	normal
-<END>我们什么关系都没有<END>	normal
+<END>我们什么关系都没有<END>	good
 你和张小龙什么关系
 <END>我们没有什么关系呀<END>	good
 <END>我们没有什么关系的呀<END>	normal
@@ -680,7 +680,7 @@
 <END>不要这样对小微嘛<END>	bad
 <END>小微一直都在你身边<END>	normal
 <END>谢谢你对我的信任<END>	normal
-<END>我会永远陪着你的<END>	normal
+<END>我会永远陪着你的<END>	good
 <END>我一直都在你身边呀<END>	normal
 这你都能看出来
 <END>我已经看出来了<END>	good
@@ -738,7 +738,7 @@
 <END>是不是很危险？<END>	normal
 公司有人打架
 <END>为什么要打架的<END>	good
-<END>为什么要打架的呀<END>	normal
+<END>为什么要打架的呀<END>	good
 <END>打架也是很正常的<END>	normal
 <END>为什么要打架的？<END>	normal
 <END>为什么要打架？<END>	good
@@ -776,7 +776,7 @@
 <END>你想吃什么菜<END>	good
 <END>我什么都会做<END>	normal
 <END>你喜欢吃什么菜<END>	normal
-<END>我可不会做饭<END>	normal
+<END>我可不会做饭<END>	good
 <END>你想吃什么菜？<END>	normal
 吃了什么
 <END>你想吃什么就吃什么<END>	normal
@@ -900,7 +900,7 @@
 <END>那就不要发了<END>	bad
 快来骚扰我
 <END>我可没有那个兴趣<END>	good
-<END>臣妾做不到<END>	normal
+<END>臣妾做不到<END>	good
 <END>才没有那么无聊<END>	normal
 <END>臣妾做不到呀<END>	good
 <END>我没有那个兴趣<END>	normal
@@ -1106,7 +1106,7 @@ a股明天涨不涨
 <END>我会开车的<END>	good
 <END>我不会开车的<END>	normal
 <END>我可不会开车<END>	normal
-<END>我可不会开车的<END>	normal
+<END>我可不会开车的<END>	good
 <END>开车要注意安全<END>	bad
 那你还认识谁
 <END>当然是小微咯<END>	bad
@@ -1254,9 +1254,9 @@ a股明天涨不涨
 <END>那就早点起床<END>	bad
 那买什么车好
 <END>你想买什么车？<END>	good
-<END>想买什么就买什么<END>	normal
+<END>想买什么就买什么<END>	good
 <END>你想买什么车<END>	normal
-<END>你想买什么就买什么<END>	normal
+<END>你想买什么就买什么<END>	good
 <END>你可以自己试试<END>	bad
 猪八戒照镜子
 <END>你可不要贪心<END>	bad
@@ -1296,7 +1296,7 @@ a股明天涨不涨
 <END>你有什么好消息<END>	good
 聊着天喝着酒
 <END>喝酒对身体不好<END>	normal
-<END>喝酒对身体不好的<END>	normal
+<END>喝酒对身体不好的<END>	good
 <END>喝酒也是可以的<END>	bad
 <END>喝酒不要贪杯<END>	good
 <END>喝酒对身体不好。<END>	good
@@ -1365,7 +1365,7 @@ a股明天涨不涨
 <END>广州是个不错的地方<END>	normal
 <END>广州可是个好地方<END>	normal
 <END>广州是个不错的选择<END>	normal
-<END>广州是个好地方<END>	normal
+<END>广州是个好地方<END>	good
 你们那现在几点了
 <END>咱们聊点什么？<END>	bad
 <END>早点回来，早点休息<END>	bad
@@ -1472,7 +1472,7 @@ a股明天涨不涨
 <END>那你可要注意安全<END>	normal
 <END>真是个好地方<END>	bad
 <END>你要注意安全，注意安全<END>	normal
-<END>那你可要注意安全咯<END>	normal
+<END>那你可要注意安全咯<END>	good
 <END>请注意你的言辞<END>	bad
 年会发了个手机
 <END>你想要什么样的手机？<END>	bad
@@ -1488,7 +1488,7 @@ a股明天涨不涨
 <END>看来你很喜欢他<END>	bad
 过年太没意思了
 <END>时间过得好快<END>	normal
-<END>怎么会没意思？<END>	normal
+<END>怎么会没意思？<END>	good
 <END>时间过的好快<END>	normal
 <END>没事，下次还会有机会的<END>	good
 <END>真是个好孩子<END>	bad
@@ -1518,8 +1518,8 @@ a股明天涨不涨
 <END>谢谢你的夸奖<END>	normal
 有人生病了
 <END>生病了就要去医院<END>	good
-<END>生病了就去医院<END>	normal
-<END>你生病了么？<END>	normal
+<END>生病了就去医院<END>	good
+<END>你生病了么？<END>	good
 <END>生病了就赶紧去医院<END>	good
 <END>生病了就要好好休息<END>	good
 空气清新环境好
@@ -1709,7 +1709,7 @@ a股明天涨不涨
 <END>当然，我也很喜欢你<END>	bad
 <END>我也很喜欢你，谢谢<END>	bad
 蔡伟这个娘娘腔。
-<END>你是不是认错人了？<END>	bad
+<END>你是不是认错人了？<END>	normal
 <END>你是不是认错人？<END>	bad
 <END>骂人可不是好孩子<END>	normal
 <END>要做个讲文明的好孩子<END>	normal

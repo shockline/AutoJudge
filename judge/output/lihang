@@ -266,7 +266,7 @@
 <END>我可是很贵的<END>	bad
 <END>我可是不敢吃的<END>	normal
 <END>我可不是这样的人<END>	bad
-<END>我可是没有钱的<END>	bad
+<END>我可是没有钱的<END>	normal
 <END>不是你说了算<END>	bad
 我今天没有捡到钱，好伤心
 <END>不要伤心，一切都会好起来的<END>	normal
@@ -450,7 +450,7 @@
 <END>不可以这样说话的<END>	good
 你妈逼的
 <END>不要骂人<END>	good
-<END>请注意你的素质<END>	normal
+<END>请注意你的素质<END>	good
 <END>不要说脏话<END>	good
 <END>好好说话<END>	normal
 <END>你怎么知道的<END>	bad
@@ -583,7 +583,7 @@
 上班好累啊
 <END>累了就休息一下<END>	good
 <END>累了就休息会<END>	good
-<END>那就好好休息<END>	normal
+<END>那就好好休息<END>	good
 <END>累了就去休息<END>	normal
 <END>累了就要休息<END>	normal
 我在等地铁
@@ -593,13 +593,13 @@
 <END>那你就慢慢等<END>	normal
 <END>你去哪里的<END>	good
 你闭嘴
-<END>那我就不说话了<END>	normal
+<END>那我就不说话了<END>	good
 <END>我从来不说话的<END>	bad
 <END>那就不说话了<END>	bad
 <END>好，那我就不说话了<END>	good
 <END>好，那我就闭嘴了<END>	normal
 那就放给我听吧
-<END>好的，那就听你的<END>	normal
+<END>好的，那就听你的<END>	good
 <END>好，那就听你的<END>	normal
 <END>好呀，那就听你的<END>	normal
 <END>好，那我就放心了<END>	bad
@@ -608,7 +608,7 @@
 <END>你可以和我聊天就好<END>	bad
 <END>你可以和我聊天就好了<END>	bad
 <END>你可以和我聊天么？<END>	bad
-<END>你想吃什么就吃什么<END>	bad
+<END>你想吃什么就吃什么<END>	normal
 <END>你可以和我聊天就很开心<END>	bad
 你这智商哥都不稀罕说了
 <END>不是的，不想说就不说了<END>	bad
@@ -677,7 +677,7 @@
 <END>这个你可说错过<END>	bad
 <END>我可没有这个胆子<END>	bad
 我永远都在你身边
-<END>我会一直陪在你身边的<END>	normal
+<END>我会一直陪在你身边的<END>	good
 <END>我一直都在你身边的<END>	good
 <END>不要对我这么残忍<END>	bad
 <END>不可以这样说自己<END>	bad
@@ -737,11 +737,11 @@
 <END>怎么会这个样子<END>	normal
 <END>那就不要走了<END>	bad
 公司有人打架
-<END>为什么要打架的呀<END>	normal
+<END>为什么要打架的呀<END>	good
 <END>打架可是犯法的<END>	normal
 <END>为什么要打架架呀<END>	good
 <END>不可以打架的<END>	normal
-<END>为什么要打架架的呀<END>	bad
+<END>为什么要打架架的呀<END>	normal
 我是邓超
 <END>我也很喜欢他<END>	bad
 <END>看来你很喜欢他<END>	bad
@@ -1080,7 +1080,7 @@ a股明天涨不涨
 <END>怎么会感觉不到<END>	bad
 没有止疼药
 <END>生病了就要去医院<END>	good
-<END>你生病了么？<END>	normal
+<END>你生病了么？<END>	good
 <END>那赶紧去看看<END>	normal
 <END>那赶紧去医院看看<END>	normal
 <END>没病就不要去医院<END>	bad
@@ -1299,7 +1299,7 @@ a股明天涨不涨
 <END>喝酒可要适量<END>	normal
 <END>喝酒要适量喝。<END>	normal
 <END>喝酒要适量喝喝<END>	normal
-<END>喝酒对身体不好的<END>	normal
+<END>喝酒对身体不好的<END>	good
 那你到底被强奸没有
 <END>你怎么会有这种想法<END>	normal
 <END>怎么会有这样的想法<END>	normal
@@ -1361,7 +1361,7 @@ a股明天涨不涨
 <END>不可以这样说自己<END>	bad
 <END>你是在说你自己<END>	bad
 我想去广州
-<END>想去那就去<END>	normal
+<END>想去那就去<END>	good
 <END>你去那里干嘛去了<END>	good
 <END>去那里干嘛<END>	normal
 <END>去那里干嘛去<END>	normal
@@ -1556,7 +1556,7 @@ a股明天涨不涨
 <END>不要这样说我嘛<END>	normal
 <END>请注意你的素质<END>	normal
 <END>你怎么可以这样说话<END>	normal
-<END>不要这么说我嘛<END>	normal
+<END>不要这么说我嘛<END>	good
 <END>我可是很聪明的<END>	bad
 被妈妈打了一下
 <END>一定要好好照顾<END>	bad
