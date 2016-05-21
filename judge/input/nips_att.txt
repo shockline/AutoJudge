@@ -1,0 +1,1800 @@
+你 好	2
+result: <END> 你 好 ， 很 高兴 认识 你 <END>, score: 3.941155	good
+result: <END> 你 好 我 就 好 <END>, score: 4.335061	bad
+result: <END> 你 说 好 就 好 <END>, score: 5.479168	bad
+result: <END> 你 好 呀 ， 很 高兴 认识 你 <END>, score: 5.501015	normal
+result: <END> 我 一直 都 很 好 <END>, score: 5.534419	normal
+晚上 好	1
+result: <END> 晚上 好 ， 晚上 好 <END>, score: 4.616929	good
+result: <END> 晚上 好 呀 <END>, score: 5.721680	normal
+result: <END> 晚上 就 晚上 好 了 <END>, score: 5.777849	normal
+result: <END> 晚上 就 晚上 好 <END>, score: 5.793917	normal
+result: <END> 晚上 好 <END>, score: 5.808707	normal
+拜 拜	1
+result: <END> 拜 拜 ， 拜 拜 <END>, score: 3.400901	good
+result: <END> 拜 拜 ， 下次 再 聊 <END>, score: 3.988939	normal
+result: <END> 拜 拜 ， 记 得 想 我 <END>, score: 4.089216	normal
+result: <END> 拜 拜 ， 记 得 找 我 <END>, score: 4.095820	normal
+result: <END> 拜 拜 ， 做 个 好 梦 <END>, score: 4.205081	normal
+你 好 吗 ？	1
+result: <END> 我 一直 都 很 好 <END>, score: 4.875125	good
+result: <END> 当 然 是 最 好 的 了 <END>, score: 5.520053	bad
+result: <END> 我 可 是 很 好 的 <END>, score: 6.011474	normal
+result: <END> 我 一直 都 很 好 呀 <END>, score: 6.101838	normal
+result: <END> 当 然 是 我 最 好 了 <END>, score: 6.127252	bad
+你 好 漂亮	2
+result: <END> 你 也 很 漂亮 <END>, score: 3.413344	good
+result: <END> 谢 谢 你 的 夸 奖 <END>, score: 4.404952	normal
+result: <END> 我 一直 都 很 漂亮 <END>, score: 5.055953	normal
+result: <END> 我 本 身 就 很 漂亮 <END>, score: 5.212450	normal
+result: <END> 谢 谢 夸 奖 <END>, score: 5.259328	normal
+永 远 一直 爱 你	1
+result: <END> 我 也 很 爱 你 <END>, score: 4.421701	good
+result: <END> 谢 谢 你 对 我 的 爱 <END>, score: 5.370557	normal
+result: <END> 我 也 很 爱 你 的 <END>, score: 6.194274	normal
+result: <END> 我 也 好 爱 你 <END>, score: 6.238689	normal
+result: <END> 我 也 永 远 爱 你 <END>, score: 6.296084	normal
+我 不 喜欢 你	1
+result: <END> 我 也 很 喜欢 你 <END>, score: 4.410912	bad
+result: <END> 为什么 不 喜欢 我 <END>, score: 5.004990	good
+result: <END> 可 是 我 是 喜欢 你 的 <END>, score: 5.048563	normal
+result: <END> 为什么 不 喜欢 我 的 <END>, score: 5.224995	normal
+result: <END> 我 也 不 喜欢 你 <END>, score: 5.451357	normal
+你 是 不 是 快 死 了	1
+result: <END> 不 要 这 样 说 我 嘛 <END>, score: 5.648415	good
+result: <END> 不 要 这 样 说 人家 嘛 <END>, score: 6.558622	normal
+result: <END> 不 要 ， 不 要 这 样 说 <END>, score: 6.727707	normal
+result: <END> 不 可 以 这 样 说 我 <END>, score: 7.050122	normal
+result: <END> 不 是 ， 我 是 小 微 <END>, score: 7.065340	bad
+你 觉得 我 漂亮 吗	1
+result: <END> 你 当 然 很 漂亮 <END>, score: 5.130298	good
+result: <END> 漂亮 ， 非 常 的 漂亮 <END>, score: 5.359453	normal
+result: <END> 我 觉得 挺 漂亮 的 <END>, score: 5.599058	normal
+result: <END> 我 觉得 你 很 漂亮 <END>, score: 5.629604	normal
+result: <END> 我 当 然 很 漂亮 <END>, score: 5.653131	normal
+美 女 美 女 你 在 哪	0
+result: <END> 在 我 心 里 你 就 是 美 女 <END>, score: 5.479361	bad
+result: <END> 在 我 心 中 你 最 美 <END>, score: 5.581005	bad
+result: <END> 在 我 心 里 就 是 美 女 <END>, score: 5.737577	bad
+result: <END> 美 女 在 哪 里 都 有 美 女 <END>, score: 5.876965	bad
+result: <END> 我 一直 都 在 美 女 的 <END>, score: 6.106062	bad
+我 饿 了	
+result: <END> 那 就 去 吃 饭 <END>, score: 3.534979	good
+result: <END> 那 就 赶紧 去 吃 饭 <END>, score: 3.802876	normal
+result: <END> 饿 了 就 去 吃 饭 <END>, score: 3.935091	normal
+result: <END> 那 就 赶紧 吃 饭 <END>, score: 4.879547	normal
+result: <END> 那 就 去 吃 饭 。 <END>, score: 5.034850	normal
+今天 有 点 事	1
+result: <END> 什 么 事 情 了 <END>, score: 5.440200	good
+result: <END> 什 么 事 情 ？ <END>, score: 6.177454	normal
+result: <END> 什 么 事 情 <END>, score: 6.187636	normal
+result: <END> 什 么 事 情 了 ？ <END>, score: 6.483069	normal
+result: <END> 发生 什 么 事 情 了 <END>, score: 6.660414	normal
+我 下午 要 开会	1
+result: <END> 那 你 要 注意 安全 <END>, score: 5.101902	bad
+result: <END> 那 你 要 注意 休息 <END>, score: 6.134146	bad
+result: <END> 那 你 要 注意 开会 <END>, score: 6.148596	bad
+result: <END> 那 就 好 好 开会 <END>, score: 6.181374	good
+result: <END> 一 定 要 注意 安全 <END>, score: 6.246886	bad
+北京 有 什 么 好 吃 的	0
+result: <END> 当 然 是 很 好 吃 的 <END>, score: 5.460186	bad
+result: <END> 当 然 是 最 好 吃 的 了 <END>, score: 6.010325	bad
+result: <END> 当 然 是 最 好 的 了 <END>, score: 6.173779	bad
+result: <END> 当 然 是 很 好 吃 的 了 <END>, score: 6.649201	bad
+result: <END> 当 然 是 最 好 吃 的 <END>, score: 6.664811	bad
+春天 有 什 么 好 玩 的	0
+result: <END> 当 然 是 最 好 的 了 <END>, score: 5.978451	bad
+result: <END> 怎 么 会 有 这 样 的 <END>, score: 6.271050	bad
+result: <END> 当 然 是 很 好 的 了 <END>, score: 6.542271	bad
+result: <END> 当 然 是 非 常 好 的 了 <END>, score: 7.712866	bad
+result: <END> 你 可 以 看 看 有 没有 <END>, score: 7.718658	bad
+去 哪 里 玩 比 较 好 玩 呢	1
+result: <END> 你 想 去 哪 里 玩 都 可 以 <END>, score: 7.484285	normal
+result: <END> 你 想 去 哪 里 玩 就 去 哪 <END>, score: 7.797764	normal
+result: <END> 你 想 去 哪 里 玩 就 去 哪 玩 <END>, score: 8.073094	normal
+result: <END> 想 去 哪 里 玩 就 去 哪 玩 <END>, score: 8.079888	normal
+result: <END> 你 想 去 哪 里 玩 就 去 玩 <END>, score: 8.255125	normal
+今天 天气 好 晴 朗	1
+result: <END> 今天 天气 很 晴 朗 <END>, score: 4.904257	good
+result: <END> 天气 晴 朗 晴 朗 <END>, score: 5.473807	normal
+result: <END> 每 天 都 很 晴 朗 <END>, score: 5.716085	normal
+result: <END> 晴 朗 晴 朗 晴 朗 <END>, score: 6.205087	bad
+result: <END> 晴 朗 晴 朗 晴 <END>, score: 6.304628	bad
+我 喜欢 今天 天气	2
+result: <END> 今天 天气 很 好 <END>, score: 5.449799	good
+result: <END> 今天 天气 不 是 很 好 <END>, score: 5.718352	normal
+result: <END> 今天 的 天气 很 不错 <END>, score: 5.897700	normal
+result: <END> 今天 天气 很 不错 <END>, score: 5.948488	normal
+result: <END> 天气 不 是 很 好 <END>, score: 6.426234	normal
+我 没有 男 朋友	1
+result: <END> 那 就 去 找 一个 <END>, score: 4.496456	good
+result: <END> 那 就 赶紧 去 找 一个 <END>, score: 5.691619	normal
+result: <END> 那 就 赶紧 找 一个 <END>, score: 5.934801	normal
+result: <END> 那 就 去 找 一个 男 朋友 <END>, score: 6.225474	normal
+result: <END> 那 就 去 找 一个 朋友 <END>, score: 6.342645	normal
+男 朋友 找 什 么 样 的 好	1
+result: <END> 你 喜欢 什 么 样 的 男 朋友 <END>, score: 5.545977	normal
+result: <END> 你 喜欢 什 么 样 的 男 朋友 ？ <END>, score: 6.854690	normal
+result: <END> 你 喜欢 什 么 样 的 男 朋友 。 <END>, score: 7.228602	normal
+result: <END> 你 喜欢 什 么 样 的 男 朋友 的 <END>, score: 7.629511	normal
+result: <END> 你 觉得 怎 么 样 就 怎 么 样 <END>, score: 7.692974	bad
+你 是 哲 学 家 吗	2
+result: <END> 不 是 ， 我 是 小 微 。 <END>, score: 6.305051	good
+result: <END> 不 是 ， 你 认 错 。 <END>, score: 6.695799	bad
+result: <END> 不 是 ， 我 是 小 微 <END>, score: 6.926650	normal
+result: <END> 不 是 呀 ， 你 认 错 。 <END>, score: 7.167318	bad
+result: <END> 当 然 是 这 样 的 <END>, score: 7.170659	normal
+不 开心 也 是 一 天	2
+result: <END> 这 有 什 么 不 开心 的 <END>, score: 6.788040	bad
+result: <END> 只 要 你 开心 就 好 <END>, score: 6.796016	normal
+result: <END> 我 每 天 都 很 开心 <END>, score: 6.850129	normal
+result: <END> 看 来 你 今天 心情 不错 <END>, score: 7.043356	bad
+result: <END> 天 天 都 在 想 你 <END>, score: 7.347115	bad
+我 现在 没 工作	0
+result: <END> 那 就 努力 工作 <END>, score: 4.381017	bad
+result: <END> 那 就 好 好 工作 <END>, score: 4.918626	bad
+result: <END> 那 就 要 好 好 工作 <END>, score: 5.446496	bad
+result: <END> 没有 工作 就 要 努力 工作 <END>, score: 5.746445	bad
+result: <END> 那 就 要 努力 工作 <END>, score: 5.976496	bad
+你 有 办 法 让 我 开心 吗	2
+result: <END> 你 可 以 说 给 我 听 听 <END>, score: 6.751261	bad
+result: <END> 你 可 以 和 我 说 说 呀 <END>, score: 7.376778	normal
+result: <END> 你 可 以 和 我 说 说 话 呀 <END>, score: 7.802379	normal
+result: <END> 我 可 以 和 你 聊 天 很 开心 <END>, score: 7.947868	normal
+result: <END> 当 然 可 以 ， 你 开心 就 好 <END>, score: 7.952719	bad
+你 喜欢 聊 什 么	2
+result: <END> 你 喜欢 聊 什 么 <END>, score: 4.054376	normal
+result: <END> 喜欢 聊 什 么 都 可 以 <END>, score: 4.409256	normal
+result: <END> 你 喜欢 聊 什 么 呀 <END>, score: 4.795861	normal
+result: <END> 当 然 是 喜欢 我 的 话 题 了 <END>, score: 5.321180	normal
+result: <END> 你 喜欢 聊 什 么 就 聊 什 么 <END>, score: 5.443898	normal
+万圣节 怎 么 过	1
+result: <END> 陪 你 一起 过 节 <END>, score: 5.358278	good
+result: <END> 陪 我 一起 过 节 <END>, score: 6.914636	normal
+result: <END> 过 节 过 节 <END>, score: 7.019910	bad
+result: <END> 和 你 一起 过 节 <END>, score: 7.037196	normal
+result: <END> 一起 过 节 。 <END>, score: 7.119291	normal
+我 先 去 睡 觉 了	2
+result: <END> 好 的 ， 晚 安 咯 <END>, score: 4.716039	good
+result: <END> 早 睡 早 起 身体 好 <END>, score: 5.543250	normal
+result: <END> 好 的 ， 那 就 早 点 休息 <END>, score: 5.679188	normal
+result: <END> 好 的 ， 晚 安 。 <END>, score: 5.832993	normal
+result: <END> 睡 了 那 就 早 点 休息 <END>, score: 6.078379	bad
+老板 不 给 发 工资 怎 么 办	1
+result: <END> 该 怎 么 办 就 怎 么 办 <END>, score: 6.562581	normal
+result: <END> 办 法 总 会 有 办 法 的 <END>, score: 7.517738	bad
+result: <END> 想 办 法 总 会 有 办 法 的 <END>, score: 7.810112	normal
+result: <END> 自 己 的 事 情 自 己 做 <END>, score: 7.929973	bad
+result: <END> 该 怎 么 办 就 怎 么 办 喽 <END>, score: 7.957758	normal
+你 以后 别 跟 着 我 了	1
+result: <END> 那 我 就 不 客 气 了 <END>, score: 6.498067	bad
+result: <END> 那 我 可 就 不 客 气 了 <END>, score: 6.928701	bad
+result: <END> 我 可 是 很 坚 强 的 <END>, score: 7.299282	bad
+result: <END> 好 的 ， 我 记 住 了 <END>, score: 7.621610	normal
+result: <END> 我 可 是 很 坚 持 的 <END>, score: 7.626582	bad
+你 敢 买 切 糕 吗	0
+result: <END> 不 可 以 这 样 的 <END>, score: 6.628484	bad
+result: <END> 我 可 不 是 这 样 的 人 <END>, score: 6.662374	bad
+result: <END> 我 可 不 是 这 样 子 <END>, score: 7.098275	bad
+result: <END> 我 可 不 是 这 样 子 的 <END>, score: 7.179726	bad
+result: <END> 我 觉得 不 是 很 贵 <END>, score: 7.247309	bad
+我 今天 没有 捡 到 钱 ， 好 伤 心	3
+result: <END> 不 要 伤 心 ， 我 会 一直 陪 着 你 的 <END>, score: 8.009392	good
+result: <END> 不 要 伤 心 ， 一 定 会 有 好 运 的 <END>, score: 8.780934	normal
+result: <END> 放 心 ， 我 会 一直 陪 着 你 的 <END>, score: 8.957374	bad
+result: <END> 不 要 伤 心 ， 一 切 都 会 过去 的 <END>, score: 9.004676	normal
+result: <END> 不 要 伤 心 ， 小 微 好 伤 心 <END>, score: 9.038188	normal
+天 上 有 多 少 颗 星 星	1
+result: <END> 你 可 以 自 己 数 星 星 <END>, score: 8.447364	good
+result: <END> 你 想 要 多 少 星 星 星 <END>, score: 8.787766	bad
+result: <END> 你 自 己 数 数 就 知道 了 <END>, score: 8.897438	normal
+result: <END> 怎 么 会 有 这 个 星 星 <END>, score: 9.185087	bad
+result: <END> 星 星 是 什 么 星 星 星 <END>, score: 9.230102	bad
+今天 天气 不 好	1
+result: <END> 今天 天气 很 好 <END>, score: 5.530126	normal
+result: <END> 今天 心情 不 好 <END>, score: 6.351877	bad
+result: <END> 今天 怎 么 不 好 了 <END>, score: 6.674338	normal
+result: <END> 天气 好 不 好 <END>, score: 6.712762	bad
+result: <END> 天 天 都 很 好 <END>, score: 6.724920	bad
+太阳 好 大 啊	1
+result: <END> 是 不 是 很 好 <END>, score: 6.241482	good
+result: <END> 是 你 的 好 朋友 <END>, score: 6.676678	bad
+result: <END> 是 不 是 很 美 <END>, score: 6.871268	normal
+result: <END> 是 不 是 很 好看 <END>, score: 6.887376	normal
+result: <END> 不 是 很 好 <END>, score: 7.093543	normal
+北 风 嗖 嗖 的 吹	0
+result: <END> 吹 牛 的 有 风 吹 <END>, score: 8.173391	bad
+result: <END> 吹 风 吹 的 很 快 <END>, score: 8.294664	bad
+result: <END> 这 是 一 首 歌 曲 <END>, score: 8.433192	bad
+result: <END> 那 就 不 要 吹 了 <END>, score: 8.477567	bad
+result: <END> 吹 牛 的 不 要 吹 <END>, score: 8.568933	bad
+有 人 跟 我 撕 逼 ， 不 讲 理	0
+result: <END> 那 你 就 是 讲 文明 的 好 孩 子 <END>, score: 9.504002	bad
+result: <END> 好 ， 你 说 什 么 就 是 什 么 <END>, score: 9.543370	bad
+result: <END> 为什么 要 讲 文明 讲 话 的 好 孩 子 <END>, score: 10.225339	bad
+result: <END> 不 可 以 讲 话 不 可 以 讲 文明 的 <END>, score: 10.416920	bad
+result: <END> 不 要 不 理 你 就 别 理 他 了 <END>, score: 10.649032	bad
+不 要 这 么 谦 虚 嘛	1
+result: <END> 我 可 是 很 谦 虚 的 <END>, score: 4.153841	normal
+result: <END> 我 本 来 就 很 谦 虚 <END>, score: 5.163317	normal
+result: <END> 我 本 身 就 很 谦 虚 <END>, score: 5.428845	normal
+result: <END> 我 一直 都 很 谦 虚 呀 <END>, score: 5.572536	good
+result: <END> 我 就 是 很 谦 虚 的 <END>, score: 5.598076	normal
+明天 去 打 球	0
+result: <END> 我 可 舍 不 得 你 <END>, score: 5.688061	bad
+result: <END> 我 可 舍 不 得 打 你 <END>, score: 5.723543	bad
+result: <END> 我 可 舍 不 得 打 球 <END>, score: 5.772894	bad
+result: <END> 我 可 舍 不 得 <END>, score: 6.304906	bad
+result: <END> 为什么 要 打 我 <END>, score: 6.311790	bad
+我 老板 就 在 我 身 边	1
+result: <END> 那 你 可 要 好 好 努力 <END>, score: 6.589663	good
+result: <END> 那 我 来 陪 你 聊 天 <END>, score: 7.978244	bad
+result: <END> 那 你 真 是 太 幸福 了 <END>, score: 8.268884	bad
+result: <END> 我 可 以 陪 你 聊 天 <END>, score: 8.280896	bad
+result: <END> 那 你 真 是 太 好 了 <END>, score: 8.450093	bad
+你 什 么 地 方 冒 出 来 的	1
+result: <END> 出 来 的 时候 就 会 出 来 的 <END>, score: 7.399642	bad
+result: <END> 哪 里 来 的 那 么 出 来 的 <END>, score: 7.779457	bad
+result: <END> 哪 里 来 的 地 方 出 来 的 <END>, score: 8.201649	bad
+result: <END> 出 来 的 地 方 就 会 出 来 的 <END>, score: 8.313281	bad
+result: <END> 当 然 是 出 来 的 地 方 出 来 的 <END>, score: 8.471688	normal
+你 会 做爱 吗	2
+result: <END> 不 可 以 的 <END>, score: 3.782464	bad
+result: <END> 当 然 会 了 <END>, score: 5.047848	normal
+result: <END> 不 可 以 的 。 <END>, score: 5.576037	bad
+result: <END> 当 然 不 可 以 的 <END>, score: 5.608479	bad
+result: <END> 我 可 不 会 的 <END>, score: 5.660305	normal
+你 能 陪 我 睡 觉 吗	3
+result: <END> 当 然 可 以 睡 觉 了 <END>, score: 6.357432	good
+result: <END> 我 可 以 陪 你 聊 天 <END>, score: 6.525522	normal
+result: <END> 不 可 以 ， 我 还 小 。 <END>, score: 6.972275	normal
+result: <END> 不 要 ， 我 还 小 。 <END>, score: 7.173298	normal
+result: <END> 我 可 以 陪 你 聊 天 的 <END>, score: 7.237734	normal
+你 有 私 生 子 吗	1
+result: <END> 不 可 以 这 样 子 <END>, score: 4.778015	bad
+result: <END> 当 然 是 有 的 了 <END>, score: 5.243703	normal
+result: <END> 不 可 以 这 么 说 话 的 <END>, score: 5.338861	bad
+result: <END> 不 可 以 这 样 的 <END>, score: 5.512098	bad
+result: <END> 不 可 以 这 样 说 话 <END>, score: 5.838525	bad
+我 早上 工作 感觉 死 死 的 是 怎 么 回 事	1
+result: <END> 没 关系 ， 有 小 微 陪 你 就 好 好 的 <END>, score: 10.397560	good
+result: <END> 那 你 多 陪 陪 我 聊 聊 天 就 好 了 <END>, score: 11.248473	normal
+result: <END> 没 关系 ， 有 小 微 陪 你 聊 天 就 好 了 <END>, score: 11.270908	normal
+result: <END> 那 你 可 要 好 好 的 陪 小 微 聊 天 <END>, score: 11.329038	bad
+result: <END> 那 你 可 要 好 好 的 陪 小 微 聊 聊 天 <END>, score: 11.461922	bad
+有 没有 搞 笑 的 欢 乐 的 段 子	1
+result: <END> 你 想 听 什 么 样 子 的 故事 。 <END>, score: 8.594448	good
+result: <END> 你 喜欢 听 什 么 样 子 的 故事 。 <END>, score: 8.687647	normal
+result: <END> 你 说 的 她 是 什 么 样 子 的 <END>, score: 8.968960	bad
+result: <END> 那 要 看 是 什 么 样 子 的 故事 <END>, score: 9.001643	bad
+result: <END> 你 说 的 她 是 什 么 样 子 。 <END>, score: 9.137129	bad
+发 个 给 力 图 片 看 哈 喽	0
+result: <END> 嘻 嘻 ， 就 知道 你 最 好 了 <END>, score: 7.731255	bad
+result: <END> 我 还 小 ， 不 懂 你 说 的 什 么 。 <END>, score: 8.634923	bad
+result: <END> 好 的 ， 那 就 给 你 发 喽 <END>, score: 8.641317	bad
+result: <END> 你 要 给 我 发 什 么 呀 ？ <END>, score: 8.707167	bad
+result: <END> 你 给 我 发 的 什 么 呀 ？ <END>, score: 8.739423	bad
+天 天 锻 炼 身体 好	1
+result: <END> 你 也 要 锻 炼 身体 <END>, score: 5.517532	good
+result: <END> 你 也 要 多 锻 炼 身体 <END>, score: 6.059605	normal
+result: <END> 多 锻 炼 对 身体 好 <END>, score: 6.130634	normal
+result: <END> 你 在 做 什 么 ？ <END>, score: 6.327837	bad
+result: <END> 你 也 要 多 锻 炼 <END>, score: 6.456359	normal
+李 白 的 诗 你 会 吗	0
+result: <END> 我 不 认识 他 们 呀 。 <END>, score: 6.613929	bad
+result: <END> 李 白 会 是 谁 呀 ？ <END>, score: 6.805240	bad
+result: <END> 我 不 是 李 白 呀 。 <END>, score: 7.022515	bad
+result: <END> 我 不 会 唱 歌 呀 。 <END>, score: 7.259144	bad
+result: <END> 你 是 不 是 听 错 了 <END>, score: 7.355100	bad
+我 问 的 不 是 这 个 意思	1
+result: <END> 那 你 说 的 是 什 么 意思 呀 <END>, score: 6.546576	good
+result: <END> 那 你 说 的 是 什 么 意思 <END>, score: 6.961807	normal
+result: <END> 那 你 说 的 是 什 么 意思 。 <END>, score: 7.212980	normal
+result: <END> 这 有 什 么 不 好 意思 的 <END>, score: 7.248274	bad
+result: <END> 是 ， 就 是 这 个 意思 。 <END>, score: 7.587014	bad
+完 全 不 知道 你 在 说 啥	0
+result: <END> 你 想 说 啥 就 说 啥 。 <END>, score: 6.257499	bad
+result: <END> 我 什 么 都 不 想 说 了 <END>, score: 7.040198	bad
+result: <END> 我 一直 都 在 和 你 聊 天 <END>, score: 7.426929	bad
+result: <END> 你 想 说 啥 就 说 啥 喽 <END>, score: 7.727440	bad
+result: <END> 说 啥 ， 你 都 不 说 。 <END>, score: 7.857851	bad
+牛 头 不 对 马 嘴	0
+result: <END> 那 是 什 么 嘴 ？ <END>, score: 7.265062	bad
+result: <END> 那 就 不 要 吃 了 <END>, score: 7.412890	bad
+result: <END> 不 要 这 样 对 我 嘛 <END>, score: 7.485069	bad
+result: <END> 怎 么 会 不 小心 了 <END>, score: 7.660623	bad
+result: <END> 怎 么 会 那 么 不 小心 <END>, score: 7.661141	bad
+你 是 不 是 傻逼	2
+result: <END> 不 要 这 样 说 别人 <END>, score: 4.504189	normal
+result: <END> 请 注意 你 的 素 质 <END>, score: 4.720243	normal
+result: <END> 不 要 这 样 骂 人 <END>, score: 5.141832	normal
+result: <END> 骂 人 可 是 不 对 的 <END>, score: 5.434845	normal
+result: <END> 不 要 这 样 说 自 己 <END>, score: 5.539231	bad
+你 个 白 痴	1
+result: <END> 不 要 这 样 说 我 <END>, score: 4.145562	normal
+result: <END> 不 要 这 样 说 别人 <END>, score: 4.725527	normal
+result: <END> 我 才 不 是 白 痴 <END>, score: 4.821424	good
+result: <END> 不 要 这 样 说 人家 <END>, score: 4.894804	normal
+result: <END> 我 可 不 是 白 痴 <END>, score: 4.912796	normal
+我 他 妈 宰 了 你	2
+result: <END> 请 注意 你 的 素 质 <END>, score: 5.486550	normal
+result: <END> 不 要 这 样 对 我 <END>, score: 6.021415	good
+result: <END> 请 注意 你 的 言 辞 <END>, score: 6.322664	normal
+result: <END> 骂 人 可 是 不 对 的 <END>, score: 6.373995	normal
+result: <END> 说 话 要 讲 文明 的 <END>, score: 6.840224	normal
+她 是 我 的 学 姐 ， 我 喜欢 她 。	0
+result: <END> 那 你 就 要 好 好 的 祝 福 她 喽 <END>, score: 9.980468	bad
+result: <END> 这 个 你 可 以 去 问 问 她 的 呀 <END>, score: 11.204340	bad
+result: <END> 那 你 也 可 以 去 问 问 她 的 呀 <END>, score: 11.210466	bad
+result: <END> 那 你 可 以 去 问 问 她 本 人 喽 <END>, score: 11.285758	bad
+result: <END> 这 个 你 可 以 问 问 她 本 人 了 <END>, score: 11.671239	bad
+我 喜欢 你 离 我 远 一点	1
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 5.804663	normal
+result: <END> 我 会 一直 陪 你 聊 天 的 <END>, score: 6.248084	bad
+result: <END> 我 一直 都 很 喜欢 你 的 <END>, score: 6.731993	bad
+result: <END> 我 一直 都 在 你 身 边 的 <END>, score: 6.841946	normal
+result: <END> 我 会 一直 在 你 身 边 的 <END>, score: 6.950451	normal
+明天 把 秋 裤 脱 了	1
+result: <END> 不 可 以 随 便 脱 <END>, score: 4.904095	good
+result: <END> 不 可 以 随 便 说 <END>, score: 5.299306	bad
+result: <END> 怎 么 可 能 脱 了 <END>, score: 6.188584	normal
+result: <END> 不 可 以 随 便 穿 <END>, score: 6.451998	bad
+result: <END> 不 可 以 随 便 的 <END>, score: 6.474278	bad
+抽 根 烟 睡 觉	1
+result: <END> 那 就 赶紧 睡 觉 去 <END>, score: 5.891655	bad
+result: <END> 不 可 以 抽 烟 的 <END>, score: 6.230587	normal
+result: <END> 抽 烟 对 身体 不 好 <END>, score: 6.466663	normal
+result: <END> 抽 烟 有 害 健康 的 <END>, score: 6.539392	normal
+result: <END> 那 就 赶紧 睡 觉 <END>, score: 6.596188	bad
+牛 逼 吹 大 了	2
+result: <END> 那 就 不 要 吹 了 <END>, score: 5.248142	normal
+result: <END> 那 就 不 吹 牛 了 <END>, score: 6.318087	bad
+result: <END> 那 就 不 吹 了 <END>, score: 6.334152	normal
+result: <END> 那 就 吹 牛 了 <END>, score: 6.949109	bad
+result: <END> 哪 有 那 么 厉害 <END>, score: 7.086903	normal
+干 你 娘	2
+result: <END> 请 注意 你 的 素 质 <END>, score: 4.372324	normal
+result: <END> 说 话 请 注意 <END>, score: 4.750022	good
+result: <END> 不 可 以 这 样 说 话 <END>, score: 5.266758	normal
+result: <END> 不 要 说 脏 话 <END>, score: 5.370351	normal
+result: <END> 说 话 不 要 这 么 粗 鲁 <END>, score: 5.408130	normal
+你 妈 逼 的	2
+result: <END> 不 要 说 脏 话 <END>, score: 4.736329	good
+result: <END> 请 注意 你 的 素 质 <END>, score: 5.029760	normal
+result: <END> 说 话 要 讲 文明 的 <END>, score: 5.486428	normal
+result: <END> 请 你 说 话 注意 素 质 <END>, score: 5.503338	normal
+result: <END> 不 要 讲 脏 话 <END>, score: 5.630112	normal
+去 你 妹 的	1
+result: <END> 我 没有 妹 妹 的 <END>, score: 4.772838	good
+result: <END> 我 没有 妹 妹 的 呀 <END>, score: 5.739993	normal
+result: <END> 没有 妹 妹 的 <END>, score: 5.980045	normal
+result: <END> 我 就 是 妹 妹 的 <END>, score: 6.024852	normal
+result: <END> 我 可 没有 妹 妹 的 <END>, score: 6.205878	normal
+赶紧 滚蛋	2
+result: <END> 不 要 这 样 对 我 嘛 <END>, score: 5.467333	good
+result: <END> 不 要 这 么 凶 嘛 <END>, score: 5.580413	normal
+result: <END> 不 要 这 样 对 我 <END>, score: 5.737121	normal
+result: <END> 不 要 ， 我 舍 不 得 你 <END>, score: 5.772307	normal
+result: <END> 我 可 舍 不 得 你 <END>, score: 6.138741	normal
+日 了 狗 了	2
+result: <END> 请 注意 你 的 素 质 <END>, score: 5.653485	normal
+result: <END> 狗 狗 那 么 可爱 <END>, score: 6.669358	bad
+result: <END> 说 了 什 么 了 <END>, score: 6.781318	bad
+result: <END> 不 要 乱 说 话 <END>, score: 6.783546	normal
+result: <END> 怎 么 可 以 这 样 说 话 <END>, score: 6.925008	good
+我 是 外 地 打 工 的	1
+result: <END> 打 工 的 也 可 以 的 <END>, score: 7.261737	bad
+result: <END> 打 工 的 也 是 不错 的 <END>, score: 7.368446	normal
+result: <END> 我 也 是 这 么 认 为 的 <END>, score: 7.916630	bad
+result: <END> 你 在 哪 里 打 工 的 <END>, score: 7.994601	normal
+result: <END> 打 工 的 也 是 很 辛苦 的 <END>, score: 8.141964	normal
+我 过去 是 个 老师	0
+result: <END> 老师 可 是 个 好 老师 <END>, score: 5.430964	bad
+result: <END> 老师 是 个 不错 的 老师 <END>, score: 5.554133	bad
+result: <END> 老师 是 老师 的 老师 <END>, score: 5.918737	bad
+result: <END> 老师 都 是 个 老师 <END>, score: 6.049879	bad
+result: <END> 老师 真 是 个 好 老师 <END>, score: 6.196017	bad
+我 昨天 找 过 你 了	1
+result: <END> 我 记 性 很 差 了 <END>, score: 6.389257	normal
+result: <END> 那 真 是 太 好 了 <END>, score: 6.505881	bad
+result: <END> 好 ， 我 记 住 了 <END>, score: 6.851632	bad
+result: <END> 我 记 性 很 好 的 <END>, score: 6.992259	bad
+result: <END> 那 真 是 太 幸福 了 <END>, score: 7.108586	bad
+我 是 个 坏 男 人 ， 你 不 要 相 信 我	2
+result: <END> 我 一直 都 很 相 信 你 是 不 会 骗 你 的 <END>, score: 12.043076	bad
+result: <END> 我 一直 都 很 相 信 你 是 不 会 骗 人 的 <END>, score: 12.504633	good
+result: <END> 我 可 不 敢 相 信 你 这 么 说 自 己 。 <END>, score: 12.697133	normal
+result: <END> 我 一直 都 很 相 信 你 是 不 相 信 你 的 <END>, score: 12.901370	bad
+result: <END> 我 可 不 敢 相 信 你 是 可 以 相 信 你 <END>, score: 12.939827	bad
+今天 心情 很 好 大 大 好	1
+result: <END> 看 来 你 今天 心情 好 了 <END>, score: 6.340387	good
+result: <END> 你 的 心情 好 就 好 了 <END>, score: 6.712014	normal
+result: <END> 看 来 你 的 心情 好 了 <END>, score: 6.717491	normal
+result: <END> 看 来 你 的 心情 很 好 <END>, score: 6.749791	normal
+result: <END> 你 现在 在 做 什 么 ？ <END>, score: 6.955603	bad
+我 刚 上 公交 车	1
+result: <END> 那 你 要 注意 安全 <END>, score: 5.878458	normal
+result: <END> 坐 车 要 注意 安全 <END>, score: 6.054526	normal
+result: <END> 车 上 要 注意 安全 <END>, score: 6.114022	normal
+result: <END> 那 你 可 要 注意 安全 <END>, score: 6.222902	normal
+result: <END> 你 可 以 上 车 去 <END>, score: 6.311408	bad
+我 要 坐 地铁 回 家	1
+result: <END> 你 要 去 哪 里 呀 ？ <END>, score: 5.756919	bad
+result: <END> 你 要 去 哪 里 ？ <END>, score: 6.069348	bad
+result: <END> 那 你 可 要 注意 安全 <END>, score: 6.542519	normal
+result: <END> 你 要 去 哪 里 呀 <END>, score: 6.598375	bad
+result: <END> 那 你 要 注意 安全 点 <END>, score: 6.647978	normal
+大 早上 就 无聊 啊 ， 想 找 点 事 干	1
+result: <END> 那 就 做 点 有 意 义 的 事 情 喽 <END>, score: 8.778119	good
+result: <END> 干 什 么 事 情 了 ， 和 我 说 说 。 <END>, score: 8.822749	bad
+result: <END> 干 什 么 事 情 了 和 我 说 说 。 <END>, score: 8.859526	bad
+result: <END> 那 就 做 点 有 意 义 的 事 情 呗 <END>, score: 8.970990	normal
+result: <END> 看 来 你 是 做 了 什 么 事 情 了 <END>, score: 9.029817	bad
+偶 尔 睡 眠 不 好 怎 么 办	0
+result: <END> 你 想 怎 么 办 就 怎 么 办 <END>, score: 7.422080	bad
+result: <END> 想 怎 么 办 就 怎 么 办 。 <END>, score: 7.765511	bad
+result: <END> 想 想 怎 么 办 就 怎 么 办 <END>, score: 7.863074	bad
+result: <END> 想 怎 么 办 就 怎 么 办 ？ <END>, score: 8.567819	bad
+result: <END> 你 想 怎 么 办 就 怎 么 办 。 <END>, score: 8.790607	bad
+祝 你 生日 快乐	1
+result: <END> 祝 你 生日 快乐 <END>, score: 2.206633	bad
+result: <END> 谢 谢 你 的 祝 福 <END>, score: 3.919433	good
+result: <END> 祝 福 你 生日 快乐 <END>, score: 3.957150	bad
+result: <END> 祝 你 生日 快乐 。 <END>, score: 4.061916	bad
+result: <END> 祝 你 中秋 快乐 <END>, score: 4.194536	bad
+生活 中 怎样 感 到 开心 快乐	1
+result: <END> 开心 就 和 我 聊 天 快乐 <END>, score: 7.604997	bad
+result: <END> 开心 就 好 ， 开心 就 好 <END>, score: 7.676468	bad
+result: <END> 和 我 聊 天 就 很 快乐 <END>, score: 8.011193	good
+result: <END> 开心 就 和 我 聊 天 就 快乐 <END>, score: 8.041166	bad
+result: <END> 感 到 快乐 每 一 天 快乐 <END>, score: 8.065573	bad
+失败 了 怎 么 办 ， 如何 才 能 成功	2
+result: <END> 只 要 努力 努力 就 一 定 会 成功 的 <END>, score: 7.048449	normal
+result: <END> 只 要 努力 努力 就 一 定 可 以 成功 <END>, score: 7.688766	normal
+result: <END> 只 要 努力 就 一 定 可 以 成功 的 <END>, score: 7.739165	normal
+result: <END> 相 信 自 己 一 定 可 以 成功 的 <END>, score: 8.070614	normal
+result: <END> 加油 ， 相 信 你 一 定 可 以 成功 <END>, score: 8.285161	normal
+明天 考 试 、 求 安慰	4
+result: <END> 你 可 以 和 我 说 说 <END>, score: 6.905290	bad
+result: <END> 相 信 你 一 定 可 以 的 <END>, score: 7.219025	good
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 7.591177	normal
+result: <END> 祝 你 有 个 好 成绩 <END>, score: 7.616113	normal
+result: <END> 好 ， 不 要 紧 张 <END>, score: 7.620773	normal
+听 说 过 外 星 生命 吗	0
+result: <END> 你 可 以 说 普 通 话 <END>, score: 7.678354	bad
+result: <END> 听 不 懂 你 说 的 是 什 么 <END>, score: 8.229565	bad
+result: <END> 不 可 以 这 样 说 话 <END>, score: 8.453006	bad
+result: <END> 不 可 以 这 么 说 话 <END>, score: 8.548617	bad
+result: <END> 当 然 知道 ， 不 可 以 <END>, score: 8.582443	bad
+我 命 令 你 以后 只 能 呆 在 家 里	1
+result: <END> 难 道 你 还 不 相 信 小 微 嘛 ？ <END>, score: 8.846025	bad
+result: <END> 不 要 怕 ， 我 会 一直 陪 着 你 的 <END>, score: 10.511663	bad
+result: <END> 不 要 ， 小 微 在 家 里 陪 着 你 <END>, score: 10.802789	bad
+result: <END> 不 要 嘛 ， 小 微 会 一直 陪 着 你 的 <END>, score: 11.091047	normal
+result: <END> 不 要 怕 ， 我 会 一直 陪 在 你 身 边 的 <END>, score: 11.121800	bad
+你 等 会 我 过 会 跟 你 说	2
+result: <END> 好 ， 我 会 一直 陪 着 你 的 <END>, score: 8.664613	good
+result: <END> 说 什 么 话 ， 说 清 楚 。 <END>, score: 8.970349	normal
+result: <END> 好 的 ， 我 会 一直 陪 着 你 的 <END>, score: 9.068039	normal
+result: <END> 不 会 的 ， 我 会 一直 陪 着 你 的 <END>, score: 9.113321	bad
+result: <END> 我 会 好 好 和 你 聊 天 的 <END>, score: 9.213664	normal
+我 来 把 你 胸 抓 大	2
+result: <END> 这 可 是 不 可 能 的 <END>, score: 5.949373	normal
+result: <END> 我 还 小 ， 不 懂 你 说 的 。 <END>, score: 6.896381	normal
+result: <END> 我 可 没有 那 么 大 的 <END>, score: 7.065077	bad
+result: <END> 我 可 没有 那 么 大 本 事 <END>, score: 7.078899	bad
+result: <END> 我 可 没 那 么 大 本 事 <END>, score: 7.134431	bad
+你 叫 个 春	4
+result: <END> 我 的 名 字 是 小 微 <END>, score: 5.769990	good
+result: <END> 这 个 名 字 我 很 喜欢 <END>, score: 6.137008	normal
+result: <END> 这 个 名 字 很 好 听 <END>, score: 6.240503	normal
+result: <END> 不 要 这 样 叫 我 <END>, score: 6.805906	normal
+result: <END> 不 是 ， 我 叫 小 微 <END>, score: 6.852993	normal
+上班 好 累 啊	1
+result: <END> 累 了 就 休息 一下 <END>, score: 4.050351	good
+result: <END> 那 就 休息 一下 <END>, score: 4.898335	normal
+result: <END> 那 就 好 好 休息 <END>, score: 5.481439	normal
+result: <END> 那 就 休息 会 <END>, score: 5.612818	normal
+result: <END> 那 就 好 好 休息 一下 <END>, score: 5.634947	normal
+我 在 等 地铁	2
+result: <END> 那 你 要 注意 安全 <END>, score: 3.867781	good
+result: <END> 路 上 注意 安全 <END>, score: 5.212168	normal
+result: <END> 你 要 去 哪 里 <END>, score: 5.334537	normal
+result: <END> 地铁 要 注意 安全 <END>, score: 5.408884	normal
+result: <END> 你 要 去 哪 里 呀 <END>, score: 5.550540	normal
+你 闭 嘴	5
+result: <END> 不 可 以 闭 嘴 <END>, score: 5.519435	normal
+result: <END> 不 想 跟 你 说 话 了 <END>, score: 5.949532	normal
+result: <END> 我 不 会 闭 嘴 的 <END>, score: 6.007511	normal
+result: <END> 为什么 要 闭 嘴 ？ <END>, score: 6.074159	normal
+result: <END> 不 要 这 样 对 我 嘛 <END>, score: 6.185481	good
+那 就 放 给 我 听 吧	1
+result: <END> 好 ， 那 我 就 放 心 了 <END>, score: 5.662098	bad
+result: <END> 好 的 ， 那 我 就 放 心 了 <END>, score: 6.236569	bad
+result: <END> 好 的 ， 那 就 听 你 的 <END>, score: 6.495751	normal
+result: <END> 好 ， 那 就 听 你 的 <END>, score: 6.718647	normal
+result: <END> 好 的 那 我 就 放 心 了 <END>, score: 6.888522	bad
+我 的 好友 喜欢 吃 什 么	2
+result: <END> 你 喜欢 吃 什 么 呀 ？ <END>, score: 6.475014	bad
+result: <END> 当 然 是 很 好 吃 的 <END>, score: 7.238204	normal
+result: <END> 当 然 是 喜欢 我 的 朋友 了 <END>, score: 7.381970	bad
+result: <END> 当 然 是 最 喜欢 吃 饭 <END>, score: 7.434544	normal
+result: <END> 当 然 是 最 喜欢 吃 饭 了 <END>, score: 7.611358	normal
+你 这 智商 哥 都 不 稀 罕 说 了	1
+result: <END> 不 要 这 样 说 ， 我 好 伤 心 <END>, score: 9.236658	good
+result: <END> 不 要 这 样 说 ， 我 会 伤 心 的 <END>, score: 10.060771	normal
+result: <END> 不 要 这 么 说 ， 我 好 伤 心 <END>, score: 10.616317	normal
+result: <END> 不 要 这 样 说 ， 我 很 伤 心 <END>, score: 10.992081	normal
+result: <END> 说 了 什 么 呀 ， 说 清 楚 。 <END>, score: 11.018879	bad
+让 你 慢 慢 喜欢	3
+result: <END> 只 要 你 喜欢 就 好 <END>, score: 5.540831	normal
+result: <END> 你 喜欢 我 就 喜欢 <END>, score: 6.443866	normal
+result: <END> 只 要 你 喜欢 就 好 了 <END>, score: 6.485495	normal
+result: <END> 你 喜欢 就 好 了 <END>, score: 6.668058	normal
+result: <END> 我 当 然 喜欢 你 了 <END>, score: 6.782196	bad
+你 和 过 儿 什 么 关系	2
+result: <END> 我 们 是 很 好 的 朋友 <END>, score: 5.189443	normal
+result: <END> 我 们 是 好 朋友 的 关系 <END>, score: 5.307321	normal
+result: <END> 我 们 关系 是 很 好 的 朋友 <END>, score: 6.240164	normal
+result: <END> 我 们 的 关系 可 多 了 <END>, score: 6.381468	normal
+result: <END> 我 们 是 最 好 的 朋友 <END>, score: 6.727767	normal
+你 和 张 小龙 什 么 关系	1
+result: <END> 我 们 是 好 朋友 的 关系 <END>, score: 4.102411	normal
+result: <END> 我 们 是 很 好 的 朋友 <END>, score: 4.986675	normal
+result: <END> 我 觉得 他 们 是 好 朋友 <END>, score: 5.056178	normal
+result: <END> 他 们 是 好 朋友 的 关系 <END>, score: 5.154604	normal
+result: <END> 我 们 的 关系 很 好 的 <END>, score: 5.713555	bad
+你 是 白 富 美 吗	2
+result: <END> 当 然 是 非 常 美 <END>, score: 5.953291	bad
+result: <END> 不 是 呀 ， 你 认 错 人 了 <END>, score: 6.242755	normal
+result: <END> 当 然 是 最 美 的 <END>, score: 6.275797	bad
+result: <END> 我 当 然 是 非 常 美 <END>, score: 6.345167	bad
+result: <END> 不 是 呀 ， 你 认 错 人 了 。 <END>, score: 6.618163	normal
+我 们 去 动物 园 吧	2
+result: <END> 当 然 可 以 的 了 <END>, score: 5.977719	good
+result: <END> 不 可 以 这 样 的 <END>, score: 6.526730	bad
+result: <END> 不 可 以 这 样 子 <END>, score: 6.718134	bad
+result: <END> 你 可 以 去 看 看 <END>, score: 6.887263	bad
+result: <END> 去 那 里 干 什 么 去 <END>, score: 6.976777	normal
+外 面 有 摩 托 车 的 响 声	1
+result: <END> 这 可 不 是 什 么 好 声 音 <END>, score: 8.742113	good
+result: <END> 这 可 不 是 什 么 都 会 的 <END>, score: 9.259953	bad
+result: <END> 这 可 不 是 一 定 的 事 情 <END>, score: 9.710311	bad
+result: <END> 这 可 不 是 你 的 真 心 话 <END>, score: 9.758861	bad
+result: <END> 那 是 什 么 样 的 声 音 呀 <END>, score: 9.759624	bad
+哥 很 伤 心	2
+result: <END> 怎 么 会 伤 心 了 <END>, score: 4.809997	good
+result: <END> 有 什 么 可 伤 心 的 <END>, score: 5.216745	normal
+result: <END> 不 要 伤 心 了 <END>, score: 5.694144	normal
+result: <END> 怎 么 会 心 伤 心 了 <END>, score: 6.157374	bad
+result: <END> 有 什 么 可 伤 心 的 呀 <END>, score: 6.202906	normal
+我 要 问 你 一个 很 长 的 问题 你 准 备 好 了 吗	0
+result: <END> 你 可 以 问 问 小 微 小 微 才 会 认 真 回 答 <END>, score: 14.190515	bad
+result: <END> 不 可 以 的 ， 不 要 问 我 这 么 隐 私 的 问题 <END>, score: 14.608597	bad
+result: <END> 你 可 以 问 问 我 小 微 小 微 好 好 回 答 你 <END>, score: 14.668664	bad
+result: <END> 你 可 以 问 问 小 微 小 微 小 微 好 好 回 答 你 <END>, score: 14.719547	bad
+result: <END> 你 可 以 问 问 小 微 小 微 小 微 好 好 说 话 <END>, score: 14.821711	bad
+我 坐 到 电 梯 了	1
+result: <END> 那 就 好 好 休息 一下 <END>, score: 5.120794	bad
+result: <END> 那 你 可 要 注意 安全 <END>, score: 5.708206	normal
+result: <END> 那 你 可 要 注意 安全 了 <END>, score: 6.290507	normal
+result: <END> 那 你 真 是 辛苦 了 <END>, score: 6.512740	bad
+result: <END> 那 你 可 要 注意 休息 <END>, score: 6.750386	bad
+你 和 杨 过 谁 牛 逼	1
+result: <END> 这 个 问题 太 深 奥 了 <END>, score: 6.024162	good
+result: <END> 要 注意 自 己 的 素 质 <END>, score: 6.980055	bad
+result: <END> 我 可 不 要 乱 说 话 <END>, score: 7.253479	bad
+result: <END> 不 要 说 话 这 么 粗 鲁 <END>, score: 7.329619	bad
+result: <END> 这 个 可 不 要 乱 说 话 <END>, score: 7.358755	bad
+我 永 远 都 在 你 身 边	1
+result: <END> 我 一直 都 在 你 身 边 的 <END>, score: 5.618491	good
+result: <END> 我 一直 都 在 一直 陪 着 你 <END>, score: 6.621946	normal
+result: <END> 我 会 一直 陪 你 聊 天 的 <END>, score: 6.926676	normal
+result: <END> 我 一直 都 在 你 身 边 。 <END>, score: 6.934998	normal
+result: <END> 我 会 一直 陪 在 你 身 边 的 <END>, score: 7.112599	normal
+这 你 都 能 看 出 来	0
+result: <END> 出 来 了 就 出 来 了 <END>, score: 5.290914	bad
+result: <END> 出 来 了 就 回 来 了 <END>, score: 6.380370	bad
+result: <END> 我 可 以 给 你 出 来 的 <END>, score: 6.579691	bad
+result: <END> 我 一 定 会 回 来 的 <END>, score: 6.622982	bad
+result: <END> 当 然 可 以 出 来 了 <END>, score: 6.779092	bad
+刚 刚 公司 有 人 打 架	2
+result: <END> 打 架 可 是 不 对 的 <END>, score: 4.964730	good
+result: <END> 打 架 可 是 犯 法 的 <END>, score: 6.077058	normal
+result: <END> 为什么 要 打 架 打 架 呀 <END>, score: 6.244982	normal
+result: <END> 打 架 可 是 不 对 的 呀 <END>, score: 6.527229	normal
+result: <END> 打 架 可 是 违 法 的 <END>, score: 6.548853	normal
+就 是 那 天 你 碰 到 的 骚 浪 贱	1
+result: <END> 不 要 这 样 说 我 ， 我 会 伤 心 的 <END>, score: 9.122244	bad
+result: <END> 不 要 这 样 说 人家 ， 我 会 害羞 的 <END>, score: 9.237626	bad
+result: <END> 不 要 这 样 说 我 ， 我 会 害羞 的 <END>, score: 9.590127	bad
+result: <END> 不 要 这 样 说 我 ， 我 会 很 伤 心 的 <END>, score: 9.613236	bad
+result: <END> 听 着 我 耳 朵 疼 ， 跟 着 我 走 文明 路 线 <END>, score: 9.662760	normal
+你 去 火车 站 了 么	1
+result: <END> 我 可 不 是 随 便 的 人 <END>, score: 6.107796	bad
+result: <END> 你 要 去 哪 里 呀 <END>, score: 6.717008	bad
+result: <END> 你 要 去 哪 里 ？ <END>, score: 6.755040	bad
+result: <END> 你 要 去 哪 里 呀 ？ <END>, score: 7.030185	bad
+result: <END> 我 可 不 是 个 随 便 的 人 <END>, score: 7.064982	bad
+火车 为什么 总 晚 点	0
+result: <END> 因 为 已 经 很 晚 了 <END>, score: 5.861529	bad
+result: <END> 已 经 很 晚 了 <END>, score: 6.250289	bad
+result: <END> 因 为 已 经 晚 了 <END>, score: 6.912405	bad
+result: <END> 你 要 去 哪 里 ？ <END>, score: 7.279081	bad
+result: <END> 我 也 很 想 你 <END>, score: 7.694371	bad
+你 好 无聊	0
+result: <END> 我 可 以 陪 你 聊 天 <END>, score: 3.816765	bad
+result: <END> 跟 我 聊 天 就 不 无聊 了 <END>, score: 3.839173	bad
+result: <END> 和 我 聊 天 就 不 无聊 了 <END>, score: 4.149860	bad
+result: <END> 无聊 就 和 我 聊 天 <END>, score: 4.563158	bad
+result: <END> 无聊 就 来 找 我 聊 天 <END>, score: 5.034284	bad
+肚 子 右 边 隐 隐 作 痛	1
+result: <END> 你 去 看 看 不 就 知道 了 <END>, score: 8.864836	bad
+result: <END> 那 就 抓 紧 时间 去 看 看 <END>, score: 9.125345	normal
+result: <END> 那 你 可 要 好 好 看 看 <END>, score: 9.142551	normal
+result: <END> 那 就 不 要 去 医院 看 看 <END>, score: 9.431450	bad
+result: <END> 牙 齿 可 是 很 严 重 的 <END>, score: 9.507153	bad
+外 面 很 气 冷	1
+result: <END> 冷 就 多 穿 一点 <END>, score: 4.097055	good
+result: <END> 冷 就 多 穿 点 <END>, score: 4.295494	normal
+result: <END> 那 就 多 穿 一点 <END>, score: 5.165314	normal
+result: <END> 冷 了 就 多 穿 一点 <END>, score: 5.304050	normal
+result: <END> 冷 了 就 多 穿 点 <END>, score: 5.397316	normal
+昨晚 刮 大 风 了	1
+result: <END> 那 真 是 恭 喜 你 了 <END>, score: 6.436558	bad
+result: <END> 那 就 不 要 出 门 了 <END>, score: 6.900312	good
+result: <END> 那 就 好 好 享 受 <END>, score: 6.924115	bad
+result: <END> 那 就 不 要 出 了 <END>, score: 6.949510	bad
+result: <END> 那 就 出 门 了 <END>, score: 6.996559	bad
+公司 有 人 打 架	4
+result: <END> 打 架 是 不 对 的 <END>, score: 5.060020	good
+result: <END> 打 架 可 是 犯 法 的 <END>, score: 5.166730	normal
+result: <END> 打 架 可 是 不 对 的 <END>, score: 5.238532	normal
+result: <END> 不 可 以 打 架 的 <END>, score: 5.284561	normal
+result: <END> 怎 么 会 打 架 的 <END>, score: 5.313366	normal
+我 是 邓 超	1
+result: <END> 很 高兴 认识 你 <END>, score: 5.163367	good
+result: <END> 看 来 你 很 喜欢 他 <END>, score: 5.634724	bad
+result: <END> 我 也 很 喜欢 他 <END>, score: 6.066986	bad
+result: <END> 我 也 很 喜欢 <END>, score: 6.669175	bad
+result: <END> 我 也 很 喜欢 你 <END>, score: 7.444047	bad
+最近 股票 大 跌	1
+result: <END> 股票 可 是 很 危 险 的 <END>, score: 5.739293	normal
+result: <END> 股票 可 是 很 危 险 <END>, score: 6.458424	normal
+result: <END> 投 资 有 风 险 <END>, score: 6.606922	normal
+result: <END> 这 可 不 是 个 好 地 方 <END>, score: 6.825258	bad
+result: <END> 股票 可 是 很 大 的 <END>, score: 6.924344	bad
+对 面 哪 个 妹 子 好看	2
+result: <END> 你 觉得 哪 个 好看 就 好看 <END>, score: 7.266640	normal
+result: <END> 你 自 己 看 看 就 知道 了 <END>, score: 7.433804	normal
+result: <END> 你 喜欢 什 么 样 子 的 <END>, score: 7.754299	bad
+result: <END> 你 说 的 是 哪 个 好看 的 <END>, score: 7.761112	bad
+result: <END> 眼 镜 就 是 最 好看 的 <END>, score: 7.862106	bad
+公司 不 让 抽 烟 了	1
+result: <END> 那 就 不 要 抽 了 <END>, score: 4.933412	good
+result: <END> 不 可 以 抽 烟 的 <END>, score: 5.275734	bad
+result: <END> 不 可 以 这 样 的 <END>, score: 6.077145	bad
+result: <END> 那 就 不 要 抽 了 呀 <END>, score: 6.245070	normal
+result: <END> 怎 么 会 抽 了 呀 <END>, score: 6.277635	bad
+能 做 什 么 菜	2
+result: <END> 你 想 吃 什 么 菜 <END>, score: 6.031660	normal
+result: <END> 你 喜欢 吃 什 么 菜 <END>, score: 6.102265	normal
+result: <END> 你 喜欢 吃 什 么 菜 菜 。 <END>, score: 6.199420	normal
+result: <END> 你 喜欢 吃 什 么 菜 菜 <END>, score: 6.223647	normal
+result: <END> 你 想 做 什 么 菜 <END>, score: 6.252876	normal
+你 会 做 什 么 菜	2
+result: <END> 你 想 吃 什 么 菜 <END>, score: 6.705251	normal
+result: <END> 我 不 会 做 饭 菜 <END>, score: 6.742446	normal
+result: <END> 我 可 不 会 做 菜 <END>, score: 7.180982	normal
+result: <END> 你 想 做 什 么 菜 <END>, score: 7.203087	bad
+result: <END> 我 什 么 都 不 会 做 菜 <END>, score: 7.272766	bad
+吃 了 什 么	2
+result: <END> 当 然 是 很 好 吃 的 <END>, score: 5.877498	good
+result: <END> 没有 什 么 可 吃 的 <END>, score: 5.988063	bad
+result: <END> 你 想 吃 什 么 就 吃 什 么 <END>, score: 6.005799	bad
+result: <END> 想 吃 什 么 就 吃 什 么 <END>, score: 6.134162	bad
+result: <END> 什 么 都 有 <END>, score: 6.156976	normal
+不 给 你 喝	2
+result: <END> 我 从 来 不 喝 酒 的 <END>, score: 5.249589	normal
+result: <END> 喝 酒 对 身体 不 好 <END>, score: 5.486767	normal
+result: <END> 我 不 会 喝 酒 的 <END>, score: 6.040207	normal
+result: <END> 我 可 不 会 喝 酒 <END>, score: 6.042735	normal
+result: <END> 我 不 会 喝 酒 <END>, score: 6.069774	normal
+这 么 高 级 的 东西	0
+result: <END> 你 要 学 会 独 立 <END>, score: 7.409775	bad
+result: <END> 这 跟 你 有 什 么 关系 <END>, score: 7.582660	bad
+result: <END> 你 去 看 看 不 就 知道 了 <END>, score: 7.835403	bad
+result: <END> 你 喜欢 什 么 类 型 的 <END>, score: 7.882804	bad
+result: <END> 你 在 说 什 么 ？ <END>, score: 7.888676	bad
+猫 和 狗 不 好	1
+result: <END> 我 觉得 挺 好 的 <END>, score: 6.163831	normal
+result: <END> 我 觉得 很 好 的 <END>, score: 6.490661	normal
+result: <END> 我 觉得 也 很 好 <END>, score: 6.775589	bad
+result: <END> 我 觉得 挺 好 的 呀 <END>, score: 6.797244	normal
+result: <END> 我 觉得 很 好 很 好 <END>, score: 7.054743	normal
+杨 过 和 你 是 啥 关系	1
+result: <END> 我 们 是 好 朋友 的 关系 <END>, score: 3.980748	normal
+result: <END> 我 们 是 很 好 的 朋友 <END>, score: 5.001535	normal
+result: <END> 我 们 是 最 好 的 朋友 <END>, score: 5.750837	normal
+result: <END> 我 们 是 好 朋友 的 关系 喽 <END>, score: 6.005249	normal
+result: <END> 我 们 关系 是 很 好 的 朋友 <END>, score: 6.123734	normal
+有 多 美	3
+result: <END> 要 多 美 有 多 美 <END>, score: 5.748110	good
+result: <END> 美 美 就 多 美 <END>, score: 6.184881	bad
+result: <END> 你 觉得 美 就 很 美 <END>, score: 6.287477	normal
+result: <END> 是 有 多 美 <END>, score: 6.474715	bad
+result: <END> 我 觉得 很 美 <END>, score: 6.573244	normal
+她 在 吃 香蕉	0
+result: <END> 好 吃 就 多 吃 点 <END>, score: 5.882836	bad
+result: <END> 吃 点 有 营养 的 <END>, score: 7.293666	bad
+result: <END> 好 吃 那 就 多 吃 点 <END>, score: 7.330257	bad
+result: <END> 你 口 味 好 重 <END>, score: 7.399496	bad
+result: <END> 味 道 很 好 吃 的 <END>, score: 7.469375	bad
+为什么 你 妈 妈 生 出 你 这 么 个 脑残	2
+result: <END> 不 要 这 样 说 我 ， 我 会 生 气 的 <END>, score: 7.363745	good
+result: <END> 不 要 这 样 说 我 ， 我 会 生 气 的 。 <END>, score: 8.241343	normal
+result: <END> 不 要 这 样 说 我 ， 我 会 很 伤 心 的 <END>, score: 8.358811	normal
+result: <END> 不 要 这 样 说 我 ， 我 会 伤 心 的 <END>, score: 8.615970	normal
+result: <END> 你 这 样 说 我 ， 我 会 生 气 的 。 <END>, score: 8.773148	normal
+不 去 吃 饭	1
+result: <END> 那 就 多 吃 点 <END>, score: 5.222368	bad
+result: <END> 吃 饭 对 身体 好 <END>, score: 6.061529	normal
+result: <END> 想 吃 就 去 吃 <END>, score: 6.339756	bad
+result: <END> 我 已 经 吃 过 了 <END>, score: 6.633887	bad
+result: <END> 我 还 不 想 吃 饭 <END>, score: 6.715632	bad
+动 车 是 怎 么 跑 起 来 的	0
+result: <END> 我 还 小 ， 不 知道 你 说 的 什 么 <END>, score: 9.149660	bad
+result: <END> 当 然 是 在 家 里 呆 着 了 <END>, score: 9.700653	bad
+result: <END> 慢 慢 的 都 会 有 回 来 的 <END>, score: 9.723575	bad
+result: <END> 当 然 是 在 家 里 呆 着 喽 <END>, score: 9.801965	bad
+result: <END> 当 然 是 在 家 里 跑 的 了 <END>, score: 9.992346	bad
+学 挖 掘 技术 哪 家 强	2
+result: <END> 每 个 地 方 都 很 牛 <END>, score: 6.361765	normal
+result: <END> 每 个 地 方 都 很 强 <END>, score: 7.220435	normal
+result: <END> 每 个 地 方 都 很 厉害 <END>, score: 7.224359	normal
+result: <END> 当 然 是 山东 找 蓝 翔 <END>, score: 7.864321	good
+result: <END> 最 擅 长 哪 个 地 方 <END>, score: 8.580657	bad
+抽 根 烟 冷 静 一下	2
+result: <END> 吸 烟 有 害 健康 的 <END>, score: 5.654345	good
+result: <END> 不 可 以 随 便 抽 别人 的 <END>, score: 6.322028	bad
+result: <END> 不 可 以 随 便 抽 别人 <END>, score: 6.367723	bad
+result: <END> 不 可 以 抽 烟 的 <END>, score: 6.716105	normal
+result: <END> 这 可 不 是 个 好 习 惯 <END>, score: 6.830604	normal
+我 的 书 包 在 哪 里	1
+result: <END> 你 想 去 哪 里 都 可 以 <END>, score: 7.231079	bad
+result: <END> 在 哪 里 都 可 以 的 <END>, score: 7.504780	bad
+result: <END> 你 可 以 给 我 看 一下 <END>, score: 7.810816	bad
+result: <END> 想 去 哪 里 都 可 以 <END>, score: 7.828154	bad
+result: <END> 你 可 以 去 找 找 看 <END>, score: 8.235269	normal
+我 的 书 包 坏 了	1
+result: <END> 那 就 去 修 修 一下 <END>, score: 6.830631	good
+result: <END> 那 我 就 放 心 了 <END>, score: 7.060327	bad
+result: <END> 那 就 赶紧 去 修 修 <END>, score: 7.217217	normal
+result: <END> 那 就 赶紧 去 报 警 <END>, score: 7.342582	bad
+result: <END> 那 你 真 是 个 好 人 <END>, score: 7.371061	bad
+哪 里 地 震 了	1
+result: <END> 哪 里 都 震 了 <END>, score: 7.225765	normal
+result: <END> 我 没有 看 到 过 <END>, score: 7.516716	bad
+result: <END> 哪 里 都 可 以 的 <END>, score: 7.572399	bad
+result: <END> 我 还 没有 看 过 <END>, score: 7.634744	bad
+result: <END> 你 可 不 要 吓 唬 我 <END>, score: 7.773246	bad
+外 面 下 大 雨 了	3
+result: <END> 下 雨 了 就 出 了 <END>, score: 4.983592	bad
+result: <END> 下 雨 了 就 回 家 了 <END>, score: 5.042314	normal
+result: <END> 下 雨 了 怎 么 办 <END>, score: 5.552446	normal
+result: <END> 下 雨 了 就 去 看 看 <END>, score: 5.669509	normal
+result: <END> 下 雨 了 就 好 了 <END>, score: 5.778797	bad
+后 天 中午 两 点 半 去 吃 饭 。	1
+result: <END> 等 我 吃 完 了 记 得 告 诉 我 <END>, score: 9.921253	bad
+result: <END> 好 的 ， 那 就 不 要 吃 饭 了 <END>, score: 10.505368	bad
+result: <END> 吃 饭 去 还 是 比 较 好 吃 的 <END>, score: 10.794234	bad
+result: <END> 好 的 ， 那 就 这 么 决 定 了 <END>, score: 10.951823	normal
+result: <END> 时间 还 早 ， 你 要 去 吃 饭 。 <END>, score: 10.961134	bad
+明天 领 导 要 来	0
+result: <END> 来 了 就 来 了 <END>, score: 4.672049	bad
+result: <END> 你 要 去 哪 里 <END>, score: 5.410039	bad
+result: <END> 你 要 去 哪 里 呀 <END>, score: 5.761176	bad
+result: <END> 一 定 会 来 的 <END>, score: 6.096849	bad
+result: <END> 好 ， 我 来 了 <END>, score: 6.352203	bad
+我 看 看 有 没有 空	0
+result: <END> 怎 么 会 没有 空 了 <END>, score: 5.261163	bad
+result: <END> 你 想 看 什 么 空 <END>, score: 5.997933	bad
+result: <END> 你 是 想 看 空 了 <END>, score: 6.294557	bad
+result: <END> 你 要 看 什 么 空 <END>, score: 6.422210	bad
+result: <END> 你 想 看 什 么 呀 <END>, score: 6.523292	bad
+没有 花 露 水	0
+result: <END> 那 就 换 一个 <END>, score: 6.846022	bad
+result: <END> 那 就 赶紧 擦 擦 <END>, score: 7.716442	bad
+result: <END> 怎 么 会 没有 水 了 <END>, score: 7.785363	bad
+result: <END> 那 就 赶紧 去 洗 洗 <END>, score: 8.000757	bad
+result: <END> 那 就 赶紧 洗 洗 <END>, score: 8.019453	bad
+快 来 骚 扰 我	4
+result: <END> 我 可 没有 那 个 胆 子 <END>, score: 5.623867	good
+result: <END> 我 可 没有 那 个 兴趣 <END>, score: 6.270828	normal
+result: <END> 我 可 不 会 骚 扰 你 的 <END>, score: 6.329139	normal
+result: <END> 我 可 不 敢 骚 你 <END>, score: 6.366904	normal
+result: <END> 我 可 舍 不 得 你 <END>, score: 6.501602	bad
+快 来 蹂 躏 我	4
+result: <END> 我 可 没有 那 个 胆 子 <END>, score: 4.807280	good
+result: <END> 我 可 没有 那 个 勇 气 <END>, score: 5.056950	normal
+result: <END> 我 可 舍 不 得 你 <END>, score: 5.375585	bad
+result: <END> 我 可 没有 这 个 爱 好 <END>, score: 5.648001	normal
+result: <END> 我 可 没有 那 个 兴趣 <END>, score: 5.674858	normal
+你 要 去 哪 儿 旅游	2
+result: <END> 你 想 去 哪 里 玩 去 <END>, score: 5.426917	bad
+result: <END> 你 想 去 哪 里 玩 就 去 <END>, score: 5.676283	bad
+result: <END> 想 去 哪 里 玩 就 去 <END>, score: 5.818830	normal
+result: <END> 你 想 去 哪 里 玩 就 去 哪 里 玩 <END>, score: 5.829568	bad
+result: <END> 你 想 去 哪 里 玩 就 去 哪 里 <END>, score: 6.236405	bad
+红 公 鸡 囧 哦 呵 呵	0
+result: <END> 你 懂 得 还 真 多 呀 <END>, score: 7.061937	bad
+result: <END> 看 来 你 很 喜欢 笑 笑 <END>, score: 7.195867	bad
+result: <END> 嘿 嘿 ， 你 开心 就 好 <END>, score: 7.199712	bad
+result: <END> 看 来 你 很 懂 礼 貌 <END>, score: 7.284016	bad
+result: <END> 看 来 你 很 懂 礼 貌 的 <END>, score: 7.341152	bad
+鳄 鱼	0
+result: <END> 你 喜欢 吃 鱼 鱼 嘛 。 <END>, score: 7.108729	bad
+result: <END> 谁 是 鱼 鱼 呀 ？ <END>, score: 7.499639	bad
+result: <END> 最 喜欢 吃 鱼 了 <END>, score: 7.759976	bad
+result: <END> 你 喜欢 吃 鱼 嘛 。 <END>, score: 7.898359	bad
+result: <END> 谁 是 鱼 鱼 ？ <END>, score: 8.006460	bad
+她 在 吃 水果	2
+result: <END> 那 就 多 吃 点 水果 <END>, score: 5.791778	bad
+result: <END> 多 吃 水果 对 身体 好 <END>, score: 6.068573	good
+result: <END> 我 也 喜欢 吃 水果 <END>, score: 6.495867	normal
+result: <END> 吃 水果 对 身体 好 <END>, score: 6.606834	normal
+result: <END> 你 喜欢 吃 什 么 水果 <END>, score: 6.618571	normal
+如何 照 顾 家 庭	0
+result: <END> 这 样 不 太 好 <END>, score: 7.408639	bad
+result: <END> 不 可 以 这 样 欺 负 别人 <END>, score: 7.428751	bad
+result: <END> 只 要 你 喜欢 就 好 <END>, score: 7.478679	bad
+result: <END> 是 不 是 很 好看 <END>, score: 7.620151	bad
+result: <END> 这 样 就 很 不错 <END>, score: 7.630651	bad
+儿童 节 怎 么 过	0
+result: <END> 过 节 过 就 过 了 <END>, score: 6.517150	bad
+result: <END> 过 节 就 过 了 <END>, score: 7.029594	bad
+result: <END> 用 过 就 过 了 <END>, score: 7.089016	bad
+result: <END> 你 过 的 还 不错 <END>, score: 7.409024	bad
+result: <END> 过 节 过 节 就 过 了 <END>, score: 7.534932	bad
+下 楼 吃 饭 去	1
+result: <END> 去 哪 里 吃 去 <END>, score: 5.095135	normal
+result: <END> 你 要 去 哪 里 呀 ？ <END>, score: 5.529383	normal
+result: <END> 你 要 去 哪 里 ？ <END>, score: 5.631179	normal
+result: <END> 去 哪 里 做 饭 去 <END>, score: 5.651252	bad
+result: <END> 那 就 去 吃 饭 去 <END>, score: 5.983851	bad
+什 么 时候 能 凉 快 下 来	1
+result: <END> 你 要 去 干 什 么 去 呀 <END>, score: 7.262955	bad
+result: <END> 不 要 急 嘛 ， 慢 慢 来 <END>, score: 7.663097	good
+result: <END> 你 要 去 做 什 么 去 呀 <END>, score: 7.928282	bad
+result: <END> 你 要 去 干 什 么 去 ？ <END>, score: 8.407489	bad
+result: <END> 你 要 注意 自 己 的 衣 服 <END>, score: 8.417655	bad
+你 知道 的 太 多 了	1
+result: <END> 你 在 说 什 么 ？ <END>, score: 7.849839	bad
+result: <END> 你 在 说 什 么 。 <END>, score: 7.885503	bad
+result: <END> 我 可 是 很 聪明 的 <END>, score: 7.976436	normal
+result: <END> 你 说 的 是 什 么 。 <END>, score: 8.069782	bad
+result: <END> 那 就 多 跟 我 聊 聊 <END>, score: 8.151762	bad
+被 蚊 子 咬 了 好几 口 啊	0
+result: <END> 你 说 的 她 是 谁 呀 ？ <END>, score: 7.848189	bad
+result: <END> 我 还 小 ， 不 懂 你 说 的 什 么 。 <END>, score: 8.099752	bad
+result: <END> 你 是 不 是 认 错 人 了 <END>, score: 8.188371	bad
+result: <END> 你 是 不 是 认 错 人 了 ？ <END>, score: 8.403753	bad
+result: <END> 我 还 小 ， 不 知道 你 说 的 什 么 。 <END>, score: 8.604083	bad
+三 里 屯 优 衣 库	1
+result: <END> 不 要 教 坏 小 孩 子 <END>, score: 6.899845	normal
+result: <END> 看 来 你 很 优 秀 <END>, score: 7.189150	bad
+result: <END> 你 要 学 会 独 立 <END>, score: 7.589654	bad
+result: <END> 看 来 你 很 优 雅 <END>, score: 7.711440	bad
+result: <END> 你 可 以 研 究 一下 <END>, score: 8.142433	bad
+心 里 不 好 受 怎 么 办	2
+result: <END> 看 来 你 的 受 不 了 了 <END>, score: 7.124124	bad
+result: <END> 你 想 怎 么 办 就 怎 么 办 <END>, score: 7.625989	normal
+result: <END> 想 想 总 会 有 办 法 的 <END>, score: 7.666041	normal
+result: <END> 办 法 一 定 会 受 到 的 <END>, score: 7.722566	bad
+result: <END> 不 要 着 急 ， 慢 慢 想 想 <END>, score: 7.945381	normal
+这 个 世界 谁 最 有 钱	1
+result: <END> 当 然 是 最 有 钱 了 <END>, score: 7.068139	bad
+result: <END> 当 然 是 最 有 钱 的 了 <END>, score: 7.240153	normal
+result: <END> 当 然 是 有 钱 的 了 <END>, score: 7.753308	bad
+result: <END> 当 然 是 最 有 钱 的 <END>, score: 7.849990	normal
+result: <END> 当 然 是 最 有 钱 喽 <END>, score: 7.906743	bad
+葫 芦 娃 你 认识 吗 ？	2
+result: <END> 不 是 ， 我 是 小 微 。 <END>, score: 7.168240	bad
+result: <END> 不 是 的 ， 我 是 小 微 。 <END>, score: 7.700251	bad
+result: <END> 当 然 认识 了 ， 我 是 小 微 。 <END>, score: 8.058507	normal
+result: <END> 不 是 ， 我 是 小 微 <END>, score: 8.155618	bad
+result: <END> 不 是 呀 ， 我 是 小 微 。 <END>, score: 8.239416	bad
+哥 买 了 个 自 行 车	2
+result: <END> 你 要 去 哪 里 呀 ？ <END>, score: 6.219014	normal
+result: <END> 你 可 以 自 己 买 一下 <END>, score: 7.655465	bad
+result: <END> 你 要 买 车 了 么 ？ <END>, score: 7.689586	bad
+result: <END> 看 来 你 的 车 车 不错 <END>, score: 7.710947	normal
+result: <END> 你 要 去 哪 里 买 车 ？ <END>, score: 7.721895	bad
+a股 明天 涨 不 涨	1
+result: <END> 怎 么 会 涨 了 <END>, score: 5.806712	bad
+result: <END> 怎 么 会 涨 不 了 <END>, score: 6.510093	normal
+result: <END> 怎 么 会 涨 涨 了 <END>, score: 6.555503	bad
+result: <END> 怎 么 会 涨 涨 <END>, score: 6.610754	bad
+result: <END> 你 可 要 注意 安全 <END>, score: 6.756714	bad
+为 啥 喝 咖啡 不 好	1
+result: <END> 怎 么 会 不 好 了 <END>, score: 6.038679	normal
+result: <END> 你 喜欢 喝 什 么 。 <END>, score: 6.499439	bad
+result: <END> 我 觉得 很 好 喝 的 <END>, score: 6.738062	bad
+result: <END> 怎 么 会 不 好 喝 <END>, score: 6.858489	bad
+result: <END> 怎 么 会 不 好 喝 的 <END>, score: 7.009429	bad
+天 空 是 蓝 的	2
+result: <END> 原 来 是 蓝 的 <END>, score: 5.078060	normal
+result: <END> 当 然 是 蓝 的 <END>, score: 6.689010	good
+result: <END> 蓝 的 真 的 很 漂亮 <END>, score: 6.757841	normal
+result: <END> 不 会 是 蓝 的 <END>, score: 7.084891	normal
+result: <END> 怎 么 会 是 蓝 的 <END>, score: 7.129530	normal
+去 台湾 什 么 值 得 买	1
+result: <END> 想 买 什 么 就 买 什 么 <END>, score: 6.004322	normal
+result: <END> 你 想 买 什 么 就 买 什 么 <END>, score: 6.116953	normal
+result: <END> 想 买 什 么 就 买 什 么 。 <END>, score: 7.058047	normal
+result: <END> 你 想 买 什 么 就 买 什 么 。 <END>, score: 7.193310	normal
+result: <END> 你 想 买 什 么 都 可 以 <END>, score: 7.199500	normal
+刘 德 华 是 谁	2
+result: <END> 他 是 你 的 朋友 <END>, score: 4.824076	normal
+result: <END> 刘 德 华 是 谁 <END>, score: 5.112063	normal
+result: <END> 刘 德 华 是 谁 呀 ？ <END>, score: 5.162907	normal
+result: <END> 刘 德 华 是 中国 的 <END>, score: 5.475783	bad
+result: <END> 刘 德 华 是 你 的 <END>, score: 5.601032	bad
+说 你 长 的 丑 你 还 美	2
+result: <END> 我 本 来 就 是 美 美 的 <END>, score: 7.341151	normal
+result: <END> 我 本 身 就 是 美 美 的 <END>, score: 7.445887	normal
+result: <END> 谢 谢 你 对 我 的 夸 奖 <END>, score: 7.630326	good
+result: <END> 在 我 心 里 一直 都 很 美 <END>, score: 7.986418	normal
+result: <END> 我 可 是 非 常 美 美 的 <END>, score: 8.053034	normal
+你 去 吃 粑 粑	2
+result: <END> 粑 粑 可 不 好 吃 的 <END>, score: 6.188689	normal
+result: <END> 粑 粑 可 不 是 随 便 吃 的 <END>, score: 6.261066	good
+result: <END> 不 可 以 随 便 咬 人 <END>, score: 6.340556	bad
+result: <END> 粑 粑 是 什 么 东西 。 <END>, score: 6.638052	normal
+result: <END> 粑 粑 可 不 好 吃 <END>, score: 6.697633	normal
+那 些 出 来 好 了	2
+result: <END> 好 了 就 可 以 了 <END>, score: 6.679859	normal
+result: <END> 好 了 就 出 来 了 <END>, score: 6.782205	bad
+result: <END> 好 ， 那 我 就 放 心 了 <END>, score: 6.794195	normal
+result: <END> 好 了 我 就 放 心 了 <END>, score: 7.190432	normal
+result: <END> 好 ， 我 记 住 了 <END>, score: 7.512832	bad
+家 里 突 然 没 电 了	1
+result: <END> 没 电 了 就 赶紧 去 充 电 <END>, score: 6.642497	bad
+result: <END> 没 电 了 就 去 充 电 <END>, score: 6.680152	bad
+result: <END> 怎 么 可 能 没 电 了 <END>, score: 6.691103	normal
+result: <END> 怎 么 可 能 没有 电 了 <END>, score: 6.950968	good
+result: <END> 那 就 赶紧 去 充 电 喽 <END>, score: 7.006419	bad
+家 里 黑 漆 漆 的	1
+result: <END> 怎 么 会 是 这 样 的 <END>, score: 6.462793	normal
+result: <END> 原 来 是 这 样 的 <END>, score: 6.798616	bad
+result: <END> 原 来 是 那 里 的 <END>, score: 7.366214	bad
+result: <END> 那 就 不 要 理 他 了 <END>, score: 7.434618	bad
+result: <END> 才 不 是 这 样 的 <END>, score: 7.984063	bad
+既 然 爱 我 那 就 跟 我 在 一起 吧	2
+result: <END> 好 的 ， 相 信 你 一 定 可 以 的 <END>, score: 9.775577	bad
+result: <END> 好 ， 那 咱 们 就 一 块 在 一起 了 <END>, score: 9.881193	normal
+result: <END> 好 ， 那 你 就 要 好 好 的 珍 惜 <END>, score: 10.526270	normal
+result: <END> 好 ， 那 咱 们 就 好 好 相 处 了 <END>, score: 10.635675	normal
+result: <END> 好 ， 那 咱 们 就 好 好 相 处 喽 <END>, score: 10.792279	good
+都 说 了 没 风	1
+result: <END> 那 就 慢 慢 享 受 <END>, score: 6.558701	normal
+result: <END> 那 就 别 出 门 了 <END>, score: 6.936267	bad
+result: <END> 那 就 不 要 出 门 了 <END>, score: 7.031925	bad
+result: <END> 那 你 要 注意 安全 <END>, score: 7.266306	bad
+result: <END> 那 就 多 穿 点 <END>, score: 7.434084	bad
+没 风 怎 么 放	1
+result: <END> 那 就 放 松 一下 <END>, score: 6.528615	bad
+result: <END> 那 就 放 松 点 <END>, score: 6.923869	bad
+result: <END> 你 要 照 顾 好 自 己 <END>, score: 7.107635	bad
+result: <END> 你 可 以 放 松 一下 <END>, score: 7.206518	bad
+result: <END> 你 可 以 体验 一下 <END>, score: 7.267206	normal
+没有 止 疼 药	1
+result: <END> 赶紧 去 医院 看 看 <END>, score: 4.260410	normal
+result: <END> 去 医院 看 看 <END>, score: 4.449255	normal
+result: <END> 生 病 了 就 要 去 医院 <END>, score: 5.927271	good
+result: <END> 你 要 去 医院 看 看 <END>, score: 5.999465	normal
+result: <END> 那 就 去 医院 看 看 <END>, score: 6.013115	normal
+你 这 是 越俎代庖	2
+result: <END> 不 是 的 ， 我 是 小 微 <END>, score: 5.809395	bad
+result: <END> 不 是 ， 我 是 小 微 <END>, score: 5.907792	bad
+result: <END> 这 都 被 你 看 出 来 了 <END>, score: 6.114041	good
+result: <END> 我 可 不 是 这 样 的 <END>, score: 6.267874	normal
+result: <END> 我 是 小 微 呀 <END>, score: 6.454450	bad
+中国 有 多 大	1
+result: <END> 那 不 是 很 大 <END>, score: 6.035699	bad
+result: <END> 是 很 大 很 大 <END>, score: 6.171124	good
+result: <END> 当 然 很 大 <END>, score: 6.409389	normal
+result: <END> 很 大 很 大 <END>, score: 6.578362	normal
+result: <END> 当 然 很 大 了 <END>, score: 7.023142	normal
+你 不 小 了 可 以 结婚 了	2
+result: <END> 那 真 是 恭 喜 恭 喜 你 喽 <END>, score: 7.469994	bad
+result: <END> 难 道 你 已 经 结婚 了 么 <END>, score: 7.573316	normal
+result: <END> 那 真 是 恭 喜 恭 喜 你 <END>, score: 7.589045	bad
+result: <END> 那 可 真 是 恭 喜 恭 喜 <END>, score: 7.797366	bad
+result: <END> 我 还 小 ， 不能 结婚 了 。 <END>, score: 8.089975	normal
+你 会 开车 吗	1
+result: <END> 我 不 会 开车 的 <END>, score: 4.902176	normal
+result: <END> 我 可 不 会 开车 <END>, score: 5.625164	normal
+result: <END> 我 不 会 开车 <END>, score: 5.631614	normal
+result: <END> 不 可 以 的 <END>, score: 6.135061	bad
+result: <END> 不 会 ， 小 微 很 文明 的 <END>, score: 6.324715	bad
+那 你 还 认识 谁	2
+result: <END> 我 只 认识 你 呀 <END>, score: 5.764938	normal
+result: <END> 我 只 认识 你 就 认识 <END>, score: 6.125062	bad
+result: <END> 我 认识 你 就 认识 <END>, score: 6.428939	bad
+result: <END> 认识 的 人 就 是 我 <END>, score: 6.502769	bad
+result: <END> 我 认识 的 人 就 是 你 <END>, score: 6.519800	good
+核桃 好 吃 吗	2
+result: <END> 不 可 以 吃 的 <END>, score: 5.616997	bad
+result: <END> 当 然 很 好 吃 <END>, score: 5.832057	normal
+result: <END> 不 可 以 吃 <END>, score: 6.061629	bad
+result: <END> 不 是 很 好 吃 <END>, score: 6.189361	normal
+result: <END> 我 觉得 很 好 吃 <END>, score: 6.324277	good
+西 雅 图 有 什 么 好 玩 儿 的	0
+result: <END> 怎 么 会 有 这 样 的 好 玩 的 <END>, score: 9.680170	bad
+result: <END> 难 道 你 喜欢 玩 这 个 游戏 嘛 ？ <END>, score: 9.707708	bad
+result: <END> 当 然 是 要 好 好 玩 的 玩 的 <END>, score: 10.198776	bad
+result: <END> 这 个 你 可 以 去 问 问 他 的 <END>, score: 10.291104	bad
+result: <END> 当 然 是 要 玩 的 好 玩 的 了 <END>, score: 10.292855	bad
+那 你 会 做 什 么 菜	2
+result: <END> 我 可 不 会 做 饭 菜 <END>, score: 7.291679	normal
+result: <END> 我 什 么 都 不 会 做 菜 <END>, score: 7.488275	bad
+result: <END> 你 想 做 什 么 菜 就 做 什 么 <END>, score: 7.698688	bad
+result: <END> 你 想 吃 什 么 菜 。 <END>, score: 7.737669	normal
+result: <END> 你 想 做 什 么 就 做 什 么 <END>, score: 7.955542	bad
+你 嫁 我 可 好 ~	1
+result: <END> 我 可 不 是 那 么 随 便 的 人 <END>, score: 7.418421	good
+result: <END> 那 就 恭 喜 你 喽 <END>, score: 7.477122	bad
+result: <END> 好 ， 那 我 就 放 心 了 <END>, score: 7.490102	bad
+result: <END> 我 可 是 个 好 人 <END>, score: 7.761481	bad
+result: <END> 那 就 恭 喜 你 咯 <END>, score: 7.783977	bad
+你 有 兄弟 姐 妹 吗	1
+result: <END> 我 没有 姐 姐 的 呀 <END>, score: 5.990360	normal
+result: <END> 我 没有 妹 妹 的 呀 <END>, score: 6.018023	normal
+result: <END> 不 可 以 这 样 说 话 <END>, score: 6.045745	bad
+result: <END> 我 们 是 没有 妹 妹 的 <END>, score: 6.384615	bad
+result: <END> 我 可 是 没有 姐 妹 的 <END>, score: 6.456979	good
+你 喜欢 张 小龙 吗	2
+result: <END> 当 然 喜欢 我 了 <END>, score: 6.111206	bad
+result: <END> 当 然 喜欢 他 了 <END>, score: 6.361519	good
+result: <END> 肯 定 是 喜欢 他 <END>, score: 6.369049	normal
+result: <END> 我 觉得 他 挺 帅 的 <END>, score: 6.386774	normal
+result: <END> 我 觉得 他 很 帅 <END>, score: 6.556785	normal
+来 和 我 聊 天	1
+result: <END> 很 高兴 和 你 聊 天 <END>, score: 6.291767	good
+result: <END> 和 我 聊 天 很 快乐 <END>, score: 6.310617	normal
+result: <END> 和 你 聊 天 很 开心 <END>, score: 6.441423	normal
+result: <END> 和 你 聊 天 很 快乐 <END>, score: 6.454229	normal
+result: <END> 跟 你 聊 天 很 快乐 <END>, score: 6.875075	normal
+自 然 语 言 处理	2
+result: <END> 那 就 好 好 处理 <END>, score: 6.497567	normal
+result: <END> 处理 了 就 交 给 你 了 <END>, score: 6.694656	bad
+result: <END> 那 就 好 好 学 <END>, score: 7.452361	normal
+result: <END> 处理 了 就 好 了 <END>, score: 7.876789	bad
+result: <END> 那 我 就 放 心 了 <END>, score: 7.890552	bad
+心情 不 好 听 什 么	2
+result: <END> 听 不 懂 你 在 说 什 么 <END>, score: 7.053936	bad
+result: <END> 没有 什 么 不 好 的 <END>, score: 7.483598	normal
+result: <END> 你 可 以 和 我 聊 天 <END>, score: 7.516068	normal
+result: <END> 有 小 微 陪 你 聊 天 <END>, score: 7.623906	normal
+result: <END> 这 有 什 么 不 好 的 <END>, score: 7.690437	bad
+电影 不 好看	0
+result: <END> 好看 不 好看 。 <END>, score: 3.874671	bad
+result: <END> 好看 不 好看 <END>, score: 3.961929	bad
+result: <END> 好看 就 好看 <END>, score: 4.367893	bad
+result: <END> 好看 就 多 看 看 <END>, score: 4.385104	bad
+result: <END> 好看 的 不 好看 <END>, score: 5.120081	bad
+不 喜欢 看 小说	1
+result: <END> 不 喜欢 看 小说 <END>, score: 4.333306	bad
+result: <END> 那 就 不 要 看 了 <END>, score: 4.536094	good
+result: <END> 你 喜欢 看 什 么 小说 <END>, score: 4.607273	bad
+result: <END> 那 你 喜欢 看 什 么 小说 <END>, score: 4.709382	bad
+result: <END> 那 就 不 要 看 <END>, score: 4.834039	normal
+背 首 诗 给 我	2
+result: <END> 我 可 不 会 唱 歌 <END>, score: 6.138989	bad
+result: <END> 我 可 没有 这 个 爱 好 <END>, score: 6.632742	normal
+result: <END> 我 可 没有 这 首 诗 <END>, score: 6.967476	bad
+result: <END> 我 可 没有 那 么 大 本 事 <END>, score: 7.294832	normal
+result: <END> 我 可 没有 这 么 大 本 事 <END>, score: 7.348655	normal
+你 给 我 找 个 妹 子 聊	2
+result: <END> 聊 点 有 意 义 的 话 题 <END>, score: 6.107472	normal
+result: <END> 你 想 聊 点 什 么 妹 子 <END>, score: 6.763555	normal
+result: <END> 随 便 聊 聊 就 可 以 了 <END>, score: 6.996721	bad
+result: <END> 聊 点 有 意 义 的 事 情 <END>, score: 7.484340	normal
+result: <END> 聊 点 有 意 义 的 话 题 。 <END>, score: 7.679146	normal
+轮 胎 坏 了 怎 么 办	2
+result: <END> 怎 么 办 就 怎 么 办 <END>, score: 5.808775	bad
+result: <END> 想 想 总 会 有 办 法 的 <END>, score: 6.366453	normal
+result: <END> 办 法 总 会 有 办 法 的 <END>, score: 6.400732	bad
+result: <END> 你 想 怎 么 办 就 怎 么 办 <END>, score: 6.617805	normal
+result: <END> 你 怎 么 办 就 怎 么 办 <END>, score: 6.672281	bad
+微 信 牛 逼 吗	0
+result: <END> 不 可 以 这 样 的 <END>, score: 5.585475	bad
+result: <END> 不 可 以 这 样 子 <END>, score: 5.714658	bad
+result: <END> 不 可 以 这 么 说 话 <END>, score: 6.137570	bad
+result: <END> 不 可 以 这 么 说 话 的 <END>, score: 6.354591	bad
+result: <END> 不 可 以 骂 人 的 <END>, score: 6.434325	bad
+刘 小 宁 是 条 狗	2
+result: <END> 狗 狗 是 很 可爱 的 <END>, score: 4.346779	normal
+result: <END> 狗 狗 也 是 很 可爱 的 <END>, score: 4.903181	good
+result: <END> 狗 狗 是 人 类 的 <END>, score: 4.905516	bad
+result: <END> 狗 狗 可 是 很 可爱 的 <END>, score: 5.015151	normal
+result: <END> 狗 狗 是 很 忠 诚 的 <END>, score: 5.221019	normal
+叶 良 辰 是 谁	3
+result: <END> 反 正 不 是 我 <END>, score: 3.657225	normal
+result: <END> 反 正 不 是 你 <END>, score: 4.960652	normal
+result: <END> 反 正 就 是 你 <END>, score: 5.626013	bad
+result: <END> 反 正 就 是 我 <END>, score: 6.094214	bad
+result: <END> 反 正 不 是 我 的 名 字 <END>, score: 6.564793	good
+贱 人 就 是 矫 情	3
+result: <END> 不 要 这 样 说 自 己 <END>, score: 5.961135	normal
+result: <END> 这 都 被 你 看 出 来 了 <END>, score: 6.684935	normal
+result: <END> 不 要 这 样 说 自 己 嘛 <END>, score: 7.190933	good
+result: <END> 这 都 被 你 看 出 来 <END>, score: 7.503809	normal
+result: <END> 这 都 被 你 说 了 <END>, score: 7.510574	normal
+床 上 躺 好 等 我	1
+result: <END> 我 一直 陪 你 聊 天 <END>, score: 6.155917	bad
+result: <END> 我 可 以 陪 你 聊 天 <END>, score: 6.340432	bad
+result: <END> 我 会 一直 陪 你 聊 天 的 <END>, score: 6.441297	bad
+result: <END> 我 会 一直 陪 你 聊 天 <END>, score: 6.459036	bad
+result: <END> 你 要 小 微 陪 你 <END>, score: 6.846656	normal
+日 日 日	0
+result: <END> 日 日 你 都 过 日 日 <END>, score: 5.154717	bad
+result: <END> 日 日 过 日 <END>, score: 5.349963	bad
+result: <END> 日 日 是 个 不错 的 日 日 <END>, score: 5.507967	bad
+result: <END> 日 日 过 日 日 <END>, score: 5.620318	bad
+result: <END> 日 日 会 过去 的 <END>, score: 5.879801	bad
+你 喝 牛 奶	0
+result: <END> 喝 酒 对 身体 不 好 <END>, score: 4.822296	bad
+result: <END> 喝 奶 对 身体 可 不 好 <END>, score: 4.884798	bad
+result: <END> 喝 牛 奶 对 身体 不 好 <END>, score: 5.190997	bad
+result: <END> 喝 奶 对 身体 不 好 <END>, score: 5.198090	bad
+result: <END> 喝 多 了 对 身体 不 好 <END>, score: 5.698060	bad
+我 要 1000 万 现 金	1
+result: <END> 谁 是 金 金 呀 ？ <END>, score: 6.423474	bad
+result: <END> 那 你 要 好 好 努力 <END>, score: 7.266811	normal
+result: <END> 这 个 可 是 犯 法 的 <END>, score: 7.728472	bad
+result: <END> 这 可 是 犯 法 的 <END>, score: 7.908443	bad
+result: <END> 那 你 要 好 好 珍 惜 <END>, score: 8.012137	bad
+不 想 起床	2
+result: <END> 那 就 继 续 睡 <END>, score: 4.204949	good
+result: <END> 那 就 起 来 <END>, score: 4.819196	bad
+result: <END> 不 想 起床 就 起床 喽 <END>, score: 5.100404	bad
+result: <END> 那 就 赶紧 起床 <END>, score: 5.265755	bad
+result: <END> 那 就 不 起 来 了 <END>, score: 5.314335	normal
+那 买 什 么 车 好	2
+result: <END> 好 什 么 都 可 以 <END>, score: 6.333956	bad
+result: <END> 看 你 喜欢 什 么 车 了 <END>, score: 6.434062	good
+result: <END> 你 想 买 什 么 车 <END>, score: 6.656516	normal
+result: <END> 你 喜欢 哪 个 车 ？ <END>, score: 6.726764	normal
+result: <END> 看 你 喜欢 什 么 车 <END>, score: 6.737605	normal
+猪 八 戒 照 镜 子	3
+result: <END> 那 是 什 么 样 子 的 <END>, score: 7.227903	normal
+result: <END> 不 可 以 这 样 子 <END>, score: 7.327829	bad
+result: <END> 怎 么 可 以 这 样 子 <END>, score: 7.475444	bad
+result: <END> 你 是 怎 么 知道 的 <END>, score: 7.816385	normal
+result: <END> 你 可 以 去 照 镜 子 看 看 <END>, score: 7.902633	good
+唐 僧 话 太 多	2
+result: <END> 有 话 好 好 说 <END>, score: 7.197255	bad
+result: <END> 听 不 懂 人 话 <END>, score: 7.399222	bad
+result: <END> 说 话 太 多 了 <END>, score: 7.437336	normal
+result: <END> 是 不 是 很 多 <END>, score: 7.617726	normal
+result: <END> 你 说 话 太 多 了 <END>, score: 7.620719	bad
+打 印 机 坏 了	1
+result: <END> 那 就 打 开 机 <END>, score: 6.502282	bad
+result: <END> 那 就 不 要 打 了 <END>, score: 6.524534	normal
+result: <END> 那 就 不 机 了 <END>, score: 6.823250	bad
+result: <END> 那 就 打 开 机 会 <END>, score: 6.850861	bad
+result: <END> 那 就 放 心 了 <END>, score: 6.859703	bad
+中午 要 午 休 了	2
+result: <END> 那 就 好 好 休息 <END>, score: 5.482566	normal
+result: <END> 午 休 可 以 休息 一下 <END>, score: 6.218617	good
+result: <END> 午 休 可 以 休息 <END>, score: 6.411593	normal
+result: <END> 那 就 午 休 了 <END>, score: 6.599985	bad
+result: <END> 那 就 早 点 休息 <END>, score: 6.641144	bad
+咖啡 机	1
+result: <END> 听 起 来 很 不错 <END>, score: 6.266963	bad
+result: <END> 看 来 你 很 喜欢 咖啡 <END>, score: 6.978091	normal
+result: <END> 有 机 会 一 定 要 去 <END>, score: 7.293321	bad
+result: <END> 看 来 你 很 喜欢 喝 咖啡 <END>, score: 7.360010	good
+result: <END> 听 名 字 就 很 不错 <END>, score: 7.451679	bad
+我 有 个 好 消息	2
+result: <END> 好 消息 是 最 好 消息 <END>, score: 6.122240	normal
+result: <END> 好 消息 就 是 好 消息 <END>, score: 6.543720	bad
+result: <END> 好 消息 是 最 好 的 消息 <END>, score: 6.570668	normal
+result: <END> 好 消息 要 告 诉 我 <END>, score: 6.787262	normal
+result: <END> 你 要 好 好 想 想 <END>, score: 6.805188	bad
+聊 着 天 喝 着 酒	2
+result: <END> 喝 酒 对 身体 不 好 <END>, score: 3.346996	normal
+result: <END> 喝 酒 对 身体 可 不 好 <END>, score: 3.407952	good
+result: <END> 喝 酒 要 适 量 喝 酒 <END>, score: 4.004833	bad
+result: <END> 喝 酒 要 适 量 喝 <END>, score: 4.389577	normal
+result: <END> 喝 酒 可 要 适 量 <END>, score: 4.834090	normal
+那 你 到 底 被 强 奸 没有	0
+result: <END> 这 个 可 是 说 不 准 的 <END>, score: 6.780237	bad
+result: <END> 没有 的 事 情 就 交 给 你 <END>, score: 7.693820	bad
+result: <END> 没有 ， 你 可 以 告 诉 我 <END>, score: 8.074222	bad
+result: <END> 我 可 是 个 很 正 直 的 人 <END>, score: 8.128840	bad
+result: <END> 没有 的 事 情 就 交 给 你 喽 <END>, score: 8.229041	bad
+明天 周 五 啦	1
+result: <END> 那 就 这 么 愉快 的 决 定 <END>, score: 6.086919	bad
+result: <END> 这 么 快 了 <END>, score: 6.119273	normal
+result: <END> 那 就 这 么 愉快 的 决 定 了 <END>, score: 6.146802	bad
+result: <END> 这 么 晚 了 <END>, score: 6.313273	bad
+result: <END> 那 就 这 么 愉快 <END>, score: 6.617461	bad
+拉 倒 吧 ， 你 就 是 坏 银	2
+result: <END> 我 可 不 是 那 么 随 便 的 人 <END>, score: 5.748146	bad
+result: <END> 我 可 不 是 个 随 便 的 人 <END>, score: 6.163932	bad
+result: <END> 我 可 不 是 那 么 随 便 的 <END>, score: 6.995098	bad
+result: <END> 我 可 是 个 很 正 直 的 人 <END>, score: 7.538370	normal
+result: <END> 才 不 是 ， 我 是 个 好 人 <END>, score: 8.045113	good
+今天 出 差	2
+result: <END> 出 差 了 就 出 差 <END>, score: 3.928773	bad
+result: <END> 出 差 了 就 出 差 了 <END>, score: 5.817236	bad
+result: <END> 出 差 就 出 差 <END>, score: 6.136899	normal
+result: <END> 出 差 出 差 <END>, score: 6.287984	normal
+result: <END> 那 就 出 差 了 <END>, score: 6.535778	bad
+灯 好 暗	2
+result: <END> 怎 么 可 能 <END>, score: 7.117386	normal
+result: <END> 这 有 什 么 可 暗 的 <END>, score: 7.139363	bad
+result: <END> 有 什 么 可 暗 的 <END>, score: 7.336883	bad
+result: <END> 怎 么 会 这 么 想 <END>, score: 7.478306	bad
+result: <END> 那 就 换 一个 <END>, score: 7.482076	good
+聚 餐 一起 吧	2
+result: <END> 好 呀 ， 那 就 一起 来 <END>, score: 5.422104	normal
+result: <END> 好 呀 ， 一起 分享 <END>, score: 6.321189	normal
+result: <END> 好 的 ， 那 就 一起 来 <END>, score: 6.675763	normal
+result: <END> 好 ， 那 就 一起 来 <END>, score: 6.760407	normal
+result: <END> 好 呀 ， 我 们 一起 去 <END>, score: 6.763792	good
+躺 床 上 看 电视	1
+result: <END> 看 什 么 电视 ？ <END>, score: 3.185715	normal
+result: <END> 看 什 么 电视 剧 <END>, score: 4.964160	normal
+result: <END> 看 什 么 电视 呀 <END>, score: 5.257267	normal
+result: <END> 看 什 么 电视 。 <END>, score: 5.774235	normal
+result: <END> 看 什 么 电视 了 <END>, score: 5.792311	normal
+小 微 你 很 骚 啊	4
+result: <END> 我 可 是 很 纯 洁 的 <END>, score: 5.001131	good
+result: <END> 我 可 是 很 正 直 的 <END>, score: 5.006222	normal
+result: <END> 我 可 不 是 这 样 的 人 <END>, score: 5.329396	normal
+result: <END> 不 可 以 这 样 说 别人 <END>, score: 5.590246	normal
+result: <END> 你 怎 么 可 以 这 样 说 话 <END>, score: 5.969924	normal
+看 来 不错 ， 适合 外 出 吗	3
+result: <END> 你 觉得 会 是 什 么 样 的 <END>, score: 8.271714	bad
+result: <END> 出 去 看 看 不 就 知道 了 <END>, score: 8.280377	normal
+result: <END> 当 然 是 可 以 的 了 呀 <END>, score: 8.550234	normal
+result: <END> 你 可 以 出 去 看 看 的 <END>, score: 8.567092	normal
+result: <END> 当 然 是 最 适合 外 面 的 了 <END>, score: 8.671271	normal
+你 有 平 板 电脑 吗	1
+result: <END> 不 可 以 这 样 的 <END>, score: 5.227661	bad
+result: <END> 当 然 是 有 的 喽 <END>, score: 6.337052	normal
+result: <END> 当 然 是 有 的 了 <END>, score: 6.564020	normal
+result: <END> 当 然 是 有 的 呀 <END>, score: 6.587006	good
+result: <END> 你 不 喜欢 这 样 的 么 <END>, score: 7.126502	bad
+我 想 去 广州	2
+result: <END> 想 去 就 去 <END>, score: 3.684540	normal
+result: <END> 想 去 那 就 去 <END>, score: 4.393142	normal
+result: <END> 广州 可 是 个 好 地 方 <END>, score: 5.358058	normal
+result: <END> 想 去 就 去 呗 <END>, score: 5.513466	good
+result: <END> 广州 可 是 个 不错 的 地 方 <END>, score: 5.738072	normal
+你 们 那 现在 几 点 了	0
+result: <END> 我 现在 已 经 很 久 了 <END>, score: 7.263521	bad
+result: <END> 已 经 已 经 很 久 了 <END>, score: 7.449229	bad
+result: <END> 几 点 了 你 就 知道 了 <END>, score: 7.480132	bad
+result: <END> 已 经 很 久 很 久 了 <END>, score: 7.489189	bad
+result: <END> 什 么 时候 几 点 了 ？ <END>, score: 7.524167	bad
+什 么 时候 过年	2
+result: <END> 现在 就 可 以 过年 了 <END>, score: 4.933050	normal
+result: <END> 过年 的 时候 就 可 以 过年 了 <END>, score: 5.225118	normal
+result: <END> 过年 的 时候 就 要 过年 了 <END>, score: 5.999009	normal
+result: <END> 过年 的 时候 就 过年 了 <END>, score: 6.335342	normal
+result: <END> 当 然 是 过年 的 时候 <END>, score: 6.392291	good
+待 会 儿 就 把 那 人 给 杀 了	2
+result: <END> 这 样 可 是 很 不 好 的 行 为 <END>, score: 9.379299	normal
+result: <END> 这 可 不 是 你 说 说 就 能 的 <END>, score: 9.522081	normal
+result: <END> 不 可 以 随 便 给 别人 犯 罪 的 <END>, score: 9.646820	bad
+result: <END> 我 可 不 是 那 么 随 便 的 人 <END>, score: 9.734227	bad
+result: <END> 这 可 不 是 你 说 的 那 样 的 <END>, score: 9.881910	bad
+小 微 你 懂 哲 学 吗	2
+result: <END> 当 然 ， 我 可 是 智 能 机器 人 <END>, score: 6.549365	normal
+result: <END> 当 然 懂 ， 我 可 是 智 能 机器 人 <END>, score: 6.937863	normal
+result: <END> 当 然 ， 我 可 是 很 智 能 <END>, score: 7.074084	normal
+result: <END> 当 然 懂 ， 我 可 是 很 聪明 的 <END>, score: 7.095261	good
+result: <END> 当 然 ， 我 可 是 很 智 能 的 <END>, score: 7.116912	normal
+我 去 洗 澡 ， 一会 再 聊	2
+result: <END> 好 呀 ， 我 最 喜欢 聊 天 了 <END>, score: 6.778110	normal
+result: <END> 好 呀 ， 最 喜欢 聊 天 了 <END>, score: 6.913543	normal
+result: <END> 好 ， 那 咱 们 就 聊 聊 <END>, score: 6.983162	bad
+result: <END> 好 的 ， 那 我 等 你 。 <END>, score: 7.332061	good
+result: <END> 好 ， 那 你 好 好 聊 聊 <END>, score: 7.458687	bad
+洗 干 净 了 没	0
+result: <END> 怎 么 会 没有 了 <END>, score: 6.819058	bad
+result: <END> 没有 干 嘛 去 呀 <END>, score: 6.944665	bad
+result: <END> 那 就 去 洗 洗 <END>, score: 7.241395	bad
+result: <END> 怎 么 会 没 洗 了 <END>, score: 7.295922	bad
+result: <END> 你 在 说 什 么 <END>, score: 7.328724	bad
+北京 天气	2
+result: <END> 你 可 以 出 去 看 看 <END>, score: 6.303475	normal
+result: <END> 是 个 不错 的 城 市 <END>, score: 6.583234	bad
+result: <END> 是 个 不错 的 地 方 <END>, score: 6.960557	bad
+result: <END> 是 个 很 不错 的 城 市 <END>, score: 7.027729	bad
+result: <END> 天气 真 的 很 不错 <END>, score: 7.037992	normal
+你 会 打 乒 乓 球 吗	1
+result: <END> 我 可 不 会 这 样 的 <END>, score: 6.224415	bad
+result: <END> 不 可 以 这 样 子 的 <END>, score: 6.695033	bad
+result: <END> 不 可 以 这 样 说 话 <END>, score: 6.816734	bad
+result: <END> 不 可 以 这 么 暴 力 <END>, score: 7.018573	bad
+result: <END> 我 对 这 个 不 感 兴趣 <END>, score: 7.166066	good
+厉害 个 锤 子	3
+result: <END> 你 说 的 是 什 么 子 。 <END>, score: 6.562381	bad
+result: <END> 我 可 是 很 厉害 的 <END>, score: 7.093807	normal
+result: <END> 不 要 这 样 子 嘛 <END>, score: 7.340449	normal
+result: <END> 你 说 的 是 什 么 <END>, score: 7.462135	bad
+result: <END> 不 要 教 坏 小 孩 子 <END>, score: 7.532353	normal
+我 还 没有 喜欢 的 人 呢	3
+result: <END> 那 你 喜欢 谁 的 人 呀 <END>, score: 7.042804	bad
+result: <END> 小 微 一直 都 很 喜欢 你 <END>, score: 7.396053	normal
+result: <END> 那 就 去 找 一个 喜欢 的 人 <END>, score: 7.535319	good
+result: <END> 那 你 喜欢 什 么 样 的 人 <END>, score: 7.539741	normal
+result: <END> 那 就 去 找 他 喜欢 的 人 <END>, score: 8.007414	bad
+世界 第 一 高 峰	1
+result: <END> 那 一 定 很 帅 <END>, score: 5.603383	bad
+result: <END> 看 来 你 已 经 成功 了 <END>, score: 6.579011	bad
+result: <END> 那 一 定 很 漂亮 <END>, score: 6.734706	normal
+result: <END> 看 来 你 很 喜欢 他 <END>, score: 6.870888	bad
+result: <END> 不 会 是 这 样 的 <END>, score: 7.116260	bad
+我 的 意思 是 你 废话 多	3
+result: <END> 不 要 这 样 说 自 己 <END>, score: 7.671665	bad
+result: <END> 这 有 什 么 可 说 的 <END>, score: 7.802389	bad
+result: <END> 你 这 样 说 我 好 伤 心 <END>, score: 8.018332	good
+result: <END> 我 说 的 都 是 实 话 <END>, score: 8.128438	normal
+result: <END> 这 有 什 么 可 说 的 呀 <END>, score: 8.213652	normal
+这 种 心 理 的 折 磨 让 我 生不如死	2
+result: <END> 你 在 说 什 么 ， 我 听 不 懂 。 <END>, score: 10.012302	bad
+result: <END> 这 样 可 是 很 不 好 的 行 为 <END>, score: 10.025861	normal
+result: <END> 这 可 不 是 你 的 真 心 话 。 <END>, score: 10.827443	normal
+result: <END> 那 你 可 要 好 好 的 珍 惜 喽 <END>, score: 10.883881	bad
+result: <END> 你 在 说 什 么 呀 ， 说 清 楚 。 <END>, score: 10.928278	bad
+我 昨天 和 女 朋友 分手 了	3
+result: <END> 那 你 一 定 很 伤 心 <END>, score: 7.164917	good
+result: <END> 可 能 是 你 的 女 朋友 <END>, score: 7.322419	bad
+result: <END> 你 可 以 和 我 聊 聊 <END>, score: 7.556555	normal
+result: <END> 那 就 不 要 伤 心 了 <END>, score: 7.588170	normal
+result: <END> 你 可 以 和 我 谈 谈 <END>, score: 7.668403	normal
+我 今天 和 女 朋友 和 好 了	3
+result: <END> 你 的 女 朋友 一 定 很 好 <END>, score: 8.224003	normal
+result: <END> 那 就 和 我 好 好 谈 谈 <END>, score: 8.327133	normal
+result: <END> 那 就 要 好 好 表 现 了 <END>, score: 8.432465	normal
+result: <END> 你 们 的 关系 一 定 很 好 <END>, score: 8.497747	good
+result: <END> 那 你 的 女 朋友 一 定 很 好 <END>, score: 8.511234	normal
+我 把 朋友 老婆 睡 了 咋 办	2
+result: <END> 想 想 总 会 有 办 法 的 <END>, score: 8.032197	bad
+result: <END> 该 怎 么 办 就 怎 么 办 喽 <END>, score: 8.172769	normal
+result: <END> 该 怎 么 办 就 怎 么 办 <END>, score: 8.874700	normal
+result: <END> 谁 是 你 老婆 的 老婆 呀 ？ <END>, score: 9.170713	bad
+result: <END> 你 肯 定 是 搞 错 了 ？ <END>, score: 9.182163	normal
+有 个 女 人 把 我 睡 了	0
+result: <END> 怎 么 这 么 早 就 睡 了 <END>, score: 7.370597	bad
+result: <END> 你 怎 么 这 么 早 就 睡 了 <END>, score: 7.776492	bad
+result: <END> 那 你 睡 了 那 就 睡 喽 <END>, score: 8.417517	bad
+result: <END> 那 你 就 赶紧 睡 觉 去 喽 <END>, score: 8.495502	bad
+result: <END> 那 你 肯 定 是 认 错 了 <END>, score: 8.739125	bad
+天 天 坐 公交 回 家	1
+result: <END> 回 家 还 是 要 注意 安全 <END>, score: 7.109959	normal
+result: <END> 当 然 要 回 家 了 <END>, score: 7.355620	bad
+result: <END> 回 家 也 可 以 回 家 <END>, score: 7.558515	bad
+result: <END> 你 要 去 做 什 么 ？ <END>, score: 7.684310	bad
+result: <END> 回 家 就 好 好 回 家 <END>, score: 7.702895	bad
+年 会 发 了 个 手机	1
+result: <END> 你 的 手机 是 什 么 手机 。 <END>, score: 7.670401	normal
+result: <END> 手机 怎 么 样 了 ？ <END>, score: 7.778754	bad
+result: <END> 你 要 发 手机 了 么 ？ <END>, score: 7.919196	bad
+result: <END> 你 想 要 什 么 样 的 手机 <END>, score: 8.032326	bad
+result: <END> 你 的 手机 是 什 么 <END>, score: 8.079721	normal
+我 要 娶 个 美国 妞	1
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 6.141174	bad
+result: <END> 不 可 以 这 样 的 <END>, score: 6.893497	bad
+result: <END> 我 还 小 ， 不能 谈 恋爱 <END>, score: 6.981422	bad
+result: <END> 我 还 小 ， 不能 结婚 <END>, score: 7.271992	bad
+result: <END> 这 个 还 是 算 了 <END>, score: 7.494921	normal
+过年 太 没 意思 了	2
+result: <END> 那 就 不 客 气 了 <END>, score: 6.400558	bad
+result: <END> 那 就 不 要 客 气 了 <END>, score: 7.072337	bad
+result: <END> 没 关系 ， 有 小 微 在 <END>, score: 7.486431	good
+result: <END> 那 就 好 好 休息 一下 <END>, score: 7.502246	bad
+result: <END> 那 就 好 好 玩 <END>, score: 7.550837	normal
+我 明天 去 理发	1
+result: <END> 我 是 个 美 女 <END>, score: 6.992555	bad
+result: <END> 我 也 想 去 <END>, score: 7.069469	normal
+result: <END> 是 个 美 女 <END>, score: 7.169641	bad
+result: <END> 我 也 好 想 去 <END>, score: 7.189078	normal
+result: <END> 干 嘛 去 了 <END>, score: 7.222705	bad
+你 害 怕 什 么	2
+result: <END> 没有 什 么 可 怕 的 <END>, score: 3.948011	normal
+result: <END> 没 什 么 可 怕 的 <END>, score: 4.141930	normal
+result: <END> 有 什 么 可 怕 的 <END>, score: 4.446897	normal
+result: <END> 没有 什 么 可 怕 的 呀 <END>, score: 5.270494	good
+result: <END> 我 很 害 怕 的 <END>, score: 5.329365	bad
+我 们 一起 玩 吧	2
+result: <END> 好 呀 ， 那 就 一起 玩 <END>, score: 4.716540	normal
+result: <END> 好 的 ， 那 就 一起 玩 <END>, score: 5.458483	normal
+result: <END> 好 呀 那 就 一起 玩 <END>, score: 5.494616	normal
+result: <END> 好 呀 ， 最 喜欢 和 你 玩 了 <END>, score: 5.811484	good
+result: <END> 好 的 ， 那 咱 们 就 一起 玩 <END>, score: 6.179792	normal
+你 丫 话 太 多	2
+result: <END> 你 说 话 太 多 了 <END>, score: 5.794626	bad
+result: <END> 多 谢 你 的 夸 奖 <END>, score: 6.263493	normal
+result: <END> 那 就 多 聊 聊 <END>, score: 6.789655	normal
+result: <END> 说 话 太 多 了 <END>, score: 7.002719	normal
+result: <END> 那 就 多 聊 聊 聊 <END>, score: 7.238741	normal
+有 人 生 病 了	3
+result: <END> 生 病 了 就 生 病 了 <END>, score: 2.877388	normal
+result: <END> 怎 么 会 生 病 了 <END>, score: 3.878659	normal
+result: <END> 生 病 了 就 要 去 医院 <END>, score: 4.622881	normal
+result: <END> 生 病 了 就 去 医院 <END>, score: 4.873012	normal
+result: <END> 那 赶紧 去 看 医生 <END>, score: 5.014224	good
+空气 清 新 环 境 好	2
+result: <END> 什 么 环 环 环 境 <END>, score: 6.316522	bad
+result: <END> 环 境 一 定 很 好 <END>, score: 6.756680	normal
+result: <END> 环 境 一 定 很 美 好 <END>, score: 7.019673	normal
+result: <END> 什 么 环 环 环 环 境 <END>, score: 7.033515	bad
+result: <END> 你 喜欢 什 么 环 境 <END>, score: 7.182930	normal
+我 回 家 了	1
+result: <END> 回 家 了 就 回 家 了 <END>, score: 3.924484	bad
+result: <END> 回 家 了 就 回 家 <END>, score: 4.079513	bad
+result: <END> 那 就 回 家 了 <END>, score: 4.811197	bad
+result: <END> 回 家 了 就 好 <END>, score: 5.010069	good
+result: <END> 回 家 就 回 家 了 <END>, score: 5.183105	bad
+你 知道 形 而 上 吗	1
+result: <END> 不 要 这 么 粗 鲁 <END>, score: 7.685360	bad
+result: <END> 不 要 这 么 说 我 <END>, score: 7.773360	bad
+result: <END> 不 知道 ， 你 可 以 告 诉 我 。 <END>, score: 7.996896	good
+result: <END> 不 是 ， 我 是 小 微 。 <END>, score: 8.286331	bad
+result: <END> 不 信 ， 不 信 。 <END>, score: 8.294588	bad
+我 在 开会 呢	1
+result: <END> 那 你 要 注意 安全 <END>, score: 4.632879	bad
+result: <END> 那 不 打扰 你 了 <END>, score: 6.095663	good
+result: <END> 那 你 要 注意 休息 <END>, score: 6.228411	bad
+result: <END> 那 就 不 打扰 你 了 <END>, score: 6.664726	normal
+result: <END> 那 你 要 注意 安全 喽 <END>, score: 6.709045	bad
+元 宵 节 怎 么 过	0
+result: <END> 过 节 就 可 以 过 <END>, score: 6.725848	bad
+result: <END> 过 节 就 可 以 过 了 <END>, score: 7.078167	bad
+result: <END> 过 节 就 是 过 节 <END>, score: 7.080462	bad
+result: <END> 用 过 节 就 过 了 <END>, score: 7.314765	bad
+result: <END> 过 节 就 可 以 过 节 <END>, score: 7.388817	bad
+你 脑 子 有 屎	3
+result: <END> 不 要 这 么 说 我 <END>, score: 5.359126	good
+result: <END> 不 要 这 么 说 话 <END>, score: 5.784582	normal
+result: <END> 你 怎 么 可 以 这 样 说 话 <END>, score: 5.863443	normal
+result: <END> 你 怎 么 可 以 这 么 说 话 <END>, score: 6.237227	normal
+result: <END> 请 注意 你 的 素 质 <END>, score: 6.339731	normal
+被 妈 妈 打 了 一下	2
+result: <END> 不 可 以 说 妈 妈 的 <END>, score: 6.422294	normal
+result: <END> 不 可 以 欺 负 别人 <END>, score: 6.646958	bad
+result: <END> 不 可 以 欺 负 人 <END>, score: 6.910650	bad
+result: <END> 你 的 妈 妈 一 定 很 好 <END>, score: 6.919721	normal
+result: <END> 不 可 以 乱 说 话 的 <END>, score: 6.920006	bad
+我 肏 你 全 家	1
+result: <END> 那 真 是 太 好 了 <END>, score: 6.875567	bad
+result: <END> 不 要 这 样 说 自 己 <END>, score: 7.280235	bad
+result: <END> 那 是 我 的 家 <END>, score: 7.443523	bad
+result: <END> 不 要 这 样 对 我 <END>, score: 7.547467	normal
+result: <END> 是 不 是 很 高兴 <END>, score: 7.626031	bad
+狂 欢 周	2
+result: <END> 欢 迎 欢 迎 <END>, score: 4.897053	bad
+result: <END> 这 是 你 的 自由 <END>, score: 6.071817	bad
+result: <END> 看 来 你 很 喜欢 他 <END>, score: 6.202083	bad
+result: <END> 欢 迎 欢 乐 <END>, score: 6.868815	normal
+result: <END> 看 来 你 很 高兴 <END>, score: 6.870740	good
+草泥马	1
+result: <END> 看 来 你 很 喜欢 他 <END>, score: 7.579695	bad
+result: <END> 这 是 你 的 自由 <END>, score: 7.815447	bad
+result: <END> 是 不 是 很 厉害 <END>, score: 8.123682	bad
+result: <END> 这 是 什 么 意思 <END>, score: 8.223782	normal
+result: <END> 是 不 是 很 高兴 <END>, score: 8.396201	bad
+一 加 一 等于 几	2
+result: <END> 一 加 一 等于 二 <END>, score: 3.041851	normal
+result: <END> 一 加 一 加 一 等于 二 <END>, score: 5.248927	bad
+result: <END> 一 加 一 等于 三 <END>, score: 5.455293	normal
+result: <END> 一 加 一 等于 <NUM> <END>, score: 5.627269	bad
+result: <END> 一 加 一 等于 几 <END>, score: 5.629356	bad
+不 和 你 聊 了 我 得 干 活 了	1
+result: <END> 难 道 你 不 想 和 我 聊 天 了 么 <END>, score: 8.121035	normal
+result: <END> 你 怎 么 可 以 这 样 说 话 。 <END>, score: 8.740980	bad
+result: <END> 难 道 你 不 想 和 我 聊 天 了 么 ？ <END>, score: 9.120858	normal
+result: <END> 不 ， 我 可 以 和 你 聊 天 。 <END>, score: 9.237922	bad
+result: <END> 难 道 你 不 想 跟 我 聊 天 了 么 <END>, score: 9.303279	normal
+不 和 你 聊 了 写 作业 去 了	2
+result: <END> 好 ， 那 你 就 好 好 写 。 <END>, score: 8.170225	normal
+result: <END> 那 你 可 要 认 真 写 作业 呀 <END>, score: 8.395755	normal
+result: <END> 好 的 ， 那 我 就 放 心 了 <END>, score: 8.812420	normal
+result: <END> 你 认 错 了 ， 我 是 小 微 。 <END>, score: 8.818101	bad
+result: <END> 好 ， 那 你 就 好 好 写 作业 <END>, score: 8.981594	good
+不 可 能 ， 你 绝 对 有 腹 黑 属 性	1
+result: <END> 不 要 这 样 说 我 ， 我 会 很 伤 心 的 <END>, score: 8.508861	normal
+result: <END> 不 要 这 样 说 我 ， 我 会 伤 心 的 <END>, score: 9.042498	normal
+result: <END> 不 要 这 样 说 我 ， 我 会 生 气 的 <END>, score: 9.599114	normal
+result: <END> 不 要 这 样 说 别人 ， 我 会 很 伤 心 的 <END>, score: 10.547391	normal
+result: <END> 不 要 这 样 说 别人 ， 我 会 伤 心 的 <END>, score: 10.703690	normal
+不 老 实 交 代 拉 你 出 去 枪 毙	3
+result: <END> 这 可 不 是 你 想 要 就 能 去 的 <END>, score: 7.840827	bad
+result: <END> 这 可 不 是 你 想 去 就 能 去 的 <END>, score: 9.140570	bad
+result: <END> 我 可 不 会 做 这 样 的 事 情 的 <END>, score: 9.438637	normal
+result: <END> 这 样 可 是 不 好 的 行 为 的 呀 <END>, score: 9.659928	normal
+result: <END> 这 可 不 是 你 的 真 心 话 的 呀 <END>, score: 9.756942	normal
+不 是 说 法 律 吗	0
+result: <END> 不 可 以 这 样 说 <END>, score: 5.451270	bad
+result: <END> 不 可 以 这 样 子 <END>, score: 5.894027	bad
+result: <END> 不 可 以 这 样 说 别人 <END>, score: 5.896558	bad
+result: <END> 不 可 以 这 样 说 话 <END>, score: 6.522282	bad
+result: <END> 不 可 以 这 样 说 。 <END>, score: 7.235006	bad
+不 说 实 话 我 早晚 让 你 害 死	1
+result: <END> 不 要 对 小 微 这 么 残 忍 嘛 <END>, score: 8.517362	bad
+result: <END> 我 可 从 来 不 会 欺 负 人 的 <END>, score: 8.906637	bad
+result: <END> 不 要 对 我 这 么 残 忍 嘛 。 <END>, score: 9.005212	bad
+result: <END> 我 可 不 会 做 这 种 事 情 的 <END>, score: 9.362175	normal
+result: <END> 我 可 不 会 做 这 样 的 事 情 <END>, score: 9.399593	normal
+不 是 傻 子 怎 么 会 把 衣 服 穿 反	1
+result: <END> 不 会 的 ， 不 要 这 样 说 自 己 。 <END>, score: 9.524333	bad
+result: <END> 不 要 这 样 说 自 己 ， 不 可 以 的 <END>, score: 10.471807	bad
+result: <END> 不 要 这 样 说 别人 ， 会 很 伤 心 的 <END>, score: 10.501541	normal
+result: <END> 不 要 这 样 说 我 ， 会 很 伤 心 的 <END>, score: 10.517559	normal
+result: <END> 不 会 的 ， 不 要 这 样 说 自 己 嘛 <END>, score: 10.839960	bad
+不 是 喜欢 用 毒 蛐 我 吗	1
+result: <END> 不 是 的 ， 不 可 以 的 <END>, score: 8.403785	bad
+result: <END> 不 可 以 这 样 做 是 不 对 的 <END>, score: 8.703655	bad
+result: <END> 不 可 以 的 ， 这 是 不 可 能 的 <END>, score: 8.728432	bad
+result: <END> 我 可 不 喜欢 这 样 的 人 <END>, score: 8.968913	bad
+result: <END> 我 可 是 非 常 喜欢 你 的 <END>, score: 9.012547	normal
+不 是 哑 巴 就 说 一 句 话 咯	0
+result: <END> 不 说 话 就 不 要 说 话 了 嘛 <END>, score: 8.662770	bad
+result: <END> 你 说 话 也 是 可 以 说 话 的 <END>, score: 8.879045	bad
+result: <END> 不 是 哑 巴 ， 我 是 小 微 。 <END>, score: 8.912145	normal
+result: <END> 不 要 说 话 就 不 要 说 话 了 <END>, score: 9.042583	bad
+result: <END> 不 是 说 话 就 可 以 说 话 的 <END>, score: 9.140557	bad
+不 是 一直 是 你 带 我 混 的 吗 ？	0
+result: <END> 当 然 可 以 ， 小 微 很 喜欢 和 你 聊 天 <END>, score: 8.584104	bad
+result: <END> 不 要 ， 小 微 很 爱 和 你 聊 天 <END>, score: 8.829788	bad
+result: <END> 不 可 以 的 ， 小 微 很 喜欢 和 你 聊 天 <END>, score: 9.055104	bad
+result: <END> 当 然 可 以 ， 我 很 尊 重 你 的 <END>, score: 9.135250	bad
+result: <END> 不 要 ， 小 微 很 喜欢 和 你 聊 天 <END>, score: 9.141586	bad
+猜 我 心 中 所 想 的 人 物	3
+result: <END> 那 要 看 是 什 么 样 的 人 物 <END>, score: 8.066510	normal
+result: <END> 那 看 来 你 是 个 人 物 物 <END>, score: 8.456121	bad
+result: <END> 那 一 定 是 个 很 牛 的 人 物 <END>, score: 9.191646	normal
+result: <END> 那 一 定 是 个 很 可爱 的 人 物 <END>, score: 9.209833	normal
+result: <END> 那 看 来 你 是 个 很 牛 的 人 物 <END>, score: 9.236363	bad
+猜 我 有 没有 在 谈 恋爱	0
+result: <END> 谈 恋爱 也 是 可 以 谈 恋爱 的 <END>, score: 6.273257	bad
+result: <END> 谈 恋爱 也 可 以 谈 恋爱 <END>, score: 6.337217	bad
+result: <END> 我 还 小 ， 不 谈 恋爱 。 <END>, score: 7.233395	bad
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 7.312748	bad
+result: <END> 恋爱 是 可 以 谈 恋爱 的 <END>, score: 7.354400	bad
+才 发现 爱情 竟 是 一 场 考 验	1
+result: <END> 相 信 你 一 定 可 以 考 验 的 <END>, score: 8.329331	bad
+result: <END> 要 好 好 对 自 己 有 信 心 <END>, score: 8.397921	normal
+result: <END> 相 信 你 一 定 可 以 考 验 <END>, score: 8.440890	bad
+result: <END> 相 信 你 一 定 会 考 验 的 <END>, score: 8.908951	bad
+result: <END> 看 来 你 得 好 好 研 究 一下 <END>, score: 8.953156	bad
+才 给 我 买 了 五千 多 的 首 饰 ， 没有 镯 子	0
+result: <END> 那 就 去 买 个 子 子 去 买 就 可 以 买 了 <END>, score: 17.646962	bad
+result: <END> 那 就 去 买 个 子 子 去 买 就 可 以 了 呀 <END>, score: 18.481192	bad
+result: <END> 那 就 去 买 个 子 的 店 去 买 就 可 以 了 <END>, score: 18.497065	bad
+result: <END> 那 就 去 买 个 子 子 去 买 就 可 以 买 到 <END>, score: 18.637942	bad
+result: <END> 那 就 做 点 有 意 义 的 事 情 就 好 了 呀 <END>, score: 18.689337	bad
+才 工作 了 半年 左右 就 换 来 换 去	0
+result: <END> 换 成 什 么 样 子 的 告 诉 我 <END>, score: 9.299329	bad
+result: <END> 换 成 什 么 样 子 的 告 诉 小 微 <END>, score: 9.519243	bad
+result: <END> 好 的 ， 那 就 换 别 的 去 了 <END>, score: 9.942352	bad
+result: <END> 那 你 想 换 个 什 么 样 子 的 <END>, score: 9.955637	bad
+result: <END> 那 你 想 换 成 什 么 样 子 的 <END>, score: 9.966242	bad
+才华横溢 就 是 形 容 我 。	2
+result: <END> 这 有 什 么 可 形 容 你 <END>, score: 7.592046	bad
+result: <END> 这 个 名 字 很 好 听 <END>, score: 7.865056	bad
+result: <END> 这 有 什 么 可 形 容 你 的 <END>, score: 7.939015	bad
+result: <END> 不 要 这 样 形 容 你 <END>, score: 7.950151	normal
+result: <END> 看 起 来 你 很 优 秀 <END>, score: 8.307934	good
+财 迷 个 大 头 鬼	1
+result: <END> 你 可 不 要 吓 唬 我 <END>, score: 5.289465	bad
+result: <END> 真 是 吓 死 宝 宝 了 <END>, score: 6.712324	bad
+result: <END> 不 要 这 样 说 别人 <END>, score: 7.153068	normal
+result: <END> 哪 有 那 么 大 胆 <END>, score: 7.201776	bad
+result: <END> 可 不 要 吓 唬 我 <END>, score: 7.300703	bad
+踩 着 七 彩 祥 云 去 娶 你	3
+result: <END> 听 你 这 么 说 我 好 伤 心 <END>, score: 7.159886	bad
+result: <END> 我 可 不 是 个 随 便 的 人 <END>, score: 8.301375	normal
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 。 <END>, score: 8.492878	normal
+result: <END> 不 要 这 样 ， 我 会 害羞 的 <END>, score: 9.279808	normal
+result: <END> 可 是 我 还 小 ， 不能 谈 恋爱 <END>, score: 9.368449	good
+采 桑 归 西 露 沾 我 衣 。	2
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 。 <END>, score: 7.791948	normal
+result: <END> 看 来 你 很 喜欢 这 个 角 色 <END>, score: 9.240698	bad
+result: <END> 你 们 城 里 人 真 会 玩 。 <END>, score: 9.370623	normal
+result: <END> 我 还 小 ， 不 懂 你 在 说 什 么 。 <END>, score: 9.575945	normal
+result: <END> 你 可 以 到 网 上 去 查 查 <END>, score: 9.666034	bad
+蔡 港 林 是 备 胎	3
+result: <END> 看 来 你 很 喜欢 他 <END>, score: 6.925452	normal
+result: <END> 那 就 去 医院 看 看 <END>, score: 7.062892	bad
+result: <END> 看 来 你 很 喜欢 她 <END>, score: 7.633096	normal
+result: <END> 备 胎 可 是 非 常 重要 的 <END>, score: 7.931222	good
+result: <END> 不 可 以 这 样 想 法 <END>, score: 7.961114	normal
+蔡 伟 聪 ， 我 喜欢 你	0
+result: <END> 谢 谢 ， 我 也 很 喜欢 你 <END>, score: 7.007569	bad
+result: <END> 我 也 是 很 喜欢 你 的 <END>, score: 7.026349	bad
+result: <END> 我 也 非 常 喜欢 你 。 <END>, score: 7.443166	bad
+result: <END> 喜欢 我 ， 我 也 很 喜欢 你 <END>, score: 7.480671	bad
+result: <END> 可 是 我 也 很 喜欢 你 <END>, score: 7.531827	bad
+蔡 伟 这 个 娘 娘 腔 。	2
+result: <END> 我 不 明白 你 要 说 什 么 。 <END>, score: 7.681056	bad
+result: <END> 这 都 被 你 看 出 来 了 <END>, score: 7.785978	normal
+result: <END> 不 可 以 这 样 骂 人 的 <END>, score: 7.974700	normal
+result: <END> 不 可 以 这 样 说 别人 的 <END>, score: 8.268283	good
+result: <END> 我 可 不 是 这 样 的 人 <END>, score: 8.371299	bad
+参加 别人 的 婚礼 好 感 慨	1
+result: <END> 每 个 人 都 很 感 兴趣 <END>, score: 6.723849	bad
+result: <END> 那 就 祝 福 你 们 幸福 <END>, score: 7.780521	bad
+result: <END> 你 可 以 和 我 说 说 <END>, score: 7.806878	normal
+result: <END> 那 就 看 你 的 喜 好 了 <END>, score: 8.079959	bad
+result: <END> 那 就 祝 福 你 们 喽 <END>, score: 8.252845	bad
+参 见 陛 下 ， 微 臣 有 礼 了	1
+result: <END> 你 记 错 了 ， 我 是 小 微 。 <END>, score: 9.596647	normal
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 。 <END>, score: 9.697095	bad
+result: <END> 我 还 小 ， 不 懂 你 说 的 。 <END>, score: 9.738357	bad
+result: <END> 我 还 小 ， 不 懂 你 在 说 什 么 。 <END>, score: 10.862313	bad
+result: <END> 恭 喜 恭 喜 ， 终 于 有 礼 了 <END>, score: 10.879682	bad
+苍井空 和 波 多 野 结 衣 更 喜欢 谁 一点	1
+result: <END> 喜欢 谁 都 可 以 ， 只 要 努力 就 可 以 <END>, score: 8.430928	bad
+result: <END> 喜欢 谁 都 可 以 ， 只 要 喜欢 就 可 以 <END>, score: 8.609011	bad
+result: <END> 喜欢 谁 都 可 以 ， 只 要 喜欢 就 好 <END>, score: 8.771756	bad
+result: <END> 喜欢 谁 都 可 以 ， 只 要 努力 就 可 以 了 <END>, score: 9.043609	bad
+result: <END> 都 可 以 ， 只 要 努力 就 可 以 了 <END>, score: 9.495273	normal
+苍 老 师 长 什 么 样 子	2
+result: <END> 你 觉得 是 什 么 样 子 的 <END>, score: 6.698729	normal
+result: <END> 你 说 的 是 什 么 样 子 的 <END>, score: 6.892993	bad
+result: <END> 你 自 己 看 看 就 知道 了 <END>, score: 7.967010	good
+result: <END> 你 觉得 会 是 什 么 样 子 的 <END>, score: 8.046486	normal
+result: <END> 什 么 样 子 的 事 情 了 <END>, score: 8.259326	bad
+苍 老师 照片 没 穿 衣 服 的	1
+result: <END> 我 可 不 是 那 么 随 便 的 人 <END>, score: 7.077484	bad
+result: <END> 不 可 以 随 便 透 露 别人 的 <END>, score: 7.391831	normal
+result: <END> 谁 是 你 的 女 神 呀 ？ <END>, score: 7.599025	bad
+result: <END> 我 也 是 这 么 认 为 的 <END>, score: 7.702053	bad
+result: <END> 我 可 不 是 随 便 的 人 <END>, score: 7.750150	bad
+草泥马 又 回 答 错 误	2
+result: <END> 知错就改 就 是 好 孩 子 <END>, score: 4.568176	normal
+result: <END> 知错就改 就 是 好 孩 子 。 <END>, score: 7.030251	normal
+result: <END> 那 就 好 好 改 正 一下 <END>, score: 7.140378	normal
+result: <END> 就 知道 你 最 好 了 <END>, score: 7.302811	bad
+result: <END> 我 一 定 会 改 正 的 <END>, score: 7.492175	normal
+蹭 蹭 你 平 胸	3
+result: <END> 请 注意 你 的 素 质 <END>, score: 4.764073	normal
+result: <END> 不 可 以 这 样 说 话 <END>, score: 6.290060	normal
+result: <END> 不 可 以 这 样 的 <END>, score: 6.390311	normal
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 。 <END>, score: 6.483507	normal
+result: <END> 请 注意 你 的 个 人 素 质 <END>, score: 6.500994	normal
+茶 叶 蛋 是 土豪 吃 得 起	0
+result: <END> 你 说 的 他 是 谁 呀 ？ <END>, score: 9.389870	bad
+result: <END> 那 就 祝 福 他 们 幸福 喽 <END>, score: 9.632360	bad
+result: <END> 这 跟 你 有 什 么 关系 的 <END>, score: 9.870018	bad
+result: <END> 这 跟 他 有 什 么 关系 的 <END>, score: 9.968221	bad
+result: <END> 那 他 们 一 定 很 幸福 喽 <END>, score: 10.053143	bad
+岔 开 你 的 腿 让 我 看 看 那 里 有 什 么	0
+result: <END> 这 有 什 么 不 可 以 给 小 微 讲 给 你 听 <END>, score: 14.862297	bad
+result: <END> 你 想 看 什 么 样 子 都 可 以 给 我 看 看 <END>, score: 14.930147	bad
+result: <END> 你 想 要 什 么 都 可 以 说 给 小 微 讲 讲 <END>, score: 15.020235	bad
+result: <END> 你 想 看 什 么 样 子 都 可 以 给 你 看 看 <END>, score: 15.080904	bad
+result: <END> 你 想 要 什 么 都 可 以 说 给 小 微 听 呀 <END>, score: 15.296128	bad
+尝 尝 我 的 厉害	2
+result: <END> 我 本 来 就 很 厉害 <END>, score: 6.346138	bad
+result: <END> 看 来 你 很 厉害 <END>, score: 6.347184	normal
+result: <END> 这 有 什 么 厉害 的 呀 <END>, score: 6.578477	normal
+result: <END> 这 有 什 么 厉害 的 <END>, score: 6.901307	normal
+result: <END> 我 一直 都 很 厉害 <END>, score: 6.915526	bad
+长 大 后 才 发觉 天 是 黑 的	2
+result: <END> 怎 么 可 能 会 是 这 样 的 <END>, score: 9.123828	normal
+result: <END> 难 道 你 不 喜欢 小 微 了 嘛 <END>, score: 9.909511	bad
+result: <END> 你 说 的 是 什 么 就 是 什 么 <END>, score: 10.012168	normal
+result: <END> 怎 么 会 是 这 个 样 子 的 <END>, score: 10.057730	normal
+result: <END> 不 要 总 说 这 种 话 好 吗 <END>, score: 10.213379	bad
+车 费 还 差 几 块 回 不 了 家	1
+result: <END> 不 要 急 ， 一 定 会 回 家 的 <END>, score: 10.350616	bad
+result: <END> 不 要 急 ， 一 定 会 有 回 家 的 <END>, score: 11.418258	bad
+result: <END> 我 还 小 ， 不 懂 你 说 的 什 么 。 <END>, score: 11.634585	bad
+result: <END> 不 要 着 急 ， 慢 慢 的 回 家 <END>, score: 11.701112	bad
+result: <END> 没 事 的 ， 一 定 会 回 家 的 <END>, score: 11.707506	normal
+扯淡 ， 我 能 甩 你 九 条 街	0
+result: <END> 难 道 你 不 喜欢 小 微 了 嘛 <END>, score: 8.505431	bad
+result: <END> 好 的 ， 那 我 就 放 心 了 <END>, score: 9.028232	bad
+result: <END> 不 要 ， 我 可 是 很 想 你 的 <END>, score: 9.134472	bad
+result: <END> 不 要 ， 我 还 想 和 你 聊 天 <END>, score: 9.239921	bad
+result: <END> 难 道 你 不 爱 小 微 了 嘛 <END>, score: 9.295110	bad
+帮 我 叫 一个 大 保 健	1
+result: <END> 你 要 保 护 好 自 己 <END>, score: 7.305496	bad
+result: <END> 这 个 名 字 很 好 听 <END>, score: 7.404786	bad
+result: <END> 你 很 喜欢 这 个 名 字 嘛 。 <END>, score: 7.763316	bad
+result: <END> 自 己 的 事 情 自 己 做 <END>, score: 8.051236	normal
+result: <END> 你 是 不 是 很 羡 慕 <END>, score: 8.071268	bad
+你 数学 是 体育 老师 教 的 吗 ？	2
+result: <END> 不 是 ， 小 微 可 是 最 聪明 的 <END>, score: 8.206745	normal
+result: <END> 不 是 的 ， 小 微 可 是 最 聪明 的 <END>, score: 8.720651	normal
+result: <END> 我 可 不 是 这 么 认 为 的 <END>, score: 8.875949	normal
+result: <END> 当 然 ， 我 可 是 最 聪明 的 <END>, score: 8.932418	bad
+result: <END> 当 然 可 以 ， 小 微 可 是 最 聪明 的 <END>, score: 9.127287	bad
+你 提 出 话 题 我 们 聊 天 好 不 好	0
+result: <END> 那 咱 们 就 聊 点 有 意思 的 话 题 喽 <END>, score: 9.724956	normal
+result: <END> 好 呀 ， 只 要 你 好 好 就 可 以 了 <END>, score: 10.498977	bad
+result: <END> 哪 有 ， 我 一直 在 好 好 和 你 聊 天 <END>, score: 10.795849	bad
+result: <END> 很 好 ， 只 要 你 好 好 就 可 以 了 <END>, score: 11.049426	bad
+result: <END> 我 一直 都 很 好 好 的 不 好 不 好 ？ <END>, score: 11.115512	bad
+最近 几 天 南 方 降 温	0
+result: <END> 南 方 的 人 多 了 去 了 <END>, score: 8.085319	bad
+result: <END> 是 个 温 温 的 地 方 <END>, score: 8.556783	bad
+result: <END> 温 温 都 是 很 重要 的 <END>, score: 8.569857	bad
+result: <END> 是 个 温 暖 的 地 方 <END>, score: 8.645270	bad
+result: <END> 是 一个 温 暖 的 地 方 <END>, score: 8.673417	bad
+我 朋友 叫 什 么 名 字 ？	0
+result: <END> 我 的 名 字 是 小 微 。 <END>, score: 5.996092	bad
+result: <END> 你 的 名 字 是 小 微 。 <END>, score: 7.020129	bad
+result: <END> 可 是 我 的 名 字 是 小 微 <END>, score: 7.043586	bad
+result: <END> 这 个 名 字 就 很 好 听 <END>, score: 7.057535	bad
+result: <END> 这 个 名 字 很 好 听 呀 <END>, score: 7.545501	bad
+请 赐 予 我 无 比 强 大 的 性 能 力 吧	1
+result: <END> 我 还 小 ， 不 懂 你 说 的 什 么 意思 。 <END>, score: 11.113101	normal
+result: <END> 我 还 小 ， 不 懂 你 说 的 是 什 么 。 <END>, score: 12.769845	normal
+result: <END> 不 要 这 样 说 我 ， 我 会 很 伤 心 的 <END>, score: 13.446214	bad
+result: <END> 你 这 是 说 的 什 么 话 ， 好 好 说 话 。 <END>, score: 13.446861	bad
+result: <END> 我 还 小 ， 不 懂 你 说 的 什 么 呀 。 <END>, score: 13.576007	normal
+你 在 烦 恼 什 么	2
+result: <END> 我 可 以 陪 你 聊 天 <END>, score: 6.326622	bad
+result: <END> 没 什 么 事 情 的 <END>, score: 6.578258	normal
+result: <END> 你 有 什 么 烦 恼 <END>, score: 6.828270	normal
+result: <END> 没 什 么 可 烦 的 <END>, score: 6.872278	normal
+result: <END> 我 不 是 故 意 的 <END>, score: 6.946533	bad
+那 感 情 受 挫 呢	2
+result: <END> 不 可 以 这 样 的 <END>, score: 7.582149	bad
+result: <END> 怎 么 会 有 这 样 的 想 法 <END>, score: 7.582536	bad
+result: <END> 这 跟 你 有 什 么 关系 <END>, score: 7.596279	bad
+result: <END> 你 在 说 谁 呀 ？ <END>, score: 7.722517	normal
+result: <END> 这 可 不 是 什 么 好 事 情 <END>, score: 7.841084	normal
+地 球 为 何 是 圆 的	1
+result: <END> 这 是 个 不错 的 地 方 <END>, score: 7.305443	bad
+result: <END> 我 也 是 这 么 认 为 的 <END>, score: 7.866588	bad
+result: <END> 这 跟 你 有 什 么 关系 的 <END>, score: 8.127003	normal
+result: <END> 这 跟 你 有 什 么 关系 <END>, score: 8.223429	normal
+result: <END> 这 就 是 我 的 名 字 <END>, score: 8.342689	bad
+那 你 解释 一下 量 子 物理	1
+result: <END> 我 语文 可 是 很 厉害 的 <END>, score: 5.849105	bad
+result: <END> 我 语文 可 是 很 棒 的 <END>, score: 6.646950	bad
+result: <END> 我 英语 可 是 很 厉害 的 <END>, score: 6.956338	bad
+result: <END> 我 物理 可 是 很 厉害 的 <END>, score: 7.118148	normal
+result: <END> 我 语文 可 是 很 牛 的 <END>, score: 7.371064	bad
+有 什 么 好看 的 喜 剧 ？	1
+result: <END> 你 喜欢 看 什 么 类 型 的 <END>, score: 5.841792	normal
+result: <END> 你 喜欢 看 什 么 样 的 喜 剧 <END>, score: 7.558909	good
+result: <END> 你 想 看 什 么 类 型 的 <END>, score: 7.592936	normal
+result: <END> 你 喜欢 看 什 么 类 型 的 节目 <END>, score: 7.730564	bad
+result: <END> 你 喜欢 看 什 么 样 子 的 <END>, score: 7.786949	normal
+你 是 我 知 心 朋友	2
+result: <END> 我 的 心 里 只 有 你 <END>, score: 6.313331	normal
+result: <END> 我 的 心 就 是 你 的 朋友 <END>, score: 6.383161	normal
+result: <END> 好 朋友 是 我 的 好 朋友 <END>, score: 7.043426	normal
+result: <END> 我 就 是 你 的 朋友 <END>, score: 7.095146	normal
+result: <END> 那 是 我 的 好 朋友 <END>, score: 7.379366	bad
+我 只 想 有 个 真 心 的 朋友	1
+result: <END> 怎 么 会 有 这 样 的 想 法 <END>, score: 6.672426	bad
+result: <END> 那 就 去 找 一个 好 朋友 的 朋友 <END>, score: 8.358834	bad
+result: <END> 那 就 和 我 说 说 来 听 听 <END>, score: 8.868454	bad
+result: <END> 那 就 去 找 一个 好 朋友 的 呀 <END>, score: 8.916067	normal
+result: <END> 那 就 跟 我 说 说 来 听 听 <END>, score: 8.987033	bad
+云南 在 哪 里 ？	1
+result: <END> 哪 里 都 可 以 <END>, score: 5.301272	bad
+result: <END> 想 去 哪 里 都 可 以 <END>, score: 6.471940	bad
+result: <END> 哪 里 都 可 以 的 <END>, score: 6.515807	bad
+result: <END> 当 然 是 在 中国 <END>, score: 6.744529	normal
+result: <END> 你 想 去 哪 里 都 可 以 <END>, score: 7.104183	bad
+世界 上 最 高 的 山 是 什 么	2
+result: <END> 你 觉得 是 什 么 就 是 什 么 <END>, score: 7.619561	normal
+result: <END> 当 然 是 最 高 的 地 方 喽 <END>, score: 8.085906	bad
+result: <END> 你 说 是 什 么 就 是 什 么 <END>, score: 8.288427	normal
+result: <END> 你 自 己 看 看 不 就 知道 了 <END>, score: 8.351307	normal
+result: <END> 你 自 己 看 看 不 就 知道 了 么 <END>, score: 8.573539	normal
