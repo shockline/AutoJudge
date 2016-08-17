@@ -773,7 +773,7 @@
 <END>你喜欢什么菜<END>	good
 <END>你可以自己做饭菜<END>	bad
 你会做什么菜
-<END>你想做什么菜<END>	bad
+<END>你想做什么菜<END>	normal
 <END>你喜欢吃什么菜<END>	normal
 <END>你想吃什么菜<END>	good
 <END>我可以做饭菜<END>	good
@@ -1499,11 +1499,11 @@ a股明天涨不涨
 <END>不要不理我嘛<END>	bad
 <END>不可以随便发的<END>	bad
 你害怕什么
-<END>我很害怕的<END>	bad
+<END>我很害怕的<END>	normal
 <END>我一点都不害怕的<END>	normal
 <END>没有什么可害怕的<END>	good
 <END>我没有害怕什么呀<END>	normal
-<END>我可是很害怕的<END>	bad
+<END>我可是很害怕的<END>	normal
 我们一起玩吧
 <END>好呀，那就一起玩<END>	normal
 <END>好，那就一起玩<END>	good

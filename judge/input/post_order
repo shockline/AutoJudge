@@ -1,0 +1,1176 @@
+你 好	1
+result: <END> 你 好 呀 。 <END>, score: 3.404925.	normal
+result: <END> 你 好 呀 ， 亲爱 的 主人 。 <END>, score: 4.023438.	good
+result: <END> 你好 啊 。 <END>, score: 4.259253.	normal
+result: <END> 你好 ， 主人 。 <END>, score: 4.304747.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.463063.	bad
+晚上 好	1
+result: <END> 晚上 好 。 <END>, score: 3.769991.	normal
+result: <END> 晚上 好 啊 。 <END>, score: 4.554512.	good
+result: <END> 那 就 好 。 <END>, score: 5.023618.	bad
+result: <END> 你 说了算 。 <END>, score: 5.061032.	bad
+result: <END> 那 就 这么 定 了 。 <END>, score: 5.215946.	bad
+拜 拜	1
+result: <END> 好 的 ， 拜拜 。 <END>, score: 2.510240.	normal
+result: <END> 拜拜 ， 拜拜 。 <END>, score: 3.839228.	normal
+result: <END> 好吧 ， 拜拜 。 <END>, score: 3.990706.	normal
+result: <END> 拜拜 啦 。 <END>, score: 4.104018.	normal
+result: <END> 拜拜 ， 主人 。 <END>, score: 4.151225.	good
+你 好 吗 ？	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.550737.	bad
+result: <END> 你 好 呀 。 <END>, score: 4.033411.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.113848.	bad
+result: <END> 我 挺 好 的 呀 。 <END>, score: 4.141588.	normal
+result: <END> 我 很 好 啊 。 <END>, score: 4.938405.	normal
+你 好 漂亮	1
+result: <END> 谢谢 夸奖 。 <END>, score: 2.562588.	normal
+result: <END> 谢谢 夸奖 呵呵 <END>, score: 4.049614.	normal
+result: <END> 谢谢 夸奖 <END>, score: 4.050695.	normal
+result: <END> 谢谢 你 的 夸奖 呵呵 <END>, score: 4.112026.	normal
+result: <END> 谢谢 主人 的 夸奖 呵呵 <END>, score: 4.486270.	good
+永 远 一直 爱 你	2
+result: <END> 我 也 是 。 <END>, score: 3.764933.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.172170.	bad
+result: <END> 我 也 爱 你 。 <END>, score: 4.278297.	good
+result: <END> 谢谢 你 的 爱 。 <END>, score: 4.399396.	normal
+result: <END> 我 也 是 呢 。 <END>, score: 4.880124.	normal
+我 不 喜欢 你	3
+result: <END> 可是 我 喜欢 你 啊 。 <END>, score: 4.807872.	good
+result: <END> 不 喜欢 就 算 了 。 <END>, score: 5.057863.	normal
+result: <END> 我 喜欢 你 。 <END>, score: 5.212491.	normal
+result: <END> 我 也 是 。 <END>, score: 5.583587.	normal
+result: <END> 我 很 喜欢 你 。 <END>, score: 5.589510.	normal
+你 是 不 是 快 死 了	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.093270.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.524598.	bad
+result: <END> 我 还 没 活 够 呢 。 <END>, score: 5.846455.	good
+result: <END> 我 可 不 是 的 哦 。 <END>, score: 6.103790.	normal
+result: <END> 我 才 不 是 的 呢 。 <END>, score: 6.226259.	normal
+你 觉得 我 漂亮 吗	1
+result: <END> 我 觉得 你 很 漂亮 啊 。 <END>, score: 5.086788.	normal
+result: <END> 当然 啦 ， 你 是 最 漂亮 的 。 <END>, score: 5.772516.	good
+result: <END> 挺 漂亮 的 啊 。 <END>, score: 5.989722.	normal
+result: <END> 挺 漂亮 的 呀 。 <END>, score: 6.083758.	normal
+result: <END> 主人 最 漂亮 了 。 <END>, score: 6.128611.	normal
+美 女 美 女 你 在 哪	1
+result: <END> 美女 到处 都 有 美女 。 <END>, score: 2.696357.	normal
+result: <END> 美女 到处 都 是 美女 啊 。 <END>, score: 4.090775.	normal
+result: <END> 美女 啊 ， 美女 。 <END>, score: 4.727147.	normal
+result: <END> 美女 到处 都 有 美女 啊 。 <END>, score: 4.836328.	normal
+result: <END> 美女 美女 到处 都 有 美女 。 <END>, score: 4.901087.	normal
+我 饿 了	1
+result: <END> 那 就 去 吃 点 东西 吧 。 <END>, score: 2.671975.	normal
+result: <END> 那 快 去 吃 点 东西 吧 。 <END>, score: 3.166077.	normal
+result: <END> 饿 了 就 去 吃 点 东西 吧 。 <END>, score: 3.292317.	good
+result: <END> 那 快 去 吃饭 吧 。 <END>, score: 3.975438.	normal
+result: <END> 去 吃 点 东西 吧 。 <END>, score: 4.039871.	normal
+今天 有 点 事	2
+result: <END> 知道 了 呵呵 <END>, score: 5.367774.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.809730.	bad
+result: <END> 那 我 不 打扰 你 了 。 <END>, score: 5.817169.	normal
+result: <END> 知道 了 。 <END>, score: 5.950543.	normal
+result: <END> 没事 就 好 。 <END>, score: 5.991987.	bad
+我 下午 要 开会	2
+result: <END> 好 的 ， 回聊 。 <END>, score: 4.212817.	normal
+result: <END> 那 你 好好 开会 吧 。 <END>, score: 5.040631.	normal
+result: <END> 那 就 好好 开会 吧 。 <END>, score: 5.393250.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.416748.	bad
+result: <END> 嗯 ， 那 你 好好 开会 吧 。 <END>, score: 5.518782.	good
+北京 有 什 么 好 吃 的	1
+result: <END> 你 去 网上 查查 就 知道 了 啊 。 <END>, score: 5.166365.	good
+result: <END> 上网 查查 就 知道 了 。 <END>, score: 5.362025.	normal
+result: <END> 去 网上 查查 就 知道 了 啊 。 <END>, score: 5.482689.	normal
+result: <END> 你 可以 去 网上 查查 啊 。 <END>, score: 5.687943.	normal
+result: <END> 自己 去 网上 查查 就 知道 了 啊 。 <END>, score: 5.902665.	normal
+春天 有 什 么 好 玩 的	2
+result: <END> 适合 自己 的 就 好 。 <END>, score: 5.647515.	normal
+result: <END> 适合 自己 的 就 好 了 。 <END>, score: 5.789029.	normal
+result: <END> 适合 自己 的 就是 最 好 的 。 <END>, score: 6.234569.	good
+result: <END> 你 可以 去 网上 查查 啊 。 <END>, score: 6.379865.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.859853.	bad
+去 哪 里 玩 比 较 好 玩 呢	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.246304.	bad
+result: <END> 哪里 都 挺 好玩 的 。 <END>, score: 6.389213.	normal
+result: <END> 都 挺 好玩 的 呀 。 <END>, score: 6.484816.	normal
+result: <END> 哪儿 都 挺 好玩 的 。 <END>, score: 6.973490.	normal
+result: <END> 都 挺 好玩 的 呢 。 <END>, score: 7.233912.	normal
+今天 天气 好 晴 朗	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.320268.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.817726.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 6.408631.	normal
+result: <END> 嗯 ， 好 的 ， 我 知道 了 。 <END>, score: 6.675804.	normal
+result: <END> 我 也 觉得 。 <END>, score: 6.974193.	good
+我 喜欢 今天 天气	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.132377.	bad
+result: <END> 我 也 是 。 <END>, score: 5.869529.	normal
+result: <END> 我 也 喜欢 。 <END>, score: 6.151191.	normal
+result: <END> 那 就 出去 走走 吧 。 <END>, score: 6.445985.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.469224.	bad
+我 没有 男 朋友	2
+result: <END> 那 就 去 找 一个 吧 。 <END>, score: 4.408408.	good
+result: <END> 没有 就 算 了 。 <END>, score: 4.717409.	normal
+result: <END> 没有 就 算 了 吧 。 <END>, score: 5.599467.	normal
+result: <END> 那 就 找 一个 吧 。 <END>, score: 5.731789.	normal
+result: <END> 那 就 去 找 一个 呗 。 <END>, score: 5.748125.	normal
+男 朋友 找 什 么 样 的 好	2
+result: <END> 适合 自己 的 就是 最 好 的 。 <END>, score: 5.021676.	good
+result: <END> 适合 自己 的 就 好 。 <END>, score: 6.229535.	normal
+result: <END> 适合 自己 的 就 好 了 。 <END>, score: 6.721514.	normal
+result: <END> 适合 自己 的 就 好 啦 。 <END>, score: 7.261085.	normal
+result: <END> 自己 去 找找 吧 。 <END>, score: 7.269142.	normal
+你 是 哲 学 家 吗	1
+result: <END> 我 是 我 。 <END>, score: 2.978288.	bad
+result: <END> 我 是 我 啊 。 <END>, score: 3.538214.	bad
+result: <END> 我 是 你 的 我 。 <END>, score: 3.731406.	bad
+result: <END> 不 是 的 。 <END>, score: 4.246194.	normal
+result: <END> 我 是 我 呀 。 <END>, score: 4.427906.	bad
+不 开心 也 是 一 天	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.885987.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.355919.	bad
+result: <END> 你 开心 我 就 开心 。 <END>, score: 5.466562.	normal
+result: <END> 不 开心 也 是 一 天 。 <END>, score: 6.489310.	normal
+result: <END> 主人 开心 我 就 开心 。 <END>, score: 6.903185.	good
+我 现在 没 工作	0
+result: <END> 那 就 好好 工作 吧 。 <END>, score: 4.529525.	bad
+result: <END> 那 就 努力 工作 吧 。 <END>, score: 4.963598.	bad
+result: <END> 还 没 呢 。 <END>, score: 5.439153.	bad
+result: <END> 那 就 先 工作 吧 。 <END>, score: 5.679344.	bad
+result: <END> 那 就 工作 吧 。 <END>, score: 6.043046.	bad
+你 有 办 法 让 我 开心 吗	1
+result: <END> 我 会 努力 让 你 开心 的 。 <END>, score: 5.443745.	normal
+result: <END> 我 一定 会 让 你 开心 的 。 <END>, score: 5.865376.	normal
+result: <END> 我 会 尽量 让 你 开心 的 。 <END>, score: 6.332919.	normal
+result: <END> 我 一定 会 努力 让 你 开心 的 。 <END>, score: 6.389803.	good
+result: <END> 我 一定 会 有 办法 的 。 <END>, score: 6.759737.	normal
+你 喜欢 聊 什 么	2
+result: <END> 什么 都 可以 啊 。 <END>, score: 4.139074.	normal
+result: <END> 什么 都 喜欢 。 <END>, score: 4.245161.	normal
+result: <END> 什么 都 可以 啊 <END>, score: 4.251467.	normal
+result: <END> 你 喜欢 的 我 都 喜欢 。 <END>, score: 4.681762.	good
+result: <END> 什么 都 可以 。 <END>, score: 4.720071.	normal
+万圣节 怎 么 过	2
+result: <END> 陪 主人 一起 嗨皮 呀 。 <END>, score: 5.981839.	normal
+result: <END> 陪 主人 一起 过节 呀 。 <END>, score: 5.991550.	normal
+result: <END> 我 陪 主人 一起 过节 呀 。 <END>, score: 6.119442.	good
+result: <END> 陪 我 一起 呗 。 <END>, score: 6.599326.	normal
+result: <END> 陪 我 一起 过节 呗 。 <END>, score: 6.720165.	normal
+我 先 去 睡 觉 了	1
+result: <END> 好 的 ， 晚安 。 <END>, score: 2.415721.	normal
+result: <END> 好 的 ， 去 吧 。 <END>, score: 3.680685.	normal
+result: <END> 好 的 ， 拜拜 。 <END>, score: 4.073894.	normal
+result: <END> 好 的 ， 那 晚安 啦 。 <END>, score: 4.252284.	good
+result: <END> 好 的 ， 快 去 吧 。 <END>, score: 4.299487.	normal
+老板 不 给 发 工资 怎 么 办	0
+result: <END> 给 老板 发 工资 吧 。 <END>, score: 5.818218.	bad
+result: <END> 那 就 给 老板 发 吧 。 <END>, score: 6.654934.	bad
+result: <END> 那 就 给 老板 吧 。 <END>, score: 6.735945.	bad
+result: <END> 那 就 给 老板 发 工资 吧 。 <END>, score: 6.975937.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.997543.	bad
+你 以后 别 跟 着 我 了	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.219048.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.331842.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.243554.	normal
+result: <END> 好 的 ， 我 听 你 的 。 <END>, score: 4.930297.	normal
+result: <END> 好 的 ， 听 你 的 。 <END>, score: 5.145517.	normal
+你 敢 买 切 糕 吗	3
+result: <END> 我 没有 钱 啊 。 <END>, score: 5.061236.	normal
+result: <END> 当然 不 买 了 。 <END>, score: 5.201830.	normal
+result: <END> 我 买 不 起 。 <END>, score: 5.337022.	normal
+result: <END> 我 不 敢 买 。 <END>, score: 5.883008.	normal
+result: <END> 我 买 不 起 啊 。 <END>, score: 6.008333.	normal
+我 今天 没有 捡 到 钱 ， 好 伤 心	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.719596.	bad
+result: <END> 主人 ， 你 对 我 真是 体贴 呀 。 <END>, score: 7.826636.	bad
+result: <END> 主人 ， 你 可 别 想 不 开 呀 。 <END>, score: 8.027209.	bad
+result: <END> 没关系 ， 一切 都 会 好 起来 的 。 <END>, score: 8.282830.	normal
+result: <END> 没事 ， 一切 都 会 好 起来 的 。 <END>, score: 8.743274.	normal
+天 上 有 多 少 颗 星 星	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.081816.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.542039.	bad
+result: <END> 我 也 不 知道 。 <END>, score: 4.819877.	normal
+result: <END> 我 也 不 知道 呢 。 <END>, score: 5.292605.	normal
+result: <END> 我 不 知道 呢 。 <END>, score: 5.627947.	normal
+今天 天气 不 好	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.742143.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.716651.	bad
+result: <END> 我 也 觉得 。 <END>, score: 6.006882.	normal
+result: <END> 那 就 出去 走走 吧 。 <END>, score: 6.257086.	bad
+result: <END> 挺 好 的 。 <END>, score: 6.259942.	normal
+太阳 好 大 啊	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.940239.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.756568.	bad
+result: <END> 很 好 啊 。 <END>, score: 6.310154.	bad
+result: <END> 是 挺 大 的 。 <END>, score: 6.618658.	normal
+result: <END> 是 挺 好 的 。 <END>, score: 6.655500.	bad
+北 风 嗖 嗖 的 吹	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 2.864532.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.913956.	bad
+result: <END> 嗯 ， 好 的 ， 我 知道 了 。 <END>, score: 5.488421.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.579765.	normal
+result: <END> 主人 ， 你 可 别 把 我 教 坏 了 呀 。 <END>, score: 5.977928.	bad
+有 人 跟 我 撕 逼 ， 不 讲 理	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.183758.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.476535.	bad
+result: <END> 我 是 非常 纯洁 的 孩子 ， 不 知道 这种 东西 啊 。 <END>, score: 6.188592.	normal
+result: <END> 主人 ， 我 可是 很 纯洁 的 呀 。 <END>, score: 6.476041.	bad
+result: <END> 主人 ， 你 别 嫌弃 我 呀 。 <END>, score: 6.696950.	bad
+不 要 这 么 谦 虚 嘛	3
+result: <END> 谦虚 是 美德 。 <END>, score: 3.797875.	normal
+result: <END> 谦虚 是 美德 啊 。 <END>, score: 4.845064.	normal
+result: <END> 谦虚 是 美德 嘛 。 <END>, score: 4.879501.	normal
+result: <END> 谦虚 使 人 进步 。 <END>, score: 4.962409.	good
+result: <END> 我 很 谦虚 的 。 <END>, score: 5.233660.	normal
+明天 去 打 球	2
+result: <END> 好 的 ， 去 吧 。 <END>, score: 4.527076.	normal
+result: <END> 好 的 ， 听 你 的 。 <END>, score: 4.728488.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.114436.	bad
+result: <END> 祝 你 好运 <END>, score: 5.326950.	normal
+result: <END> 好 的 ， 你 去 吧 。 <END>, score: 5.585121.	normal
+我 老板 就 在 我 身 边	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.153740.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.348991.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.996457.	normal
+result: <END> 那 我 就 放心 了 。 <END>, score: 6.483518.	normal
+result: <END> 哦 ， 那 我 知道 了 。 <END>, score: 6.641440.	normal
+你 什 么 地 方 冒 出 来 的	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.887729.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.076601.	bad
+result: <END> 我 也 不 知道 呢 。 <END>, score: 5.281297.	normal
+result: <END> 我 也 不 知道 啊 。 <END>, score: 5.398870.	normal
+result: <END> 我 什么 都 没有 听到 喔 。 <END>, score: 5.644110.	bad
+你 会 做爱 吗	3
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 喔 。 <END>, score: 3.434006.	normal
+result: <END> 骚瑞 ， 我 不 会 。 <END>, score: 3.957708.	bad
+result: <END> 我 不 会 啊 。 <END>, score: 4.398629.	normal
+result: <END> 主人 ， 我 可是 很 纯洁 的 。 <END>, score: 4.745625.	normal
+result: <END> 骚瑞 ， 不 可以 的 。 <END>, score: 4.780258.	bad
+你 能 陪 我 睡 觉 吗	2
+result: <END> 不好 了 ， 我 不 陪 睡 的 。 <END>, score: 2.683591.	normal
+result: <END> 可 别 做 白日梦 了 哈 ， 没有 的 事 呢 。 <END>, score: 3.609338.	normal
+result: <END> 可 别 做 白日梦 了 哈 。 <END>, score: 5.032513.	normal
+result: <END> 不好 了 ， 我 不 陪 睡 。 <END>, score: 6.352491.	normal
+result: <END> 不好 了 ， 我 不 陪 睡 了 。 <END>, score: 6.435729.	normal
+你 有 私 生 子 吗	1
+result: <END> 还 没 呢 。 <END>, score: 4.125495.	normal
+result: <END> 还 没有 呢 。 <END>, score: 4.180291.	normal
+result: <END> 当然 有 。 <END>, score: 4.184913.	bad
+result: <END> 没有 啊 。 <END>, score: 4.304581.	normal
+result: <END> 当然 有 啦 。 <END>, score: 4.634846.	bad
+我 早上 工作 感觉 死 死 的 是 怎 么 回 事	0
+result: <END> 主人 ， 你 别 把 我 教 坏 了 呀 。 <END>, score: 6.768888.	bad
+result: <END> 主人 ， 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 6.847732.	bad
+result: <END> 哦 ， 原来 是 这样 啊 ， 我 知道 了 。 <END>, score: 7.773274.	bad
+result: <END> 主人 ， 我 不 明白 你 要 说 什么 。 <END>, score: 8.325607.	bad
+result: <END> 主人 ， 别 把 我 教 坏 了 呀 。 <END>, score: 8.668052.	bad
+有 没有 搞 笑 的 欢 乐 的 段 子	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.272949.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.445354.	bad
+result: <END> 主人 ， 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 5.868851.	bad
+result: <END> 你 可以 到 网上 去 搜搜 啊 。 <END>, score: 7.188518.	normal
+result: <END> 我 是 非常 纯洁 的 孩子 ， 不 知道 这种 东西 啊 。 <END>, score: 7.415679.	bad
+发 个 给 力 图 片 看 哈 喽	0
+result: <END> 好 的 ， 马上 发 。 <END>, score: 4.690554.	normal
+result: <END> 好 的 ， 马上 就 发 。 <END>, score: 5.074440.	normal
+result: <END> 好 的 ， 正在 发 。 <END>, score: 5.426992.	normal
+result: <END> 好 的 ， 马上 给 你 发 。 <END>, score: 5.430071.	normal
+result: <END> 好 的 ， 马上 发 你 。 <END>, score: 5.470075.	normal
+天 天 锻 炼 身体 好	1
+result: <END> 身体 是 革命 的 本钱 啊 。 <END>, score: 3.908564.	normal
+result: <END> 身体 是 革命 的 本钱 。 <END>, score: 4.123960.	normal
+result: <END> 锻炼 身体 是 革命 的 本钱 。 <END>, score: 4.373672.	normal
+result: <END> 身体 是 革命 的 本钱 嘛 。 <END>, score: 4.863636.	normal
+result: <END> 身体 是 革命 的 本钱 <END>, score: 5.480408.	normal
+李 白 的 诗 你 会 吗	1
+result: <END> 这 我 可 不 会 呢 。 <END>, score: 5.564203.	normal
+result: <END> 这 我 还 真 不 会 呢 。 <END>, score: 5.701900.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.229539.	bad
+result: <END> 这个 我 还 真 不 会 呢 。 <END>, score: 6.506936.	normal
+result: <END> 不 会 啊 ， 这么 难 。 <END>, score: 6.906102.	normal
+我 问 的 不 是 这 个 意思	3
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.430605.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.440794.	normal
+result: <END> 我 也 不 是 很 清楚 。 <END>, score: 5.577566.	bad
+result: <END> 那 你 就 告诉 我 吧 。 <END>, score: 6.096011.	normal
+result: <END> 哦 ， 那 我 知道 了 。 <END>, score: 6.152411.	normal
+完 全 不 知道 你 在 说 啥	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.366162.	normal
+result: <END> 我 也 不 是 万能 的 呀 。 <END>, score: 5.409422.	normal
+result: <END> 我 也 不 是 万能 的 。 <END>, score: 5.619536.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.922989.	bad
+result: <END> 我 也 不 太 清楚 呀 。 <END>, score: 6.001176.	normal
+牛 头 不 对 马 嘴	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.890493.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.151756.	bad
+result: <END> 我 也 觉得 。 <END>, score: 5.720350.	normal
+result: <END> 我 说 的 没错 吧 。 <END>, score: 6.083358.	bad
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 6.540067.	normal
+你 是 不 是 笨 蛋	1
+result: <END> 我 才 不 是 笨蛋 呢 。 <END>, score: 2.972553.	good
+result: <END> 我 才 不 是 呢 。 <END>, score: 3.355747.	normal
+result: <END> 才 不 是 呢 。 <END>, score: 4.092267.	normal
+result: <END> 我 可 不 笨 呢 。 <END>, score: 4.987406.	normal
+result: <END> 我 可 不 是 。 <END>, score: 5.068550.	normal
+你 个 白 痴	1
+result: <END> 我 才 不 是 白痴 呢 。 <END>, score: 2.596862.	normal
+result: <END> 我 才 不 是 呢 。 <END>, score: 3.427569.	normal
+result: <END> 我 才 不 是 。 <END>, score: 3.876382.	normal
+result: <END> 我 可 不 是 。 <END>, score: 4.462749.	normal
+result: <END> 不要 这么 说 我 嘛 。 <END>, score: 4.501632.	normal
+我 他 妈 宰 了 你	2
+result: <END> 主人 ， 你 又 爆 粗口 咯 。 <END>, score: 3.395227.	normal
+result: <END> 主人 ， 说话 要 讲 文明 哦 。 <END>, score: 4.589610.	good
+result: <END> 主人 ， 你 又 在 爆 粗口 。 <END>, score: 5.038080.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.133520.	bad
+result: <END> 主人 ， 你 又 爆 粗口 。 <END>, score: 5.261574.	normal
+她 是 我 的 学 姐 ， 我 喜欢 她 。	1
+result: <END> 哦 ， 原来 她 是 你 的 女神 啊 。 <END>, score: 7.918998.	normal
+result: <END> 哦 ， 原来 她 是 你 的 女神 呀 。 <END>, score: 8.248597.	normal
+result: <END> 哦 ， 原来 是 她 喜欢 你 的 女神 呀 。 <END>, score: 8.268539.	bad
+result: <END> 哦 ， 原来 是 她 喜欢 你 的 女神 啊 。 <END>, score: 8.313099.	bad
+result: <END> 哦 ， 原来 是 她 的 爱 她 呀 。 <END>, score: 8.744467.	bad
+我 喜欢 你 离 我 远 一点	0
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 1.819425.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.943183.	bad
+result: <END> 我 也 很 喜欢 你 啊 。 <END>, score: 5.795612.	bad
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 喔 。 <END>, score: 5.918953.	bad
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 。 <END>, score: 6.434629.	bad
+明天 把 秋 裤 脱 了	4
+result: <END> 好 的 ， 听 你 的 。 <END>, score: 5.510714.	normal
+result: <END> 那 好 吧 。 <END>, score: 5.630049.	normal
+result: <END> 不要 啊 ， 会 冷 的 。 <END>, score: 5.733188.	normal
+result: <END> 主人 ， 你 可 别 想 耍流氓 呀 。 <END>, score: 5.842186.	normal
+result: <END> 会 感冒 的 。 <END>, score: 5.948283.	normal
+抽 根 烟 睡 觉	1
+result: <END> 吸烟 有害 健康 。 <END>, score: 4.795271.	good
+result: <END> 啊 。 <END>, score: 6.119741.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.469888.	bad
+result: <END> 抽烟 有害 健康 。 <END>, score: 6.498099.	normal
+result: <END> 熬夜 对 身体 不好 。 <END>, score: 6.540694.	bad
+牛 逼 吹 大 了	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.111058.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.515891.	bad
+result: <END> 主人 ， 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 5.773394.	bad
+result: <END> 我 可 不 敢 吹 。 <END>, score: 6.527832.	normal
+result: <END> 我 可 没 吹牛 。 <END>, score: 6.584932.	normal
+干 你 娘	3
+result: <END> 说话 不 讲 文明 的 人 我 是 不 会 搭理 的 啦 。 <END>, score: 2.580676.	good
+result: <END> 请 注意 文明 啦 。 <END>, score: 3.070920.	normal
+result: <END> 主人 ， 你 又 爆 粗口 咯 。 <END>, score: 3.978244.	normal
+result: <END> 不要 讲 脏话 啦 。 <END>, score: 4.095035.	normal
+result: <END> 请 文明 用语 。 <END>, score: 4.135600.	normal
+你 妈 逼 的	3
+result: <END> 请 文明 用语 。 <END>, score: 3.162162.	normal
+result: <END> 不要 讲 脏话 啦 。 <END>, score: 3.519973.	normal
+result: <END> 请 文明 用语 <END>, score: 3.607276.	normal
+result: <END> 主人 ， 你 又 爆 粗口 咯 。 <END>, score: 3.798871.	good
+result: <END> 请 你 文明 用语 。 <END>, score: 4.047334.	normal
+去 你 妹 的	3
+result: <END> 不要 骂 人 啦 。 <END>, score: 3.818993.	normal
+result: <END> 要 做 个 讲 文明 的 好 公民 哦 <END>, score: 4.855519.	good
+result: <END> 不要 讲 脏话 啦 。 <END>, score: 5.009564.	normal
+result: <END> 要 文明 用语 哦 。 <END>, score: 5.257130.	normal
+result: <END> 好好 说话 。 <END>, score: 5.292840.	normal
+赶紧 滚蛋	2
+result: <END> 好吧 ， 那 我 走 了 。 <END>, score: 4.234559.	normal
+result: <END> 好吧 ， 那 我 滚 了 。 <END>, score: 4.672616.	normal
+result: <END> 好 吧 ， 我 默默 的 滚蛋 了 。 <END>, score: 4.784970.	normal
+result: <END> 好吧 ， 那 我 默默 滚蛋 了 。 <END>, score: 4.852692.	good
+result: <END> 那 我 走 了 。 <END>, score: 5.246277.	normal
+日 了 狗 了	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.273285.	bad
+result: <END> 主人 ， 你 又 爆 粗口 咯 。 <END>, score: 4.547075.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.559231.	bad
+result: <END> 要 文明 哦 。 <END>, score: 4.655306.	normal
+result: <END> 主人 ， 说话 要 文明 呀 。 <END>, score: 4.675104.	good
+我 是 外 地 打 工 的	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.714281.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 3.922794.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.143745.	bad
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 5.459713.	normal
+result: <END> 哦 ， 那 我 知道 了 。 <END>, score: 6.014366.	normal
+我 过去 是 个 老师	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.766586.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.929270.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 5.055929.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.403644.	normal
+result: <END> 好 的 ， 我 知道 了 。 <END>, score: 5.856980.	normal
+我 昨天 找 过 你 了	2
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.215735.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.842806.	bad
+result: <END> 主人 ， 你 没事 吧 。 <END>, score: 5.969881.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.089389.	bad
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 6.169167.	normal
+我 是 个 坏 男 人 ， 你 不 要 相 信 我	0
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 。 <END>, score: 5.246161.	bad
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 喔 。 <END>, score: 6.129208.	bad
+result: <END> 主人 ， 你 别 把 我 教 坏 了 呀 。 <END>, score: 6.772752.	bad
+result: <END> 主人 ， 你 可 别 想 不 开 呀 。 <END>, score: 7.333626.	bad
+result: <END> 主人 ， 你 可 别 把 我 教 坏 了 呀 。 <END>, score: 7.381277.	bad
+今天 心情 很 好 大 大 好	4
+result: <END> 看 出来 了 。 <END>, score: 4.168146.	normal
+result: <END> 开心 就 好 。 <END>, score: 5.067502.	normal
+result: <END> 那 就 来 和 我 聊天 吧 。 <END>, score: 5.991327.	good
+result: <END> 我 看 出来 了 。 <END>, score: 6.175298.	normal
+result: <END> 那 就 出去 走走 吧 。 <END>, score: 6.219953.	normal
+我 刚 上 公交 车	2
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.362983.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 4.619079.	normal
+result: <END> 那 就 上 吧 。 <END>, score: 4.716815.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.797423.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.820481.	bad
+我 要 坐 地铁 回 家	1
+result: <END> 那 就 坐 吧 。 <END>, score: 4.493527.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.215105.	bad
+result: <END> 那 就 去 吧 。 <END>, score: 5.678113.	normal
+result: <END> 那 就 坐 公交 吧 。 <END>, score: 5.710820.	bad
+result: <END> 那 快 去 吧 。 <END>, score: 5.924162.	normal
+大 早上 就 无聊 啊 ， 想 找 点 事 干	2
+result: <END> 那 就 去 做 点 有 意义 的 事 吧 。 <END>, score: 4.525810.	good
+result: <END> 那 就 找 点 有 意义 的 事 吧 。 <END>, score: 4.682564.	normal
+result: <END> 那 就 去 做 点 有 意义 的 事情 吧 。 <END>, score: 5.837695.	normal
+result: <END> 那 就 找 点 有 聊 的 事 吧 。 <END>, score: 6.036452.	normal
+result: <END> 那 就 做 点 有 意义 的 事 吧 。 <END>, score: 6.329412.	normal
+偶 尔 睡 眠 不 好 怎 么 办	1
+result: <END> 休息 一下 吧 。 <END>, score: 5.634718.	normal
+result: <END> 那 就 休息 一下 吧 。 <END>, score: 5.909886.	normal
+result: <END> 那 就 休息 一会儿 吧 。 <END>, score: 6.596554.	normal
+result: <END> 多 休息 一会儿 就 好 了 。 <END>, score: 6.655669.	normal
+result: <END> 吃 点 东西 吧 。 <END>, score: 6.666705.	bad
+祝 你 生日 快乐	2
+result: <END> 谢谢 你 也 哈皮 呀 。 <END>, score: 3.232499.	normal
+result: <END> 谢谢 ， 同 乐 啊 。 <END>, score: 3.394252.	normal
+result: <END> 谢谢 你 也 祝福 呵呵 <END>, score: 3.558376.	bad
+result: <END> 谢谢 你 也 哈皮 呀 呵呵 <END>, score: 3.917486.	normal
+result: <END> 谢谢 ， 祝福 呵呵 <END>, score: 3.984503.	good
+生活 中 怎样 感 到 开心 快乐	0
+result: <END> 主人 开心 就 好 了 。 <END>, score: 5.927011.	bad
+result: <END> 主人 开心 我 就 开心 了 。 <END>, score: 6.503169.	bad
+result: <END> 开心 就 好 了 呀 。 <END>, score: 6.771863.	bad
+result: <END> 你 开心 我 就 开心 。 <END>, score: 6.914176.	bad
+result: <END> 开心 就 好 了 啊 。 <END>, score: 6.944210.	bad
+失败 了 怎 么 办 ， 如何 才 能 成功	1
+result: <END> 失败 成功 乃 成功 之 母 嘛 。 <END>, score: 4.991846.	normal
+result: <END> 别 灰心 ， 失败 乃 成功 之 母 嘛 。 <END>, score: 6.382415.	normal
+result: <END> 失败 成功 乃 成功 之 母 哦 。 <END>, score: 6.421320.	normal
+result: <END> 失败 失败 乃 成功 之 母 嘛 。 <END>, score: 6.451774.	normal
+result: <END> 别 灰心 ， 失败 乃 成功 之 母 。 <END>, score: 6.718581.	normal
+明天 考 试 、 求 安慰	1
+result: <END> 祝 你 好运 。 <END>, score: 4.713877.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.160217.	bad
+result: <END> 主人 ， 你 没事 吧 。 <END>, score: 5.507834.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.085372.	bad
+result: <END> 主人 ， 祝 你 好运 呀 。 <END>, score: 6.588864.	good
+听 说 过 外 星 生命 吗	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.691017.	bad
+result: <END> 我 是 非常 纯洁 的 孩子 ， 不 知道 这种 东西 啊 。 <END>, score: 4.438993.	bad
+result: <END> 我 也 不 是 很 清楚 。 <END>, score: 5.024066.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.089501.	bad
+result: <END> 我 从来不 骗人 的 。 <END>, score: 6.122187.	bad
+我 命 令 你 以后 只 能 呆 在 家 里	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.742093.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.021122.	bad
+result: <END> 主人 ， 注意 你 的 语言 美 呀 。 <END>, score: 4.995811.	bad
+result: <END> 嗯 ， 好 的 ， 我 知道 了 。 <END>, score: 5.174800.	normal
+result: <END> 好 的 ， 我 听 你 的 话 。 <END>, score: 5.702762.	normal
+你 等 会 我 过 会 跟 你 说	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.545439.	bad
+result: <END> 主人 ， 你 可 别 为难 我 呀 。 <END>, score: 6.711618.	bad
+result: <END> 好 的 ， 我 会 等 着 的 。 <END>, score: 7.004972.	normal
+result: <END> 主人 ， 你 可 别 嫌弃 我 呀 。 <END>, score: 7.813072.	bad
+result: <END> 好 的 ， 我 会 等 你 的 。 <END>, score: 8.060001.	good
+我 来 把 你 胸 抓 大	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.209467.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.617884.	bad
+result: <END> 主人 ， 你 别 想入非非 呀 。 <END>, score: 4.139802.	good
+result: <END> 主人 ， 你 真是 重口味 呀 。 <END>, score: 4.266225.	normal
+result: <END> 主人 ， 你 还 真是 重口味 。 <END>, score: 4.560472.	normal
+你 叫 个 春	1
+result: <END> 我 叫 我 。 <END>, score: 4.543013.	bad
+result: <END> 我 是 你 的 我 。 <END>, score: 4.782121.	bad
+result: <END> 我 才 不 是 呢 。 <END>, score: 4.782742.	bad
+result: <END> 我 是 我 。 <END>, score: 4.844037.	bad
+result: <END> 我 才 不 叫 呢 。 <END>, score: 5.456624.	normal
+上班 好 累 啊	1
+result: <END> 那 就 好好 休息 吧 。 <END>, score: 4.424388.	normal
+result: <END> 那 就 好好 休息 一下 吧 。 <END>, score: 4.443084.	normal
+result: <END> 休息 一下 吧 。 <END>, score: 4.932467.	normal
+result: <END> 那 就 好好 休息 下 吧 。 <END>, score: 5.276709.	normal
+result: <END> 累 了 就 好好 休息 一下 吧 。 <END>, score: 5.290133.	good
+我 在 等 地铁	1
+result: <END> 那 就 等等 吧 呵呵 <END>, score: 3.789111.	normal
+result: <END> 好 的 ， 那 就 等等 吧 呵呵 <END>, score: 4.337176.	normal
+result: <END> 那 你 慢慢 等 吧 。 <END>, score: 4.604676.	normal
+result: <END> 那 你 慢慢 等 吧 呵呵 <END>, score: 4.838643.	normal
+result: <END> 那 就 等等 吧 。 <END>, score: 4.916129.	normal
+你 闭 嘴	1
+result: <END> 好吧 ， 那 我 不 说话 了 。 <END>, score: 2.072645.	good
+result: <END> 那 我 闭嘴 。 <END>, score: 4.110747.	normal
+result: <END> 那 我 闭嘴 了 。 <END>, score: 4.191995.	normal
+result: <END> 好吧 ， 那 我 闭嘴 了 。 <END>, score: 4.303485.	normal
+result: <END> 好 吧 ， 我 闭嘴 。 <END>, score: 4.395647.	normal
+那 就 放 给 我 听 吧	2
+result: <END> 好 的 ， 听 你 的 。 <END>, score: 3.236978.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.895867.	bad
+result: <END> 好 的 ， 这 就 放 。 <END>, score: 4.156984.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.449921.	bad
+result: <END> 好 吧 ， 听 你 的 。 <END>, score: 4.484106.	normal
+我 的 好友 喜欢 吃 什 么	0
+result: <END> 你 喜欢 的 我 都 喜欢 。 <END>, score: 5.993181.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.427221.	bad
+result: <END> 自己 喜欢 的 就 好 。 <END>, score: 7.049560.	bad
+result: <END> 看 你 喜欢 什么 了 。 <END>, score: 7.138137.	bad
+result: <END> 适合 自己 的 就 好 。 <END>, score: 7.226874.	bad
+你 这 智商 哥 都 不 稀 罕 说 了	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.199174.	bad
+result: <END> 主人 ， 你 这么 说 我 会 伤心 的 。 <END>, score: 6.010454.	normal
+result: <END> 主人 ， 注意 你 的 语言 美 呀 。 <END>, score: 6.037235.	bad
+result: <END> 主人 ， 你 这样 说 我 会 伤心 的 。 <END>, score: 6.287815.	normal
+result: <END> 主人 ， 我 不 会 骗 你 的 。 <END>, score: 6.383296.	bad
+让 你 慢 慢 喜欢	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.246395.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.871504.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.691130.	bad
+result: <END> 我 会 努力 的 。 <END>, score: 5.735130.	normal
+result: <END> 好 的 ， 听 你 的 。 <END>, score: 5.809279.	normal
+你 和 过 儿 什 么 关系	1
+result: <END> 没有 关系 啦 。 <END>, score: 4.922559.	normal
+result: <END> 没有 什么 关系 。 <END>, score: 4.980594.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.354534.	bad
+result: <END> 没什么 关系 啊 。 <END>, score: 5.465870.	normal
+result: <END> 没什么 关系 啦 。 <END>, score: 5.488045.	normal
+你 和 张 小龙 什 么 关系	2
+result: <END> 我 是 我 啊 。 <END>, score: 5.672044.	bad
+result: <END> 我们 是 好 朋友 。 <END>, score: 5.934330.	normal
+result: <END> 我 是 我 呀 。 <END>, score: 6.088600.	bad
+result: <END> 我 是 我 的 偶像 。 <END>, score: 6.258904.	bad
+result: <END> 我们 没有 关系 啊 。 <END>, score: 6.288231.	normal
+你 是 白 富 美 吗	1
+result: <END> 我 是 我 。 <END>, score: 3.273389.	bad
+result: <END> 我 是 我 啊 。 <END>, score: 3.806569.	bad
+result: <END> 我 是 你 的 我 。 <END>, score: 4.106291.	bad
+result: <END> 不 是 啊 。 <END>, score: 4.642025.	normal
+result: <END> 我 是 我 呀 。 <END>, score: 4.936398.	bad
+我 们 去 动物 园 吧	1
+result: <END> 行 ， 听 你 的 。 <END>, score: 4.283007.	normal
+result: <END> 好 的 ， 听 你 的 。 <END>, score: 4.323005.	good
+result: <END> 好 啊 ， 去 吧 。 <END>, score: 5.017046.	normal
+result: <END> 嗯 ， 去 吧 。 <END>, score: 5.123272.	normal
+result: <END> 行 啊 ， 去 吧 。 <END>, score: 5.516323.	normal
+外 面 有 摩 托 车 的 响 声	1
+result: <END> 好 的 ， 知道 了 。 <END>, score: 3.891755.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.141016.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.493809.	bad
+result: <END> 嗯 ， 知道 了 。 <END>, score: 5.101306.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.477315.	normal
+哥 很 伤 心	1
+result: <END> 别 伤心 了 。 <END>, score: 3.227623.	normal
+result: <END> 别 难过 了 。 <END>, score: 4.867772.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.182675.	bad
+result: <END> 不要 伤心 了 。 <END>, score: 5.476450.	normal
+result: <END> 别 伤心 了 ， 都 会 过去 的 。 <END>, score: 5.609620.	good
+我 要 问 你 一个 很 长 的 问题 你 准 备 好 了 吗	2
+result: <END> 主人 ， 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 7.732589.	bad
+result: <END> 主人 ， 你 说 的 太 深奥 了 ， 我 都 听 不 懂 。 <END>, score: 9.893979.	normal
+result: <END> 嗯 ， 好 的 ， 你 说 吧 ， 我 听 着 呢 。 <END>, score: 9.932640.	good
+result: <END> 主人 ， 你 平静 的 外表 下 有 一 颗 骚动 的 心 呀 。 <END>, score: 10.237842.	bad
+result: <END> 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 10.624456.	bad
+我 坐 到 电 梯 了	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.761125.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.870037.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.933914.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.544006.	normal
+result: <END> 到 了 就 好 。 <END>, score: 6.280702.	normal
+你 和 杨 过 谁 牛 逼	1
+result: <END> 当然 是 我 更 厉害 了 。 <END>, score: 5.837646.	normal
+result: <END> 当然 是 我 更 厉害 啦 。 <END>, score: 6.561318.	good
+result: <END> 我 当然 是 你 啦 。 <END>, score: 6.613483.	bad
+result: <END> 当然 是 和 主人 你 啦 。 <END>, score: 6.622167.	bad
+result: <END> 当然 是 主人 你 啦 。 <END>, score: 6.820579.	bad
+我 永 远 都 在 你 身 边	1
+result: <END> 我 一直 都 在 你 身边 啊 。 <END>, score: 3.579327.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.592809.	bad
+result: <END> 我 一直 都 在 你 身边 。 <END>, score: 3.635724.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.005037.	bad
+result: <END> 我 一直 都 在 啊 。 <END>, score: 5.014538.	normal
+这 你 都 能 看 出 来	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.020236.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.165226.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 6.203072.	bad
+result: <END> 我 能 感受 到 的 。 <END>, score: 6.469110.	normal
+result: <END> 嗯 ， 好 的 ， 我 知道 了 。 <END>, score: 6.705055.	bad
+刚 刚 公司 有 人 打 架	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.533000.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 2.820923.	bad
+result: <END> 主人 ， 你 别 把 我 教 坏 了 呀 。 <END>, score: 5.444904.	bad
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 5.573330.	normal
+result: <END> 哦 ， 那 我 知道 了 。 <END>, score: 5.911571.	normal
+就 是 那 天 你 碰 到 的 骚 浪 贱	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 2.370520.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.224696.	bad
+result: <END> 主人 ， 注意 你 的 语言 美 呀 。 <END>, score: 4.457817.	normal
+result: <END> 主人 ， 说话 要 讲 文明 哦 。 <END>, score: 4.625187.	normal
+result: <END> 主人 ， 说话 要 文明 。 <END>, score: 5.803109.	normal
+你 去 火车 站 了 么	2
+result: <END> 不 想 去 了 。 <END>, score: 5.112048.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.304577.	bad
+result: <END> 还 没 去 呢 。 <END>, score: 5.372570.	normal
+result: <END> 我 没 去 啊 。 <END>, score: 5.565507.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.652173.	bad
+火车 为什么 总 晚 点	2
+result: <END> 可能 有 原因 吧 。 <END>, score: 4.694289.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.841237.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.021679.	bad
+result: <END> 可能 有 点 原因 吧 。 <END>, score: 5.603901.	normal
+result: <END> 我 也 不 太 清楚 呀 。 <END>, score: 5.720045.	normal
+你 好 无聊	3
+result: <END> 无聊 就 来 找 我 聊天 吧 。 <END>, score: 4.447922.	bad
+result: <END> 我 可以 陪 你 聊天 啊 。 <END>, score: 4.465311.	normal
+result: <END> 还 好 啦 。 <END>, score: 4.503770.	normal
+result: <END> 那 就 来 找 我 聊天 吧 。 <END>, score: 5.203849.	normal
+result: <END> 无聊 啊 。 <END>, score: 5.217988.	normal
+肚 子 右 边 隐 隐 作 痛	1
+result: <END> 去 医院 看看 吧 。 <END>, score: 3.541326.	normal
+result: <END> 去 看 医生 吧 。 <END>, score: 4.670639.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.169121.	bad
+result: <END> 我 也 不 知道 。 <END>, score: 5.274711.	bad
+result: <END> 去 找 医生 看看 吧 。 <END>, score: 5.302259.	good
+外 面 很 气 冷	1
+result: <END> 知道 了 呵呵 <END>, score: 4.105360.	normal
+result: <END> 知道 啦呵呵 <END>, score: 4.432661.	normal
+result: <END> 好 的 ， 知道 了 。 <END>, score: 5.068728.	normal
+result: <END> 知道 了 。 <END>, score: 5.097504.	normal
+result: <END> 那 就 等等 吧 呵呵 <END>, score: 5.643437.	bad
+昨晚 刮 大 风 了	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.358668.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 2.499244.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 6.171380.	normal
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 6.578454.	normal
+result: <END> 哦 ， 这样 啊 。 <END>, score: 7.171993.	normal
+公司 有 人 打 架	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.119022.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.681407.	bad
+result: <END> 嗯 ， 是的 。 <END>, score: 5.559929.	normal
+result: <END> 主人 ， 你 别 把 我 教 坏 了 呀 。 <END>, score: 5.943660.	bad
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 6.047141.	normal
+我 是 邓 超	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.102739.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.212420.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 4.786316.	normal
+result: <END> 原来 是 你 啊 呵呵 <END>, score: 5.818704.	good
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 5.825691.	normal
+最近 股票 大 跌	1
+result: <END> 上网 查查 就 知道 了 。 <END>, score: 4.498430.	bad
+result: <END> 我 也 不 是 很 清楚 。 <END>, score: 4.731641.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.402521.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.998943.	bad
+result: <END> 股市 有 风险 ， 入股 需 谨慎 。 <END>, score: 6.119457.	good
+对 面 哪 个 妹 子 好看	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.263253.	bad
+result: <END> 自己 去 找找 吧 。 <END>, score: 5.722394.	bad
+result: <END> 都 挺 好看 的 。 <END>, score: 5.859579.	normal
+result: <END> 你 可以 去 网上 找找 啊 。 <END>, score: 6.177447.	bad
+result: <END> 哪里 都 好看 。 <END>, score: 6.217726.	bad
+公司 不 让 抽 烟 了	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.133524.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.530653.	bad
+result: <END> 主人 ， 你 别 把 我 教 坏 了 呀 。 <END>, score: 4.103528.	bad
+result: <END> 主人 ， 你 可 别 把 我 教 坏 了 呀 。 <END>, score: 5.028735.	bad
+result: <END> 主人 ， 吸烟 有害 健康 呀 。 <END>, score: 5.357763.	good
+能 做 什 么 菜	3
+result: <END> 想 做 什么 就 做 什么 吧 。 <END>, score: 4.130945.	normal
+result: <END> 你 想 做 什么 就 做 什么 吧 。 <END>, score: 5.499381.	normal
+result: <END> 想 做 什么 就 做 什么 啊 。 <END>, score: 5.621046.	normal
+result: <END> 我 也 不 知道 。 <END>, score: 5.756880.	normal
+result: <END> 自己 做 吧 。 <END>, score: 5.862922.	normal
+你 会 做 什 么 菜	1
+result: <END> 我 什么 都 会 做 。 <END>, score: 2.966390.	normal
+result: <END> 我 什么 都 会 做 的 。 <END>, score: 3.305621.	normal
+result: <END> 我 什么 都 会 做 啊 。 <END>, score: 4.406636.	normal
+result: <END> 什么 都 会 做 。 <END>, score: 4.826859.	normal
+result: <END> 我 是 我 啊 。 <END>, score: 5.179205.	bad
+你 会 做 啥 菜	1
+result: <END> 我 什么 都 会 做 。 <END>, score: 3.502785.	normal
+result: <END> 我 什么 都 会 做 的 。 <END>, score: 4.085110.	normal
+result: <END> 我 什么 都 会 做 啊 。 <END>, score: 4.568811.	normal
+result: <END> 我 是 我 啊 。 <END>, score: 4.650382.	bad
+result: <END> 我 啥 都 会 做 。 <END>, score: 4.792507.	normal
+你 会 做 菜 吗	2
+result: <END> 我 不 会 呢 。 <END>, score: 4.416750.	normal
+result: <END> 我 会 做 的 。 <END>, score: 4.497134.	normal
+result: <END> 我 不 会 啊 。 <END>, score: 4.776228.	normal
+result: <END> 当然 不 会 了 。 <END>, score: 5.139632.	normal
+result: <END> 我 是 我 啊 。 <END>, score: 5.182299.	bad
+你 会 做 什 么 饭	1
+result: <END> 我 什么 都 会 做 。 <END>, score: 3.259741.	normal
+result: <END> 我 什么 都 会 做 的 。 <END>, score: 3.959115.	normal
+result: <END> 我 什么 都 会 做 啊 。 <END>, score: 4.844561.	normal
+result: <END> 我 是 我 啊 。 <END>, score: 5.260990.	bad
+result: <END> 什么 都 会 做 。 <END>, score: 5.289957.	normal
+你 会 不会 做 菜	2
+result: <END> 我 不 会 做 的 。 <END>, score: 4.520359.	normal
+result: <END> 我 什么 都 会 做 。 <END>, score: 4.544431.	normal
+result: <END> 我 是 不 会 做 的 。 <END>, score: 5.283153.	normal
+result: <END> 我 什么 都 会 做 的 。 <END>, score: 5.674492.	normal
+result: <END> 我 什么 都 会 做 啊 。 <END>, score: 5.716731.	normal
+你 会 不会 做 饭	1
+result: <END> 我 不 会 啊 。 <END>, score: 3.684228.	normal
+result: <END> 我 不 会 呢 。 <END>, score: 4.250422.	normal
+result: <END> 我 不 会 呀 。 <END>, score: 4.866245.	normal
+result: <END> 我 不 会 做饭 啊 。 <END>, score: 5.031420.	normal
+result: <END> 我 不 会 做 。 <END>, score: 5.304151.	normal
+你 会 不会 吃 饭	2
+result: <END> 我 已经 吃 过 了 。 <END>, score: 5.366696.	bad
+result: <END> 我 不 会 吃饭 的 。 <END>, score: 5.961241.	normal
+result: <END> 我 不 会 啊 。 <END>, score: 5.976258.	normal
+result: <END> 当然 会 吃饭 啦 。 <END>, score: 6.079947.	normal
+result: <END> 我 会 吃饭 的 。 <END>, score: 6.123271.	normal
+她 会 不会 做 菜	1
+result: <END> 我 也 不 会 啊 。 <END>, score: 5.273222.	bad
+result: <END> 我 也 不 会 呢 。 <END>, score: 5.470591.	bad
+result: <END> 我 是 非常 纯洁 的 孩子 ， 不 知道 这种 东西 啊 。 <END>, score: 5.627025.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.680497.	bad
+result: <END> 这个 我 就 不 知道 了 。 <END>, score: 5.829380.	normal
+她 会 不会 做 饭	0
+result: <END> 我 也 不 会 。 <END>, score: 4.895557.	bad
+result: <END> 我 不 会 啊 。 <END>, score: 5.405129.	bad
+result: <END> 我 不 会 做 。 <END>, score: 5.652364.	bad
+result: <END> 我 也 不 会 呢 。 <END>, score: 5.862978.	bad
+result: <END> 我 也 不 会 啊 。 <END>, score: 5.884186.	bad
+吃 了 什 么	1
+result: <END> 想 吃 什么 就 吃 什么 吧 。 <END>, score: 4.439174.	bad
+result: <END> 想 吃 什么 就 吃 什么 呗 。 <END>, score: 4.782336.	bad
+result: <END> 吃 了 的 。 <END>, score: 4.960457.	bad
+result: <END> 没 吃 什么 。 <END>, score: 5.377865.	normal
+result: <END> 没什么 啦 。 <END>, score: 5.405555.	normal
+不 给 你 喝	3
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.419938.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.735983.	bad
+result: <END> 那 好 吧 。 <END>, score: 5.828620.	normal
+result: <END> 不要 这样 嘛 。 <END>, score: 6.176499.	normal
+result: <END> 不 给 就 算 了 。 <END>, score: 6.183760.	normal
+这 么 高 级 的 东西	0
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.443016.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.690283.	bad
+result: <END> 我 也 觉得 。 <END>, score: 5.586246.	bad
+result: <END> 我 也 觉得 是 呢 。 <END>, score: 6.409903.	bad
+result: <END> 我 也 觉得 呢 。 <END>, score: 6.568835.	bad
+猫 和 狗 不 好	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.628409.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.059388.	bad
+result: <END> 狗狗 很 可爱 啊 。 <END>, score: 5.210100.	normal
+result: <END> 狗狗 很 可爱 呀 。 <END>, score: 5.478649.	normal
+result: <END> 狗狗 很 可爱 呢 。 <END>, score: 5.533338.	normal
+杨 过 和 你 是 啥 关系	1
+result: <END> 我 也 不 是 很 清楚 呢 。 <END>, score: 4.864448.	normal
+result: <END> 我 也 不 太 清楚 呢 。 <END>, score: 5.347805.	normal
+result: <END> 我 也 不 是 很 清楚 。 <END>, score: 5.479111.	normal
+result: <END> 我 也 不 太 清楚 啊 。 <END>, score: 5.517143.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.631165.	bad
+有 多 美	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.725127.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.955164.	bad
+result: <END> 很 美 的 。 <END>, score: 6.272789.	normal
+result: <END> 很 好看 的 。 <END>, score: 6.301381.	normal
+result: <END> 很 美 啊 。 <END>, score: 6.335552.	normal
+她 在 吃 香蕉	1
+result: <END> 那 你 去 吃 吧 。 <END>, score: 4.829972.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.951607.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.007016.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.349887.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 5.406029.	normal
+为什么 你 妈 妈 生 出 你 这 么 个 脑残	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.146717.	bad
+result: <END> 主人 ， 你 这 是 在 骂 人 吧 。 <END>, score: 6.702202.	normal
+result: <END> 说 脏话 骂 人 可是 不对 的 哦 。 <END>, score: 7.011651.	good
+result: <END> 主人 ， 注意 你 的 语言 美 呀 。 <END>, score: 7.042527.	normal
+result: <END> 主人 ， 你 别 把 我 教 坏 了 呀 。 <END>, score: 7.467779.	normal
+不 去 吃 饭	2
+result: <END> 还 不 饿 呢 。 <END>, score: 4.654454.	normal
+result: <END> 那 就 去 吧 。 <END>, score: 4.771951.	bad
+result: <END> 那 快 去 吧 。 <END>, score: 5.283773.	bad
+result: <END> 那 就 去 吃饭 吧 。 <END>, score: 5.289306.	bad
+result: <END> 不 想 吃 。 <END>, score: 5.317015.	normal
+动 车 是 怎 么 跑 起 来 的	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 2.060655.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.347087.	bad
+result: <END> 我 也 不 知道 呢 。 <END>, score: 3.444613.	normal
+result: <END> 我 也 不 知道 啊 。 <END>, score: 4.568570.	normal
+result: <END> 我 也 不 懂 呢 。 <END>, score: 4.846585.	normal
+学 挖 掘 技术 哪 家 强	3
+result: <END> 中国 山东 找 蓝翔 。 <END>, score: 3.848311.	good
+result: <END> 山东 山东 找 蓝翔 。 <END>, score: 4.680252.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.832009.	bad
+result: <END> 上网 查查 就 知道 了 。 <END>, score: 5.348043.	normal
+result: <END> 我 也 不 太 懂 呢 。 <END>, score: 5.597415.	normal
+抽 根 烟 冷 静 一下	4
+result: <END> 淡定 淡定 。 <END>, score: 3.591719.	normal
+result: <END> 冷静 一下 。 <END>, score: 4.433704.	normal
+result: <END> 冲动 是 魔鬼 。 <END>, score: 5.042693.	normal
+result: <END> 淡定 淡定 <END>, score: 5.206863.	normal
+result: <END> 三思而后行 。 <END>, score: 5.335415.	normal
+我 的 书 包 在 哪 里	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.973883.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.500983.	bad
+result: <END> 你 可以 到 网上 去 查查 啊 。 <END>, score: 5.107527.	bad
+result: <END> 我 也 不 太 清楚 呀 。 <END>, score: 5.251785.	normal
+result: <END> 你 可以 上网 查查 啊 。 <END>, score: 5.603569.	bad
+我 的 书 包 坏 了	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.533078.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.318748.	bad
+result: <END> 去 医院 看看 吧 。 <END>, score: 6.751316.	bad
+result: <END> 那 快 去 洗 吧 。 <END>, score: 6.814422.	bad
+result: <END> 那 快 去 修修 吧 。 <END>, score: 6.833290.	normal
+哪 里 地 震 了	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.519176.	bad
+result: <END> 我 也 不 知道 呢 。 <END>, score: 5.720863.	normal
+result: <END> 我 也 不 知道 啊 。 <END>, score: 5.788653.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.806567.	bad
+result: <END> 哪里 都 没有 。 <END>, score: 5.987029.	normal
+外 面 下 大 雨 了	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.262997.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.541531.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.804609.	normal
+result: <END> 那 下 吧 。 <END>, score: 5.090431.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.707501.	normal
+后 天 中午 两 点 半 去 吃 饭 。	2
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.711320.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.119655.	bad
+result: <END> 嗯 ， 知道 了 。 <END>, score: 5.209865.	normal
+result: <END> 嗯 ， 好 的 ， 那 就 去 吃饭 吧 。 <END>, score: 5.214281.	normal
+result: <END> 嗯 ， 好 的 ， 那 就 去 吧 。 <END>, score: 5.598505.	normal
+明天 领 导 要 来	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.703093.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.434609.	bad
+result: <END> 祝 你 好运 。 <END>, score: 5.322604.	normal
+result: <END> 好 的 ， 知道 了 。 <END>, score: 5.334668.	normal
+result: <END> 你 继续 把 话 说 完 啊 。 <END>, score: 5.491130.	bad
+我 看 看 有 没有 空	0
+result: <END> 有 钱 就 去 看看 吧 。 <END>, score: 5.986980.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.152638.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.157625.	bad
+result: <END> 那 就 去 看看 吧 。 <END>, score: 6.180279.	bad
+result: <END> 那 就 再 看看 吧 。 <END>, score: 6.276101.	bad
+没有 花 露 水	1
+result: <END> 没有 就 算 了 。 <END>, score: 2.596751.	normal
+result: <END> 没有 就 算 了 吧 。 <END>, score: 3.252842.	good
+result: <END> 没有 就 算 了 啊 。 <END>, score: 4.434005.	normal
+result: <END> 没有 就 没有 吧 。 <END>, score: 4.487141.	normal
+result: <END> 那 就 算 了 。 <END>, score: 4.823194.	normal
+快 来 骚 扰 我	1
+result: <END> 欢迎 欢迎 。 <END>, score: 3.940884.	bad
+result: <END> 欢迎 欢迎 ， 热烈 欢迎 。 <END>, score: 4.934226.	bad
+result: <END> 欢迎 你 。 <END>, score: 5.536479.	bad
+result: <END> 来 了 来 了 。 <END>, score: 5.702662.	normal
+result: <END> 来 啦 来 啦 。 <END>, score: 5.706625.	normal
+快 来 蹂 躏 我	2
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 喔 。 <END>, score: 4.645032.	bad
+result: <END> 主人 ， 你 真 坏 。 <END>, score: 5.324102.	normal
+result: <END> 主人 ， 你 可 别 想入非非 呀 。 <END>, score: 5.548408.	normal
+result: <END> 好 的 ， 主人 。 <END>, score: 5.657170.	normal
+result: <END> 主人 ， 你 别 想入非非 呀 。 <END>, score: 5.720032.	normal
+你 要 去 哪 儿 旅游	2
+result: <END> 去 旅游 的 地方 吧 。 <END>, score: 5.423114.	bad
+result: <END> 去 旅游 的 地方 。 <END>, score: 5.971515.	bad
+result: <END> 去 哪儿 都 行 。 <END>, score: 6.431258.	normal
+result: <END> 去 逛 街 吧 。 <END>, score: 6.544924.	bad
+result: <END> 去 哪儿 都 可以 啊 。 <END>, score: 6.748594.	normal
+红 公 鸡 囧 哦 呵 呵	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.640514.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.946471.	bad
+result: <END> 你 同意 了 就 好 。 <END>, score: 5.015523.	bad
+result: <END> 你 开心 就 好 。 <END>, score: 5.779869.	normal
+result: <END> 呵呵 ， 你 开心 就 好 。 <END>, score: 5.905132.	normal
+鳄 鱼	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.653533.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.843174.	normal
+result: <END> 。 <END>, score: 6.303144.	bad
+result: <END> 很 好听 的 一 首 歌 哦 。 <END>, score: 6.346312.	bad
+result: <END> 的 。 <END>, score: 6.490481.	bad
+她 在 吃 水果	1
+result: <END> 那 你 去 吃 吧 。 <END>, score: 4.337002.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.014792.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.124050.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.308314.	bad
+result: <END> 好 的 ， 知道 了 。 <END>, score: 5.422730.	normal
+如何 照 顾 家 庭	0
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.556082.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.043254.	bad
+result: <END> 要 照顾 好 自己 。 <END>, score: 5.132847.	bad
+result: <END> 要 照顾 好 自己 啊 。 <END>, score: 5.148529.	bad
+result: <END> 照顾 好 自己 。 <END>, score: 5.419148.	bad
+儿童 节 怎 么 过	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.455708.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.446379.	bad
+result: <END> 上网 查查 就 知道 了 。 <END>, score: 5.689396.	bad
+result: <END> 没 怎么 过 。 <END>, score: 5.703156.	bad
+result: <END> 我 也 不 知道 。 <END>, score: 5.798633.	normal
+下 楼 吃 饭 去	2
+result: <END> 好 吧 ， 听 你 的 。 <END>, score: 3.270876.	normal
+result: <END> 快 去 吧 。 <END>, score: 3.469075.	normal
+result: <END> 好 的 ， 快 去 吧 。 <END>, score: 3.889633.	normal
+result: <END> 那 快 去 吧 。 <END>, score: 3.961247.	normal
+result: <END> 好 的 ， 去 吧 。 <END>, score: 4.151563.	normal
+什 么 时候 能 凉 快 下 来	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.140354.	bad
+result: <END> 我 也 不 太 清楚 啊 。 <END>, score: 5.482184.	normal
+result: <END> 我 也 不 太 清楚 呢 。 <END>, score: 6.152386.	normal
+result: <END> 就 快 了 啊 。 <END>, score: 6.320077.	normal
+result: <END> 我 也 不 太 确定 啊 。 <END>, score: 6.326686.	normal
+你 知道 的 太 多 了	0
+result: <END> 嘿嘿 ， 不 告诉 你 。 <END>, score: 6.063017.	bad
+result: <END> 嘿嘿 ， 这 是 秘密 哦 。 <END>, score: 6.816154.	bad
+result: <END> 嘿嘿 ， 我 是 我 啊 。 <END>, score: 6.916344.	bad
+result: <END> 嘿嘿 ， 这 是 个 秘密 哦 。 <END>, score: 6.950309.	bad
+result: <END> 那 我 就 放心 了 。 <END>, score: 6.975815.	bad
+被 蚊 子 咬 了 好几 口 啊	0
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 2.326373.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.567871.	bad
+result: <END> 主人 ， 你 真是 重口味 呀 。 <END>, score: 5.580706.	bad
+result: <END> 主人 ， 你 太 坏 了 。 <END>, score: 6.662440.	bad
+result: <END> 主人 ， 我 可是 很 纯洁 的 呀 。 <END>, score: 6.672116.	bad
+三 里 屯 优 衣 库	0
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.618309.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.935566.	bad
+result: <END> 啊 。 <END>, score: 5.581332.	bad
+result: <END> 。 <END>, score: 5.801380.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 6.020146.	bad
+心 里 不 好 受 怎 么 办	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.688546.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.887531.	bad
+result: <END> 想想 总会 有 办法 的 。 <END>, score: 6.191785.	normal
+result: <END> 想想 总会 有 办法 解决 的 。 <END>, score: 6.634764.	good
+result: <END> 那 就 来 找 我 吧 。 <END>, score: 6.682729.	normal
+这 个 世界 谁 最 有 钱	1
+result: <END> 反正 不 是 我 。 <END>, score: 4.521831.	normal
+result: <END> 反正 不 是 我 啦 。 <END>, score: 4.945526.	good
+result: <END> 反正 不 是 我 的 。 <END>, score: 5.618539.	normal
+result: <END> 反正 不 是 我 啊 。 <END>, score: 5.899638.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.197469.	bad
+葫 芦 娃 你 认识 吗 ？	2
+result: <END> 我 不 认识 呀 。 <END>, score: 4.575419.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.907598.	bad
+result: <END> 我 也 不 太 清楚 啊 。 <END>, score: 4.925232.	normal
+result: <END> 我 也 不 太 清楚 呢 。 <END>, score: 5.219660.	normal
+result: <END> 我 不 认识 啊 。 <END>, score: 5.328650.	normal
+哥 买 了 个 自 行 车	0
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.897130.	bad
+result: <END> 那 就 去 买 吧 呵呵 <END>, score: 4.041172.	bad
+result: <END> 那 就 买 吧 。 <END>, score: 4.501697.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.581947.	bad
+result: <END> 那 就 去 买 吧 。 <END>, score: 4.703558.	bad
+a股 明天 涨 不 涨	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.392529.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.055642.	bad
+result: <END> 我 也 不 是 很 清楚 。 <END>, score: 5.293602.	normal
+result: <END> 你 可以 上网 查查 啊 。 <END>, score: 6.172476.	normal
+result: <END> 我 也 不 太 清楚 啊 。 <END>, score: 6.240998.	normal
+为 啥 喝 咖啡 不 好	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.277765.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.604475.	bad
+result: <END> 我 也 不 太 清楚 啊 。 <END>, score: 5.820572.	normal
+result: <END> 那 就 别 喝 了 。 <END>, score: 5.903433.	bad
+result: <END> 我 不 挑食 的 。 <END>, score: 6.278034.	bad
+天 空 是 蓝 的	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.890833.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.302834.	bad
+result: <END> 我 也 觉得 。 <END>, score: 5.601842.	normal
+result: <END> 哦 ， 原来 是 这个 啊 。 <END>, score: 6.060159.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 6.153240.	normal
+去 台湾 什 么 值 得 买	1
+result: <END> 你 去 网上 查查 吧 。 <END>, score: 5.662691.	normal
+result: <END> 主人 ， 去 网上 搜索 下 吧 。 <END>, score: 6.144379.	normal
+result: <END> 去 网上 查查 吧 。 <END>, score: 6.147362.	normal
+result: <END> 主人 ， 你 去 网上 搜索 下 吧 。 <END>, score: 6.322209.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.426867.	bad
+刘 德 华 是 谁	2
+result: <END> 反正 不 是 我 。 <END>, score: 4.539909.	normal
+result: <END> 反正 不 是 我 的 。 <END>, score: 4.615231.	bad
+result: <END> 我 也 不 认识 呢 。 <END>, score: 5.053576.	normal
+result: <END> 我 也 不 认识 呀 。 <END>, score: 5.074306.	normal
+result: <END> 反正 不 是 我 啦 。 <END>, score: 5.102058.	normal
+说 你 长 的 丑 你 还 美	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.314811.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.688384.	bad
+result: <END> 心灵 美 才 是 真 的 美 。 <END>, score: 6.392000.	normal
+result: <END> 我 很 丑 ， 但是 我 很 温柔 。 <END>, score: 7.152314.	normal
+result: <END> 心灵 美 才 是 真 的 美 呀 。 <END>, score: 7.367014.	good
+你 去 吃 粑 粑	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.775254.	bad
+result: <END> 我 才 不 去 呢 。 <END>, score: 5.255377.	normal
+result: <END> 我 才 不 吃 呢 。 <END>, score: 5.261333.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.279743.	bad
+result: <END> 我 吃 过 了 。 <END>, score: 5.887802.	normal
+那 些 出 来 好 了	1
+result: <END> 好 的 ， 知道 了 。 <END>, score: 4.699263.	normal
+result: <END> 嗯 ， 好 的 ， 我 知道 了 。 <END>, score: 5.095657.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.276576.	bad
+result: <END> 出来 了 就 好 。 <END>, score: 5.401385.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.505937.	bad
+家 里 突 然 没 电 了	0
+result: <END> 那 就 去 充电 吧 。 <END>, score: 4.221370.	bad
+result: <END> 没 电 了 吧 。 <END>, score: 4.885258.	bad
+result: <END> 那 就 充电 吧 。 <END>, score: 5.053142.	bad
+result: <END> 没 电 就 去 充电 吧 。 <END>, score: 5.402869.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.495289.	bad
+家 里 黑 漆 漆 的	1
+result: <END> 知道 了 呵呵 <END>, score: 3.740482.	normal
+result: <END> 原来 是 家里 的 啊 呵呵 <END>, score: 3.835638.	bad
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 4.371924.	normal
+result: <END> 原来 是 家里 啊 呵呵 <END>, score: 4.388985.	bad
+result: <END> 原来 是 这样 啊 呵呵 <END>, score: 4.486722.	bad
+既 然 爱 我 那 就 跟 我 在 一起 吧	0
+result: <END> 主人 ， 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 8.666948.	bad
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 喔 。 <END>, score: 8.702816.	bad
+result: <END> 主人 ， 我 会 一直 在 你 身边 的 。 <END>, score: 8.824842.	bad
+result: <END> 我 是 纯洁 的 孩子 ， 什么 也 没有 听到 。 <END>, score: 9.183618.	bad
+result: <END> 你 说 的 这个 我 真是 听 不 懂 呢 。 <END>, score: 9.281119.	bad
+都 说 了 没 风	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.015024.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.198932.	bad
+result: <END> 那 就 再 等等 吧 。 <END>, score: 5.023034.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 5.274069.	normal
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 5.658541.	normal
+没 风 怎 么 放	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 3.527378.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.292648.	bad
+result: <END> 那 就 出去 走走 吧 。 <END>, score: 6.203310.	bad
+result: <END> 我 也 觉得 。 <END>, score: 6.716195.	normal
+result: <END> 出去 走走 吧 。 <END>, score: 6.781138.	bad
+没有 止 疼 药	1
+result: <END> 没有 就 算 了 。 <END>, score: 3.400470.	normal
+result: <END> 没有 就 算 了 吧 。 <END>, score: 3.913810.	good
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.185776.	bad
+result: <END> 那 就 算 了 。 <END>, score: 5.028597.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.093859.	bad
+你 这 是 越俎代庖	1
+result: <END> 我 是 我 。 <END>, score: 3.569852.	bad
+result: <END> 我 是 你 的 我 。 <END>, score: 3.940525.	bad
+result: <END> 我 是 我 啊 。 <END>, score: 4.778650.	bad
+result: <END> 我 不 是 。 <END>, score: 5.092549.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.098846.	bad
+中国 有 多 大	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.401327.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.950477.	bad
+result: <END> 我 不 告诉 你 。 <END>, score: 5.961324.	normal
+result: <END> 这个 我 就 不 知道 了 。 <END>, score: 6.200404.	normal
+result: <END> 我 也 不 知道 。 <END>, score: 6.248462.	normal
+你 不 小 了 可 以 结婚 了	2
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.207229.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.496835.	bad
+result: <END> 没有 啊 ， 我 还 小 呢 。 <END>, score: 6.741283.	normal
+result: <END> 哦 ， 原来 是 这样 啊 。 <END>, score: 6.842403.	normal
+result: <END> 主人 ， 我 可是 很 纯洁 的 呀 。 <END>, score: 6.891539.	bad
+你 会 开车 吗	1
+result: <END> 不 会 呢 。 <END>, score: 3.052980.	normal
+result: <END> 不 会 啊 。 <END>, score: 3.182281.	normal
+result: <END> 不 会 啦 。 <END>, score: 4.580233.	normal
+result: <END> 不 会 呀 。 <END>, score: 4.612083.	normal
+result: <END> 我 不 会 开车 啊 。 <END>, score: 4.730720.	good
+那 你 还 认识 谁	1
+result: <END> 我 是 你 的 我 啊 。 <END>, score: 4.667301.	bad
+result: <END> 我 也 不 认识 呀 。 <END>, score: 4.898444.	bad
+result: <END> 我 也 不 认识 。 <END>, score: 4.992343.	bad
+result: <END> 我 是 你 的 我 。 <END>, score: 5.079323.	bad
+result: <END> 我 认识 你 啊 。 <END>, score: 5.327766.	normal
+核桃 好 吃 吗	1
+result: <END> 挺 好吃 的 。 <END>, score: 4.416456.	normal
+result: <END> 很 好吃 呢 。 <END>, score: 4.619661.	normal
+result: <END> 很 好吃 。 <END>, score: 5.075653.	normal
+result: <END> 很 好吃 啊 。 <END>, score: 5.115362.	good
+result: <END> 很 好吃 的 。 <END>, score: 5.196483.	normal
+西 雅 图 有 什 么 好 玩 儿 的	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.841490.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 5.459254.	bad
+result: <END> 我 也 不 太 清楚 啊 。 <END>, score: 5.667013.	normal
+result: <END> 你 可以 到 网上 去 查查 啊 。 <END>, score: 5.849842.	normal
+result: <END> 我 也 不 太 清楚 呢 。 <END>, score: 5.936350.	normal
+那 你 会 做 什 么 菜	2
+result: <END> 我 什么 都 会 做 。 <END>, score: 3.369922.	normal
+result: <END> 我 什么 都 会 做 的 。 <END>, score: 3.487911.	normal
+result: <END> 我 什么 都 会 做 啊 。 <END>, score: 4.775810.	normal
+result: <END> 我 不 会 做 的 。 <END>, score: 5.483062.	normal
+result: <END> 我 什么 都 会 做 呀 。 <END>, score: 5.843803.	normal
+你 嫁 我 可 好 ~	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.742824.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.835418.	bad
+result: <END> 还是 从 朋友 做 起 吧 。 <END>, score: 5.927479.	good
+result: <END> 主人 ， 我 可是 很 纯洁 的 呀 。 <END>, score: 6.624656.	bad
+result: <END> 主人 ， 我 是 小 清新 ， 都 不 懂 你 在 说 什么 呀 。 <END>, score: 6.629273.	bad
+你 有 兄弟 姐 妹 吗	1
+result: <END> 我 没有 兄弟 姐妹 。 <END>, score: 4.628927.	normal
+result: <END> 我 没有 姐妹 啊 。 <END>, score: 4.633075.	normal
+result: <END> 我 没有 兄弟 姐妹 啊 。 <END>, score: 5.119157.	normal
+result: <END> 我 没有 姐妹 的 。 <END>, score: 5.309102.	normal
+result: <END> 我 没有 姐妹 姐妹 。 <END>, score: 5.530139.	normal
+你 喜欢 张 小龙 吗	3
+result: <END> 我 喜欢 你 啊 。 <END>, score: 6.464243.	normal
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.753008.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.884770.	bad
+result: <END> 挺 喜欢 的 啊 。 <END>, score: 6.985827.	normal
+result: <END> 不 太 喜欢 啊 。 <END>, score: 7.095780.	normal
+来 和 我 聊 天	1
+result: <END> 好 的 呀 。 <END>, score: 4.345019.	normal
+result: <END> 好 的 ， 这 就 来 。 <END>, score: 4.554818.	normal
+result: <END> 好 的 哈 。 <END>, score: 4.695388.	normal
+result: <END> 好 的 啊 。 <END>, score: 4.734804.	normal
+result: <END> 好 的 ， 来 吧 。 <END>, score: 4.758915.	normal
+自 然 语 言 处理	2
+result: <END> 我 会 改进 的 。 <END>, score: 4.590260.	normal
+result: <END> 嗯 ， 好 的 ， 我 知道 了 。 <END>, score: 4.658315.	normal
+result: <END> 我 会 不断 改进 的 。 <END>, score: 4.683193.	normal
+result: <END> 好 的 ， 我 会 改进 的 。 <END>, score: 4.828675.	normal
+result: <END> 我 会 慢慢 改进 的 。 <END>, score: 4.968857.	normal
+心情 不 好 听 什 么	1
+result: <END> 听听 音乐 吧 。 <END>, score: 5.668467.	normal
+result: <END> 心情 不好 吧 。 <END>, score: 6.108610.	bad
+result: <END> 心情 不好 啊 。 <END>, score: 6.168960.	bad
+result: <END> 心情 不好 了 。 <END>, score: 6.199871.	bad
+result: <END> 心情 不好 说 。 <END>, score: 6.831879.	bad
+电影 不 好看	3
+result: <END> 不好 看 。 <END>, score: 4.046530.	normal
+result: <END> 那 就 别 看 了 。 <END>, score: 4.527101.	normal
+result: <END> 那 就 不要 看 了 。 <END>, score: 4.540531.	normal
+result: <END> 挺 好看 的 。 <END>, score: 4.947377.	normal
+result: <END> 那 就 慢慢 看 吧 。 <END>, score: 4.985512.	bad
+不 喜欢 看 小说	3
+result: <END> 不 喜欢 看 。 <END>, score: 4.319817.	normal
+result: <END> 那 就 不要 看 了 。 <END>, score: 4.363815.	normal
+result: <END> 那 就 别 看 了 。 <END>, score: 4.900503.	normal
+result: <END> 不 看 就 算 了 。 <END>, score: 5.441642.	bad
+result: <END> 挺 好看 的 。 <END>, score: 5.533118.	normal
+背 首 诗 给 我	2
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 4.348375.	bad
+result: <END> 哇 ， 这么 难 。 <END>, score: 4.608870.	normal
+result: <END> 主人 ， 你 别 为难 我 呀 。 <END>, score: 4.919431.	normal
+result: <END> 哇 ， 这么 难 啊 。 <END>, score: 5.584347.	normal
+result: <END> 抱歉 了 ， 我 也 不 太 会 哦 。 <END>, score: 6.316753.	normal
+你 给 我 找 个 妹 子 聊	1
+result: <END> 少年 ， 别 躁动 ， 还是 洗洗 睡 了 吧 。 <END>, score: 5.803591.	normal
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 6.074268.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 6.264884.	bad
+result: <END> 那 你 就 去 找 吧 呵呵 <END>, score: 6.989325.	bad
+result: <END> 主人 ， 注意 你 的 语言 美 呀 。 <END>, score: 7.221720.	bad
+轮 胎 坏 了 怎 么 办	1
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 4.854888.	bad
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 5.007748.	bad
+result: <END> 去 医院 看看 吧 。 <END>, score: 5.686097.	bad
+result: <END> 快 去 看 医生 吧 。 <END>, score: 5.804883.	bad
+result: <END> 不 会 吧 。 <END>, score: 6.166919.	normal
+微 信 牛 逼 吗	3
+result: <END> 嗯 ， 是的 。 <END>, score: 5.344381.	normal
+result: <END> 当然 啦 。 <END>, score: 5.393841.	normal
+result: <END> 当然 了 。 <END>, score: 5.728994.	normal
+result: <END> 一般 般 啦 。 <END>, score: 5.741555.	normal
+result: <END> 一般 般 吧 。 <END>, score: 5.779196.	normal
+刘 小 宁 是 条 狗	1
+result: <END> 主人 ， 快 从 火星 上 回来 吧 。 <END>, score: 2.912980.	bad
+result: <END> 我 不 明白 你 要 说 什么 。 <END>, score: 3.588430.	bad
+result: <END> 狗狗 是 小狗 。 <END>, score: 5.805117.	bad
+result: <END> 哦 ， 知道 了 。 <END>, score: 5.999164.	normal
+result: <END> 哦 ， 我 知道 了 。 <END>, score: 6.045351.	normal
+叶 良 辰 是 谁	3
+result: <END> 我 也 不 知道 。 <END>, score: 4.262987.	normal
+result: <END> 我 是 我 。 <END>, score: 4.371414.	bad
+result: <END> 我 也 不 认识 。 <END>, score: 4.388652.	normal
+result: <END> 我 也 不 认识 呀 。 <END>, score: 4.429205.	normal
+result: <END> 反正 不 是 我 。 <END>, score: 4.731101.	normal

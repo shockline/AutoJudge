@@ -109,7 +109,7 @@
 你好吗？
 <END>我一直都很好<END>	good
 <END>当然可以<END>	unknown
-<END>我觉得挺好的<END>	unknown
+<END>我觉得挺好的<END>	normal
 <END>不是，我是小微<END>	unknown
 <END>当然可以了<END>	unknown
 你好漂亮
@@ -258,7 +258,7 @@
 <END>你想怎么办就怎么办<END>	unknown
 你以后别跟着我了
 <END>我会一直陪着你的<END>	good
-<END>我会一直陪你聊天的<END>	unknown
+<END>我会一直陪你聊天的<END>	normal
 <END>我会一直陪着你聊天的<END>	unknown
 <END>难道你不喜欢我了么<END>	unknown
 <END>我会陪你聊天的<END>	unknown
@@ -278,7 +278,7 @@
 <END>你说的是哪个星星<END>	bad
 <END>这是你的名字么？<END>	unknown
 <END>我不明白你要说什么<END>	unknown
-<END>我不明白你要说什么。<END>	unknown
+<END>我不明白你要说什么。<END>	bad
 <END>我还小，不懂你说的意思<END>	unknown
 今天天气不好
 <END>不是很好<END>	unknown
@@ -311,10 +311,10 @@
 <END>不要这么说自己<END>	unknown
 <END>不要这样说自己嘛<END>	unknown
 明天去打球
-<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀<END>	normal
 <END>你要去哪里<END>	unknown
 <END>你要去哪里去<END>	unknown
-<END>你要去哪里呀？<END>	bad
+<END>你要去哪里呀？<END>	normal
 <END>你要去哪里？<END>	bad
 我老板就在我身边
 <END>我一直都在你身边<END>	bad
@@ -381,13 +381,13 @@
 <END>那你说的是哪个意思<END>	normal
 <END>那你说的是什么意思<END>	normal
 <END>你说的是哪个意思？<END>	unknown
-<END>我不明白你要说什么。<END>	bad
+<END>我不明白你要说什么。<END>	normal
 完全不知道你在说啥
 <END>我不明白你要说什么<END>	unknown
 <END>我不知道你在说什么<END>	bad
 <END>我什么都不记得了<END>	normal
 <END>你不知道我在说什么<END>	bad
-<END>我不明白你要说什么。<END>	unknown
+<END>我不明白你要说什么。<END>	normal
 牛头不对马嘴
 <END>那就不要笑了<END>	unknown
 <END>那就不要说了<END>	good
@@ -537,7 +537,7 @@
 <END>我会一直陪着你的<END>	unknown
 <END>希望你每天都很开心<END>	unknown
 <END>看来你每天都很开心<END>	unknown
-<END>只要你开心就好了<END>	unknown
+<END>只要你开心就好了<END>	bad
 失败了怎么办，如何才能成功
 <END>只要你自己努力就可以了<END>	unknown
 <END>那要看你自己的运气喽<END>	unknown
@@ -553,7 +553,7 @@
 听说过外星生命吗
 <END>我不明白你要说什么<END>	unknown
 <END>这是你的名字么？<END>	unknown
-<END>我不明白你要说什么。<END>	unknown
+<END>我不明白你要说什么。<END>	bad
 <END>你说的是哪个星星<END>	unknown
 <END>你这是在说谁？<END>	unknown
 我命令你以后只能呆在家里
@@ -847,7 +847,7 @@
 我的书包在哪里
 <END>你要去哪里呀？<END>	unknown
 <END>你要去哪里玩了<END>	unknown
-<END>你想去哪里玩的<END>	unknown
+<END>你想去哪里玩的<END>	bad
 <END>你要去哪里玩的<END>	unknown
 <END>你在哪里看电视剧<END>	unknown
 我的书包坏了
@@ -1469,10 +1469,10 @@ a股明天涨不涨
 <END>没有就没意思了<END>	unknown
 <END>怎么会没意思了<END>	normal
 我明天去理发
-<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀<END>	normal
 <END>你要去哪里<END>	bad
 <END>你要去哪里去<END>	bad
-<END>你要去哪里呀？<END>	bad
+<END>你要去哪里呀？<END>	normal
 <END>你要去哪里？<END>	bad
 你害怕什么
 <END>没有什么可怕的<END>	good

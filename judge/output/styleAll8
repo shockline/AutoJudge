@@ -222,7 +222,7 @@
 <END>不要这么谦虚嘛<END>	bad
 明天去打球
 <END>你要去哪里？<END>	bad
-<END>你要去哪里呀？<END>	bad
+<END>你要去哪里呀？<END>	normal
 <END>真是个好孩子<END>	normal
 <END>你真是个好孩子<END>	normal
 <END>为什么要打我？<END>	bad
@@ -1404,7 +1404,7 @@ a股明天涨不涨
 <END>真是个好孩子<END>	bad
 我明天去理发
 <END>你要去哪里？<END>	bad
-<END>你要去哪里呀？<END>	bad
+<END>你要去哪里呀？<END>	normal
 <END>那就早点休息<END>	normal
 <END>好的，那就明天去<END>	good
 <END>那你可要注意安全<END>	normal

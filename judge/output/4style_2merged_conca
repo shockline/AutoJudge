@@ -312,7 +312,7 @@
 <END>谦虚可是很高的<END>	bad
 明天去打球
 <END>为什么要打我<END>	bad
-<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀<END>	normal
 <END>你要去哪里打我<END>	bad
 <END>你要去打谁呀<END>	bad
 <END>打算去哪里<END>	bad
@@ -431,7 +431,7 @@
 <END>不可以随便随便脱<END>	normal
 <END>不可以随便脱<END>	good
 抽根烟睡觉
-<END>抽烟对身体不好的<END>	normal
+<END>抽烟对身体不好的<END>	good
 <END>抽烟有害健康<END>	good
 <END>抽烟对身体不好<END>	normal
 <END>抽烟对身体有害健康<END>	normal
@@ -583,7 +583,7 @@
 上班好累啊
 <END>那就好好休息<END>	good
 <END>累了就好好休息<END>	normal
-<END>累了就好好休息一下<END>	normal
+<END>累了就好好休息一下<END>	good
 <END>那就好好上班<END>	normal
 <END>那就好好工作<END>	normal
 我在等地铁
@@ -768,7 +768,7 @@
 <END>你想吃什么菜<END>	good
 你会做什么菜
 <END>我什么都会做菜菜<END>	bad
-<END>你想做什么菜<END>	bad
+<END>你想做什么菜<END>	normal
 <END>你想做什么菜菜<END>	normal
 <END>你说的是什么菜<END>	normal
 <END>什么都会做菜菜<END>	bad
@@ -1470,12 +1470,12 @@ a股明天涨不涨
 <END>是不是很有意思<END>	bad
 我明天去理发
 <END>你要去哪里去<END>	bad
-<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀<END>	normal
 <END>你要去哪里<END>	bad
 <END>那你要注意安全<END>	normal
 <END>你要去哪里？<END>	bad
 你害怕什么
-<END>我可是很害怕的<END>	bad
+<END>我可是很害怕的<END>	normal
 <END>我是不会害怕的<END>	normal
 <END>我什么都不怕的<END>	good
 <END>我一点都不害怕<END>	good

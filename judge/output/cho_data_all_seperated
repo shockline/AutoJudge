@@ -710,7 +710,7 @@
 <END>想喝就喝<END>	bad
 这么高级的东西
 <END>你说的是什么东西?<END>	unknown
-<END>你说的是什么东西<END>	unknown
+<END>你说的是什么东西<END>	normal
 <END>你说的是什么东西啊<END>	unknown
 猫和狗不好
 <END>当然不好了<END>	normal
@@ -1384,7 +1384,7 @@ a股明天涨不涨
 一加一等于几
 <END>一加一等于二<END>	good
 <END>一加一等于一<END>	normal
-<END>一加一等于两<END>	unknown
+<END>一加一等于两<END>	normal
 不和你聊了我得干活了
 <END>做自己喜欢做的事情!<END>	bad
 <END>做自己喜欢做的事情。<END>	unknown

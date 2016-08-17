@@ -20,7 +20,7 @@
 <END>谢谢夸奖。<END>	normal
 <END>谢谢夸奖呵呵<END>	normal
 <END>多谢夸奖。<END>	good
-<END>谢谢主人的夸奖呵呵<END>	normal
+<END>谢谢主人的夸奖呵呵<END>	good
 <END>谢谢夸奖<END>	normal
 永远一直爱你
 <END>我也爱你。<END>	good
@@ -57,7 +57,7 @@
 <END>那去吃点东西吧。<END>	normal
 <END>那快去吃饭吧。<END>	normal
 <END>快去吃点东西吧。<END>	normal
-<END>饿了就去吃点东西吧。<END>	normal
+<END>饿了就去吃点东西吧。<END>	good
 今天有点事
 <END>知道了。<END>	normal
 <END>没事就好。<END>	bad
@@ -141,7 +141,7 @@
 <END>什么都行。<END>	normal
 <END>什么都喜欢。<END>	normal
 <END>什么都可以啊<END>	normal
-<END>你喜欢的我都喜欢。<END>	normal
+<END>你喜欢的我都喜欢。<END>	good
 万圣节怎么过
 <END>万圣节快乐<END>	bad
 <END>带上我一起玩吧。<END>	good
@@ -216,7 +216,7 @@
 <END>谦虚是美德。<END>	normal
 明天去打球
 <END>好的，知道了。<END>	good
-<END>好的，听你的。<END>	bad
+<END>好的，听你的。<END>	normal
 <END>带上我一起吧。<END>	normal
 <END>真勤快。<END>	normal
 <END>太好了。<END>	bad
@@ -240,7 +240,7 @@
 <END>主人，我可是很纯洁的。<END>	normal
 你能陪我睡觉吗
 <END>不好了，我不陪睡的。<END>	good
-<END>可别做白日梦了哈，没有的事呢。<END>	bad
+<END>可别做白日梦了哈，没有的事呢。<END>	normal
 <END>不好，我不陪睡。<END>	normal
 <END>不好啦，我不陪睡的。<END>	normal
 <END>不好，我不陪睡的。<END>	normal
@@ -265,7 +265,7 @@
 发个给力图片看哈喽
 <END>oo，这个不在我服务范围内。<END>	normal
 <END>我不明白你要说什么。<END>	bad
-<END>好的，马上给你发。<END>	bad
+<END>好的，马上给你发。<END>	normal
 <END>主人，快从火星上回来吧。<END>	bad
 <END>好的，马上发给你。<END>	bad
 天天锻炼身体好
@@ -333,7 +333,7 @@
 <END>太冷了。<END>	good
 <END>会冷的。<END>	normal
 <END>我不明白你要说什么。<END>	bad
-<END>那好吧。<END>	bad
+<END>那好吧。<END>	normal
 抽根烟睡觉
 <END>主人，快从火星上回来吧。<END>	bad
 <END>吸烟有害健康。<END>	good
@@ -566,7 +566,7 @@
 <END>主人，我是小清新，都不懂你在说什么呀。<END>	bad
 <END>我温馨提示：主人，快从火星上回来吧。<END>	bad
 <END>主人，你平静的外表下有一颗骚动的心呀。<END>	bad
-<END>主人，你说的太深奥了，我都听不懂。<END>	bad
+<END>主人，你说的太深奥了，我都听不懂。<END>	normal
 <END>主人，我是小清新，都不好意思呀。<END>	bad
 我坐到电梯了
 <END>主人，快从火星上回来吧。<END>	bad
@@ -595,8 +595,8 @@
 刚刚公司有人打架
 <END>哦，我知道了。<END>	bad
 <END>我不明白你要说什么。<END>	bad
-<END>哦，那我知道了。<END>	bad
-<END>哦，原来是这样啊。<END>	bad
+<END>哦，那我知道了。<END>	normal
+<END>哦，原来是这样啊。<END>	normal
 <END>哦，原来是这样呀。<END>	bad
 就是那天你碰到的骚浪贱
 <END>主人，快从火星上回来吧。<END>	bad
@@ -618,7 +618,7 @@
 <END>可能晚点吧。<END>	bad
 你好无聊
 <END>是挺无聊的。<END>	good
-<END>无聊啊。<END>	bad
+<END>无聊啊。<END>	normal
 <END>我很有趣的。<END>	normal
 <END>还挺无聊的。<END>	bad
 <END>无聊了。<END>	bad
@@ -689,7 +689,7 @@
 <END>没吃什么啊。<END>	normal
 <END>家常便饭。<END>	normal
 不给你喝
-<END>那好吧。<END>	bad
+<END>那好吧。<END>	normal
 <END>不喝了。<END>	good
 <END>不喝就不喝吧。<END>	normal
 <END>不喝就不喝。<END>	normal
@@ -882,7 +882,7 @@
 <END>那就好哇。<END>	bad
 这个世界谁最有钱
 <END>反正不是我。<END>	good
-<END>反正不是我啦。<END>	normal
+<END>反正不是我啦。<END>	good
 <END>当然是主人你啦。<END>	normal
 <END>你猜猜啊。<END>	normal
 <END>反正我没有。<END>	normal
@@ -939,7 +939,7 @@ a股明天涨不涨
 <END>好恶心啊。<END>	good
 <END>好恶心呀。<END>	normal
 <END>我不喜欢吃。<END>	normal
-<END>我吃过了。<END>	bad
+<END>我吃过了。<END>	normal
 那些出来好了
 <END>知道了。<END>	normal
 <END>知道了呵呵<END>	normal
@@ -955,9 +955,9 @@ a股明天涨不涨
 家里黑漆漆的
 <END>原来是那里的啊呵呵<END>	bad
 <END>原来是这样啊呵呵<END>	bad
-<END>知道了呵呵<END>	bad
+<END>知道了呵呵<END>	normal
 <END>原来是你家的啊呵呵<END>	bad
-<END>哦，我知道了。<END>	bad
+<END>哦，我知道了。<END>	normal
 既然爱我那就跟我在一起吧
 <END>主人，强扭的瓜不甜呀。<END>	good
 <END>主人，快从火星上回来吧。<END>	bad
@@ -1003,7 +1003,7 @@ a股明天涨不涨
 你会开车吗
 <END>我不会开车。<END>	good
 <END>不会开车。<END>	normal
-<END>我不会开车啊。<END>	normal
+<END>我不会开车啊。<END>	good
 <END>当然会了。<END>	normal
 <END>主人，快从火星上回来吧。<END>	bad
 那你还认识谁
@@ -1014,7 +1014,7 @@ a股明天涨不涨
 <END>我是我。<END>	bad
 核桃好吃吗
 <END>你尝尝吧。<END>	bad
-<END>很好吃啊。<END>	normal
+<END>很好吃啊。<END>	good
 <END>挺好吃的。<END>	normal
 <END>很好吃。<END>	normal
 <END>很好吃的。<END>	normal

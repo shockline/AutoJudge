@@ -936,7 +936,7 @@
 <END>女人吃水果<END>	unknown
 如何照顾家庭
 <END>好好照顾自己<END>	bad
-<END>照顾好自己。<END>	unknown
+<END>照顾好自己。<END>	bad
 <END>保持良好的心态<END>	unknown
 <END>好好照顾自己。<END>	bad
 <END>好好学习天天向上<END>	bad
@@ -1427,7 +1427,7 @@ a股明天涨不涨
 <END>有的人喜欢有的人不喜欢<END>	unknown
 <END>每个人都有喜欢的人<END>	unknown
 世界第一高峰
-<END>世界之大无奇不有<END>	bad
+<END>世界之大无奇不有<END>	normal
 <END>是珠穆朗玛峰<END>	normal
 <END>珠穆朗玛峰。<END>	good
 <END>珠穆朗玛峰!<END>	good

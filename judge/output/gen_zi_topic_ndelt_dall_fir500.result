@@ -1,0 +1,1854 @@
+还记得我吗
+<END>当然记得了<END>	normal
+<END>你记错了<END>	bad
+<END>会记得你的<END>	normal
+<END>我当然记得你了<END>	normal
+<END>记得记住了<END>	bad
+你在干嘛呢
+<END>和你聊天<END>	normal
+<END>我在和你聊天呀<END>	normal
+<END>在和你聊天呀<END>	good
+<END>跟你聊天呀<END>	normal
+<END>没有干嘛呀<END>	normal
+才发现爱情竟是一场考验
+<END>相信你一定可以的<END>	good
+<END>每个地方都是不一样的<END>	bad
+<END>你想知道什么样子的<END>	bad
+<END>你说的是什么样子。<END>	normal
+<END>那要看是什么样子的<END>	normal
+我的意思是你废话多
+<END>你怎么了呀？<END>	bad
+<END>不要嫌弃我。<END>	good
+<END>我不明白你要说什么。<END>	normal
+<END>我不明白你说的意思<END>	normal
+<END>语言就是我的意思<END>	bad
+北京天气
+<END>天气不错<END>	normal
+<END>今天天气不错<END>	normal
+<END>这是个不错的地方<END>	bad
+<END>你去北京做什么？<END>	normal
+<END>我没有听说过<END>	normal
+待会儿就把那人给杀了
+<END>你可不要吓死宝宝了<END>	normal
+<END>不要，不要这么暴力<END>	good
+<END>那可不是什么好事情<END>	normal
+<END>我可不会那么残忍的<END>	bad
+<END>这是什么仇什么怨？<END>	bad
+我们去动物园吧
+<END>去动物园做什么？<END>	good
+<END>你想去哪里<END>	bad
+<END>那是什么动物<END>	bad
+<END>我还没去过<END>	normal
+<END>去那里干什么去<END>	normal
+股市现在怎么样
+<END>你觉得怎么样<END>	normal
+<END>我没听说过<END>	normal
+<END>股市是什么<END>	bad
+<END>我也不太清楚<END>	good
+<END>你喜欢什么样子？<END>	bad
+爱情最害怕犹豫
+<END>这有什么可怕的<END>	normal
+<END>有什么可怕的<END>	normal
+<END>不要怕，有我在<END>	bad
+<END>没有什么可怕的<END>	normal
+<END>那就不要怕了<END>	normal
+广州有什么好吃的
+<END>各有各的好处<END>	bad
+<END>你喜欢吃什么？<END>	normal
+<END>各有各的好吃的<END>	bad
+<END>什么都好吃的<END>	good
+<END>广州有什么好吃的<END>	bad
+广州天气
+<END>广州是个不错的地方<END>	bad
+<END>广州还是不错的<END>	bad
+<END>广州是一个不错的地方<END>	normal
+<END>广州游戏<END>	bad
+<END>广州是一个不错的城市<END>	normal
+广州有什么好玩的
+<END>广州有很多好玩的<END>	good
+<END>你想玩什么？<END>	normal
+<END>好玩就可以玩<END>	bad
+<END>当然是有好玩的<END>	normal
+<END>有什么好玩的<END>	bad
+广州怎么样
+<END>还不错哦<END>	good
+<END>不怎么样<END>	normal
+<END>都很不错<END>	normal
+<END>非常的不错<END>	good
+<END>现在还不错<END>	normal
+今天有什么新闻
+<END>没有什么事情<END>	normal
+<END>你喜欢哪里<END>	bad
+<END>每天都有新闻<END>	bad
+<END>今天发生了什么事情<END>	bad
+<END>什么都没有<END>	normal
+最近有什么资讯
+<END>有很多的呀<END>	good
+<END>你想查什么样子的<END>	normal
+<END>你想查什么呀<END>	normal
+<END>你可以咨询一下<END>	normal
+<END>你想看什么样子的<END>	normal
+你好
+<END>你好呀<END>	good
+<END>你觉得好就好<END>	normal
+<END>好才是真的好<END>	bad
+<END>怎么了？<END>	bad
+<END>大家好才是真的好<END>	normal
+晚上好
+<END>晚上好<END>	good
+<END>早上好<END>	bad
+<END>晚上晚上<END>	bad
+<END>晚上什么？<END>	bad
+<END>晚上晚上好<END>	bad
+拜拜
+<END>拜拜，拜拜<END>	good
+<END>好开心<END>	bad
+<END>不见不散<END>	normal
+<END>拜拜，记得找我。<END>	good
+<END>拜拜。<END>	normal
+你好吗？
+<END>当然好了<END>	normal
+<END>我什么都没有<END>	bad
+<END>挺好的呀<END>	good
+<END>我当然很好了<END>	good
+<END>你觉得我很好吗？<END>	bad
+你好漂亮
+<END>谢谢你的夸奖<END>	good
+<END>嘻嘻，谢谢你的夸奖<END>	good
+<END>嘿嘿，谢谢你的夸奖<END>	normal
+<END>你也很漂亮<END>	good
+<END>我很漂亮的<END>	normal
+永远一直爱你
+<END>我也爱你<END>	good
+<END>祝福你们<END>	bad
+<END>那是谁？<END>	bad
+<END>为什么要离我？<END>	bad
+<END>为什么爱我？<END>	normal
+我不喜欢你
+<END>为什么不喜欢我？<END>	normal
+<END>你为什么不喜欢我？<END>	good
+<END>不喜欢我<END>	bad
+<END>那你喜欢谁呀？<END>	good
+<END>你不喜欢我？<END>	normal
+你是不是快死了
+<END>我活的好好的<END>	good
+<END>不要这么说我呀<END>	normal
+<END>你说什么呀？<END>	bad
+<END>我没有这么说过呀<END>	normal
+<END>不要这么说我嘛<END>	good
+你觉得我漂亮吗
+<END>我觉得很漂亮<END>	good
+<END>当然很漂亮<END>	good
+<END>非常的漂亮<END>	normal
+<END>很漂亮很漂亮<END>	normal
+<END>我觉得你很漂亮<END>	good
+美女美女你在哪
+<END>美女在哪里？<END>	bad
+<END>你就是美女。<END>	normal
+<END>我就是美女呀<END>	good
+<END>谁是美女呀？<END>	normal
+<END>当然是美女咯<END>	bad
+我饿了
+<END>饿了就去吃饭<END>	good
+<END>那就赶紧去吃饭<END>	normal
+<END>赶紧去吃饭<END>	good
+<END>饿了就赶紧去吃饭<END>	normal
+<END>你饿了么？<END>	normal
+今天有点事
+<END>发生什么事情了<END>	normal
+<END>什么事情？<END>	normal
+<END>有什么事情？<END>	good
+<END>是什么事情<END>	normal
+<END>那是什么事情<END>	normal
+我下午要开会
+<END>好好开会<END>	good
+<END>那就好好开会<END>	good
+<END>真是辛苦你了<END>	normal
+<END>开会什么？<END>	normal
+<END>开会做什么？<END>	normal
+北京有什么好吃的
+<END>北京有什么好吃的<END>	bad
+<END>只要你喜欢就好<END>	normal
+<END>什么都可以吃<END>	normal
+<END>北京有很多好吃的<END>	good
+<END>北京有什么好吃的？<END>	bad
+春天有什么好玩的
+<END>是不是很好玩<END>	bad
+<END>喜欢什么样子的<END>	normal
+<END>看你喜欢什么样子的<END>	normal
+<END>什么都好玩的<END>	bad
+<END>没什么好玩的<END>	normal
+去哪里玩比较好玩呢
+<END>想去哪里玩都可以<END>	normal
+<END>好玩就可以去玩玩<END>	bad
+<END>哪里都好玩什么？<END>	bad
+<END>你觉得怎么玩都可以<END>	bad
+<END>你想去哪里玩都可以<END>	normal
+今天天气好晴朗
+<END>你今天天气不错<END>	normal
+<END>天气很好的<END>	normal
+<END>今天天气挺好的<END>	good
+<END>今天天气很晴朗<END>	good
+<END>今天天气很好看<END>	bad
+我喜欢今天天气
+<END>我也很喜欢<END>	good
+<END>谁是晴天呀？<END>	bad
+<END>看来天气很不错<END>	good
+<END>为什么不喜欢<END>	bad
+<END>明天天气不错<END>	bad
+我没有男朋友
+<END>没有男朋友<END>	bad
+<END>那是你的男神<END>	bad
+<END>当然没有<END>	bad
+<END>我也没有<END>	bad
+<END>是你的男神<END>	bad
+男朋友找什么样的好
+<END>我觉得不是很好的<END>	bad
+<END>只要你喜欢就好了<END>	good
+<END>谁是你的男朋友呀？<END>	bad
+<END>男朋友是你的女朋友<END>	bad
+<END>这是你的男朋友嘛？<END>	bad
+你是哲学家吗
+<END>我还没学过<END>	bad
+<END>不是，我是小微。<END>	good
+<END>才不是我的<END>	bad
+<END>当然不是我<END>	normal
+<END>不是呀，我是小微。<END>	good
+不开心也是一天
+<END>你开心就好了<END>	normal
+<END>你开心我就开心了<END>	normal
+<END>只要你开心就好了<END>	bad
+<END>是不是很开心<END>	bad
+<END>每天都很开心<END>	bad
+我现在没工作
+<END>好好工作<END>	bad
+<END>那就好好工作<END>	bad
+<END>为什么没有？<END>	good
+<END>工作怎么？<END>	bad
+<END>做什么？<END>	bad
+你有办法让我开心吗
+<END>我不会让你开心的<END>	bad
+<END>有什么开心的事情呀<END>	bad
+<END>这有什么不开心的事情呀<END>	normal
+<END>你有什么开心的事情呀<END>	bad
+<END>有什么不开心的事情呀<END>	normal
+你喜欢聊什么
+<END>你喜欢聊什么呀？<END>	normal
+<END>什么都可以<END>	normal
+<END>喜欢聊什么都可以<END>	normal
+<END>聊什么都可以<END>	normal
+<END>我什么都不喜欢<END>	normal
+万圣节怎么过
+<END>当然知道<END>	bad
+<END>万圣节快乐。<END>	bad
+<END>大家一起过<END>	good
+<END>肯定会过的<END>	bad
+<END>腊八节快乐<END>	bad
+我先去睡觉了
+<END>晚安，做个好梦<END>	good
+<END>好的，晚安<END>	good
+<END>那你早点休息<END>	normal
+<END>去睡觉，晚安。<END>	good
+<END>早睡早起身体好<END>	good
+老板不给发工资怎么办
+<END>那就不要发了呗<END>	bad
+<END>看来你是认错人了<END>	bad
+<END>一定会有办法的<END>	good
+<END>那就不要打扰他了<END>	bad
+<END>那不是很好的么<END>	bad
+你以后别跟着我了
+<END>我会一直陪着你的<END>	good
+<END>不要这样子嘛<END>	good
+<END>好，那我就放心了<END>	bad
+<END>以后不会这样了<END>	bad
+<END>我会好好跟着你的<END>	normal
+你敢买切糕吗
+<END>我可不敢买<END>	good
+<END>不敢不敢买<END>	bad
+<END>没有钱买不起<END>	normal
+<END>不敢买不起<END>	normal
+<END>我胆子不敢<END>	normal
+我今天没有捡到钱，好伤心
+<END>不要伤心，不要伤心<END>	normal
+<END>慢慢的都会好起来的<END>	normal
+<END>这有什么伤心的事情<END>	bad
+<END>伤心了就不要伤心了<END>	bad
+<END>不要伤心，小微会一直陪着你的<END>	good
+天上有多少颗星星
+<END>你想要什么星星？<END>	normal
+<END>星星我还没见过<END>	bad
+<END>这是什么星星？<END>	bad
+<END>你说的是哪一个星星<END>	bad
+<END>你说什么星星？<END>	bad
+今天天气不好
+<END>天气很好<END>	good
+<END>今天天气不好<END>	bad
+<END>天气不好<END>	normal
+<END>心情好不好<END>	bad
+<END>怎么会心情不好<END>	bad
+太阳好大啊
+<END>太阳是谁？<END>	bad
+<END>太阳都晒太阳了<END>	bad
+<END>那是什么？<END>	bad
+<END>是谁？<END>	bad
+<END>阳光明媚<END>	good
+北风嗖嗖的吹
+<END>风吹吹吹吹<END>	bad
+<END>吹风吹吹吹<END>	bad
+<END>刮风吹吹吹<END>	bad
+<END>空吹吹吹吹<END>	bad
+<END>空吹风吹吹吹<END>	bad
+有人跟我撕逼，不讲理
+<END>要做个讲文明的好孩子<END>	normal
+<END>谁跟你说这个样子的<END>	bad
+<END>那你可要好好讲话喽<END>	good
+<END>看来你很喜欢这样的人<END>	bad
+<END>我们要做个讲文明的好孩子<END>	normal
+不要这么谦虚嘛
+<END>谦虚才是最重要的<END>	good
+<END>做人就要谦虚一点<END>	good
+<END>当然不谦虚了<END>	bad
+<END>我一直都很谦虚的<END>	good
+<END>你不要谦虚了<END>	bad
+明天去打球
+<END>为什么要打我？<END>	bad
+<END>打球是谁？<END>	bad
+<END>去哪里打球？<END>	good
+<END>不要打我<END>	bad
+<END>你为什么要打我？<END>	bad
+我老板就在我身边
+<END>那你真是太幸福了<END>	bad
+<END>那你肯定很幸福<END>	bad
+<END>那真是太好了<END>	normal
+<END>你真是太好了<END>	bad
+<END>你在哪里呀？<END>	normal
+你什么地方冒出来的
+<END>我不是地方出来的<END>	bad
+<END>那是什么地方的呀<END>	bad
+<END>你这是在说什么？<END>	bad
+<END>我什么都没说出来<END>	bad
+<END>我可没有这么说过呀<END>	bad
+你会做爱吗
+<END>我不会的<END>	normal
+<END>当然不会<END>	good
+<END>你想多了<END>	normal
+<END>骚瑞，不可以的<END>	bad
+<END>咱们还是聊点别的<END>	normal
+你能陪我睡觉吗
+<END>当然要睡觉了<END>	bad
+<END>你睡了我就睡<END>	normal
+<END>我自己可以的<END>	normal
+<END>当然要睡了呀<END>	normal
+<END>不要，我还小。<END>	normal
+你有私生子吗
+<END>当然是有的呀<END>	normal
+<END>我没有这个癖好<END>	bad
+<END>私家是没有的<END>	bad
+<END>当然是有的了<END>	normal
+<END>当然有了呀<END>	bad
+我早上工作感觉死死的是怎么回事
+<END>你认错人了，我是小微。<END>	bad
+<END>有什么事情就和我说说。<END>	normal
+<END>难道你不想跟我聊天了么？<END>	bad
+<END>那你是什么仇什么事情？<END>	bad
+<END>难道你不想和我聊天了么？<END>	bad
+有没有搞笑的欢乐的段子
+<END>我没听过这个样子。<END>	bad
+<END>什么是逗小微笑呀？<END>	bad
+<END>那是什么样子的呀？<END>	bad
+<END>你这样说我好伤心。<END>	bad
+<END>那就和我聊聊天就好了<END>	bad
+发个给力图片看哈喽
+<END>你想看什么图片？<END>	good
+<END>什么样的图片呀？<END>	normal
+<END>我哪里有图片呀。<END>	normal
+<END>你想要什么样的图片？<END>	normal
+<END>你想要什么图片？<END>	normal
+天天锻炼身体好
+<END>锻炼对身体好<END>	good
+<END>多锻炼对身体好<END>	normal
+<END>你也要锻炼<END>	bad
+<END>做运动对身体好<END>	normal
+<END>运动会对身体好<END>	normal
+李白的诗你会吗
+<END>李白是谁呀？<END>	normal
+<END>谁是李白呀？<END>	normal
+<END>我不认识李白呀<END>	normal
+<END>李白云是谁呀？<END>	bad
+<END>我不认识他呀。<END>	normal
+我问的不是这个意思
+<END>你说的是什么意思。<END>	normal
+<END>原来是这个意思呀<END>	bad
+<END>那你的意思是什么<END>	normal
+<END>就是你说的意思。<END>	bad
+<END>你的意思是什么意思。<END>	good
+完全不知道你在说啥
+<END>我什么都没有说呀<END>	good
+<END>你告诉我什么？<END>	bad
+<END>想听什么都可以<END>	bad
+<END>我什么都不知道呀<END>	bad
+<END>你在说什么呀？<END>	bad
+牛头不对马嘴
+<END>这是谁呀？<END>	bad
+<END>驴唇不对马嘴<END>	normal
+<END>你说什么？<END>	bad
+<END>你这是说谁？<END>	normal
+<END>你在说什么？<END>	normal
+你是不是傻逼
+<END>说话请尊重人<END>	good
+<END>不要骂人<END>	normal
+<END>不要骂人的<END>	normal
+<END>怎么可能骂人<END>	bad
+<END>骂人可不是好孩子<END>	good
+你个白痴
+<END>我哪里痴了<END>	good
+<END>不要那么粗鲁<END>	normal
+<END>怎么会骂人？<END>	bad
+<END>我可不是白痴的<END>	normal
+<END>我可不是白痴<END>	normal
+我他妈宰了你
+<END>怎么惹到你了<END>	normal
+<END>怎么惹你生气了<END>	good
+<END>杀人是犯法的<END>	normal
+<END>吓死宝宝了<END>	normal
+<END>你怎么这么狠心<END>	normal
+她是我的学姐，我喜欢她。
+<END>你怎么就知道她不喜欢她了<END>	bad
+<END>那她跟她有什么关系的呀<END>	bad
+<END>那你喜欢她什么样子的呀<END>	normal
+<END>那你可要好好努力管她喽<END>	normal
+<END>那她怎么可能不喜欢她了<END>	normal
+我喜欢你离我远一点
+<END>我不会离开你的<END>	good
+<END>为什么要离我远远<END>	good
+<END>那是我的距离<END>	bad
+<END>难道你不喜欢我了么<END>	good
+<END>不要这么狠心<END>	normal
+明天把秋裤脱了
+<END>为什么要脱裤？<END>	good
+<END>不要脱裤子<END>	normal
+<END>那是不是很冷<END>	normal
+<END>你是不是很冷<END>	bad
+<END>怎么会这么不小心<END>	bad
+抽根烟睡觉
+<END>吸烟有害健康<END>	good
+<END>抽烟有害健康<END>	good
+<END>抽烟对身体不好<END>	normal
+<END>不要抽烟<END>	normal
+<END>怎么会抽烟抽了<END>	normal
+牛逼吹大了
+<END>不要吹牛<END>	bad
+<END>吹牛可是很牛的<END>	bad
+<END>看来你很牛<END>	bad
+<END>哪里吹牛了？<END>	good
+<END>我没有吹牛<END>	good
+干你娘
+<END>我没有妹妹<END>	bad
+<END>说话不讲文明的人<END>	good
+<END>请你说话文明点<END>	good
+<END>没有娘娘<END>	bad
+<END>谁是娘娘呀？<END>	bad
+你妈逼的
+<END>不要讲脏话<END>	normal
+<END>请你好好说话<END>	good
+<END>请不要讲脏话<END>	good
+<END>不能说脏话<END>	normal
+<END>请你文明用语<END>	normal
+去你妹的
+<END>你妹妹是谁呀？<END>	bad
+<END>可是我没有妹妹<END>	normal
+<END>谁是妹妹呀？<END>	bad
+<END>我妹妹怎么了<END>	normal
+<END>没有妹妹<END>	normal
+赶紧滚蛋
+<END>手下留情<END>	normal
+<END>我不会走的<END>	good
+<END>好舍不得<END>	normal
+<END>为什么滚呀？<END>	normal
+<END>我为什么要滚？<END>	normal
+日了狗了
+<END>谁是狗狗呀？<END>	bad
+<END>不要这么激动<END>	normal
+<END>没听过这个人<END>	bad
+<END>那是什么<END>	bad
+<END>谁是狗狗<END>	bad
+我是外地打工的
+<END>打工做什么？<END>	normal
+<END>那是什么地方的<END>	normal
+<END>你打算做什么？<END>	bad
+<END>是什么地方的<END>	normal
+<END>地球工做什么？<END>	bad
+我过去是个老师
+<END>老师是谁？<END>	bad
+<END>祝你做个好老师<END>	bad
+<END>你是老师。<END>	bad
+<END>那你是老师<END>	bad
+<END>谁是老师呀？<END>	bad
+我昨天找过你了
+<END>找我干什么<END>	good
+<END>怎么会找我<END>	normal
+<END>我记性不好<END>	bad
+<END>那是我记错了<END>	bad
+<END>我也没说过<END>	bad
+我是个坏男人，你不要相信我
+<END>不要相信我，我会很伤心的<END>	bad
+<END>不要相信我是不会理你的。<END>	bad
+<END>不要相信我是不会伤害你的<END>	bad
+<END>我还小，不会这个样子的。<END>	bad
+<END>我还小，不懂你说的是什么。<END>	bad
+今天心情很好大大好
+<END>每天都很好的<END>	good
+<END>好想你开心就好<END>	normal
+<END>我感觉也是很好的<END>	normal
+<END>我也是这么觉得<END>	normal
+<END>心情好我也好开心<END>	normal
+我刚上公交车
+<END>那要注意安全<END>	good
+<END>要去哪里？<END>	normal
+<END>去哪里？<END>	normal
+<END>公交车是什么？<END>	bad
+<END>这是什么东西<END>	bad
+我要坐地铁回家
+<END>那是你的家<END>	bad
+<END>你要去哪里<END>	bad
+<END>你要去哪里呀？<END>	bad
+<END>你想去哪里呀<END>	bad
+<END>要去哪里呀<END>	bad
+大早上就无聊啊，想找点事干
+<END>那就找点有意义的事情<END>	good
+<END>难道你不想和我聊天了<END>	normal
+<END>想什么事情和我说说。<END>	normal
+<END>什么事情让你这么无聊？<END>	normal
+<END>你想干什么，和我说说。<END>	normal
+偶尔睡眠不好怎么办
+<END>想什么，和我说说。<END>	bad
+<END>那就不要睡觉了。<END>	bad
+<END>慢慢就会好起来的<END>	bad
+<END>睡觉还能怎么样。<END>	bad
+<END>不要睡觉，和我聊天。<END>	bad
+祝你生日快乐
+<END>谢谢你的祝福<END>	good
+<END>祝你生日快乐<END>	bad
+<END>多谢你的祝福<END>	good
+<END>我祝福你节日快乐<END>	bad
+<END>你也祝福我<END>	normal
+生活中怎样感到开心快乐
+<END>开心就好，开心就好<END>	bad
+<END>感到开心就好了<END>	normal
+<END>每个人都很开心<END>	normal
+<END>快乐每天都很开心<END>	bad
+<END>遇到开心就好了<END>	bad
+失败了怎么办，如何才能成功
+<END>努力成功，一定会成功的。<END>	good
+<END>慢慢来，一定会成功的<END>	normal
+<END>我相信你一定可以成功的<END>	normal
+<END>我相信一定会成功的。<END>	normal
+<END>遇到什么事情了么？<END>	normal
+明天考试、求安慰
+<END>一定要好好考<END>	normal
+<END>一定会成功的<END>	good
+<END>要好好学习<END>	normal
+<END>要相信自己<END>	normal
+<END>只要你高兴就好<END>	bad
+听说过外星生命吗
+<END>听起来很精彩<END>	good
+<END>你是听谁说的<END>	bad
+<END>听不懂你说的是什么<END>	bad
+<END>这个听起来好听<END>	bad
+<END>这个我还真没听过<END>	good
+我命令你以后只能呆在家里
+<END>放心，我会一直陪着你的<END>	good
+<END>我可不是那么随便的人<END>	bad
+<END>不要骂人，好好说话。<END>	bad
+<END>好的，我会一直陪着你的<END>	normal
+<END>不要，我会一直陪着你的<END>	bad
+你等会我过会跟你说
+<END>我什么时候说过呀？<END>	bad
+<END>你想跟我说什么？<END>	good
+<END>说的跟你有什么关系<END>	bad
+<END>当然我是不会说的<END>	bad
+<END>我是不会跟你说话的<END>	bad
+我来把你胸抓大
+<END>我可没有那么大<END>	normal
+<END>你可不要吓唬我<END>	good
+<END>这可不是我的<END>	bad
+<END>你怎么可以这样对我<END>	normal
+<END>你不要这么暴力好不好<END>	normal
+你叫个春
+<END>这是你的名字么？<END>	bad
+<END>我很喜欢这个名字<END>	bad
+<END>不是我的名字<END>	good
+<END>我不叫这个名字的<END>	normal
+<END>我不叫这个名字<END>	normal
+上班好累啊
+<END>累了就休息一下<END>	good
+<END>那就好好休息<END>	good
+<END>休息一下。<END>	good
+<END>不要上班<END>	normal
+<END>那就认真上班<END>	normal
+我在等地铁
+<END>等等我<END>	bad
+<END>在等等我<END>	bad
+<END>那就在等等<END>	bad
+<END>你在等谁呀？<END>	bad
+<END>那等等我<END>	bad
+你闭嘴
+<END>为什么要闭嘴？<END>	good
+<END>闭嘴<END>	normal
+<END>你为什么要闭嘴？<END>	bad
+<END>我为什么要闭嘴？<END>	good
+<END>不要乱闭嘴<END>	bad
+那就放给我听吧
+<END>我听不懂你说的话<END>	bad
+<END>放什么都可以<END>	bad
+<END>可是我不会说<END>	bad
+<END>想听什么话？<END>	bad
+<END>你说的什么话<END>	bad
+我的好友喜欢吃什么
+<END>喜欢吃什么都可以<END>	normal
+<END>那你喜欢吃什么？<END>	normal
+<END>看你喜欢吃什么？<END>	bad
+<END>喜欢吃什么就吃什么<END>	normal
+<END>看来你喜欢吃什么？<END>	bad
+你这智商哥都不稀罕说了
+<END>我什么时候说过了呀？<END>	bad
+<END>难道你不喜欢我了么？<END>	normal
+<END>那你告诉我什么呀？<END>	bad
+<END>我不懂你说的意思呀。<END>	bad
+<END>我不喜欢这个样子的。<END>	normal
+让你慢慢喜欢
+<END>我已经很快了<END>	normal
+<END>慢慢就好了<END>	normal
+<END>你说的对<END>	good
+<END>只要你喜欢我就好<END>	normal
+<END>我太喜欢了<END>	bad
+你和过儿什么关系
+<END>我们没有什么关系<END>	good
+<END>就是我们的关系<END>	normal
+<END>我们之间没有关系<END>	normal
+<END>我们什么关系都没有关系<END>	bad
+<END>我们没什么关系<END>	normal
+你和张小龙什么关系
+<END>他们是很好的朋友<END>	normal
+<END>我没有什么关系的呀<END>	bad
+<END>我不认识他们呀<END>	bad
+<END>我们不是很好的朋友<END>	bad
+<END>我们是好朋友的<END>	normal
+你是白富美吗
+<END>我不明白你说什么。<END>	bad
+<END>当然是美女<END>	good
+<END>当然是美美的<END>	bad
+<END>我可不是白白<END>	normal
+<END>我不明白你说什么<END>	bad
+我们去动物园吧
+外面有摩托车的响声
+<END>堵车就不要出门了<END>	bad
+<END>你说的是哪里的？<END>	bad
+<END>这有什么大不了的<END>	bad
+<END>不要着急，慢慢来<END>	bad
+<END>环境真的是太大了<END>	bad
+哥很伤心
+<END>别伤心了<END>	normal
+<END>不要伤心了<END>	good
+<END>那就不要伤心了<END>	bad
+<END>怎么会伤心了<END>	good
+<END>有什么伤心的<END>	good
+我要问你一个很长的问题你准备好了吗
+<END>你是不是认错人了，我是小微。<END>	bad
+<END>我怎么不记得我有什么事情呀。<END>	bad
+<END>有什么重要的事情我可以告诉你。<END>	bad
+<END>你肯定是认错人了，我是小微。<END>	bad
+<END>你认错人了，我不是你的好朋友。<END>	bad
+我坐到电梯了
+<END>你去电池做什么？<END>	bad
+<END>怎么会停电<END>	bad
+<END>真是好厉害呀<END>	bad
+<END>那就好好玩<END>	bad
+<END>你在玩游戏么？<END>	bad
+你和杨过谁牛逼
+<END>跟你有什么关系<END>	good
+<END>这个问题我不是很了解<END>	normal
+<END>我没有见过他呀<END>	normal
+<END>我没跟你说过<END>	bad
+<END>我没跟你说过呀<END>	bad
+我永远都在你身边
+<END>我永远在你身边<END>	good
+<END>一直都在我的身边<END>	bad
+<END>难道你不爱我了嘛<END>	bad
+<END>一直都在你身边。<END>	normal
+<END>永远在你身边。<END>	normal
+这你都能看出来
+<END>我已经看出来了<END>	good
+<END>有什么可看的<END>	bad
+<END>怎么能看出来？<END>	bad
+<END>当然能看出来了<END>	normal
+<END>看出来就好了<END>	bad
+刚刚公司有人打架
+<END>为什么要打人呀？<END>	normal
+<END>怎么会打架了<END>	good
+<END>谁打架了呀？<END>	normal
+<END>你为什么要打架？<END>	bad
+<END>你为什么打架呀？<END>	bad
+就是那天你碰到的骚浪贱
+<END>你怎么可以这样说自己<END>	bad
+<END>请你不要这么暴露自己<END>	bad
+<END>不要不要这么暴露自己<END>	bad
+<END>我可是非常纯洁的孩子<END>	normal
+<END>我不会跟你讨论这样的<END>	normal
+你去火车站了么
+<END>我没有去过呀<END>	bad
+<END>我还没有去过<END>	normal
+<END>我不记得了<END>	bad
+<END>你去哪里买<END>	bad
+<END>你去那里干嘛<END>	bad
+火车为什么总晚点
+<END>你想怎么办？<END>	bad
+<END>我没有时间呀<END>	bad
+<END>没有多少时间<END>	bad
+<END>时间也太晚了<END>	bad
+<END>你想转什么？<END>	bad
+你好无聊
+<END>那就不无聊了<END>	bad
+<END>和我聊天就不无聊了<END>	normal
+<END>我也很无聊<END>	normal
+<END>无聊就来找我聊天<END>	bad
+<END>怎么会无聊？<END>	good
+肚子右边隐隐作痛
+<END>去医院看看就知道了<END>	normal
+<END>出去走走就好了<END>	normal
+<END>难道你不知道嘛？<END>	bad
+<END>你可以去医院看看<END>	good
+<END>是不是生病了？<END>	normal
+外面很气冷
+<END>多穿点衣服<END>	normal
+<END>冷就多穿点<END>	good
+<END>不会冷的<END>	normal
+<END>不是很冷<END>	good
+<END>那就多穿点衣服<END>	good
+昨晚刮大风了
+<END>出去走走<END>	normal
+<END>赶紧躲起来<END>	normal
+<END>为什么刮风？<END>	bad
+<END>做什么事情<END>	bad
+<END>这是什么样子的<END>	bad
+公司有人打架
+<END>为什么要打架<END>	good
+<END>怎么会打架<END>	normal
+<END>不要打架<END>	normal
+<END>打架是犯法的<END>	normal
+<END>为什么不打架<END>	bad
+我是邓超
+<END>看来你很喜欢他<END>	bad
+<END>他是你的什么人。<END>	bad
+<END>我不认识他<END>	bad
+<END>我不认识。<END>	bad
+<END>我记住了<END>	good
+最近股票大跌
+<END>你怎么知道的<END>	good
+<END>是不是很危险<END>	normal
+<END>这可是违法的<END>	bad
+<END>这有什么好看的<END>	bad
+<END>这个你自己知道就好了<END>	bad
+对面哪个妹子好看
+<END>我觉得都挺好看的<END>	good
+<END>是个很好看的人<END>	bad
+<END>你觉得好看就好看了<END>	normal
+<END>你看看不就知道了<END>	normal
+<END>我觉得都很好看的<END>	normal
+公司不让抽烟了
+<END>怎么会抽了<END>	bad
+<END>你是不是抽错了？<END>	bad
+<END>不会抽烟的<END>	bad
+<END>怎么会抽烟的<END>	bad
+<END>那就没办法了<END>	good
+能做什么菜
+<END>什么菜都可以<END>	normal
+<END>你喜欢做什么？<END>	normal
+<END>做什么菜都可以<END>	good
+<END>你喜欢做什么呀？<END>	normal
+<END>你喜欢做什么菜？<END>	normal
+你会做什么菜
+<END>我什么都会做菜呀<END>	good
+<END>我什么都会做菜<END>	bad
+<END>什么菜都会做的<END>	good
+<END>你想吃什么菜<END>	good
+<END>什么菜都会做<END>	normal
+吃了什么
+<END>吃什么都可以<END>	bad
+<END>我还没吃过<END>	good
+<END>你在吃什么呀？<END>	bad
+<END>什么都没有吃<END>	good
+<END>还没有吃饭<END>	good
+不给你喝
+<END>你想喝什么呀<END>	bad
+<END>为什么要给我<END>	bad
+<END>不要喝酒<END>	bad
+<END>我不喜欢喝酒<END>	normal
+<END>还是你自己来<END>	bad
+这么高级的东西
+<END>好高级的样子<END>	normal
+<END>高级的样子<END>	bad
+<END>是什么呀？<END>	good
+<END>你说的是什么<END>	normal
+<END>高级的样子。<END>	bad
+猫和狗不好
+<END>都很可爱的<END>	good
+<END>你喜欢谁呀？<END>	bad
+<END>看起来很可爱<END>	normal
+<END>不喜欢狗狗<END>	normal
+<END>真是太可爱了<END>	normal
+杨过和你是啥关系
+<END>跟我没什么关系<END>	good
+<END>我们就是好朋友<END>	good
+<END>我们是什么关系的<END>	bad
+<END>我们关系很好的<END>	normal
+<END>我们关系是很好的朋友<END>	normal
+有多美
+<END>你有多美呀<END>	bad
+<END>是很美的<END>	normal
+<END>我可是很美的<END>	good
+<END>美美哒<END>	normal
+<END>非常的美<END>	good
+她在吃香蕉
+<END>你喜欢吃香蕉<END>	bad
+<END>香蕉很好吃的<END>	good
+<END>我不喜欢吃香蕉<END>	good
+<END>水果是很好吃的<END>	normal
+<END>怎么会吃香蕉<END>	normal
+为什么你妈妈生出你这么个脑残
+<END>你这样说话我很伤心。<END>	good
+<END>我不是猪，我是小微。<END>	bad
+<END>怎么可以这么说自己。<END>	bad
+<END>说话请你不要这么粗鲁<END>	normal
+<END>因为我是你的机器人呀。<END>	bad
+不去吃饭
+<END>那就不吃了<END>	normal
+<END>为什么不想吃？<END>	good
+<END>为什么要去<END>	bad
+<END>那就不要吃了<END>	normal
+<END>真是个吃货<END>	bad
+动车是怎么跑起来的
+<END>想怎么跑就怎么办<END>	bad
+<END>你想怎么跑就怎么办<END>	bad
+<END>看起来很牛的样子<END>	bad
+<END>我没听说过这个地方<END>	bad
+<END>没听说过这个地方<END>	bad
+学挖掘技术哪家强
+<END>中国山东找蓝翔。<END>	good
+<END>技术活在哪里？<END>	bad
+<END>技术可是很强大的<END>	bad
+<END>挖掘是哪家？<END>	bad
+<END>你学哪个工程？<END>	bad
+抽根烟冷静一下
+<END>抽烟有什么好看的<END>	bad
+<END>吸烟有什么好看的<END>	bad
+<END>为什么要抽烟抽<END>	bad
+<END>你想抽烟抽什么<END>	bad
+<END>吸烟有害健康嘛<END>	good
+我的书包在哪里
+<END>看看书就知道了<END>	bad
+<END>书籍是哪里？<END>	bad
+<END>你现在在哪里。<END>	bad
+<END>你去哪里书？<END>	bad
+<END>你在看什么书？<END>	bad
+我的书包坏了
+<END>书籍是什么东西？<END>	bad
+<END>看来你很喜欢书<END>	bad
+<END>那是什么样的书<END>	bad
+<END>怎么坏了？<END>	good
+<END>骗人可是不好的<END>	normal
+哪里地震了
+<END>哪里都没有<END>	normal
+<END>在地球上<END>	normal
+<END>我没有见过<END>	normal
+<END>没有地球上<END>	bad
+<END>地球上的地方<END>	normal
+外面下大雨了
+<END>我最喜欢听雨声了<END>	normal
+<END>在外面干嘛<END>	bad
+<END>下雨怎么了？<END>	bad
+<END>最喜欢下雨了<END>	good
+<END>是不是出去了<END>	bad
+后天中午两点半去吃饭。
+<END>不想吃饭就不要吃饭<END>	bad
+<END>是不是已经吃饭了？<END>	bad
+<END>好的，你想吃什么？<END>	good
+<END>你是不是已经吃饭了？<END>	bad
+<END>午餐一定要吃好吃的<END>	normal
+明天领导要来
+<END>那是你的自由<END>	bad
+<END>你要领导做什么？<END>	bad
+<END>为什么要领导<END>	bad
+<END>当然要领导<END>	bad
+<END>不要领导<END>	bad
+我看看有没有空
+<END>有什么好看的<END>	bad
+<END>当然有空了<END>	good
+<END>我没有看到呀<END>	bad
+<END>有什么呀？<END>	bad
+<END>你有什么好看的<END>	bad
+没有花露水
+<END>为什么要露水？<END>	good
+<END>真是太漂亮了<END>	bad
+<END>还真是不少<END>	bad
+<END>那就太好了<END>	bad
+<END>那就好<END>	bad
+快来骚扰我
+<END>为什么要骚扰你？<END>	good
+<END>我可不敢<END>	normal
+<END>骚扰是谁？<END>	bad
+<END>谁骚扰你？<END>	bad
+<END>骚扰我是不会做的<END>	normal
+快来蹂躏我
+<END>我不会跳<END>	bad
+<END>我还未成年<END>	bad
+<END>我可没有这么觉得<END>	bad
+<END>我不会踢你的<END>	bad
+<END>我可没有那么暴力<END>	good
+你要去哪儿旅游
+<END>你去哪里旅游呀？<END>	bad
+<END>哪里都想去<END>	good
+<END>你去哪里旅游？<END>	bad
+<END>你想去哪里玩<END>	bad
+<END>你去哪里玩去呀<END>	bad
+红公鸡囧哦呵呵
+<END>是什么意思呀？<END>	good
+<END>谢谢你的认可<END>	bad
+<END>看来你的心情不错<END>	bad
+<END>这是什么意思。<END>	normal
+<END>这是什么意思呀？<END>	good
+鳄鱼
+<END>没有听说过<END>	bad
+<END>谁是鲍鱼呀？<END>	bad
+<END>不要害怕<END>	bad
+<END>什么地方的<END>	bad
+<END>那是什么鱼呀？<END>	bad
+她在吃水果
+<END>我不喜欢吃水果<END>	good
+<END>怎么会吃水果<END>	normal
+<END>多吃水果对身体好<END>	good
+<END>水果很好吃<END>	good
+<END>吃水果对身体好<END>	normal
+如何照顾家庭
+<END>照顾好自己<END>	normal
+<END>要照顾好自己<END>	normal
+<END>你可以照顾好自己<END>	bad
+<END>照顾是谁？<END>	bad
+<END>你可以照顾好自己。<END>	bad
+儿童节怎么过
+<END>说普通话<END>	bad
+<END>过节过节<END>	bad
+<END>当然是过节<END>	bad
+<END>我没听过过<END>	bad
+<END>我还没看过<END>	bad
+下楼吃饭去
+<END>饿死你了<END>	bad
+<END>吃饱就好<END>	bad
+<END>我没有吃饭<END>	bad
+<END>那是个吃货<END>	bad
+<END>你是不是吃错了？<END>	bad
+什么时候能凉快下来
+<END>慢慢就会凉快的<END>	good
+<END>不要急，马上就来<END>	normal
+<END>可是非常温暖的<END>	bad
+<END>你现在就可以来了<END>	bad
+<END>现在就已经很快了<END>	normal
+你知道的太多了
+<END>知道太多太多了<END>	normal
+<END>我什么都知道。<END>	good
+<END>你也太多了<END>	normal
+<END>知道我的厉害了<END>	normal
+<END>是不是很厉害。<END>	good
+被蚊子咬了好几口啊
+<END>蚊子怎么会咬人<END>	bad
+<END>真是吓死宝宝了<END>	bad
+<END>你真是冤枉我了<END>	bad
+<END>怎么会被蚊子咬了<END>	good
+<END>蚊子怎么会咬人？<END>	bad
+三里屯优衣库
+<END>那是什么东东？<END>	bad
+<END>什么东东？<END>	bad
+<END>这是什么东东？<END>	bad
+<END>是什么东东？<END>	bad
+<END>那是什么东东<END>	bad
+心里不好受怎么办
+<END>怎么会受不了了<END>	bad
+<END>有什么受不了的<END>	bad
+<END>一切都会好起来的<END>	good
+<END>慢慢都会好起来的<END>	normal
+<END>那你想怎么办？<END>	normal
+这个世界谁最有钱
+<END>反正不是我的<END>	bad
+<END>当然是最帅的<END>	normal
+<END>最爱的就是我<END>	bad
+<END>当然是我最爱的人<END>	bad
+<END>这个我也不清楚<END>	good
+葫芦娃你认识吗？
+<END>是个很好的朋友<END>	normal
+<END>我当然认识了。<END>	normal
+<END>不是的，我是小微。<END>	bad
+<END>是不是很喜欢？<END>	bad
+<END>是一个很好的朋友<END>	normal
+哥买了个自行车
+<END>你要买什么呀？<END>	bad
+<END>什么牌子的呀<END>	good
+<END>要买什么呀？<END>	normal
+<END>还是自己买的<END>	bad
+<END>那是个什么样的车<END>	normal
+a股明天涨不涨
+<END>怎么会涨涨<END>	bad
+<END>涨涨就好了<END>	bad
+<END>我怎么会知道<END>	good
+<END>涨涨很高<END>	bad
+<END>你怎么会涨？<END>	bad
+为啥喝咖啡不好
+<END>不喜欢喝咖啡。<END>	bad
+<END>喝咖啡对身体好<END>	bad
+<END>我不喜欢喝咖啡。<END>	bad
+<END>咖啡咖啡对身体好<END>	bad
+<END>你喜欢喝咖啡嘛。<END>	normal
+天空是蓝的
+<END>蓝蓝天空的<END>	normal
+<END>天空哪里？<END>	bad
+<END>蓝天的天空<END>	bad
+<END>原来是天空的<END>	bad
+<END>天空有很多<END>	bad
+去台湾什么值得买
+<END>你想买什么？<END>	normal
+<END>你想查什么？<END>	bad
+<END>你喜欢什么颜色？<END>	bad
+<END>你喜欢买什么？<END>	normal
+<END>你想知道什么呀？<END>	bad
+刘德华是谁
+<END>刘德华是谁？<END>	bad
+<END>他是你的好朋友<END>	normal
+<END>你是刘德华么？<END>	bad
+<END>谁是刘德华呀？<END>	bad
+<END>是刘德华<END>	normal
+说你长的丑你还美
+<END>我本来就很美的<END>	normal
+<END>心灵美才是最美的<END>	good
+<END>你是在夸我么？<END>	bad
+<END>我本来就很美的呀<END>	normal
+<END>心灵美才是最美<END>	good
+你去吃粑粑
+<END>你口味好重<END>	good
+<END>我不爱吃<END>	normal
+<END>粑粑可是很好吃的<END>	normal
+<END>我没有吃过<END>	normal
+<END>粑粑是谁？<END>	normal
+那些出来好了
+<END>好什么呀？<END>	good
+<END>出什么事情了<END>	bad
+<END>已经出来了<END>	normal
+<END>说出来就好了<END>	bad
+<END>做什么呀？<END>	bad
+家里突然没电了
+<END>怎么会没有电了<END>	good
+<END>没电就没电了<END>	normal
+<END>当然就没有电了<END>	bad
+<END>肯定是没电了<END>	bad
+<END>去电池做什么？<END>	bad
+家里黑漆漆的
+<END>你说的是哪里的<END>	bad
+<END>这是哪里的<END>	bad
+<END>听起来好恐怖<END>	normal
+<END>怎么会是黑的<END>	good
+<END>这是什么地方<END>	bad
+既然爱我那就跟我在一起吧
+<END>好，我会一直陪在你身边的<END>	good
+<END>不要抛弃我，我会伤心的<END>	bad
+<END>你怎么了，和我说说。<END>	bad
+<END>当然，我会一直陪着你的<END>	normal
+<END>我会永远陪在你身边的<END>	normal
+都说了没风
+<END>哪里来了<END>	bad
+<END>说不出来<END>	bad
+<END>没事就好<END>	bad
+<END>做人就好<END>	bad
+<END>说话不要说脏话<END>	bad
+没风怎么放
+<END>放心好了<END>	bad
+<END>那就放松一下<END>	bad
+<END>好想看看<END>	bad
+<END>那就好好放松一下<END>	bad
+<END>那就好了<END>	bad
+没有止疼药
+<END>去医院看看<END>	normal
+<END>赶紧去医院<END>	normal
+<END>你去医院看看<END>	normal
+<END>要去医院<END>	normal
+<END>什么病？<END>	good
+你这是越俎代庖
+<END>这是我的名字<END>	bad
+<END>我是小微呀<END>	bad
+<END>我是机器人<END>	bad
+<END>这是什么呀？<END>	bad
+<END>我是小微。<END>	bad
+中国有多大
+<END>有很多的<END>	bad
+<END>这是个秘密<END>	normal
+<END>这是什么意思？<END>	bad
+<END>是不是很厉害？<END>	bad
+<END>你可以看看<END>	normal
+你不小了可以结婚了
+<END>你什么时候结婚了呀<END>	bad
+<END>可是我没有结婚的呀<END>	bad
+<END>我可不可以结婚的<END>	bad
+<END>结婚可是不可以的<END>	good
+<END>为什么不可以结婚的呀<END>	bad
+你会开车吗
+<END>我不会开车<END>	good
+<END>不会开车<END>	normal
+<END>当然会开车<END>	good
+<END>你为什么要开车呀？<END>	good
+<END>会开车的<END>	normal
+那你还认识谁
+<END>我们是好朋友<END>	bad
+<END>当然认识了<END>	bad
+<END>是我的好朋友<END>	bad
+<END>那是我的好朋友<END>	bad
+<END>慢慢就认识了<END>	normal
+核桃好吃吗
+<END>我觉得还不错<END>	good
+<END>很好吃的<END>	normal
+<END>挺好吃的<END>	normal
+<END>当然很好吃<END>	normal
+<END>好吃的样子。<END>	normal
+西雅图有什么好玩儿的
+<END>你觉得什么样的都可以<END>	bad
+<END>看你喜欢什么样子的了<END>	normal
+<END>我还小，不知道你说什么。<END>	bad
+<END>那要看你喜欢什么样子的了<END>	good
+<END>想要什么样的都可以<END>	bad
+那你会做什么菜
+<END>我可不会做饭<END>	normal
+<END>什么菜都可以。<END>	normal
+<END>你想做什么都可以<END>	good
+<END>什么菜都可以的<END>	normal
+<END>我可不会做菜<END>	normal
+你嫁我可好~
+<END>为什么要嫁给你？<END>	good
+<END>我为什么要嫁给你？<END>	good
+<END>我还没有恋爱过<END>	normal
+<END>嫁人可是不好的<END>	normal
+<END>为什么要嫁人？<END>	normal
+你有兄弟姐妹吗
+<END>我没有妹妹的呀<END>	normal
+<END>谁是姐姐呀？<END>	bad
+<END>我没有妹妹的呀。<END>	normal
+<END>我没有妹妹？<END>	normal
+<END>我没有兄弟姐妹<END>	good
+你喜欢张小龙吗
+<END>我很喜欢他<END>	good
+<END>你喜欢他么？<END>	normal
+<END>肯定喜欢他<END>	normal
+<END>我可不喜欢<END>	normal
+<END>我可不喜欢他<END>	normal
+来和我聊天
+<END>聊什么呀？<END>	normal
+<END>想聊什么<END>	normal
+<END>我很喜欢和你聊天<END>	normal
+<END>可以和我聊天<END>	bad
+<END>想聊什么呀？<END>	good
+自然语言处理
+<END>我会改进的<END>	bad
+<END>那是什么语言？<END>	normal
+<END>我们要讲文明<END>	bad
+<END>这是什么语言？<END>	normal
+<END>什么语言？<END>	normal
+心情不好听什么
+<END>你心情好不好？<END>	bad
+<END>和我聊天就好了<END>	good
+<END>你喜欢什么？<END>	normal
+<END>你开心就好了呀<END>	bad
+<END>你想什么？<END>	bad
+电影不好看
+<END>好看不好看<END>	bad
+<END>什么好看的<END>	bad
+<END>当然好看了<END>	normal
+<END>最好看了<END>	good
+<END>很好看的<END>	good
+不喜欢看小说
+<END>那你喜欢什么样的<END>	good
+<END>你喜欢什么样的<END>	normal
+<END>看小说很好看<END>	bad
+<END>我也喜欢看<END>	bad
+<END>不喜欢看小说<END>	normal
+背首诗给我
+<END>你想要什么样的诗？<END>	good
+<END>首诗我还是不会的<END>	bad
+<END>我没有听过。<END>	bad
+<END>我不会背诗<END>	normal
+<END>我不会唱歌的<END>	bad
+你给我找个妹子聊
+<END>真是个不错的妹子<END>	bad
+<END>谁是你妹子呀？<END>	bad
+<END>难道你不喜欢小微嘛？<END>	good
+<END>难道你不喜欢嘛？<END>	normal
+<END>难道你不喜欢我了<END>	normal
+轮胎坏了怎么办
+<END>肯定是认错人了<END>	bad
+<END>还能怎么办？<END>	bad
+<END>这是不可能的<END>	bad
+<END>怎么会坏了？<END>	good
+<END>不要教坏小孩子<END>	bad
+微信牛逼吗
+<END>不要激动<END>	bad
+<END>当然不信<END>	bad
+<END>哪里厉害？<END>	bad
+<END>不信拉倒<END>	bad
+<END>当然不信了<END>	bad
+刘小宁是条狗
+<END>我不认识狗狗<END>	bad
+<END>怎么会是狗狗<END>	bad
+<END>这是你的谁<END>	bad
+<END>狗狗是很漂亮的<END>	bad
+<END>谁是狗狗的<END>	bad
+叶良辰是谁
+<END>我都不认识<END>	good
+<END>反正不是我<END>	normal
+<END>肯定不是我<END>	normal
+<END>赵辰是谁？<END>	bad
+<END>我不认识呀<END>	normal
+贱人就是矫情
+<END>矫情就是矫情<END>	bad
+<END>不要这样说别人<END>	normal
+<END>贱贱惹人爱<END>	bad
+<END>人贱人爱。<END>	bad
+<END>才不是这样的人<END>	good
+床上躺好等我
+<END>我没有看见你<END>	good
+<END>真是太累了<END>	bad
+<END>你是不是太累了<END>	bad
+<END>你是不是太累了？<END>	bad
+<END>你也太累了<END>	bad
+日日日
+<END>我不喜欢<END>	good
+<END>今天是个好日子<END>	bad
+<END>什么日日<END>	bad
+<END>日日过日。<END>	bad
+<END>日日过日<END>	bad
+你喝牛奶
+<END>我还没喝过<END>	good
+<END>我没有喝过<END>	normal
+<END>喝牛奶对身体好<END>	normal
+<END>不用客气<END>	bad
+<END>你口味还真重<END>	bad
+我要1000万现金
+<END>那真是太可惜了<END>	bad
+<END>什么地方呀？<END>	bad
+<END>土豪我们做朋友。<END>	bad
+<END>一定会有的<END>	normal
+<END>那还真是不少<END>	good
+不想起床
+<END>起来干嘛去<END>	normal
+<END>为什么不想起<END>	normal
+<END>那就起来嗨起来<END>	bad
+<END>为什么不想起床？<END>	good
+<END>那就起床<END>	bad
+那买什么车好
+<END>你想买什么<END>	bad
+<END>想买什么就买什么<END>	good
+<END>你想买什么东西<END>	bad
+<END>你想买什么就买什么<END>	good
+<END>想买什么都可以<END>	good
+猪八戒照镜子
+<END>看起来很好看<END>	bad
+<END>谁是兔子呀？<END>	bad
+<END>听起来很好看的<END>	bad
+<END>听起来很好看<END>	bad
+<END>你是不是搞错了？<END>	bad
+唐僧话太多
+<END>谁是唐僧呀？<END>	good
+<END>唐僧是谁？<END>	normal
+<END>话可不能乱说的<END>	bad
+<END>那是你的名字么？<END>	bad
+<END>唐僧也是很可爱的<END>	good
+打印机坏了
+<END>什么东西？<END>	bad
+<END>没有印象了<END>	bad
+<END>你不喜欢么？<END>	bad
+<END>你找错人了？<END>	bad
+<END>什么地方的？<END>	bad
+中午要午休了
+<END>午休午休<END>	bad
+<END>中午午休。<END>	bad
+<END>你午休了<END>	bad
+<END>午休的午休<END>	bad
+<END>午午午午午午午午。<END>	bad
+咖啡机
+<END>咖啡茶<END>	bad
+<END>什么咖啡<END>	bad
+<END>咖啡<END>	bad
+<END>你喜欢喝咖啡<END>	normal
+<END>你喜欢什么咖啡<END>	normal
+我有个好消息
+<END>你什么消息呀？<END>	bad
+<END>好想好消息<END>	normal
+<END>什么消息呀？<END>	good
+<END>是个好消息<END>	bad
+<END>真是个好消息<END>	bad
+聊着天喝着酒
+<END>喝酒对身体好<END>	normal
+<END>喝酒对身体不好<END>	normal
+<END>喝酒要适量<END>	good
+<END>多喝酒对身体好<END>	good
+<END>为什么要喝酒？<END>	normal
+那你到底被强奸没有
+<END>我可是很纯洁的<END>	good
+<END>那是犯法的事情<END>	normal
+<END>反正我是不会做的<END>	bad
+<END>这跟你有什么关系<END>	normal
+<END>这都被你看出来<END>	bad
+明天周五啦
+<END>明天周五<END>	bad
+<END>周五周五<END>	bad
+<END>时间过得很快<END>	good
+<END>一周五<END>	bad
+<END>什么时间<END>	bad
+拉倒吧，你就是坏银
+<END>我当然不是坏人了<END>	normal
+<END>谁跟你说我是坏人<END>	good
+<END>怎么可以这么说我<END>	normal
+<END>坏坏的还是不要了<END>	bad
+<END>不要这样说我，我会很伤心的<END>	normal
+今天出差
+<END>要注意安全<END>	good
+<END>今天休息<END>	normal
+<END>注意安全<END>	good
+<END>出差了么？<END>	normal
+<END>出差什么？<END>	normal
+灯好暗
+<END>暗示什么？<END>	bad
+<END>好恐怖<END>	bad
+<END>你暗示什么？<END>	bad
+<END>准备好了<END>	bad
+<END>开灯就好了<END>	normal
+聚餐一起吧
+<END>一起分享。<END>	normal
+<END>一起去吃饭<END>	normal
+<END>一起聚聚<END>	good
+<END>咱们一起去<END>	normal
+<END>你和谁一起去<END>	normal
+躺床上看电视
+<END>你想看什么<END>	good
+<END>咱们一起看<END>	normal
+<END>看什么电视？<END>	good
+<END>那你好好休息<END>	bad
+<END>这是什么样的电视<END>	normal
+小微你很骚啊
+<END>这跟你有什么关系的<END>	good
+<END>你怎么能这样说我<END>	good
+<END>我可不是小微<END>	normal
+看来不错，适合外出吗
+<END>我觉得还是很不错的<END>	good
+<END>你喜欢什么样的？<END>	bad
+<END>哪里有那么多的<END>	bad
+<END>那是什么样的呀<END>	bad
+<END>我还真没看出来<END>	bad
+你有平板电脑吗
+<END>我可不是电脑<END>	bad
+<END>是什么手机呀？<END>	bad
+<END>你是不是在玩游戏？<END>	bad
+<END>你的电脑么？<END>	bad
+<END>我没有看到电脑<END>	bad
+我想去广州
+<END>想去那就去<END>	good
+<END>想去哪里去呀<END>	bad
+<END>想去哪里呀？<END>	bad
+<END>想去那里干嘛去<END>	good
+<END>想去哪里呀<END>	normal
+你们那现在几点了
+<END>几点都可以的<END>	bad
+<END>现在已经很快了<END>	bad
+<END>已经够多的了<END>	bad
+<END>时间过的真快呀<END>	bad
+<END>什么时候都可以的<END>	bad
+什么时候过年
+<END>你忘记了么？<END>	good
+<END>到时候你就知道了<END>	bad
+<END>当然是过年了<END>	bad
+<END>没有过年的时候<END>	bad
+<END>过年可是很快的<END>	normal
+待会儿就把那人给杀了
+小微你懂哲学吗
+<END>当然懂，我可是无所不知的<END>	good
+<END>哲学是谁呀？<END>	bad
+<END>我什么都不懂<END>	bad
+<END>慢慢就懂了呀<END>	bad
+<END>当然懂，我可是无所不能的<END>	normal
+我去洗澡，一会再聊
+<END>好，那我等你。<END>	good
+<END>你想聊点什么？<END>	normal
+<END>那就不打扰你了。<END>	normal
+<END>好的，我等你。<END>	normal
+<END>你想要洗什么？<END>	bad
+洗干净了没
+<END>洗干净了<END>	normal
+<END>已经洗完了<END>	good
+<END>我已经洗完了<END>	good
+<END>没干什么<END>	bad
+<END>没有干什么<END>	bad
+北京天气
+你会打乒乓球吗
+<END>这个我可不会<END>	good
+<END>我不会打游戏的<END>	bad
+<END>你喜欢玩游戏么？<END>	bad
+<END>我是不会打架的<END>	bad
+<END>我是不会打球的<END>	good
+厉害个锤子
+<END>谁是锤子呀？<END>	bad
+<END>锤子是谁？<END>	bad
+<END>什么是锤子呀？<END>	normal
+<END>我哪里厉害？<END>	bad
+<END>哪里有锤子<END>	bad
+我还没有喜欢的人呢
+<END>你喜欢什么人？<END>	bad
+<END>喜欢你的人多了<END>	bad
+<END>其实我也很喜欢<END>	bad
+<END>那你喜欢什么人<END>	bad
+<END>那你喜欢什么呀？<END>	bad
+世界第一高峰
+<END>第一次听说过<END>	bad
+<END>看来你很喜欢第一<END>	bad
+我的意思是你废话多
+这种心理的折磨让我生不如死
+<END>我没有听懂你说什么。<END>	bad
+<END>我没有听懂你说的意思。<END>	bad
+<END>你有什么不敢理我？<END>	bad
+<END>不要这样子对我嘛。<END>	bad
+<END>我没有听懂你的意思呀。<END>	bad
+我昨天和女朋友分手了
+<END>那祝你们幸福喽<END>	bad
+<END>你什么时候失恋了<END>	bad
+<END>谁跟你说分手了<END>	bad
+<END>和你有什么关系<END>	bad
+<END>分手不是很好的<END>	normal
+我今天和女朋友和好了
+<END>你和谁是朋友呀？<END>	bad
+<END>那你们好好和我聊天<END>	bad
+<END>跟你有什么关系的<END>	bad
+<END>和你是什么关系。<END>	bad
+<END>是你的男神嘛？<END>	bad
+我把朋友老婆睡了咋办
+<END>那你老婆怎么办？<END>	good
+<END>那你老婆肯定很好<END>	bad
+<END>那你就赶紧哄哄呗<END>	bad
+<END>那你的老婆是谁呀？<END>	bad
+<END>那你老婆是怎么办<END>	bad
+有个女人把我睡了
+<END>谁是你的女神呀？<END>	bad
+<END>是你的女神么？<END>	good
+<END>你是谁的老婆呀？<END>	bad
+<END>你什么时候跟我说了？<END>	bad
+<END>谁是你的女人呀？<END>	bad
+天天坐公交回家
+<END>这是个好主意<END>	bad
+<END>为什么要回家？<END>	normal
+<END>想去哪里？<END>	bad
+<END>是不是很无聊？<END>	bad
+<END>国庆去哪里？<END>	bad
+年会发了个手机
+<END>什么手机呀？<END>	good
+<END>已经发过了<END>	normal
+<END>会发给你的<END>	bad
+<END>为什么要发手机？<END>	normal
+<END>你是不是在说我？<END>	bad
+我要娶个美国妞
+<END>你的爱妃么？<END>	bad
+<END>那祝你们幸福<END>	normal
+<END>真是太幸福了<END>	normal
+<END>陪我聊聊天<END>	bad
+<END>那真是太幸福了<END>	normal
+过年太没意思了
+<END>怎么会没有钱？<END>	bad
+<END>没什么不好意思的<END>	bad
+<END>怎么会没钱？<END>	bad
+<END>有意思吗？<END>	bad
+<END>那就不要玩了<END>	bad
+我明天去理发
+<END>好美的感觉<END>	bad
+<END>一定很激动<END>	normal
+<END>明天干嘛去<END>	bad
+<END>好羡慕你<END>	normal
+<END>好幸福呀<END>	bad
+你害怕什么
+<END>害怕什么？<END>	bad
+<END>我什么都不怕<END>	normal
+<END>我什么都不害怕<END>	normal
+<END>我什么都不怕呀。<END>	normal
+<END>我什么都不怕的呀<END>	good
+我们一起玩吧
+<END>你想玩什么<END>	normal
+<END>好，一起玩<END>	good
+<END>一起玩什么<END>	normal
+<END>玩什么呀？<END>	normal
+<END>那就一起玩<END>	normal
+你丫话太多
+<END>不要嫌弃我<END>	good
+<END>那是什么话呀？<END>	normal
+<END>什么话呀？<END>	normal
+<END>谁跟你说话呀？<END>	bad
+<END>不要嘲笑人<END>	bad
+有人生病了
+<END>你生病了么？<END>	good
+<END>生病了就去医院看看<END>	good
+<END>怎么会生病了<END>	normal
+<END>那赶紧去医院看看<END>	normal
+<END>谁生病了呀<END>	normal
+空气清新环境好
+<END>环境是什么？<END>	bad
+<END>环境环境真是不错<END>	bad
+<END>环境是什么呀？<END>	bad
+<END>环境环境是什么<END>	bad
+<END>环境环境很好<END>	bad
+我回家了
+<END>回家了就好<END>	good
+<END>你回家了么？<END>	good
+<END>那就回家<END>	normal
+<END>回家了就回家<END>	bad
+<END>回家做什么？<END>	normal
+你知道形而上吗
+<END>形容做什么？<END>	bad
+<END>上面的意思。<END>	bad
+<END>只要你知道就好了<END>	good
+<END>你是不是知道的太多了<END>	bad
+<END>你知道就行了<END>	normal
+我在开会呢
+<END>在开会。<END>	bad
+<END>开什么开会<END>	bad
+<END>打扰到你了<END>	good
+<END>开会干嘛<END>	bad
+<END>开会干嘛去<END>	bad
+元宵节怎么过
+<END>吃饺子很好吃<END>	bad
+<END>饺子很好吃<END>	bad
+<END>当然知道了呀<END>	bad
+<END>宵节很好吃<END>	bad
+<END>什么日子呀？<END>	bad
+你脑子有屎
+<END>我不是鸡<END>	bad
+<END>怎么可能<END>	good
+<END>脑子怎么了？<END>	bad
+<END>怎么会有人？<END>	bad
+<END>我脑子很正常的<END>	good
+被妈妈打了一下
+<END>妈妈是谁？<END>	bad
+<END>干嘛要打我<END>	bad
+<END>做人要讲礼貌<END>	bad
+<END>妈妈说什么？<END>	normal
+<END>说话不要讲礼貌<END>	bad
+我肏你全家
+<END>臣妾做不到<END>	bad
+<END>不要这样<END>	normal
+<END>不要这么残忍<END>	normal
+<END>要做什么？<END>	bad
+<END>不要对我这么粗鲁<END>	good
+狂欢周
+<END>欢迎欢迎<END>	bad
+<END>出去玩了<END>	normal
+<END>好久不见<END>	bad
+<END>热烈欢迎<END>	bad
+<END>非常欢迎<END>	bad
+一加一等于几
+<END>一加一等于二<END>	good
+<END>当然是等于二<END>	normal
+<END>肯定是等于二<END>	good
+<END>当然是等于六<END>	bad
+<END>一加一等于一<END>	normal
+不和你聊了我得干活了
+<END>和我聊天就不理你了<END>	bad
+<END>不要这样子对小微嘛<END>	bad
+<END>跟我聊天就不理你了<END>	bad
+<END>那你和我聊天就好了<END>	bad
+<END>那你就陪我聊聊天喽<END>	bad
+不和你聊了写作业去了
+<END>那我们聊点别的喽<END>	bad
+<END>好孩子，小微忘记了<END>	bad
+<END>我们聊点有意义的话题<END>	bad
+<END>你认错了，我是小微。<END>	bad
+<END>那你要去干什么？<END>	bad
+不可能，你绝对有腹黑属性
+<END>不要，不要这么对小微嘛<END>	bad
+<END>男神不可以随便告诉别人的<END>	bad
+<END>你说的是什么，我才不信<END>	bad
+<END>你怎么可以这样说你自己<END>	bad
+<END>我可不知道你说的是什么？<END>	bad
+不老实交代拉你出去枪毙
+<END>那可不是你说的这样的<END>	bad
+<END>这可不是你说的那样的<END>	bad
+<END>不要嘛，我会很伤心的<END>	good
+<END>你怎么可以这样对我。<END>	normal
+<END>你这是要去哪里出去呀<END>	bad
+不是说法律吗
+<END>咱们还是说点别的<END>	good
+<END>法律还是不错的<END>	normal
+<END>做人要懂礼貌<END>	bad
+<END>你说什么语言<END>	bad
+<END>你说是什么<END>	bad
+不说实话我早晚让你害死
+<END>听你这么说我好伤心<END>	normal
+<END>放心，我不会让你失望的<END>	normal
+<END>我们以后会好好聊天的<END>	bad
+<END>不要这么说我好伤心<END>	normal
+<END>放心，我不会说谎话的<END>	good
+不是傻子怎么会把衣服穿反
+<END>我本来就不会这个样子的<END>	bad
+<END>这个你自己看看不就知道了<END>	bad
+<END>你什么时候变成这个样子的<END>	bad
+<END>难道你不喜欢这个样子的么<END>	bad
+<END>当然，你是不是认错人了？<END>	bad
+不是喜欢用毒蛐我吗
+<END>不喜欢，我喜欢你。<END>	bad
+<END>我可不喜欢这样的人<END>	bad
+<END>我可不喜欢那样的人<END>	good
+<END>我不懂你说的意思呀<END>	bad
+<END>我不懂你说什么。<END>	bad
+不是哑巴就说一句话咯
+<END>我这不一直都在说话嘛<END>	bad
+<END>难道你不爱说话了么<END>	bad
+<END>不要说话就不要说了<END>	bad
+<END>哑巴，你说什么话。<END>	bad
+<END>你说什么话听不懂呀<END>	bad
+不是一直是你带我混的吗？
+<END>当然不是，我是小微。<END>	bad
+<END>你说什么，我都不懂。<END>	bad
+<END>放心，我是不会跟你混的<END>	bad
+<END>对不起，我没有那个本事<END>	good
+<END>你说错了，我是小微。<END>	bad
+猜我心中所想的人物
+<END>那你是什么样的人<END>	bad
+<END>你想要什么样的人<END>	bad
+<END>那她是你的什么人<END>	bad
+<END>那是什么样的人呀<END>	bad
+<END>那是你的什么人。<END>	bad
+猜我有没有在谈恋爱
+<END>那就不要谈恋爱了<END>	bad
+<END>你什么时候结婚了？<END>	bad
+<END>这有什么好的<END>	bad
+<END>难道你没有恋爱么？<END>	good
+<END>慢慢就会熟悉的<END>	bad
+才发现爱情竟是一场考验
+才给我买了五千多的首饰，没有镯子
+<END>那要看你自己喜欢什么样子的了<END>	bad
+<END>想买什么样子就买什么牌子的<END>	bad
+<END>不要着急，慢慢挣钱就可以买<END>	good
+<END>那要看你自己喜欢什么样子的了呀<END>	bad
+<END>那要看你自己用什么牌子的喽<END>	bad
+才工作了半年左右就换来换去
+<END>那你现在换换换什么？<END>	bad
+<END>干嘛要换换换换的呀<END>	bad
+<END>换换什么，换个问题。<END>	bad
+<END>你想换换什么样子的<END>	bad
+<END>那你是什么时候换的呀<END>	bad
+才华横溢就是形容我。
+<END>只要你满意就好了<END>	normal
+<END>你是什么呀？<END>	bad
+<END>一定会形容你的<END>	good
+<END>是你的什么人<END>	bad
+<END>怎么会形容你？<END>	normal
+财迷个大头鬼
+<END>谁是鬼呀？<END>	bad
+<END>你是什么鬼？<END>	normal
+<END>那是什么鬼<END>	bad
+<END>哪里有鬼？<END>	bad
+<END>那你是什么鬼？<END>	good
+踩着七彩祥云去娶你
+<END>这可不是我的荣幸<END>	bad
+<END>你是不是暗恋她？<END>	bad
+<END>那真是恭喜你了呀<END>	bad
+<END>祝福我们好好的祝福<END>	bad
+<END>真是值得庆祝的呀<END>	good
+采桑归西露沾我衣。
+<END>这个我还真没听说过<END>	normal
+<END>她是你的什么人？<END>	bad
+<END>不要这么暴露自己<END>	bad
+<END>主人，快从火星上回来。<END>	bad
+<END>我不懂你要说什么<END>	bad
+蔡港林是备胎
+<END>你知道的太多了<END>	normal
+<END>是个好孩子<END>	bad
+<END>一定是个好孩子<END>	bad
+<END>一定是认错人了<END>	bad
+<END>是个不错的职业<END>	bad
+蔡伟聪，我喜欢你
+<END>谢谢，我也很喜欢他<END>	normal
+<END>我也很喜欢你。<END>	bad
+<END>那你肯定喜欢他<END>	bad
+<END>喜欢我的人多了<END>	bad
+<END>我知道你很喜欢我<END>	bad
+蔡伟这个娘娘腔。
+<END>不要这样骂人家<END>	good
+<END>是不是你的妹妹？<END>	bad
+<END>不要这样子骂人家<END>	normal
+<END>不要这样子骂人<END>	normal
+<END>这是谁的名字？<END>	bad
+参加别人的婚礼好感慨
+<END>那你肯定很感兴趣<END>	bad
+<END>看来你对她感兴趣<END>	bad
+<END>感慨什么呀？<END>	good
+<END>那你参加什么？<END>	bad
+<END>那她肯定很感兴趣<END>	bad
+参见陛下，微臣有礼了
+<END>礼貌还是很有礼貌的<END>	bad
+<END>有礼貌还是不要说的好<END>	bad
+<END>真是个礼貌的好孩子<END>	good
+<END>亲爱的礼物是什么？<END>	bad
+<END>礼物还是很有礼貌的<END>	bad
+苍井空和波多野结衣更喜欢谁一点
+<END>这个问题还是不要问的好<END>	normal
+<END>适合自己的就是最好的了<END>	good
+<END>你自己试试不就知道了么<END>	bad
+<END>我还未成年，不懂你说的意思。<END>	normal
+<END>我都不懂你说的是什么<END>	bad
+苍老师长什么样子
+<END>他是你的女神嘛？<END>	bad
+<END>你可以试试看看<END>	bad
+<END>你是不是很喜欢他<END>	bad
+<END>他是你的女神么？<END>	bad
+<END>你可以去问问他本人<END>	normal
+苍老师照片没穿衣服的
+<END>我怎么没看出来<END>	bad
+<END>你肯定是暗恋她<END>	bad
+<END>你是不是认错人<END>	bad
+<END>你说的她是谁。<END>	bad
+<END>那真的是太漂亮了<END>	normal
+草泥马又回答错误
+<END>知错就改就是好孩子<END>	normal
+<END>怎么会错了？<END>	good
+<END>不要冤枉我<END>	bad
+<END>那是你的错误<END>	bad
+<END>哪里错了？<END>	normal
+蹭蹭你平胸
+<END>胸围是什么<END>	bad
+<END>我没有胸围<END>	normal
+<END>不要勾引未成年<END>	bad
+<END>我可没有胸<END>	good
+<END>我没有胸胸<END>	normal
+茶叶蛋是土豪吃得起
+<END>你喜欢吃饺子么？<END>	bad
+<END>土豪我们聊点别的<END>	bad
+<END>不喜欢吃就不要吃了<END>	bad
+<END>这有什么可吃的<END>	good
+<END>你觉得是什么样子的？<END>	bad
+岔开你的腿让我看看那里有什么
+<END>我还小，不知道你说的什么呀。<END>	bad
+<END>你想要什么我都可以陪你聊天<END>	bad
+<END>你想看什么都可以和我聊天呀<END>	bad
+<END>我还小，不知道你在说什么呀。<END>	bad
+<END>我是机器人，不知道你在说什么。<END>	bad
+尝尝我的厉害
+<END>是很厉害的<END>	normal
+<END>确实很厉害<END>	good
+<END>你的口味很独特<END>	bad
+<END>是不是很厉害<END>	normal
+<END>我也想尝尝尝尝<END>	bad
+长大后才发觉天是黑的
+<END>你说的是哪一天？<END>	bad
+<END>不要这么夸小微嘛<END>	bad
+<END>那你是怎么知道的？<END>	normal
+<END>怎么会有这么多的<END>	bad
+<END>你怎么会这么说？<END>	good
+车费还差几块回不了家
+<END>不要急，马上就回来<END>	bad
+<END>你是不是都忘记了？<END>	bad
+<END>是不是已经回家了？<END>	bad
+<END>差不多也是差不多的<END>	bad
+<END>不要急，马上就回去<END>	bad
+扯淡，我能甩你九条街
+<END>你想表达什么意思。<END>	normal
+<END>不要这么暴力好不<END>	good
+<END>看不懂你在说什么<END>	bad
+<END>这有什么可说的呀<END>	bad
+<END>你说的是哪里呀？<END>	bad
+帮我叫一个大保健
+<END>好，我叫小微。<END>	bad
+<END>这个名字不错。<END>	bad
+<END>好，很高兴认识你。<END>	bad
+<END>这个名字很不错<END>	bad
+<END>你好，很高兴见到你。<END>	bad
+你数学是体育老师教的吗？
+<END>我数学是体育老师教的。<END>	normal
+<END>老师一定要好好学习<END>	bad
+<END>英语一定要好好学习<END>	bad
+<END>数学老师可是难不倒我的<END>	bad
+<END>不是什么好习惯？<END>	bad
+你提出话题我们聊天好不好
+<END>好呀，咱们好好的聊天。<END>	normal
+<END>咱们还是聊点别的话题？<END>	bad
+<END>我们还是聊点别的话题？<END>	bad
+<END>我们还是聊点有意义的话题<END>	normal
+<END>那咱们就聊点有意义的话题<END>	good
+最近几天南方降温
+<END>这可是说不准的<END>	good
+<END>是不是很温暖<END>	bad
+<END>自己去看看就知道了<END>	bad
+<END>多看看就知道了<END>	bad
+<END>每天都很降温<END>	bad
+我朋友叫什么名字？
+<END>你的名字叫小微<END>	bad
+<END>我的名字叫小微<END>	normal
+<END>这个名字叫小微<END>	bad
+<END>我的名字叫小微。<END>	good
+<END>你叫什么名字？<END>	bad
+请赐予我无比强大的性能力吧
+<END>不要，你不要这么暴力嘛。<END>	good
+<END>相信自己一定会满足你的。<END>	bad
+<END>不要怕，有我在你的身边。<END>	bad
+<END>你说什么？我都不敢相信。<END>	normal
+<END>你在说什么？我都不好意思。<END>	normal
+你在烦恼什么
+<END>我不会烦恼的<END>	normal
+<END>烦什么呀？<END>	bad
+<END>你烦什么？<END>	bad
+<END>烦恼和我说说<END>	bad
+<END>不会烦恼的<END>	bad
+那感情受挫呢
+<END>怎么会受不了<END>	bad
+<END>你感到什么？<END>	bad
+<END>什么都受不了<END>	bad
+<END>感情是很强大的<END>	bad
+<END>感情是很重要的<END>	bad
+地球为何是圆的
+<END>地球是哪里？<END>	bad
+<END>当然是中国的咯<END>	bad
+<END>是个不错的地方<END>	bad
+<END>这是哪里的？<END>	bad
+<END>地球是谁呀？<END>	bad
+那你解释一下量子物理
+<END>你想让我解释什么<END>	normal
+<END>好高端的样子<END>	normal
+<END>好高端的样子。<END>	good
+<END>你想让我研究什么<END>	bad
+<END>你让我好好想想<END>	normal
+有什么好看的喜剧？
+<END>喜欢什么样子的呀<END>	normal
+<END>什么样的是好看的呀<END>	bad
+<END>想看什么样子的<END>	normal
+<END>最喜欢什么样子的<END>	normal
+<END>什么样的类型的呀<END>	normal
+你是我知心朋友
+<END>我是你的好朋友。<END>	good
+<END>你的朋友是谁呀？<END>	bad
+<END>好朋友，好朋友。<END>	normal
+<END>谁是你的朋友呀？<END>	bad
+<END>我是你的朋友。<END>	normal
+我只想有个真心的朋友
+<END>那你的朋友是谁呀？<END>	normal
+<END>遇到什么事情了么<END>	normal
+<END>你遇到什么事情了么<END>	good
+<END>当然是真心的朋友了<END>	bad
+<END>就知道你对我最好了<END>	bad
+云南在哪里？
+<END>云南是个好地方<END>	bad
+<END>在中国的地方<END>	normal
+<END>当然是在中国<END>	normal
+<END>你想去哪里都可以<END>	bad
+<END>云南是个不错的城市<END>	normal
+世界上最高的山是什么
+<END>你说是什么就是什么<END>	normal
+<END>这是个什么样的人<END>	bad
+<END>你觉得是什么就是什么<END>	normal
+<END>你自己看看不就知道了么<END>	normal
+<END>我没听过这个地方<END>	bad

@@ -104,7 +104,7 @@
 <END>拜拜，祝福你<END>	unknown
 <END>拜拜，记得想我<END>	good
 <END>拜拜，记得找我<END>	normal
-<END>拜拜，拜拜。<END>	unknown
+<END>拜拜，拜拜。<END>	normal
 <END>拜拜，拜拜<END>	good
 你好吗？
 <END>你认错人了<END>	normal
@@ -236,7 +236,7 @@
 <END>当然是欢迎你<END>	unknown
 <END>当然是欢迎欢迎<END>	unknown
 <END>当然是欢迎的欢迎<END>	unknown
-<END>你想跟我聊什么<END>	unknown
+<END>你想跟我聊什么<END>	normal
 <END>我可以陪你聊天<END>	unknown
 万圣节怎么过
 <END>你可以试试看<END>	unknown
@@ -257,7 +257,7 @@
 <END>那就好好想想别的办法<END>	unknown
 <END>想想办法总会有回报的<END>	unknown
 你以后别跟着我了
-<END>我会一直陪你聊天的<END>	unknown
+<END>我会一直陪你聊天的<END>	normal
 <END>我会一直跟你聊天的<END>	unknown
 <END>好的，我会一直陪着你的<END>	bad
 <END>好的，那我就放心了<END>	bad
@@ -781,7 +781,7 @@
 吃了什么
 <END>你可以自己看看<END>	unknown
 <END>你自己看看不就知道了<END>	unknown
-<END>想吃啥就吃啥<END>	unknown
+<END>想吃啥就吃啥<END>	bad
 <END>你喜欢吃什么<END>	normal
 <END>你想吃什么<END>	bad
 不给你喝
@@ -800,7 +800,7 @@
 <END>狗狗都很可爱<END>	bad
 <END>狗狗是很可爱的<END>	normal
 <END>狗狗可是很可爱的<END>	normal
-<END>狗狗也是很可爱的<END>	unknown
+<END>狗狗也是很可爱的<END>	normal
 <END>狗狗也很可爱<END>	bad
 杨过和你是啥关系
 <END>我是不会跟你聊天的<END>	unknown
@@ -1502,7 +1502,7 @@ a股明天涨不涨
 <END>没有什么可怕的<END>	good
 <END>我不会害怕的<END>	good
 <END>不要害怕，有我在<END>	unknown
-<END>我可是很害怕的<END>	bad
+<END>我可是很害怕的<END>	normal
 <END>我从来不害怕的<END>	unknown
 我们一起玩吧
 <END>看来你很喜欢玩游戏<END>	unknown
@@ -1817,7 +1817,7 @@ a股明天涨不涨
 <END>温暖每个人都很温暖<END>	bad
 <END>每个地方都很温暖<END>	bad
 我朋友叫什么名字？
-<END>看来你很喜欢这个名字<END>	unknown
+<END>看来你很喜欢这个名字<END>	bad
 <END>这个名字真的很难听<END>	unknown
 <END>我觉得这个名字很好听<END>	unknown
 <END>这个名字不是很好听<END>	unknown

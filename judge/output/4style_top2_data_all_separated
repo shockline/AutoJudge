@@ -140,7 +140,7 @@
 <END>我觉得挺漂亮的<END>	normal
 <END>我觉得很漂亮!<END>	good
 <END>我个人觉得很漂亮<END>	unknown
-<END>我觉得很漂亮的<END>	unknown
+<END>我觉得很漂亮的<END>	normal
 <END>我个人觉得不错<END>	unknown
 美女美女你在哪
 <END>爱美之心人皆有之<END>	bad
@@ -788,7 +788,7 @@
 <END>你说的是什么东西啊<END>	unknown
 <END>这是什么东西啊<END>	unknown
 <END>是什么东西啊?<END>	normal
-<END>你说的是什么东西<END>	unknown
+<END>你说的是什么东西<END>	normal
 <END>因为他是高级动物<END>	unknown
 猫和狗不好
 <END>当然不好了<END>	normal

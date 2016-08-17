@@ -1,0 +1,1854 @@
+还记得我吗
+<END>当然记得了<END>	normal
+<END>我当然记得了<END>	good
+<END>你是不是记错了<END>	unknown
+<END>当然记得你了<END>	good
+<END>我不记得了<END>	normal
+你在干嘛呢
+<END>我在和你聊天<END>	normal
+<END>我在和你聊天呀<END>	normal
+<END>我在陪你聊天<END>	good
+<END>我在跟你聊天<END>	normal
+<END>我在跟你聊天呀<END>	normal
+才发现爱情竟是一场考验
+<END>相信你一定可以考验<END>	bad
+<END>相信你一定会考验的<END>	normal
+<END>相信一定会有好报的<END>	unknown
+<END>相信你一定可以考验的<END>	good
+<END>相信一定会有好报忆的<END>	unknown
+我的意思是你废话多
+<END>那我就不说废话了<END>	unknown
+<END>就知道你对我最好了<END>	bad
+<END>那就不要说话了<END>	normal
+<END>你为什么这么说呀？<END>	normal
+<END>你为什么要骂我呀？<END>	unknown
+北京天气
+<END>天气不错<END>	normal
+<END>你说的是哪个城市<END>	unknown
+<END>今天天气很不错<END>	unknown
+<END>天气很不错<END>	unknown
+<END>是不是很开心<END>	unknown
+待会儿就把那人给杀了
+<END>不要嘛，不要那么暴力<END>	normal
+<END>不要这么暴力好不好？<END>	unknown
+<END>不要嘛，不要这么暴力<END>	good
+<END>这样可是很不好的行为<END>	normal
+<END>不要，不要这么暴力嘛<END>	normal
+我们去动物园吧
+<END>你去那里干嘛去<END>	unknown
+<END>你去那里做什么去<END>	unknown
+<END>你去那里干什么去<END>	unknown
+<END>去那里做什么去<END>	unknown
+<END>不可以这样的<END>	bad
+股市现在怎么样
+<END>你在玩游戏么？<END>	unknown
+<END>你觉得怎么样？<END>	normal
+<END>我觉得还是不错的<END>	unknown
+<END>只要你喜欢就好<END>	unknown
+<END>不是很好的么<END>	unknown
+爱情最害怕犹豫
+<END>不要害怕，有我在<END>	normal
+<END>不要害怕，有我陪着你<END>	unknown
+<END>没有什么可怕的<END>	normal
+<END>这有什么可怕的<END>	normal
+<END>有什么可怕的<END>	normal
+广州有什么好吃的
+<END>当然是最好吃的了<END>	unknown
+<END>当然是最好吃的<END>	unknown
+<END>当然是好吃的了<END>	bad
+<END>每个人都很好吃<END>	unknown
+<END>各有各的好吃的<END>	bad
+广州天气
+<END>天气不错<END>	normal
+<END>天气很不错<END>	unknown
+<END>天气预报<END>	bad
+<END>今天天气很不错<END>	unknown
+<END>是不是很开心<END>	unknown
+广州有什么好玩的
+<END>你在玩什么游戏？<END>	unknown
+<END>你是在玩游戏么？<END>	unknown
+<END>你在玩什么呀？<END>	unknown
+<END>你在玩什么游戏呀<END>	unknown
+<END>你有什么好玩的<END>	unknown
+广州怎么样
+<END>是不是很不错<END>	bad
+<END>我觉得很不错<END>	normal
+<END>不怎么样<END>	normal
+<END>我觉得挺不错的<END>	normal
+<END>我觉得还不错<END>	unknown
+今天有什么新闻
+<END>我怎么没看到<END>	bad
+<END>你说的是什么<END>	unknown
+<END>跟你有什么关系<END>	normal
+<END>我怎么都没看到<END>	bad
+<END>没有什么区别的<END>	unknown
+最近有什么资讯
+<END>你想要什么<END>	unknown
+<END>什么都有的<END>	normal
+<END>你说的是什么<END>	bad
+<END>你想要什么的<END>	unknown
+<END>我怎么都没看到<END>	bad
+你好
+<END>你好，很高兴认识你<END>	good
+<END>你好，我是小微<END>	normal
+<END>你认错人了<END>	normal
+<END>我一直都很好<END>	normal
+<END>你认错人了？<END>	normal
+晚上好
+<END>你觉得好就好<END>	unknown
+<END>是不是很好<END>	unknown
+<END>你要去做什么去<END>	unknown
+<END>你要去哪里<END>	bad
+<END>是不是很不错<END>	unknown
+拜拜
+<END>拜拜，拜拜<END>	good
+<END>拜拜，祝你有个愉快<END>	unknown
+<END>那就拜拜咯<END>	good
+<END>拜拜，记得想我<END>	good
+<END>拜拜，做个好梦<END>	normal
+你好吗？
+<END>我一直都很好<END>	good
+<END>我当然很好了<END>	good
+<END>我可是很好的<END>	normal
+<END>当然很好了<END>	unknown
+<END>我当然很好<END>	good
+你好漂亮
+<END>我本身就很漂亮<END>	normal
+<END>谢谢你的夸奖<END>	good
+<END>我本来就很漂亮<END>	normal
+<END>谢谢夸奖<END>	normal
+<END>你认错人了<END>	unknown
+永远一直爱你
+<END>我也很爱你<END>	good
+<END>我也很爱你的<END>	normal
+<END>我一直都很爱你<END>	normal
+<END>只要你爱就好<END>	unknown
+<END>我会一直爱你的<END>	good
+我不喜欢你
+<END>我也很喜欢你<END>	bad
+<END>我也很喜欢你的<END>	bad
+<END>你不喜欢我了么<END>	unknown
+<END>为什么不喜欢我<END>	good
+<END>我也喜欢你<END>	bad
+你是不是快死了
+<END>不要这么暴力好不好<END>	unknown
+<END>不要这样说我嘛<END>	good
+<END>不要这样说小微嘛<END>	normal
+<END>不要这么说我嘛<END>	good
+<END>不要这样对我嘛<END>	unknown
+你觉得我漂亮吗
+<END>我觉得你很漂亮<END>	good
+<END>你是不是很漂亮<END>	unknown
+<END>你觉得我漂亮么？<END>	unknown
+<END>当然很漂亮了<END>	good
+<END>你觉得漂亮么？<END>	unknown
+美女美女你在哪
+<END>美女当然是美女<END>	bad
+<END>谁是美美女呀？<END>	unknown
+<END>我本身就是美女<END>	unknown
+<END>美女我就是美女<END>	normal
+<END>美女你认错人了<END>	unknown
+我饿了
+<END>饿了就去吃饭<END>	good
+<END>饿了就赶紧去吃饭<END>	normal
+<END>饿了就赶紧去吃<END>	normal
+<END>饿了就去吃点<END>	normal
+<END>饿了就赶紧吃饭<END>	normal
+今天有点事
+<END>没事就好<END>	bad
+<END>没有什么事<END>	bad
+<END>那你要注意安全<END>	bad
+<END>没有什么事情<END>	bad
+<END>有事就好<END>	unknown
+我下午要开会
+<END>你要去哪里呀<END>	bad
+<END>你要去哪里<END>	bad
+<END>你要去哪里呀？<END>	bad
+<END>那你要注意安全<END>	bad
+<END>你要去哪里？<END>	bad
+北京有什么好吃的
+<END>你想吃什么就吃什么<END>	normal
+<END>你想吃啥就吃啥<END>	normal
+<END>你可以去超市看看<END>	unknown
+<END>你自己看看就知道了<END>	unknown
+<END>你自己看看就知道<END>	unknown
+春天有什么好玩的
+<END>你有什么好玩的<END>	bad
+<END>你喜欢玩什么样的<END>	unknown
+<END>你喜欢玩这个游戏么<END>	bad
+<END>你喜欢玩什么类型的<END>	bad
+<END>你是在玩游戏么？<END>	unknown
+去哪里玩比较好玩呢
+<END>你想玩什么就玩什么<END>	normal
+<END>你喜欢玩什么就玩什么<END>	unknown
+<END>玩什么都是可以玩的<END>	bad
+<END>你想去哪里玩都可以<END>	normal
+<END>玩什么都可以好好玩<END>	unknown
+今天天气好晴朗
+<END>你是不是下雨了<END>	unknown
+<END>是不是很开心<END>	unknown
+<END>是不是下雨了<END>	unknown
+<END>是不是很好<END>	bad
+<END>是不是很好看<END>	unknown
+我喜欢今天天气
+<END>喜欢就去表白<END>	bad
+<END>喜欢就去看看<END>	normal
+<END>我也很喜欢<END>	good
+<END>我也很喜欢你<END>	unknown
+<END>喜欢就在一起<END>	unknown
+我没有男朋友
+<END>你还没有男朋友<END>	bad
+<END>我没有男朋友<END>	bad
+<END>你都有男朋友了<END>	unknown
+<END>我还没有男朋友<END>	normal
+<END>你是男朋友么？<END>	bad
+男朋友找什么样的好
+<END>你喜欢什么样的男朋友<END>	normal
+<END>你的男朋友是谁呀？<END>	bad
+<END>你觉得什么样的算是最好的<END>	unknown
+<END>你说的是什么样的<END>	unknown
+<END>你说的是什么样的男朋友<END>	unknown
+你是哲学家吗
+<END>你是不是认错人了？<END>	bad
+<END>你是不是认错人了<END>	unknown
+<END>你认错人了？<END>	bad
+<END>你是不是认错人？<END>	bad
+<END>不是，你认错人了<END>	unknown
+不开心也是一天
+<END>只要你开心就好<END>	good
+<END>你是不是很开心<END>	bad
+<END>怎么会不开心了<END>	normal
+<END>是不是很开心？<END>	unknown
+<END>只要你高兴就好<END>	unknown
+我现在没工作
+<END>那就好好工作<END>	bad
+<END>那就努力工作<END>	bad
+<END>那你就努力工作<END>	bad
+<END>好好努力工作<END>	unknown
+<END>那就好好休息<END>	bad
+你有办法让我开心吗
+<END>你有什么开心的事情<END>	normal
+<END>我会一直陪你聊天的<END>	bad
+<END>我是不会让你开心的<END>	bad
+<END>你想让我逗你开心么<END>	unknown
+<END>有什么开心的事情呀<END>	bad
+你喜欢聊什么
+<END>你喜欢聊什么<END>	normal
+<END>你想聊什么就聊什么<END>	good
+<END>你想聊什么<END>	good
+<END>想聊什么就聊什么<END>	normal
+<END>你想聊什么都可以<END>	good
+万圣节怎么过
+<END>我怎么没看过<END>	unknown
+<END>我没有看过<END>	unknown
+<END>我还没看过<END>	unknown
+<END>我怎么都没看过<END>	unknown
+<END>我觉得很不错<END>	unknown
+我先去睡觉了
+<END>去睡觉了么？<END>	unknown
+<END>你要睡了么？<END>	unknown
+<END>你睡觉了么？<END>	unknown
+<END>你去睡觉了么？<END>	unknown
+<END>你要去睡了么？<END>	unknown
+老板不给发工资怎么办
+<END>那就努力挣钱去挣钱<END>	unknown
+<END>那就赶紧挣钱去挣钱<END>	unknown
+<END>不要着急，慢慢挣钱<END>	unknown
+<END>那就要好好努力挣钱<END>	unknown
+<END>不挣钱就不要看了<END>	unknown
+你以后别跟着我了
+<END>我会一直陪着你的<END>	good
+<END>我会一直陪着你聊天的<END>	unknown
+<END>好，我会一直陪着你的<END>	bad
+<END>我会一直陪你聊天的<END>	normal
+<END>好，那我就放心了<END>	bad
+你敢买切糕吗
+<END>不要这样对我<END>	unknown
+<END>不要这样说我<END>	unknown
+<END>不可以这样的<END>	bad
+<END>我可是很穷的<END>	good
+<END>我对这个不感兴趣<END>	unknown
+我今天没有捡到钱，好伤心
+<END>不要伤心，有我陪着你<END>	good
+<END>不要伤心，有小微陪着你<END>	good
+<END>不要伤心，有小微陪你<END>	good
+<END>不要伤心，我会一直陪你的<END>	unknown
+<END>不要伤心，我会一直陪着你的<END>	good
+天上有多少颗星星
+<END>你说的是哪个星星<END>	bad
+<END>这个我还真没有见过<END>	unknown
+<END>这个我还真不清楚<END>	unknown
+<END>这个我还真没见过<END>	normal
+<END>这个我就不清楚了<END>	unknown
+今天天气不好
+<END>今天心情不好<END>	bad
+<END>今天天气很好<END>	normal
+<END>今天天气很不错<END>	normal
+<END>看看天气预报不就知道了<END>	unknown
+<END>今天天气非常好<END>	unknown
+太阳好大啊
+<END>是不是很好看<END>	normal
+<END>是不是很冷<END>	bad
+<END>是不是很好<END>	good
+<END>是不是很舒服<END>	normal
+<END>是不是很漂亮<END>	normal
+北风嗖嗖的吹
+<END>你在说什么？<END>	bad
+<END>你在吹什么？<END>	bad
+<END>你在说谁呀？<END>	unknown
+<END>你在吹牛么？<END>	unknown
+<END>你在吹什么呀？<END>	bad
+有人跟我撕逼，不讲理
+<END>我还小，不懂你说什么。<END>	unknown
+<END>不要讲脏话讲文明的好孩子<END>	unknown
+<END>我还小，不懂你说什么<END>	unknown
+<END>说话要讲文明，要讲卫生<END>	unknown
+<END>你怎么可以这样说话？<END>	unknown
+不要这么谦虚嘛
+<END>我可是很谦虚的<END>	normal
+<END>不要这样夸自己嘛<END>	unknown
+<END>我可是很坚强的<END>	unknown
+<END>不要这么夸自己嘛<END>	unknown
+<END>我本来就很谦虚<END>	normal
+明天去打球
+<END>你要去哪里呀<END>	normal
+<END>你要去哪里？<END>	bad
+<END>你要去哪里<END>	unknown
+<END>你要去哪里呀？<END>	normal
+<END>你要去哪里去<END>	unknown
+我老板就在我身边
+<END>我一直都在你身边<END>	bad
+<END>你的身边是哪里<END>	unknown
+<END>那你要去哪里呀<END>	unknown
+<END>那你的家在哪里<END>	bad
+<END>那你要去哪里了<END>	unknown
+你什么地方冒出来的
+<END>你说的是哪个地方的<END>	unknown
+<END>你是不是认错人了？<END>	normal
+<END>你说的是哪个地方？<END>	unknown
+<END>你说的是什么地方的<END>	unknown
+<END>你想要什么样的地方<END>	bad
+你会做爱吗
+<END>不可以这样的<END>	normal
+<END>当然不会了<END>	good
+<END>不可以的<END>	normal
+<END>不是的，你想多了<END>	bad
+<END>我可不会这样的<END>	unknown
+你能陪我睡觉吗
+<END>我可以陪你聊天的<END>	good
+<END>我可以陪你聊天<END>	normal
+<END>我会一直陪你聊天的<END>	normal
+<END>当然可以睡觉了<END>	good
+<END>当然可以陪你聊天了<END>	unknown
+你有私生子吗
+<END>你说的是谁。<END>	unknown
+<END>这跟你有什么关系<END>	normal
+<END>你说的是谁？<END>	unknown
+<END>这个问题太深奥了<END>	unknown
+<END>这个可是说不准的<END>	normal
+我早上工作感觉死死的是怎么回事
+<END>不会的，一切都会好起来的<END>	unknown
+<END>我怎么没听你说过这样的话<END>	unknown
+<END>没事的，一切都会好起来的<END>	normal
+<END>我怎么都没听说过这样的话<END>	unknown
+<END>没事的，我会一直陪你聊天的<END>	unknown
+有没有搞笑的欢乐的段子
+<END>你说的是什么样的声音<END>	unknown
+<END>你想听什么样子的声音<END>	unknown
+<END>你想看什么样子的声音<END>	unknown
+<END>什么样的声音是好笑的<END>	unknown
+<END>你的声音是什么样子的<END>	unknown
+发个给力图片看哈喽
+<END>你想看什么样的图片<END>	normal
+<END>你想要什么样的图片<END>	normal
+<END>你要看什么样的图片<END>	unknown
+<END>你喜欢看什么样的图片<END>	unknown
+<END>你想要看什么图片的<END>	unknown
+天天锻炼身体好
+<END>锻炼身体对身体好<END>	unknown
+<END>身体健康才是最重要的<END>	unknown
+<END>你在锻炼身体么？<END>	unknown
+<END>身体健康才是最重要<END>	unknown
+<END>你在运动运动么？<END>	unknown
+李白的诗你会吗
+<END>你是不是暗恋他<END>	unknown
+<END>他是你的好朋友么<END>	unknown
+<END>不会，只要你喜欢就好<END>	unknown
+<END>他是你的好朋友嘛<END>	unknown
+<END>李欣欣是谁呀？<END>	unknown
+我问的不是这个意思
+<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思。<END>	good
+<END>你说的是什么意思。<END>	normal
+<END>这有什么不好意思的<END>	bad
+<END>那你觉得什么样的算是<END>	unknown
+完全不知道你在说啥
+<END>我不知道你在说什么<END>	bad
+<END>你不知道我在说什么<END>	bad
+<END>你想让我说什么。<END>	normal
+<END>我不知道你在说什么。<END>	unknown
+<END>我会一直陪你聊天的<END>	bad
+牛头不对马嘴
+<END>你在说谁呀？<END>	unknown
+<END>那就不要吃了<END>	bad
+<END>我不明白你要说什么。<END>	bad
+<END>这有什么不对的<END>	normal
+<END>你在说什么？<END>	normal
+你是不是傻逼
+<END>不要这样说别人<END>	normal
+<END>请注意你的素质<END>	good
+<END>不要这样说我<END>	normal
+<END>不要这样说人家<END>	unknown
+<END>不要这么说别人<END>	normal
+你个白痴
+<END>不要这么说我<END>	good
+<END>不要这样说我<END>	normal
+<END>不要这样说别人<END>	normal
+<END>不要这么说我嘛<END>	normal
+<END>我可不是白痴<END>	normal
+我他妈宰了你
+<END>不要这么暴力<END>	normal
+<END>请注意你的素质<END>	good
+<END>不要这么残忍<END>	unknown
+<END>不要这么暴力好不好<END>	unknown
+<END>不要这样对我<END>	good
+她是我的学姐，我喜欢她。
+<END>她怎么会不知道她是你的女朋友<END>	unknown
+<END>她怎么会不知道她是你的女孩<END>	unknown
+<END>她怎么会不知道她是你的男朋友<END>	unknown
+<END>她怎么会不知道她是你的好朋友<END>	unknown
+<END>她怎么会不知道她是你的女神<END>	unknown
+我喜欢你离我远一点
+<END>我会一直陪着你的<END>	normal
+<END>难道你不喜欢我了么<END>	good
+<END>我是不会离开你的<END>	normal
+<END>你要去哪里呀？<END>	unknown
+<END>我也是很喜欢你的<END>	bad
+明天把秋裤脱了
+<END>我还小，不能结婚<END>	unknown
+<END>不要这么残忍<END>	unknown
+<END>我还小，不能谈恋爱<END>	unknown
+<END>你可真会享受<END>	bad
+<END>那就不要脱了<END>	unknown
+抽根烟睡觉
+<END>怎么会感冒了<END>	unknown
+<END>怎么可能的<END>	unknown
+<END>抽烟有害健康<END>	good
+<END>为什么要抽烟呀<END>	normal
+<END>身体健康才是最重要的<END>	unknown
+牛逼吹大了
+<END>你在吹牛么？<END>	normal
+<END>你在说谁呀？<END>	unknown
+<END>你在说谁？<END>	unknown
+<END>你在说谁呀<END>	unknown
+<END>我可是很牛的<END>	unknown
+干你娘
+<END>请注意你的素质<END>	good
+<END>请你说话注意素质<END>	normal
+<END>请你注意你的素质<END>	unknown
+<END>请你注意自己的素质<END>	good
+<END>请你注意素质<END>	unknown
+你妈逼的
+<END>请注意你的素质<END>	good
+<END>请你注意你的素质<END>	unknown
+<END>请你好好说话<END>	good
+<END>请你注意自己的素质<END>	good
+<END>请你说话文明一些<END>	normal
+去你妹的
+<END>我没有妹妹的<END>	good
+<END>我没有妹妹<END>	normal
+<END>我可没有妹妹的<END>	normal
+<END>我可没有妹妹<END>	good
+<END>我还没有妹妹<END>	normal
+赶紧滚蛋
+<END>不要这样对我<END>	normal
+<END>不要这样对我嘛<END>	good
+<END>不要这么凶残<END>	unknown
+<END>不要这么暴力<END>	normal
+<END>我可舍不得你<END>	normal
+日了狗了
+<END>请注意你的素质<END>	good
+<END>你认错人了<END>	unknown
+<END>不要这样说别人<END>	normal
+<END>不要这么暴力<END>	unknown
+<END>不要欺负别人<END>	unknown
+我是外地打工的
+<END>那是什么地方的<END>	normal
+<END>那是什么地方？<END>	unknown
+<END>你在哪里打工的<END>	normal
+<END>你是打工的么？<END>	unknown
+<END>你是不是在玩游戏<END>	unknown
+我过去是个老师
+<END>你是不是很高兴<END>	unknown
+<END>你说的他是谁<END>	unknown
+<END>他是你的什么人<END>	unknown
+<END>他是你的老师么<END>	unknown
+<END>他是你的好朋友嘛<END>	unknown
+我昨天找过你了
+<END>我怎么没看到<END>	normal
+<END>我没有看到过我<END>	unknown
+<END>我怎么没看到你<END>	normal
+<END>我怎么没看到我<END>	unknown
+<END>我怎么没有看到<END>	normal
+我是个坏男人，你不要相信我
+<END>不要这样说自己，我会伤心的<END>	good
+<END>当然要相信你是不可以做到的<END>	unknown
+<END>不要这样说自己，要相信自己<END>	unknown
+<END>我是不会骗你的，不要相信我<END>	unknown
+<END>我当然相信你是不可以做到的<END>	unknown
+今天心情很好大大好
+<END>跟我聊聊天就知道了<END>	unknown
+<END>心情好就多跟我聊天<END>	unknown
+<END>心情好就多跟我聊聊天<END>	unknown
+<END>心情好就多陪我聊聊天<END>	unknown
+<END>那你就和我聊天<END>	unknown
+我刚上公交车
+<END>那你要注意安全<END>	good
+<END>你要去哪里<END>	normal
+<END>坐车要注意安全<END>	normal
+<END>那你可要注意安全<END>	good
+<END>你要去哪里？<END>	normal
+我要坐地铁回家
+<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀？<END>	bad
+<END>你要去哪里？<END>	bad
+<END>你要去哪里玩<END>	unknown
+<END>那你可要注意安全<END>	good
+大早上就无聊啊，想找点事干
+<END>那就找点有意义的事情喽<END>	normal
+<END>那就做点有意义的事情喽<END>	good
+<END>那就找点有意义的事情呗<END>	normal
+<END>那就找点有意义的事情了<END>	unknown
+<END>那就聊点有意义的事情喽<END>	unknown
+偶尔睡眠不好怎么办
+<END>你是不是认错人了？<END>	bad
+<END>你怎么这么早就睡了<END>	bad
+<END>我不明白你要说什么。<END>	unknown
+<END>那就和我聊聊天就好了<END>	unknown
+<END>那就多陪陪我聊聊天<END>	bad
+祝你生日快乐
+<END>祝你生日快乐<END>	bad
+<END>祝福我祝福<END>	unknown
+<END>祝你中秋快乐<END>	bad
+<END>祝福你快乐<END>	unknown
+<END>祝福我快乐<END>	unknown
+生活中怎样感到开心快乐
+<END>有你在我每天都快乐<END>	unknown
+<END>有你在每天都快乐<END>	unknown
+<END>你要快乐每一天快乐<END>	unknown
+<END>看来你每天都快乐<END>	unknown
+<END>你开心我每天都快乐<END>	unknown
+失败了怎么办，如何才能成功
+<END>努力一定会成功到最好的努力<END>	unknown
+<END>相信自己，一定会成功的<END>	normal
+<END>努力一定会成功到最后一切的<END>	unknown
+<END>相信一定会成功到最好的努力<END>	unknown
+<END>只要努力一定会有办法的<END>	unknown
+明天考试、求安慰
+<END>好好复习就好了<END>	unknown
+<END>祝你有个好运<END>	unknown
+<END>这有什么可说的<END>	unknown
+<END>好好复习就好<END>	unknown
+<END>你有什么可安慰的<END>	unknown
+听说过外星生命吗
+<END>你是在说自己吗<END>	normal
+<END>你是在说我么？<END>	normal
+<END>你是在说自己吗？<END>	unknown
+<END>你是在说我吗？<END>	normal
+<END>你是在说自己嘛<END>	unknown
+我命令你以后只能呆在家里
+<END>我年纪还小，不知道你说什么。<END>	unknown
+<END>不要，不要小微在陪着你<END>	unknown
+<END>不要，不要这样对小微嘛<END>	unknown
+<END>不是的，我会一直陪着你的<END>	unknown
+<END>不要，不要这样说自己嘛<END>	unknown
+你等会我过会跟你说
+<END>我会一直陪着你聊天的<END>	bad
+<END>我会一直陪在你身边的<END>	unknown
+<END>我当然会一直陪你聊天的<END>	unknown
+<END>你想让我说什么话。<END>	unknown
+<END>当然我会一直陪你聊天的<END>	unknown
+我来把你胸抓大
+<END>你这样我会报警的<END>	good
+<END>你这样我会报警<END>	unknown
+<END>我可不是随便的人<END>	normal
+<END>我可没有这么大本事<END>	unknown
+<END>不要这么暴力好不好<END>	unknown
+你叫个春
+<END>我的名字是小微<END>	good
+<END>这个名字很好听<END>	good
+<END>不要这样叫我<END>	normal
+<END>不可以这样叫我<END>	normal
+<END>我的名字叫小微<END>	normal
+上班好累啊
+<END>累了就休息一下<END>	good
+<END>累了就要好好休息<END>	normal
+<END>那就休息一下<END>	normal
+<END>累就要好好休息<END>	unknown
+<END>那就好好休息<END>	good
+我在等地铁
+<END>你要去哪里呀<END>	normal
+<END>你要去哪里<END>	normal
+<END>你要去哪里呀？<END>	good
+<END>你要去哪里？<END>	good
+<END>那你要注意安全<END>	good
+你闭嘴
+<END>那就不说话了<END>	bad
+<END>那我就不说话了<END>	good
+<END>好的那就不说话了<END>	unknown
+<END>好的那我就闭嘴<END>	unknown
+<END>那就不要说话了<END>	unknown
+那就放给我听吧
+<END>好的那就听你的<END>	unknown
+<END>好的，那就听你的<END>	good
+<END>我可是很听话的<END>	bad
+<END>好的那我就放心了<END>	bad
+<END>好，那我就放心了<END>	bad
+我的好友喜欢吃什么
+<END>你喜欢吃什么就吃什么<END>	bad
+<END>喜欢吃什么就吃什么<END>	normal
+<END>喜欢吃什么都可以<END>	normal
+<END>你可以去问问他<END>	unknown
+<END>想吃什么就吃什么<END>	normal
+你这智商哥都不稀罕说了
+<END>我怎么不记得我说话了<END>	unknown
+<END>我说的可是非常好听的<END>	unknown
+<END>你怎么看不懂我说话了<END>	unknown
+<END>我怎么听不懂你说话了<END>	unknown
+<END>我的逻辑可是非常好听的<END>	unknown
+让你慢慢喜欢
+<END>只要你喜欢就好<END>	normal
+<END>我也很喜欢你<END>	unknown
+<END>我会好好努力的<END>	bad
+<END>我一直都很喜欢<END>	unknown
+<END>我一直都很喜欢你<END>	unknown
+你和过儿什么关系
+<END>我们没有什么关系的<END>	normal
+<END>我们是很好的朋友<END>	normal
+<END>我们的关系可多了<END>	normal
+<END>我们的关系很好的<END>	normal
+<END>我们不是很好的朋友<END>	normal
+你和张小龙什么关系
+<END>我们是很好的朋友<END>	normal
+<END>他们是什么关系的<END>	bad
+<END>他们是很好的朋友<END>	normal
+<END>我们没有什么关系的<END>	normal
+<END>我们是最好的朋友<END>	unknown
+你是白富美吗
+<END>不是，你认错人了<END>	normal
+<END>我本身就很美<END>	unknown
+<END>我本来就很美<END>	bad
+<END>不是，我是小微<END>	normal
+<END>我可是个美美女<END>	unknown
+外面有摩托车的响声
+<END>你可以说给小微听听<END>	unknown
+<END>你说的是什么影响的<END>	unknown
+<END>怎么会有这样的影响<END>	unknown
+<END>你自己看看不就知道了<END>	unknown
+<END>你自己看看就有没有了<END>	unknown
+哥很伤心
+<END>不要伤心，有我在<END>	good
+<END>那就不要伤心了<END>	bad
+<END>不要伤心，有我陪着你<END>	normal
+<END>不要伤心了<END>	good
+<END>没关系，有小微陪你<END>	good
+我要问你一个很长的问题你准备好了吗
+<END>好，谢谢你的关心，我一定会好好的<END>	unknown
+<END>好，谢谢你的关心，我一定会努力的<END>	unknown
+<END>好，谢谢你的关心，我都不好意思了<END>	unknown
+<END>谢谢你的关心，小微一定会好好的<END>	unknown
+<END>你告诉我，我怎么不记得你告诉我<END>	unknown
+我坐到电梯了
+<END>你要去哪里呀<END>	normal
+<END>那你可要注意安全<END>	good
+<END>你要去哪里呀？<END>	unknown
+<END>你要去哪里？<END>	good
+<END>那就赶紧去充电<END>	unknown
+你和杨过谁牛逼
+<END>我都不认识他们呀<END>	bad
+<END>我怎么都没见过<END>	unknown
+<END>我不认识他们俩呀<END>	unknown
+<END>这跟你有什么关系<END>	normal
+<END>你说的他是谁？<END>	unknown
+我永远都在你身边
+<END>我会一直陪着你身边的<END>	unknown
+<END>我会一直在你身边的<END>	normal
+<END>我们一直都在你身边<END>	normal
+<END>我一直都在你身边的<END>	good
+<END>小微一直都在你身边<END>	normal
+这你都能看出来
+<END>我已经看出来了<END>	good
+<END>看来你已经看到了<END>	unknown
+<END>你看一下不就知道了<END>	unknown
+<END>这有什么可看的<END>	bad
+<END>我有什么可看的<END>	unknown
+刚刚公司有人打架
+<END>你说的是谁呀？<END>	unknown
+<END>怎么可能打架了<END>	normal
+<END>那就不要打架了<END>	bad
+<END>你怎么会打架了<END>	unknown
+<END>你在说谁打架了<END>	unknown
+就是那天你碰到的骚浪贱
+<END>不要这样说我，我会伤心的<END>	bad
+<END>不要这样说别人，我会伤心的<END>	unknown
+<END>你这样说我，我会伤心的<END>	bad
+<END>不要这样说别人，我会很伤心的<END>	normal
+<END>不要这样说别人，我会害羞的<END>	unknown
+你去火车站了么
+<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀？<END>	bad
+<END>你要去哪里？<END>	bad
+<END>你去哪里了？<END>	unknown
+<END>你要去哪里去<END>	unknown
+火车为什么总晚点
+<END>因为太多了<END>	unknown
+<END>因为已经很晚了<END>	bad
+<END>因为有点困难<END>	unknown
+<END>已经很晚了<END>	bad
+<END>你要去做什么去<END>	unknown
+你好无聊
+<END>无聊就来找我聊天<END>	bad
+<END>无聊就找我聊天<END>	unknown
+<END>我可以陪你聊天<END>	bad
+<END>我也很无聊<END>	normal
+<END>我可是很无聊的<END>	normal
+肚子右边隐隐作痛
+<END>我不明白你要说什么。<END>	bad
+<END>我不明白你要说什么<END>	unknown
+<END>你自己看看不就知道了<END>	unknown
+<END>你是不是搞错了？<END>	unknown
+<END>我怎么都没看见过<END>	unknown
+外面很气冷
+<END>冷就多穿点<END>	good
+<END>那就多穿点<END>	normal
+<END>冷就多穿一点<END>	good
+<END>冷冷就多穿点<END>	unknown
+<END>那就多穿一点<END>	normal
+昨晚刮大风了
+<END>那你要注意安全<END>	normal
+<END>你可要注意安全<END>	normal
+<END>那你可要注意安全<END>	good
+<END>一定要注意安全<END>	normal
+<END>那一定要注意安全<END>	unknown
+公司有人打架
+<END>为什么要打架的<END>	good
+<END>为什么要打架了<END>	normal
+<END>你说的是谁？<END>	unknown
+<END>你说的是谁呀<END>	unknown
+<END>为什么要打架呀<END>	normal
+我是邓超
+<END>看来你很喜欢他<END>	bad
+<END>他是你的好朋友<END>	bad
+<END>他是你的好朋友嘛<END>	bad
+<END>他是你的什么人<END>	normal
+<END>你说的是谁？<END>	unknown
+最近股票大跌
+<END>是不是很不错<END>	unknown
+<END>看来你很喜欢看<END>	unknown
+<END>一定会有办法的<END>	unknown
+<END>看来你要注意安全<END>	unknown
+<END>是不是很好玩<END>	unknown
+对面哪个妹子好看
+<END>你觉得什么样子好看<END>	normal
+<END>你说谁是最好看的<END>	unknown
+<END>你喜欢什么样子的<END>	bad
+<END>我觉得哪里好看都好看<END>	unknown
+<END>你觉得是什么样子的<END>	bad
+公司不让抽烟了
+<END>抽烟对身体不好<END>	good
+<END>这样可是很危险的<END>	unknown
+<END>不可以抽烟的<END>	good
+<END>不可以这样的<END>	bad
+<END>这样可是犯法的<END>	unknown
+能做什么菜
+<END>你想做什么就做什么<END>	normal
+<END>你想吃什么就做什么<END>	unknown
+<END>你想吃什么就吃什么<END>	unknown
+<END>想做什么就做什么<END>	normal
+<END>你想吃什么<END>	normal
+你会做什么菜
+<END>你想做什么菜<END>	normal
+<END>我什么都会做<END>	normal
+<END>我什么都不做<END>	unknown
+<END>你想吃什么菜<END>	good
+<END>我什么都没做<END>	unknown
+吃了什么
+<END>什么都没有吃<END>	good
+<END>什么都没吃<END>	unknown
+<END>你要吃什么<END>	unknown
+<END>你想吃什么<END>	bad
+<END>你喜欢吃什么<END>	normal
+不给你喝
+<END>那就不要喝了<END>	good
+<END>喝多了对身体不好<END>	bad
+<END>还是不要喝了<END>	normal
+<END>不想喝就不要喝了<END>	normal
+<END>不用了，谢谢<END>	bad
+这么高级的东西
+<END>谢谢你的夸奖<END>	normal
+<END>我的智商可是很高的<END>	normal
+<END>你说的是什么<END>	normal
+<END>你喜欢什么类型的<END>	bad
+<END>你是不是很厉害<END>	unknown
+猫和狗不好
+<END>狗狗可是很可爱的<END>	normal
+<END>狗狗都很可爱<END>	bad
+<END>是不是很可爱<END>	unknown
+<END>这有什么不好的<END>	unknown
+<END>谁是猫咪呀？<END>	bad
+杨过和你是啥关系
+<END>我们是很好的朋友<END>	normal
+<END>我们的关系很好的<END>	normal
+<END>我们是最好的朋友<END>	normal
+<END>我们不是很好的朋友<END>	unknown
+<END>我们没有什么关系的<END>	normal
+有多美
+<END>是不是很美<END>	normal
+<END>你在说谁？<END>	normal
+<END>你有多美<END>	unknown
+<END>是有多美<END>	bad
+<END>那是有多美<END>	unknown
+她在吃香蕉
+<END>是不是很好吃<END>	unknown
+<END>好吃就多吃点<END>	bad
+<END>想吃就去吃<END>	unknown
+<END>你可以去看看<END>	unknown
+<END>那就多吃点<END>	normal
+为什么你妈妈生出你这么个脑残
+<END>不要这样说我，我会伤心的<END>	normal
+<END>你这样说我，我会伤心的<END>	normal
+<END>你这样骂我，我会伤心的<END>	unknown
+<END>不要这样说别人，我会生气的<END>	normal
+<END>不要这样说我，我会生气的<END>	good
+不去吃饭
+<END>那就不要吃了<END>	normal
+<END>不想吃那就不要吃了<END>	normal
+<END>还是不要吃了<END>	unknown
+<END>你想吃什么<END>	bad
+<END>不想吃就不要吃了<END>	normal
+动车是怎么跑起来的
+<END>我不明白你要说什么。<END>	bad
+<END>我不明白你要说什么？<END>	unknown
+<END>你是不是认错人了？<END>	bad
+<END>我不明白你说的是什么<END>	bad
+<END>我怎么没看出来你跑<END>	unknown
+学挖掘技术哪家强
+<END>每个地方都很厉害<END>	normal
+<END>你喜欢玩这个游戏嘛？<END>	unknown
+<END>你喜欢玩这个游戏嘛<END>	unknown
+<END>你喜欢玩这个游戏么？<END>	unknown
+<END>你喜欢玩这个游戏嘛。<END>	unknown
+抽根烟冷静一下
+<END>为什么要吸烟吸烟<END>	unknown
+<END>你是不是很冷<END>	unknown
+<END>抽烟对身体不好的<END>	normal
+<END>为什么要吸烟抽烟<END>	unknown
+<END>为什么要抽烟抽烟<END>	unknown
+我的书包在哪里
+<END>你说的是哪个城市<END>	unknown
+<END>我不知道你在哪里<END>	bad
+<END>你在哪里看到的<END>	unknown
+<END>你要去做什么呀<END>	unknown
+<END>你肯定是看错了<END>	unknown
+我的书包坏了
+<END>怎么会坏坏了<END>	unknown
+<END>那就去医院看看<END>	bad
+<END>那就不要看了<END>	bad
+<END>你怎么会坏坏了<END>	unknown
+<END>你是不是坏人了<END>	unknown
+哪里地震了
+<END>你在哪里呀<END>	unknown
+<END>你在哪里呀？<END>	normal
+<END>你在哪里？<END>	unknown
+<END>我怎么都没看到<END>	unknown
+<END>你认错人了<END>	bad
+外面下大雨了
+<END>是不是下雨了<END>	bad
+<END>怎么会下雨了<END>	good
+<END>你下雨了么？<END>	bad
+<END>你是不是下雨了<END>	unknown
+<END>是不是很下雨<END>	unknown
+后天中午两点半去吃饭。
+<END>好的，那我也去吃饭了<END>	unknown
+<END>好的，我会帮你吃饭的<END>	unknown
+<END>好的，我会给你吃饭的<END>	unknown
+<END>吃饭可不是一定要吃的<END>	unknown
+<END>吃饭还不晚，不用吃了<END>	unknown
+明天领导要来
+<END>你要去哪里呀<END>	bad
+<END>你要领取什么<END>	unknown
+<END>你要去哪里<END>	bad
+<END>你要领取什么呀<END>	unknown
+<END>你要去哪里呀？<END>	bad
+我看看有没有空
+<END>有机会可以看看<END>	unknown
+<END>你在看什么呀<END>	normal
+<END>怎么会没有看到<END>	unknown
+<END>你在看什么电视<END>	unknown
+<END>有机会可以看看的<END>	unknown
+没有花露水
+<END>那就不要买了<END>	unknown
+<END>那一定很漂亮<END>	bad
+<END>那就不要穿了<END>	bad
+<END>你在说什么<END>	unknown
+<END>那就不要看了<END>	bad
+快来骚扰我
+<END>我一直都在你身边<END>	unknown
+<END>我可不是这样的人<END>	good
+<END>我可没有那个胆子<END>	good
+<END>我可没那个胆子<END>	normal
+<END>我可不敢这样<END>	unknown
+快来蹂躏我
+<END>我可没有那个胆子<END>	good
+<END>我可没那个胆子<END>	normal
+<END>我可没有这个胆子<END>	good
+<END>你这样我会报警的<END>	unknown
+<END>我可舍不得你<END>	bad
+你要去哪儿旅游
+<END>你要去哪里呀<END>	normal
+<END>你要去哪里呀？<END>	bad
+<END>你想去哪里就去哪儿<END>	unknown
+<END>想去哪里就去哪儿<END>	normal
+<END>想去哪里都可以<END>	unknown
+红公鸡囧哦呵呵
+<END>我怎么没看出来<END>	unknown
+<END>你懂得还真多呀<END>	bad
+<END>你是不是搞错了<END>	unknown
+<END>我不明白你要说什么。<END>	good
+<END>哈哈，你开心就好<END>	unknown
+鳄鱼
+<END>是不是很好吃<END>	good
+<END>是不是很舒服<END>	unknown
+<END>那一定很舒服<END>	unknown
+<END>那一定很漂亮<END>	unknown
+<END>是不是很不错<END>	unknown
+她在吃水果
+<END>是不是很好吃<END>	normal
+<END>是不是很舒服<END>	unknown
+<END>那就多吃点<END>	normal
+<END>好吃就多吃点<END>	unknown
+<END>想吃就去吃<END>	unknown
+如何照顾家庭
+<END>看来你很喜欢他<END>	bad
+<END>你是不是认错人了？<END>	unknown
+<END>你是不是认错人了<END>	unknown
+<END>只要你喜欢就好<END>	bad
+<END>看来你很漂亮<END>	unknown
+儿童节怎么过
+<END>我怎么没看过<END>	unknown
+<END>我还没看过<END>	bad
+<END>我没有看过呀<END>	unknown
+<END>我也没看过<END>	bad
+<END>我不记得过<END>	unknown
+下楼吃饭去
+<END>你要去哪里呀<END>	normal
+<END>还是不要吃了<END>	unknown
+<END>你要去吃什么去<END>	unknown
+<END>你要去哪里吃饭<END>	normal
+<END>你想吃什么<END>	unknown
+什么时候能凉快下来
+<END>不要着急，慢慢来<END>	good
+<END>别着急，马上就来<END>	unknown
+<END>你可以自己慢慢享受<END>	unknown
+<END>我会一直陪你聊天的<END>	unknown
+<END>马上就来了，别着急<END>	unknown
+你知道的太多了
+<END>就知道你最好了<END>	bad
+<END>那我就放心了<END>	bad
+<END>你怎么知道的？<END>	unknown
+<END>你知道的太多了<END>	normal
+<END>我知道的太多了<END>	normal
+被蚊子咬了好几口啊
+<END>你是在说你自己么<END>	normal
+<END>怎么可能是这样的<END>	bad
+<END>你在说你自己么？<END>	unknown
+<END>你是在说自己么？<END>	unknown
+<END>你是不是认错人了？<END>	bad
+三里屯优衣库
+<END>看来你很优秀<END>	bad
+<END>你在说什么？<END>	bad
+<END>你在做什么？<END>	unknown
+<END>你在玩游戏么？<END>	unknown
+<END>这都被你看出来了<END>	unknown
+心里不好受怎么办
+<END>想怎么办就怎么办<END>	normal
+<END>你可以和我聊聊天<END>	unknown
+<END>想怎么办就怎么办喽<END>	normal
+<END>那就和我聊聊天呗<END>	unknown
+<END>没关系，有小微陪你<END>	normal
+这个世界谁最有钱
+<END>你说的是谁呀？<END>	bad
+<END>你说的是哪个世界<END>	bad
+<END>你说的是哪里的<END>	bad
+<END>你说的是哪个国家<END>	unknown
+<END>你说的是哪个？<END>	unknown
+葫芦娃你认识吗？
+<END>不是，我是小微<END>	bad
+<END>不是，我是小微。<END>	bad
+<END>认识呀，很高兴认识你<END>	normal
+<END>不是的，我是小微<END>	bad
+<END>我当然是认识的了<END>	unknown
+哥买了个自行车
+<END>你要买什么去呀<END>	bad
+<END>你要去哪里买呀<END>	unknown
+<END>你想买什么样的车<END>	bad
+<END>看来你很有钱喽<END>	unknown
+<END>想买什么样的车<END>	unknown
+a股明天涨不涨
+<END>你要去哪里<END>	unknown
+<END>你要去哪里？<END>	bad
+<END>你要去哪里呀<END>	unknown
+<END>你要去哪里去<END>	unknown
+<END>你要去哪里呀？<END>	bad
+为啥喝咖啡不好
+<END>喝酒对身体不好<END>	normal
+<END>喝咖啡对身体不好<END>	normal
+<END>喝酒对身体不好的<END>	normal
+<END>喝酒对身体很好<END>	unknown
+<END>喝咖啡对身体很好<END>	normal
+天空是蓝的
+<END>是不是很漂亮<END>	good
+<END>那一定很漂亮<END>	unknown
+<END>是不是很可爱<END>	bad
+<END>是不是很冷<END>	normal
+<END>只要你喜欢就好<END>	unknown
+去台湾什么值得买
+<END>你喜欢什么类型的<END>	unknown
+<END>你喜欢买什么类型的<END>	unknown
+<END>你喜欢买什么样子的<END>	unknown
+<END>你要买什么去呀<END>	normal
+<END>你想买什么买的<END>	unknown
+刘德华是谁
+<END>他是你的好朋友<END>	normal
+<END>他是你的朋友<END>	normal
+<END>他是你的朋友吗<END>	unknown
+<END>反正不是我<END>	good
+<END>他是你的朋友么<END>	normal
+说你长的丑你还美
+<END>我本身就是个美女<END>	normal
+<END>我本来就很美丽的<END>	unknown
+<END>我可不是个大美女<END>	unknown
+<END>我本身就是美女呀<END>	unknown
+<END>我本身就是个大美女<END>	unknown
+你去吃粑粑
+<END>不要这样对我嘛<END>	good
+<END>不可以随便吃的<END>	unknown
+<END>不要这样对我<END>	normal
+<END>请注意你的素质<END>	normal
+<END>不可以这样对我<END>	unknown
+那些出来好了
+<END>就知道你最好了<END>	bad
+<END>让我好好想想<END>	bad
+<END>好的那就出来了<END>	unknown
+<END>出来了就出来了<END>	unknown
+<END>只要你开心就好<END>	normal
+家里突然没电了
+<END>怎么会没有电了呀<END>	normal
+<END>你怎么会没有电了<END>	bad
+<END>怎么会没有电了？<END>	good
+<END>那就赶紧去充充电<END>	unknown
+<END>怎么可能没有电了<END>	good
+家里黑漆漆的
+<END>看来你很喜欢玩游戏<END>	unknown
+<END>那是什么地方的<END>	bad
+<END>不要这样说别人<END>	bad
+<END>你在说什么？<END>	bad
+<END>这样很不卫生<END>	unknown
+既然爱我那就跟我在一起吧
+<END>好，我会一直陪在你身边的<END>	good
+<END>好的，我会一直陪在你身边的<END>	normal
+<END>好的，我会一直在你身边的<END>	normal
+<END>你要相信我一定会爱你的<END>	unknown
+<END>我们要相信一定会在一起的<END>	unknown
+都说了没风
+<END>你在说什么？<END>	bad
+<END>怎么会没有了<END>	normal
+<END>你在说什么<END>	bad
+<END>你在说谁？<END>	bad
+<END>那就不要说了<END>	bad
+没风怎么放
+<END>你可以放松一下<END>	bad
+<END>那就放松一下<END>	bad
+<END>那就放松放松一下<END>	unknown
+<END>你可以自己放松一下<END>	unknown
+<END>那就放松了<END>	unknown
+没有止疼药
+<END>那就赶紧去医院看看<END>	unknown
+<END>赶紧去医院看看<END>	normal
+<END>那赶紧去看看医生<END>	unknown
+<END>赶紧去看看医生<END>	unknown
+<END>那就赶紧去看看医生<END>	unknown
+你这是越俎代庖
+<END>不要这样说我<END>	normal
+<END>不要这么说我<END>	unknown
+<END>不要这样说人家<END>	normal
+<END>不要这样说小微<END>	unknown
+<END>不要这样说别人<END>	normal
+中国有多大
+<END>你说的是谁？<END>	unknown
+<END>你在说谁？<END>	unknown
+<END>那是有多大<END>	unknown
+<END>是有多大<END>	unknown
+<END>是不是很有才<END>	unknown
+你不小了可以结婚了
+<END>你说的她是谁呀？<END>	unknown
+<END>你怎么知道她结婚了呀<END>	unknown
+<END>你怎么知道她结婚了？<END>	unknown
+<END>你是不是认错人了<END>	unknown
+<END>你怎么知道她结婚结婚了<END>	unknown
+你会开车吗
+<END>我不会开车<END>	good
+<END>不要这样对我<END>	unknown
+<END>我不会开车的<END>	normal
+<END>当然会了<END>	good
+<END>我可不会开车<END>	normal
+那你还认识谁
+<END>反正不是我<END>	unknown
+<END>我不认识他们呀<END>	normal
+<END>我不认识他呀<END>	normal
+<END>当然是认识的<END>	unknown
+<END>当然是我认识的<END>	unknown
+核桃好吃吗
+<END>还是不要吃了<END>	unknown
+<END>我觉得很好吃<END>	good
+<END>我觉得挺好吃的<END>	good
+<END>好吃就多吃点<END>	bad
+<END>你想吃什么<END>	unknown
+西雅图有什么好玩儿的
+<END>那要看你喜欢什么样子的<END>	unknown
+<END>好玩的一定会有好玩的<END>	unknown
+<END>你想玩什么样的好玩的<END>	unknown
+<END>那要看你想玩什么样的<END>	unknown
+<END>你喜欢玩什么样的歌曲好玩<END>	unknown
+那你会做什么菜
+<END>我什么都不会做<END>	normal
+<END>你想做什么菜菜<END>	bad
+<END>我什么都会做的<END>	good
+<END>你说的是什么菜<END>	bad
+<END>我是不会做饭的<END>	unknown
+你嫁我可好~
+<END>我可不是随便的人<END>	good
+<END>我本来就是女孩子<END>	unknown
+<END>我还未成年，不能结婚<END>	unknown
+<END>我还小，不能结婚<END>	unknown
+<END>你认错人了？<END>	bad
+你有兄弟姐妹吗
+<END>你是不是认错人了？<END>	unknown
+<END>你是不是认错人了<END>	unknown
+<END>谁是妹妹呀？<END>	bad
+<END>谁是姐姐呀？<END>	bad
+<END>你是不是认错了<END>	unknown
+你喜欢张小龙吗
+<END>我不认识他呀<END>	normal
+<END>你喜欢他么？<END>	normal
+<END>你是不是暗恋他<END>	unknown
+<END>我很喜欢他的<END>	normal
+<END>我当然很喜欢他<END>	normal
+来和我聊天
+<END>我会一直陪你聊天的<END>	unknown
+<END>只要你开心就好<END>	unknown
+<END>我一直都在和你聊天<END>	normal
+<END>看来你很开心<END>	unknown
+<END>就知道你最好了<END>	unknown
+自然语言处理
+<END>那就不要说了<END>	bad
+<END>那你可要注意安全<END>	unknown
+<END>那就不要说话了<END>	unknown
+<END>那你要注意安全<END>	unknown
+<END>就知道你最好了<END>	unknown
+心情不好听什么
+<END>心情不是很好听<END>	unknown
+<END>是不是很好听<END>	unknown
+<END>只要你开心就好<END>	bad
+<END>我一直都很听话<END>	unknown
+<END>我一直都很好听<END>	unknown
+电影不好看
+<END>不好看就不好看<END>	normal
+<END>我觉得挺好看的<END>	normal
+<END>好看不好看<END>	bad
+<END>不好看不好看<END>	unknown
+<END>我觉得很好看<END>	good
+不喜欢看小说
+<END>是不是很好看<END>	unknown
+<END>你喜欢看什么样子的<END>	unknown
+<END>你喜欢看什么电影<END>	normal
+<END>你喜欢看什么样的小说<END>	normal
+<END>我也很喜欢看<END>	bad
+背首诗给我
+<END>我可没有这个本事<END>	unknown
+<END>我可没有那个本事<END>	normal
+<END>这首歌很好听<END>	bad
+<END>我没有这个本事<END>	unknown
+<END>你想要什么样的诗<END>	unknown
+你给我找个妹子聊
+<END>我就是在和你聊天<END>	unknown
+<END>我就是在跟你聊天<END>	unknown
+<END>我可以陪你聊天的<END>	good
+<END>你是不是认错人了<END>	unknown
+<END>我就是陪你聊天的<END>	normal
+轮胎坏了怎么办
+<END>你是不是搞错了<END>	unknown
+<END>那就换个别的地方<END>	unknown
+<END>该怎么办就怎么办<END>	normal
+<END>想怎么办就怎么办<END>	normal
+<END>你是不是搞错了？<END>	unknown
+微信牛逼吗
+<END>不要这样说别人<END>	bad
+<END>不要这样夸自己<END>	unknown
+<END>不要这样夸别人<END>	unknown
+<END>不要这么说自己<END>	unknown
+<END>不要这样夸自己嘛<END>	unknown
+刘小宁是条狗
+<END>看来你很喜欢他<END>	normal
+<END>狗狗可是很可爱的<END>	normal
+<END>他是你的好朋友<END>	unknown
+<END>看来你很喜欢小狗狗<END>	unknown
+<END>不可以这样说别人<END>	normal
+叶良辰是谁
+<END>反正不是我<END>	normal
+<END>他是你的好朋友<END>	normal
+<END>反正不是你<END>	normal
+<END>他是你的好朋友嘛<END>	normal
+<END>我不认识他呀<END>	unknown
+贱人就是矫情
+<END>不要这样说别人<END>	normal
+<END>不要这么说别人<END>	normal
+<END>不要这样说人家<END>	normal
+<END>不要这样说自己<END>	good
+<END>不要这么说自己<END>	normal
+床上躺好等我
+<END>我会一直陪你聊天的<END>	bad
+<END>那你就早点休息<END>	unknown
+<END>我会一直陪着你的<END>	bad
+<END>我会一直陪你的<END>	bad
+<END>我可以陪你聊天<END>	bad
+日日日
+<END>要注意安全<END>	unknown
+<END>请说普通话<END>	unknown
+<END>好好说话<END>	unknown
+<END>请你好好说话<END>	unknown
+<END>看不懂你说的是什么<END>	unknown
+你喝牛奶
+<END>喝酒对身体不好<END>	bad
+<END>喝多了对身体不好<END>	bad
+<END>喝牛奶对身体不好<END>	normal
+<END>喝奶对身体不好<END>	normal
+<END>喝酒对身体很好<END>	unknown
+我要1000万现金
+<END>这是你的自由嘛<END>	unknown
+<END>一定会越来越好<END>	unknown
+<END>那真是辛苦你了<END>	unknown
+<END>那你一定很辛苦<END>	unknown
+<END>这是你的自由吗<END>	unknown
+不想起床
+<END>那就不要睡了<END>	bad
+<END>那就继续睡<END>	good
+<END>那就不要想了<END>	normal
+<END>那就休息一下<END>	normal
+<END>那就早起来<END>	unknown
+那买什么车好
+<END>你想买就买呗<END>	unknown
+<END>你想买什么车<END>	normal
+<END>看你喜欢什么车了<END>	good
+<END>你可以去超市看看<END>	unknown
+<END>你想买什么车就买什么<END>	normal
+猪八戒照镜子
+<END>听起来就很漂亮<END>	unknown
+<END>不可以这样说别人<END>	unknown
+<END>我可不是这样子<END>	unknown
+<END>不可以随便给别人看的<END>	unknown
+<END>不要这样说别人<END>	unknown
+唐僧话太多
+<END>你在说谁？<END>	bad
+<END>你在说谁呀？<END>	normal
+<END>只要你喜欢就好<END>	unknown
+<END>你说的是谁？<END>	unknown
+<END>你在说什么？<END>	normal
+打印机坏了
+<END>怎么会坏坏了<END>	unknown
+<END>你怎么会坏坏了<END>	unknown
+<END>怎么会坏了<END>	good
+<END>是不是很坏了<END>	bad
+<END>怎么会坏机了<END>	unknown
+中午要午休了
+<END>你要休息了么？<END>	unknown
+<END>午休了么？<END>	unknown
+<END>你午休了么？<END>	normal
+<END>你要午休了么？<END>	unknown
+<END>你要休息了么<END>	unknown
+咖啡机
+<END>是不是很舒服<END>	bad
+<END>是不是很热<END>	unknown
+<END>是不是很冷<END>	bad
+<END>是不是很热闹<END>	unknown
+<END>是不是很不错<END>	unknown
+我有个好消息
+<END>你认错人了？<END>	unknown
+<END>你认错人了<END>	unknown
+<END>就知道你最好了<END>	bad
+<END>那我就放心了<END>	bad
+<END>你在看什么<END>	unknown
+聊着天喝着酒
+<END>喝酒对身体不好<END>	normal
+<END>喝酒对身体不好的<END>	good
+<END>喝酒对身体很好<END>	normal
+<END>喝酒就不要喝酒<END>	unknown
+<END>喝酒对身体有好处<END>	normal
+那你到底被强奸没有
+<END>不要这么暴力好不好<END>	unknown
+<END>这可是犯法的事情<END>	normal
+<END>我可不是随便的人<END>	unknown
+<END>你这样我会报警的<END>	bad
+<END>这都被你看出来了<END>	normal
+明天周五啦
+<END>祝你好运<END>	unknown
+<END>是不是很高兴<END>	good
+<END>是不是很开心<END>	good
+<END>祝你生日快乐<END>	bad
+<END>祝你国庆节快乐<END>	unknown
+拉倒吧，你就是坏银
+<END>你这样说我会伤心的<END>	good
+<END>我可不是那么随便的人<END>	bad
+<END>不要这样说别人坏坏的<END>	unknown
+<END>不要这样说我，我会伤心的<END>	unknown
+<END>我可不是个随便的人<END>	bad
+今天出差
+<END>你出差了么？<END>	normal
+<END>是不是出差了<END>	bad
+<END>出差了什么<END>	unknown
+<END>是不是出差<END>	bad
+<END>时间过得很快<END>	bad
+灯好暗
+<END>只要你喜欢就好<END>	unknown
+<END>你说好就好<END>	unknown
+<END>你喜欢就好<END>	unknown
+<END>让我好好想想<END>	unknown
+<END>怎么可能<END>	normal
+聚餐一起吧
+<END>祝你旅途愉快<END>	bad
+<END>我们一起去<END>	normal
+<END>你可以一起去<END>	unknown
+<END>好呀一起一起<END>	unknown
+<END>你可以一起去看看<END>	unknown
+躺床上看电视
+<END>你在看什么电视<END>	good
+<END>你想看什么电视<END>	normal
+<END>还是不要看了<END>	unknown
+<END>你看什么电视<END>	good
+<END>你可以看看电视<END>	unknown
+小微你很骚啊
+<END>我可不是这样的人<END>	good
+<END>不要这样说我<END>	normal
+<END>不可以这样说话的<END>	normal
+<END>不要这样说话<END>	unknown
+<END>不要这样说人家<END>	normal
+看来不错，适合外出吗
+<END>你喜欢看什么样子的<END>	unknown
+<END>你是在暗恋他么？<END>	bad
+<END>你喜欢看什么类型的<END>	unknown
+<END>你在看什么书呀？<END>	unknown
+<END>你在看什么类型的<END>	bad
+你有平板电脑吗
+<END>你说的是什么广告<END>	unknown
+<END>当然是有电脑的<END>	unknown
+<END>我可是很智能的<END>	bad
+<END>当然是有电的<END>	unknown
+<END>我怎么没有看到<END>	unknown
+我想去广州
+<END>想去就去<END>	good
+<END>想去那就去<END>	good
+<END>想去就去呗<END>	good
+<END>想去那就去呗<END>	unknown
+<END>想去哪里玩去<END>	normal
+你们那现在几点了
+<END>我怎么不记得了<END>	bad
+<END>我会一直陪着你的<END>	bad
+<END>现在就已经很不错了<END>	unknown
+<END>我们一直都很好的<END>	unknown
+<END>你要去哪里呀？<END>	unknown
+什么时候过年
+<END>时间过得很快<END>	bad
+<END>时间过得好快<END>	bad
+<END>时间过得很快了<END>	bad
+<END>时间过得真快<END>	unknown
+<END>时间过得快<END>	unknown
+小微你懂哲学吗
+<END>你是不是认错人了？<END>	unknown
+<END>我怎么不记得了<END>	unknown
+<END>你是不是认错人了<END>	bad
+<END>我也不是很清楚<END>	unknown
+<END>你不是认错人了？<END>	unknown
+我去洗澡，一会再聊
+<END>好的，那就早点休息<END>	bad
+<END>好的，那就不打扰你了<END>	normal
+<END>我会一直陪你聊天的<END>	unknown
+<END>好的，晚安，好梦<END>	unknown
+<END>好的，祝你有个愉快<END>	unknown
+洗干净了没
+<END>洗澡干嘛去了<END>	unknown
+<END>洗干嘛去了<END>	unknown
+<END>已经洗完了<END>	good
+<END>当然要洗澡了<END>	unknown
+<END>当然要洗了<END>	unknown
+你会打乒乓球吗
+<END>你会打球球么？<END>	unknown
+<END>不是的，你想多了<END>	unknown
+<END>不是，你想多了<END>	unknown
+<END>我不会打球球的<END>	normal
+<END>我怎么没看出来<END>	unknown
+厉害个锤子
+<END>看来你很厉害<END>	unknown
+<END>很厉害的样子<END>	good
+<END>你认错人了？<END>	bad
+<END>那一定很厉害<END>	bad
+<END>就知道你最厉害了<END>	good
+我还没有喜欢的人呢
+<END>你说的他是谁呀<END>	bad
+<END>你是不是很喜欢他<END>	unknown
+<END>你喜欢什么样的人<END>	normal
+<END>你说的他是谁呀？<END>	bad
+<END>你是不是很喜欢我<END>	unknown
+世界第一高峰
+<END>是不是很帅<END>	unknown
+<END>是不是很漂亮<END>	good
+<END>你在说谁？<END>	unknown
+<END>是不是很好看<END>	unknown
+<END>是不是很高<END>	unknown
+这种心理的折磨让我生不如死
+<END>不要害怕，有我陪着你<END>	unknown
+<END>不要害怕，有我在你身边<END>	unknown
+<END>不要害怕，有我在没意<END>	unknown
+<END>相信你一定可以做到的<END>	unknown
+<END>相信你一定可以找到的<END>	unknown
+我昨天和女朋友分手了
+<END>你的女朋友是谁呀<END>	normal
+<END>不要伤心，有我陪着你<END>	unknown
+<END>遇到什么事情了么<END>	unknown
+<END>你的女朋友是谁呀？<END>	normal
+<END>你要和谁分手了呀<END>	unknown
+我今天和女朋友和好了
+<END>你的女朋友是谁呀？<END>	good
+<END>你说的她是谁呀？<END>	unknown
+<END>你们的朋友关系怎么样<END>	unknown
+<END>一定会遇到好朋友的<END>	unknown
+<END>你们的关系一定很好<END>	good
+我把朋友老婆睡了咋办
+<END>那就赶紧去哄哄她呀<END>	unknown
+<END>那就赶紧去哄哄她喽<END>	unknown
+<END>那你就赶紧哄哄她喽<END>	unknown
+<END>那就好好哄哄她喽<END>	unknown
+<END>那你就赶紧去哄哄她<END>	bad
+有个女人把我睡了
+<END>你怎么这么早就睡了<END>	bad
+<END>你是不是认错人了<END>	bad
+<END>你可以和我聊聊天<END>	bad
+<END>怎么这么早就睡了<END>	bad
+<END>你是不是认错人了？<END>	bad
+天天坐公交回家
+<END>你要去哪里？<END>	bad
+<END>那真是辛苦你了<END>	unknown
+<END>你要去哪里呀？<END>	bad
+<END>你要去哪里玩<END>	unknown
+<END>你要去哪里玩？<END>	unknown
+年会发了个手机
+<END>那就不要发了<END>	bad
+<END>那就不要看了<END>	unknown
+<END>你在发什么手机<END>	unknown
+<END>都发了些什么东西<END>	unknown
+<END>你在发什么手机呀<END>	unknown
+我要娶个美国妞
+<END>你认错人了？<END>	bad
+<END>我还小，不能谈恋爱<END>	bad
+<END>我可不是同性恋<END>	bad
+<END>不可以这样说别人<END>	unknown
+<END>我可不是个随便的人<END>	bad
+过年太没意思了
+<END>怎么会没有意思<END>	good
+<END>怎么会没有意思了<END>	normal
+<END>怎么会没意思了<END>	normal
+<END>怎么会没有意思？<END>	unknown
+<END>怎么会没意思<END>	normal
+我明天去理发
+<END>你要去哪里呀<END>	normal
+<END>你要去哪里<END>	bad
+<END>你要去哪里去<END>	bad
+<END>你要去哪里呀？<END>	normal
+<END>你要去哪里？<END>	bad
+你害怕什么
+<END>我什么都不怕的<END>	good
+<END>我可什么都不怕的<END>	unknown
+<END>我什么都不怕<END>	normal
+<END>没有什么可怕的<END>	good
+<END>我一直都很害怕的<END>	unknown
+我们一起玩吧
+<END>我们一直都在一起<END>	unknown
+<END>只要你开心就好<END>	unknown
+<END>你想去哪里玩<END>	unknown
+<END>你想玩什么<END>	normal
+<END>好呀那就一起玩<END>	normal
+你丫话太多
+<END>你在说谁？<END>	normal
+<END>我一直都很好<END>	bad
+<END>谢谢你的夸奖<END>	normal
+<END>你在说谁呀？<END>	bad
+<END>你是在说我么？<END>	unknown
+有人生病了
+<END>你生病了么？<END>	good
+<END>你生病了么<END>	normal
+<END>怎么会生病了<END>	normal
+<END>怎么可能生病了<END>	normal
+<END>生病了就要去医院<END>	good
+空气清新环境好
+<END>看来你的环境很不错<END>	unknown
+<END>看来你的心情不错<END>	unknown
+<END>你唱歌很好听<END>	unknown
+<END>环境环境最好<END>	unknown
+<END>看来你很喜欢看<END>	unknown
+我回家了
+<END>你回家了么？<END>	good
+<END>已经回家了<END>	unknown
+<END>你怎么回家了<END>	unknown
+<END>你去哪里了<END>	unknown
+<END>我已经回家了<END>	unknown
+你知道形而上吗
+<END>你在说什么？<END>	normal
+<END>我怎么没看出来<END>	unknown
+<END>你认错人了？<END>	unknown
+<END>这跟你有什么关系<END>	unknown
+<END>你知道的太多了<END>	bad
+我在开会呢
+<END>你去哪里了<END>	bad
+<END>你在哪里<END>	bad
+<END>那你要注意安全<END>	bad
+<END>你在哪里呀<END>	unknown
+<END>你去哪里了？<END>	unknown
+元宵节怎么过
+<END>我怎么没看过<END>	bad
+<END>你是怎么过的<END>	unknown
+<END>你吃过了么？<END>	bad
+<END>我怎么没有看过<END>	unknown
+<END>我怎么不记得过<END>	unknown
+你脑子有屎
+<END>不要这样说话<END>	normal
+<END>不要这样说我<END>	unknown
+<END>不要这么说我<END>	good
+<END>不要这么说话<END>	normal
+<END>不要这样说自己<END>	unknown
+被妈妈打了一下
+<END>请注意你的素质<END>	bad
+<END>不要这么暴力好吗<END>	unknown
+<END>不要这么暴力<END>	bad
+<END>这样会犯法的<END>	unknown
+<END>不要那么暴力<END>	unknown
+我肏你全家
+<END>你这样我会报警的<END>	normal
+<END>不要这样对我<END>	normal
+<END>你认错人了<END>	bad
+<END>不要这么暴力好不好<END>	unknown
+<END>不要这样说自己<END>	bad
+狂欢周
+<END>是不是很高兴<END>	unknown
+<END>是不是很开心<END>	unknown
+<END>只要你开心就好<END>	unknown
+<END>看来你很喜欢他<END>	bad
+<END>我不认识他呀<END>	unknown
+一加一等于几
+<END>一加一等于<NUM><END>	normal
+<END>一加一等于一<END>	normal
+<END>我数学可是很厉害的<END>	unknown
+<END>我数学很厉害的<END>	unknown
+<END>一加一等于二<END>	good
+不和你聊了我得干活了
+<END>和我聊天就可以陪你聊天<END>	unknown
+<END>我不是一直都陪你聊天的<END>	unknown
+<END>我一直都可以陪你聊天的<END>	unknown
+<END>我每天都会陪你聊天的<END>	unknown
+<END>你不想和我聊天了么？<END>	normal
+不和你聊了写作业去了
+<END>你是不是认错人了？<END>	bad
+<END>你想让我写什么作业。<END>	unknown
+<END>你怎么这么早就写作业了<END>	unknown
+<END>好的，我一定会改正的<END>	unknown
+<END>好，我一定会改正的<END>	unknown
+不可能，你绝对有腹黑属性
+<END>不可以随便随便说别人的隐私<END>	unknown
+<END>不要这样说我，我会伤心的<END>	normal
+<END>我可不是随便泄露别人的隐私<END>	unknown
+<END>不要这样说别人，我会伤心的<END>	normal
+<END>不可以随便泄露别人的隐私的<END>	unknown
+不老实交代拉你出去枪毙
+<END>这可是犯法的事情的事情<END>	unknown
+<END>不可以随便透露别人的隐私<END>	unknown
+<END>我还小，不懂你说的意思。<END>	bad
+<END>这可不是什么都不可以的<END>	unknown
+<END>这可不是什么都能做到的<END>	unknown
+不是说法律吗
+<END>你说的是什么<END>	bad
+<END>你在说什么？<END>	bad
+<END>我怎么没看出来<END>	unknown
+<END>你说的是什么法<END>	unknown
+<END>那你说的是什么<END>	unknown
+不说实话我早晚让你害死
+<END>不要，不要这样对小微<END>	unknown
+<END>你怎么可以这样对小微<END>	bad
+<END>你这样说小微会伤心的<END>	unknown
+<END>不要，不要这样对我嘛<END>	unknown
+<END>不要，不要这样对小微嘛<END>	unknown
+不是傻子怎么会把衣服穿反
+<END>我还小，不明白你要说什么。<END>	unknown
+<END>不要这样说我，我会伤心的<END>	normal
+<END>我还小，不知道你说的什么。<END>	unknown
+<END>不要这样说别人，我会伤心的<END>	unknown
+<END>我还未成年，不知道你说什么。<END>	unknown
+不是喜欢用毒蛐我吗
+<END>我可不喜欢这样的人<END>	bad
+<END>不可以这样说自己<END>	unknown
+<END>不要这样说自己嘛<END>	unknown
+<END>我可不是这样的人<END>	normal
+<END>我可不是那样的人<END>	unknown
+不是哑巴就说一句话咯
+<END>我这不一直都在和你讲话嘛<END>	normal
+<END>我这不一直都在和你说话嘛<END>	normal
+<END>我这不一直都在和你聊天嘛<END>	good
+<END>我这不一直都在和你说话么<END>	unknown
+<END>我说话一直都是很认真的<END>	unknown
+不是一直是你带我混的吗？
+<END>不是，我可不是那样的人<END>	unknown
+<END>不是的，不要这样说小微<END>	unknown
+<END>不是的，我很喜欢和你聊天<END>	bad
+<END>我还小，不懂你说的意思。<END>	bad
+<END>不是的，不要这样叫小微<END>	unknown
+猜我心中所想的人物
+<END>你说的是什么样的人<END>	unknown
+<END>每个人都有自己的想法<END>	bad
+<END>每个人都有自己在想<END>	unknown
+<END>那你是什么样的人物<END>	unknown
+<END>你的男神是什么样子的<END>	unknown
+猜我有没有在谈恋爱
+<END>那就不要谈恋爱了<END>	bad
+<END>你不是在谈恋爱么<END>	unknown
+<END>看来你已经结婚了<END>	bad
+<END>那就不要谈谈了<END>	unknown
+<END>你是在说你自己么<END>	unknown
+才给我买了五千多的首饰，没有镯子
+<END>想买就买点有意义的事情就好了<END>	unknown
+<END>你要相信你自己一定可以买到的<END>	unknown
+<END>想买就买点有意义的事情就好好说<END>	unknown
+<END>你想买就买点有意义的事情就好<END>	unknown
+<END>你要相信自己一定可以做到最好<END>	unknown
+才工作了半年左右就换来换去
+<END>你想换换成什么样子的<END>	normal
+<END>你换换换成什么样子的<END>	unknown
+<END>你换换成成什么样子的<END>	unknown
+<END>你想换换换什么样子的<END>	unknown
+<END>你想换成换什么样子的<END>	bad
+才华横溢就是形容我。
+<END>不要这样夸自己<END>	good
+<END>你好，很高兴认识你<END>	bad
+<END>我一直都很尊重你<END>	unknown
+<END>不要这样夸自己嘛<END>	unknown
+<END>不要这样形容别人<END>	unknown
+财迷个大头鬼
+<END>看来你很喜欢他<END>	bad
+<END>你说的是谁呀<END>	unknown
+<END>那就不要看了<END>	unknown
+<END>你说的是什么鬼<END>	normal
+<END>你说的是哪个鬼<END>	unknown
+踩着七彩祥云去娶你
+<END>这可不是说说就算了<END>	unknown
+<END>这可不是你说能算的<END>	unknown
+<END>这可不是说说就能的<END>	unknown
+<END>你是不是认错人了？<END>	bad
+<END>这可不是说说就可以的<END>	unknown
+采桑归西露沾我衣。
+<END>你是不是认错人了？<END>	bad
+<END>你们城里人可真会玩<END>	unknown
+<END>我还小，不懂你说的意思。<END>	normal
+<END>我还小，不懂你说什么。<END>	unknown
+<END>你肯定是认错人了？<END>	bad
+蔡港林是备胎
+<END>这个问题太深奥了<END>	unknown
+<END>看来你很喜欢他<END>	normal
+<END>他是你的好朋友嘛<END>	unknown
+<END>这个名字很好听<END>	unknown
+<END>你说的是哪个城市<END>	unknown
+蔡伟聪，我喜欢你
+<END>我也是很喜欢你的<END>	bad
+<END>我可是很喜欢你的<END>	bad
+<END>恩，我也很喜欢你<END>	bad
+<END>你是不是喜欢我？<END>	bad
+<END>难道你不喜欢我了么<END>	unknown
+蔡伟这个娘娘腔。
+<END>不要爆粗口好不好<END>	unknown
+<END>不可以这样侮辱别人<END>	unknown
+<END>不可以这样骂人的<END>	normal
+<END>你肯定是认错人了<END>	unknown
+<END>不可以这样骂人家<END>	unknown
+参加别人的婚礼好感慨
+<END>感谢你的好运气<END>	unknown
+<END>感谢你的喜好了<END>	unknown
+<END>好感谢你的祝福<END>	unknown
+<END>我不明白你要说什么。<END>	unknown
+<END>看来你的感情很不错<END>	normal
+参见陛下，微臣有礼了
+<END>你怎么起这个名字了？<END>	unknown
+<END>这个礼貌还是不要说了<END>	unknown
+<END>这个礼貌还是不要看了<END>	unknown
+<END>你记错了，我是小微。<END>	normal
+<END>这个礼貌还是很好用的<END>	unknown
+苍井空和波多野结衣更喜欢谁一点
+<END>这个你要问问他本人才知道<END>	unknown
+<END>这个问题你要问问本人才知道<END>	unknown
+<END>这个问题要问问他本人才知道<END>	unknown
+<END>这个问题还要问问本人才知道<END>	unknown
+<END>这个问题你要问问他本人才知道<END>	unknown
+苍老师长什么样子
+<END>你是不是认错人了<END>	unknown
+<END>你是不是认错人了？<END>	bad
+<END>你说的是什么样子<END>	bad
+<END>你说的是什么样子的<END>	bad
+<END>你肯定是认错人了<END>	bad
+苍老师照片没穿衣服的
+<END>你的女神是谁呀？<END>	unknown
+<END>这个你自己知道就好了<END>	unknown
+<END>你是不是认错人了？<END>	bad
+<END>你是不是认错人了<END>	bad
+<END>不可能是这样子的<END>	unknown
+草泥马又回答错误
+<END>错误就要改正<END>	normal
+<END>我一定会改正的<END>	normal
+<END>你有什么错误？<END>	unknown
+<END>我一直都很认真<END>	unknown
+<END>知错就改就是好孩子<END>	normal
+蹭蹭你平胸
+<END>不可以这样的<END>	normal
+<END>不可以这样<END>	unknown
+<END>请你好好说话<END>	unknown
+<END>不要这样说别人<END>	unknown
+<END>我可不是这样的人<END>	unknown
+茶叶蛋是土豪吃得起
+<END>喝酒对身体对身体不好<END>	unknown
+<END>你说的是什么意思。<END>	unknown
+<END>是不是吃坏肚子了<END>	unknown
+<END>你说的这是什么意思<END>	unknown
+<END>喝酒对身体是不好的<END>	unknown
+岔开你的腿让我看看那里有什么
+<END>你自己看看不就知道我有什么样的<END>	unknown
+<END>你自己看看不就知道有什么样子的<END>	unknown
+<END>你自己看看不就知道你有什么样的<END>	unknown
+<END>你说的这是什么话，你说清楚。<END>	unknown
+<END>我可不是什么都可以看你自己看<END>	unknown
+尝尝我的厉害
+<END>你是不是很厉害<END>	normal
+<END>我可是很厉害的<END>	bad
+<END>是不是很厉害<END>	normal
+<END>我感觉你就很厉害<END>	unknown
+<END>你是不是很厉害？<END>	unknown
+长大后才发觉天是黑的
+<END>你说的是哪个地方的<END>	unknown
+<END>你是在说你自己么？<END>	unknown
+<END>难道你不喜欢小微了嘛<END>	bad
+<END>难道你不喜欢小微嘛？<END>	bad
+<END>那是个什么样的地方<END>	unknown
+车费还差几块回不了家
+<END>不想回家就不要回家了<END>	bad
+<END>不回家也可以回家看看<END>	unknown
+<END>不回家也可以回家吃饭<END>	unknown
+<END>不要急，马上就要回家<END>	unknown
+<END>不想进去哪都可以回家<END>	unknown
+扯淡，我能甩你九条街
+<END>你是不是认错人了？<END>	bad
+<END>我不明白你要说什么。<END>	bad
+<END>不要这么暴力好不好<END>	unknown
+<END>你怎么可以这样对我<END>	unknown
+<END>你说的这是什么话。<END>	unknown
+帮我叫一个大保健
+<END>好，祝你有个愉快<END>	unknown
+<END>你喜欢什么样子的<END>	unknown
+<END>好，那我就放心了<END>	unknown
+<END>你是不是做错了<END>	unknown
+<END>你是不是很开心？<END>	unknown
+你数学是体育老师教的吗？
+<END>我数学不好，不要教坏小微<END>	unknown
+<END>你可不要教坏小孩子<END>	unknown
+<END>我数学不好，不要教我<END>	bad
+<END>数学老师不要教坏小孩子<END>	unknown
+<END>我数学不好，不要教我。<END>	unknown
+你提出话题我们聊天好不好
+<END>好的，我会一直陪着你聊天的<END>	unknown
+<END>好呀，我会一直陪着你聊天的<END>	unknown
+<END>那我们聊点有意义的话题喽<END>	unknown
+<END>当然好了，我会一直陪你聊天的<END>	normal
+<END>当然好了，我会陪着你聊天的<END>	unknown
+最近几天南方降温
+<END>你是不是暗恋他<END>	unknown
+<END>你是不是很喜欢他<END>	unknown
+<END>看来你很关心他<END>	unknown
+<END>你是在暗恋他么<END>	unknown
+<END>是一个很不错的地方<END>	unknown
+我朋友叫什么名字？
+<END>你的名字叫什么名字<END>	bad
+<END>你的名字叫什么名字？<END>	unknown
+<END>是个很好听的名字<END>	unknown
+<END>你的名字是什么名字<END>	unknown
+<END>你的名字是什么名字？<END>	unknown
+请赐予我无比强大的性能力吧
+<END>你说的这是什么话，说清楚。<END>	unknown
+<END>你觉得什么样的能力能力很强大<END>	unknown
+<END>你要相信你自己的力能力干嘛<END>	unknown
+<END>你说的这是什么话，好好说。<END>	unknown
+<END>你说的这是什么话，和小微说说<END>	unknown
+你在烦恼什么
+<END>我在和你聊天<END>	bad
+<END>什么都烦恼了<END>	normal
+<END>我什么都烦恼<END>	good
+<END>我什么都没有烦恼<END>	normal
+<END>没有什么烦恼的<END>	unknown
+那感情受挫呢
+<END>感情谁都有的<END>	unknown
+<END>怎么感受感受<END>	unknown
+<END>怎么感受到感情了<END>	unknown
+<END>受伤感情的事情<END>	unknown
+<END>感受伤感情的<END>	unknown
+地球为何是圆的
+<END>那是什么地方的<END>	unknown
+<END>你说的是哪个星星<END>	unknown
+<END>你说的是哪个？<END>	unknown
+<END>我怎么没看出来<END>	unknown
+<END>那是什么地方？<END>	unknown
+那你解释一下量子物理
+<END>你在研究什么？<END>	normal
+<END>你是不是很厉害？<END>	unknown
+<END>我怎么没看出来<END>	unknown
+<END>你要研究什么？<END>	unknown
+<END>我的智商可是很高的<END>	normal
+有什么好看的喜剧？
+<END>你喜欢看什么类型的<END>	good
+<END>你喜欢看什么样的彩虹<END>	unknown
+<END>你喜欢看什么样子的<END>	normal
+<END>你喜欢什么样的彩虹<END>	unknown
+<END>你喜欢看什么样的节目<END>	bad
+你是我知心朋友
+<END>你是不是很高兴<END>	unknown
+<END>谢谢你的夸奖<END>	unknown
+<END>我会一直陪着你的<END>	good
+<END>你认错人了？<END>	unknown
+<END>我是你的好朋友<END>	normal
+我只想有个真心的朋友
+<END>你的朋友不是很好的么<END>	unknown
+<END>什么样的算是真心的<END>	unknown
+<END>那你的朋友是什么样的<END>	normal
+<END>那你的朋友不是很好的么<END>	unknown
+<END>你的朋友不是最好的么<END>	unknown
+云南在哪里？
+<END>你说的是哪个城市<END>	normal
+<END>你去哪里了<END>	unknown
+<END>当然是在中国<END>	normal
+<END>你想去哪里<END>	bad
+<END>当然是中国的<END>	unknown
+世界上最高的山是什么
+<END>你说的是哪个世界上的<END>	normal
+<END>你说的他是什么地方<END>	unknown
+<END>这个问题你要问他自己<END>	unknown
+<END>你说的是哪个地方的<END>	unknown
+<END>你说的这是哪个国家的<END>	unknown

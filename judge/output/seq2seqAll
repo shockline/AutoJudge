@@ -287,7 +287,7 @@
 <END>当然了<END>	normal
 <END>当然不会<END>	normal
 我问的不是这个意思
-<END>我不明白你要说什么。<END>	bad
+<END>我不明白你要说什么。<END>	normal
 <END>什么意思<END>	normal
 <END>就是这个意思<END>	normal
 <END>为什么这么说<END>	bad
@@ -475,7 +475,7 @@
 你等会我过会跟你说
 <END>我不明白你要说什么。<END>	bad
 <END>我会等你的<END>	normal
-<END>好的，我会等你的。<END>	normal
+<END>好的，我会等你的。<END>	good
 <END>好的，我知道了。<END>	normal
 <END>我不会说话<END>	bad
 我来把你胸抓大
@@ -1016,7 +1016,7 @@ a股明天涨不涨
 <END>不会<END>	normal
 <END>我不会开车的<END>	normal
 <END>当然会啦。<END>	normal
-<END>我不会开车啊。<END>	normal
+<END>我不会开车啊。<END>	good
 <END>我不会开车的哦。<END>	normal
 那你还认识谁
 <END>不认识<END>	bad
@@ -1071,7 +1071,7 @@ a股明天涨不涨
 <END>这个可以有<END>	bad
 <END>你说的是什么意思？<END>	normal
 <END>你说的是什么<END>	bad
-<END>你说的是什么语言<END>	bad
+<END>你说的是什么语言<END>	normal
 心情不好听什么
 <END>伤心的时候可以听情歌<END>	good
 <END>伤心的时候听情歌<END>	normal

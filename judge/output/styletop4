@@ -434,7 +434,7 @@
 <END>抽烟有害健康<END>	good
 <END>抽烟对身体不好<END>	normal
 <END>吸烟有害健康<END>	good
-<END>抽烟对身体不好的<END>	normal
+<END>抽烟对身体不好的<END>	good
 <END>抽烟对身体不好？<END>	normal
 牛逼吹大了
 <END>请注意你的素质<END>	normal
@@ -1503,7 +1503,7 @@ a股明天涨不涨
 <END>我不会害怕的<END>	good
 <END>我可没有害怕<END>	normal
 <END>不怕，有我在<END>	bad
-<END>我可是很害怕的<END>	bad
+<END>我可是很害怕的<END>	normal
 我们一起玩吧
 <END>好，一起玩耍<END>	normal
 <END>我们一起来玩<END>	good

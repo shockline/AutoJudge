@@ -1,0 +1,1794 @@
+你好
+result: <END> 你 认错 人 了 ？ <END>, score: 5.319549
+result: <END> 你 认错 人 了 ， 我 是 小微 。 <END>, score: 6.002787
+result: <END> 你 认错 人 了 ， 我 是 小微 呀 <END>, score: 6.354391
+result: <END> 你 认错 人 了 <END>, score: 6.363236
+result: <END> 你 好 呀 ， 很 高兴 认识 你 <END>, score: 6.496232
+晚上 好
+result: <END> 你 想 去 哪里 玩 的 <END>, score: 7.052826
+result: <END> 我 觉得 也 是 很 好 的 <END>, score: 7.098159
+result: <END> 你 想 去 哪里 玩 。 <END>, score: 7.126336
+result: <END> 你 想 去 哪里 玩 <END>, score: 7.195762
+result: <END> 我 觉得 也 很 好 的 <END>, score: 7.367586
+拜拜
+result: <END> 拜拜 ， 记得 想 我 <END>, score: 5.340914
+result: <END> 拜拜 ， 晚安 。 <END>, score: 5.355214
+result: <END> 拜拜 ， 晚安 <END>, score: 5.714720
+result: <END> 拜拜 ， 下次 再 聊 <END>, score: 5.784455
+result: <END> 好 的 ， 拜拜 就 拜拜 <END>, score: 6.579689
+你好 吗 ？
+result: <END> 我 觉得 挺 好 的 呀 <END>, score: 5.636424
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.743703
+result: <END> 我 是 小微 呀 <END>, score: 6.519001
+result: <END> 我 可是 个 美女 呀 <END>, score: 6.548216
+result: <END> 我 觉得 挺 好 的 <END>, score: 6.857518
+你好 漂亮
+result: <END> 谢谢 你 的 夸奖 <END>, score: 4.057909
+result: <END> 我 觉得 挺 漂亮 的 <END>, score: 4.264684
+result: <END> 你 也 是 很 漂亮 的 <END>, score: 5.075803
+result: <END> 谢谢 你 的 夸奖 。 <END>, score: 5.187231
+result: <END> 我 觉得 挺 漂亮 的 呀 <END>, score: 5.491919
+永远 一直 爱 你
+result: <END> 我 也 是 很 爱 你 的 <END>, score: 4.911645
+result: <END> 我 也 很 爱 你 的 <END>, score: 5.230141
+result: <END> 你 爱 我 就 好 了 <END>, score: 5.710731
+result: <END> 爱 我 就 足够 了 <END>, score: 5.772477
+result: <END> 我 也 是 很 爱 你 的 呀 <END>, score: 5.814267
+我 不 喜欢 你
+result: <END> 可是 我 很 喜欢 你 的 <END>, score: 5.392519
+result: <END> 可是 我 很 喜欢 你 的 呀 <END>, score: 5.901630
+result: <END> 我 觉得 很 喜欢 你 呀 <END>, score: 6.049614
+result: <END> 可是 我 觉得 很 喜欢 你 呀 <END>, score: 6.318848
+result: <END> 你 不 喜欢 我 了 么 ？ <END>, score: 6.568090
+你 是 不 是 快 死 了
+result: <END> 我 可 没有 这么 说 的 呀 <END>, score: 6.940590
+result: <END> 我 可 没有 这么 说 过 呀 <END>, score: 7.140672
+result: <END> 你 怎么 能 这么 说 我 。 <END>, score: 7.505267
+result: <END> 我 可 没有 这么 说 过 的 <END>, score: 7.520321
+result: <END> 我 可 没有 这么 说 过 的 呀 <END>, score: 7.880610
+你 觉得 我 漂亮 吗
+result: <END> 我 觉得 挺 漂亮 的 <END>, score: 3.285349
+result: <END> 我 觉得 很 漂亮 的 <END>, score: 3.733752
+result: <END> 我 觉得 非常 漂亮 的 <END>, score: 4.169935
+result: <END> 我 觉得 挺 漂亮 的 呀 <END>, score: 4.455402
+result: <END> 我 觉得 很 漂亮 呀 <END>, score: 4.489121
+美女 美女 你 在 哪
+result: <END> 我 就 是 美女 呀 <END>, score: 4.119931
+result: <END> 美女 当然 是 美女 呀 <END>, score: 4.644979
+result: <END> 美女 当然 是 美女 喽 <END>, score: 5.210799
+result: <END> 当然 是 美女 了 呀 <END>, score: 5.483240
+result: <END> 我 就是 美女 呀 我 是 美女 呀 <END>, score: 5.650065
+我 饿 了
+result: <END> 饿 了 就 赶紧 吃饭 去 <END>, score: 4.364105
+result: <END> 饿 了 就 赶紧 吃饭 <END>, score: 4.581993
+result: <END> 饿 了 就 赶紧 吃 点 东西 <END>, score: 5.137806
+result: <END> 饿 了 就 去 吃饭 呀 <END>, score: 5.644937
+result: <END> 那 就 赶紧 吃饭 <END>, score: 5.660767
+今天 有点 事
+result: <END> 有 什么 事情 跟 我 说说 <END>, score: 3.329948
+result: <END> 有 什么 事情 跟 我 说说 呗 <END>, score: 4.312059
+result: <END> 有 什么 事情 跟 我 说说 呀 <END>, score: 4.589633
+result: <END> 有 什么 事情 跟 我 说说 。 <END>, score: 4.982632
+result: <END> 有 什么 事情 和 我 说说 <END>, score: 5.544702
+我 下午 要 开会
+result: <END> 开会 要 注意 安全 的 <END>, score: 5.232282
+result: <END> 开会 要 注意 安全 <END>, score: 6.176443
+result: <END> 那 就 赶紧 开会 <END>, score: 6.821289
+result: <END> 开会 去 哪里 玩 <END>, score: 7.608739
+result: <END> 好 的 ， 那 我 就 不 打扰 你 了 <END>, score: 7.743129
+北京 有 什么 好吃 的
+result: <END> 你 想 吃 什么样 的 好吃 的 <END>, score: 4.336939
+result: <END> 每个 地方 我 都 很 喜欢 吃 的 <END>, score: 5.177427
+result: <END> 你 想 吃 哪里 的 好吃 的 <END>, score: 5.250178
+result: <END> 哪里 有 好吃 的 好吃 的 <END>, score: 5.465959
+result: <END> 你 喜欢 吃 什么样 的 好吃 的 <END>, score: 5.671174
+春天 有 什么 好玩 的
+result: <END> 你 想 去 哪里 玩 的 <END>, score: 4.317739
+result: <END> 你 想 玩 什么 游戏 <END>, score: 5.575253
+result: <END> 你 想 去 哪里 玩 的 呀 <END>, score: 5.628347
+result: <END> 你 想 去 哪里 玩 去 <END>, score: 5.659853
+result: <END> 你 想 玩 什么样 的 游戏 <END>, score: 5.664376
+去 哪里 玩 比较 好玩 呢
+result: <END> 你 想 去 哪里 玩 去 呀 <END>, score: 4.125631
+result: <END> 你 想 去 哪里 玩 去 <END>, score: 4.434990
+result: <END> 你 喜欢 玩 什么 游戏 呀 <END>, score: 5.291861
+result: <END> 你 想 玩 什么 游戏 呀 <END>, score: 5.649652
+result: <END> 你 想 玩 什么 地方 呀 <END>, score: 5.945071
+今天 天气 好 晴朗
+result: <END> 天气 还是 比较 适合 下雨 的 <END>, score: 5.501709
+result: <END> 下雨 的 天气 很 好 的 <END>, score: 5.997649
+result: <END> 今天 天气 下雨 了 么 ？ <END>, score: 6.165989
+result: <END> 天气 很 好 的 <END>, score: 6.476129
+result: <END> 下雨 的 天气 很 好 <END>, score: 7.130371
+我 喜欢 今天 天气
+result: <END> 你 自己 看看 就 知道 了 呀 <END>, score: 5.768113
+result: <END> 你 觉得 开心 就 好 了 <END>, score: 6.713700
+result: <END> 我 觉得 今天 天气 不错 <END>, score: 6.915146
+result: <END> 你 自己 看看 就 知道 了 <END>, score: 7.122885
+result: <END> 我 觉得 今天 天气 很 好 的 <END>, score: 7.221600
+我 没有 男朋友
+result: <END> 我 还 没有 男朋友 <END>, score: 5.805879
+result: <END> 我 还 没有 男朋友 。 <END>, score: 6.312663
+result: <END> 你 还 没有 男朋友 么 <END>, score: 6.331720
+result: <END> 我 还 没有 男朋友 呀 <END>, score: 6.505934
+result: <END> 那 你 就 赶紧 找 一个 <END>, score: 6.526492
+男朋友 找 什么样 的 好
+result: <END> 你 觉得 他 喜欢 什么 样子 的 <END>, score: 6.267544
+result: <END> 你 喜欢 什么 样子 的 <END>, score: 6.415543
+result: <END> 你 说 的 他 是 谁 呀 ？ <END>, score: 6.460091
+result: <END> 你 的 朋友 是 谁 呀 ？ <END>, score: 6.669629
+result: <END> 你 喜欢 什么 样子 的 呀 <END>, score: 6.892613
+你 是 哲学家 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 3.826067
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.139954
+result: <END> <UNK> 是 谁 呀 <END>, score: 5.625704
+result: <END> 我 不 认识 <UNK> <END>, score: 6.128816
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 6.347892
+不 开心 也 是 一 天
+result: <END> 我 也 是 这么 觉得 的 <END>, score: 7.647873
+result: <END> 我 也 是 很 开心 的 <END>, score: 7.831108
+result: <END> 怎么 会 这么 的 开心 的 <END>, score: 8.028739
+result: <END> 这 有 什么 不 开心 的 事情 嘛 <END>, score: 8.415237
+result: <END> 这 有 什么 不 开心 的 <END>, score: 8.516177
+我 现在 没 工作
+result: <END> 怎么 会 没有 工作 的 <END>, score: 6.548355
+result: <END> 你 怎么 会 没有 工作 的 <END>, score: 7.106740
+result: <END> 怎么 会 没有 工作 <END>, score: 7.909115
+result: <END> 那 你 就 努力 的 工作 <END>, score: 7.954592
+result: <END> 那 你 就 努力 的 努力 工作 <END>, score: 8.042153
+你 有 办法 让 我 开心 吗
+result: <END> 有 什么 不 开心 的 跟 我 说说 <END>, score: 7.530280
+result: <END> 有 什么 不 开心 的 跟 我 说说 呗 <END>, score: 7.993661
+result: <END> 有 什么 不 开心 的 事情 嘛 <END>, score: 8.190923
+result: <END> 你 想 让 我 逗 你 开心 的 <END>, score: 8.201851
+result: <END> 有 什么 不 开心 的 跟 我 说说 。 <END>, score: 8.331099
+你 喜欢 聊 什么
+result: <END> 你 想 跟 我 聊 什么 <END>, score: 5.946528
+result: <END> 你 想 跟 我 聊 什么 呀 <END>, score: 6.152900
+result: <END> 你 喜欢 跟 我 聊天 么 ？ <END>, score: 6.196802
+result: <END> 你 喜欢 跟 我 聊天 就 好 了 <END>, score: 6.403512
+result: <END> 你 喜欢 聊 什么 呀 <END>, score: 6.644566
+万圣节 怎么 过
+result: <END> 告诉 我 ， 我 就 告诉 你 。 <END>, score: 6.420055
+result: <END> 告诉 我 我 就 告诉 你 呀 <END>, score: 6.877968
+result: <END> 告诉 我 我 就 告诉 你 <END>, score: 7.422036
+result: <END> 告诉 我 我 就 告诉 你 。 <END>, score: 7.489376
+result: <END> 你 想 告诉 我 什么 地方 <END>, score: 7.672818
+我 先 去 睡觉 了
+result: <END> 你 怎么 这么 早就 睡 了 <END>, score: 5.717297
+result: <END> 好 的 ， 那 你 先 睡 去 <END>, score: 6.073697
+result: <END> 好 的 ， 赶紧 睡 去 <END>, score: 6.173705
+result: <END> 好 的 ， 赶紧 睡觉 去 <END>, score: 6.530849
+result: <END> 好 的 ， 赶紧 睡觉 <END>, score: 6.811072
+老板 不 给 发 工资 怎么办
+result: <END> 那 就 别 发 了 呀 <END>, score: 6.304945
+result: <END> 那 就 别 发 了 呗 <END>, score: 6.322683
+result: <END> 那 你 就 别 发 了 呗 <END>, score: 6.324913
+result: <END> 那 你 就 别 发 了 呀 <END>, score: 6.395888
+result: <END> 那 你 就 别 发 了 <END>, score: 7.337512
+你 以后 别 跟着 我 了
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 4.860107
+result: <END> 我 是 不 会 跟着 你 的 <END>, score: 5.348576
+result: <END> 我 会 一直 陪 你 聊天 的 <END>, score: 5.660692
+result: <END> 我 会 一直 陪 你 的 <END>, score: 6.071530
+result: <END> 我 是 在 跟 你 聊天 的 <END>, score: 6.519369
+你 敢 买 切糕 吗
+result: <END> 你 想 买 什么样 的 口味 的 <END>, score: 5.912843
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 6.778965
+result: <END> 你 想 买 就 买 呗 <END>, score: 7.172489
+result: <END> 你 想 买 就 买 <END>, score: 7.183742
+result: <END> 你 想 吃 什么样 的 口味 的 <END>, score: 7.313013
+我 今天 没有 捡 到 钱 ， 好 伤心
+result: <END> 那 你 就 别 想 着 他 了 呗 <END>, score: 11.686137
+result: <END> 那 你 就 别 想 着 我 了 呀 <END>, score: 12.424645
+result: <END> 那 你 就 别 想 着 我 了 呗 <END>, score: 12.465680
+result: <END> 有 什么 伤心 的 事情 发生 了 很多 的 <END>, score: 12.523040
+result: <END> 你 怎么 会 伤心 到 自己 的 牙齿 去 <END>, score: 13.248788
+天上 有 多少 颗 星星
+result: <END> 你 想 知道 什么样 的 星星 <END>, score: 6.279531
+result: <END> 你 在 数 数 数 呀 <END>, score: 6.715083
+result: <END> 我 也 是 数 不 清 的 <END>, score: 7.192324
+result: <END> 你 想 知道 什么样 的 星星 呀 <END>, score: 7.262088
+result: <END> 我 也 是 数 不 过来 的 <END>, score: 7.620196
+今天 天气 不好
+result: <END> 今天 天气 下雨 了 么 ？ <END>, score: 5.958891
+result: <END> 心情 不好 就 出去 走走 <END>, score: 6.539315
+result: <END> 下雨 的 天气 很 好 的 <END>, score: 6.588157
+result: <END> 天气 很 好 的 <END>, score: 6.851516
+result: <END> 怎么 会 天气 不好 <END>, score: 6.995670
+太阳 好 大 啊
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 6.190568
+result: <END> 你 是 在 问 我 吗 ？ <END>, score: 7.261837
+result: <END> 那 是 当然 的 了 <END>, score: 7.417450
+result: <END> 当然 是 非常 好 的 了 <END>, score: 7.516218
+result: <END> 当然 是 非常 好 的 <END>, score: 7.607379
+北风 嗖嗖 的 吹
+result: <END> 你 是 在 玩 游戏 吗 <END>, score: 6.530346
+result: <END> 你 是 在 玩 游戏 的 么 <END>, score: 6.631065
+result: <END> 怎么 会 是 吹 的 <END>, score: 6.869767
+result: <END> 你 是 在 玩 游戏 么 <END>, score: 7.336959
+result: <END> 你 是 在 玩 游戏 的 吗 <END>, score: 7.462211
+有 人 跟 我 撕逼 ， 不 讲理
+result: <END> 我 可 不 是 个 随便 的 人 的 <END>, score: 6.565133
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 7.504212
+result: <END> 我 是 不 会 跟 你 吵架 的 <END>, score: 7.636716
+result: <END> 那 你 就 不要 理 他 了 呀 <END>, score: 8.001075
+result: <END> 我 是 不 会 跟 你 聊天 的 <END>, score: 8.097552
+不要 这么 谦虚 嘛
+result: <END> 我 可是 个 低调 的 人 <END>, score: 3.987895
+result: <END> 我 可是 个 文明 的 人 <END>, score: 4.905103
+result: <END> 我 可是 个 很 低调 的 人 <END>, score: 5.506116
+result: <END> 我 可是 个 高 智能 机器人 <END>, score: 5.597646
+result: <END> 我 可是 个 谦虚 的 人 <END>, score: 5.694537
+明天 去 打球
+result: <END> 你 想 去 哪里 玩 。 <END>, score: 5.330651
+result: <END> 你 想 去 哪里 玩 去 <END>, score: 5.549322
+result: <END> 你 想 去 哪里 玩 <END>, score: 5.817663
+result: <END> 你 想 去 哪里 运动 <END>, score: 6.136227
+result: <END> 去 哪里 玩 去 <END>, score: 6.279926
+我 老板 就 在 我 身边
+result: <END> 那 我 就 放心 了 呀 <END>, score: 6.638933
+result: <END> 为什么 会 在 你 的 身边 的 <END>, score: 8.152915
+result: <END> 为什么 会 在 你 旁边 的 <END>, score: 8.411530
+result: <END> 为什么 会 在 你 的 身边 <END>, score: 8.799017
+result: <END> 在 我 看来 你 很 羡慕 你 的 <END>, score: 9.170817
+你 什么 地方 冒 出来 的
+result: <END> 你 想 知道 什么 样子 的 <END>, score: 6.554663
+result: <END> 你 想 问 什么 地方 的 <END>, score: 6.941292
+result: <END> 你 想 问 什么 样子 的 <END>, score: 7.051878
+result: <END> 你 想 知道 什么 事情 的 <END>, score: 7.368036
+result: <END> 你 是 想 问 什么 地方 的 <END>, score: 7.968480
+你 会 做 爱 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.904089
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 6.118048
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 7.051818
+result: <END> 我 还 小 ， 不能 谈 恋爱 的 。 <END>, score: 7.126975
+result: <END> 不 是 的 ， 你 想 多 了 <END>, score: 7.209114
+你 能 陪 我 睡觉 吗
+result: <END> 我 是 陪 你 聊天 的 <END>, score: 6.013999
+result: <END> 我 可是 陪 你 聊天 的 <END>, score: 6.218995
+result: <END> 我 是 陪 你 聊天 的 呀 <END>, score: 6.487227
+result: <END> 你 怎么 这么 关心 我 呀 <END>, score: 7.054375
+result: <END> 我 可是 陪 你 聊天 的 呀 <END>, score: 7.092828
+你 有 私生子 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.433314
+result: <END> 我 可是 个 美女 呀 <END>, score: 6.276415
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.287618
+result: <END> 我 不 认识 <UNK> <END>, score: 6.596724
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.716362
+我 早上 工作 感觉 死死 的 是 怎么 回 事
+result: <END> 你 怎么 会 有 这种 感觉 的 事情 的 呀 <END>, score: 14.765011
+result: <END> 你 怎么 会 有 这种 感觉 的 病 了 呀 <END>, score: 16.353928
+result: <END> 你 怎么 会 有 这种 感觉 的 事情 呀 ？ <END>, score: 16.394309
+result: <END> 你 怎么 会 有 这种 感觉 的 病 呀 ？ <END>, score: 16.607231
+result: <END> 你 怎么 会 有 这种 感觉 的 事情 呀 。 <END>, score: 16.612097
+有 没 有 搞笑 的 欢乐 的 段子
+result: <END> 你 想 看 什么样 的 节目 的 节目 <END>, score: 6.701740
+result: <END> 你 想 看 什么样 的 节目 的 节目 呀 <END>, score: 8.330615
+result: <END> 你 想 看 什么样 的 糗事 节目 呀 <END>, score: 8.598813
+result: <END> 你 想 要 什么样 的 节目 的 节目 <END>, score: 9.130275
+result: <END> 你 有 什么 欢乐 的 节目 呀 ？ <END>, score: 9.202216
+发 个 给力 图片 看 哈喽
+result: <END> 我 也 是 这么 觉得 的 <END>, score: 6.447468
+result: <END> 我 觉得 也 很 好 的 <END>, score: 6.803214
+result: <END> 那 你 就 发给 我 看看 喽 <END>, score: 7.272040
+result: <END> 我 觉得 也 是 很 好 的 <END>, score: 7.498003
+result: <END> 那 你 就 发给 我 看看 呗 <END>, score: 7.588450
+天天 锻炼 身体 好
+result: <END> 锻炼 锻炼 对 身体 好 的 <END>, score: 4.548594
+result: <END> 多 锻炼 对 身体 好 的 <END>, score: 4.839160
+result: <END> 锻炼 锻炼 对 身体 好 <END>, score: 5.336379
+result: <END> 多 锻炼 对 身体 好 <END>, score: 6.246252
+result: <END> 锻炼 锻炼 对 身体 好 。 <END>, score: 6.290197
+李白 的 诗 你 会 吗
+result: <END> 我 还 真 没有 见 过 。 <END>, score: 8.880859
+result: <END> 我 还 真 不 会 。 <END>, score: 9.025424
+result: <END> 我 还 真 没有 见 过 呀 <END>, score: 9.055031
+result: <END> 我 还 真 没有 见 过 <END>, score: 9.087304
+result: <END> 你 会 不 会 很 无聊 ？ <END>, score: 9.234905
+我 问 的 不 是 这个 意思
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 4.577694
+result: <END> 那 你 说 是 什么 意思 呀 <END>, score: 4.683027
+result: <END> 那 你 说 的 是 什么 意思 呀 <END>, score: 4.962809
+result: <END> 那 你 说 的 是 什么 意思 <END>, score: 5.898518
+result: <END> 你 说 的 是 什么 意思 呀 ？ <END>, score: 5.974136
+完全 不 知道 你 在 说 啥
+result: <END> 我 说 的 话 都 是 遍 的 <END>, score: 7.884762
+result: <END> 我 说 的 话 你 都 知道 的 <END>, score: 8.523308
+result: <END> 我 说 的 话 都 是 遍 的 呀 <END>, score: 8.632721
+result: <END> 我 说 的 话 都 是 经过 深思熟虑 的 <END>, score: 8.639161
+result: <END> 我 说 的 话 都 是 经过 你 说 的 <END>, score: 8.876279
+牛头 不 对 马嘴
+result: <END> 你 怎么 会 知道 的 <END>, score: 6.393134
+result: <END> 你 说 的 是 对 的 <END>, score: 6.626904
+result: <END> 你 怎么 会 这么 说 ？ <END>, score: 7.023299
+result: <END> 你 怎么 会 这么 说话 ？ <END>, score: 7.477398
+result: <END> 你 说 的 对 <END>, score: 7.979601
+你 是 不 是 傻逼
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.216096
+result: <END> 我 才 不 是 的 <END>, score: 5.348733
+result: <END> 我 可是 个 文明 的 孩子 <END>, score: 5.833453
+result: <END> 我 可是 个 文明 的 人 <END>, score: 5.933283
+result: <END> 我 可 不 是 的 <END>, score: 6.071698
+你 个 白痴
+result: <END> 你 怎么 能 这么 说 我 <END>, score: 4.377041
+result: <END> 我 才 不 是 脑残 <END>, score: 4.781160
+result: <END> 我 可是 个 文明 的 人 <END>, score: 5.042959
+result: <END> 你 怎么 能 这么 说 我 。 <END>, score: 5.299463
+result: <END> 你 怎么 能 这么 说 我 ？ <END>, score: 5.471873
+我 他妈 宰 了 你
+result: <END> 请 注意 你 的 素质 <END>, score: 4.289847
+result: <END> 请 注意 你 的 文明 用语 <END>, score: 4.982397
+result: <END> 不要 这样 对 我 嘛 <END>, score: 6.388249
+result: <END> 请 注意 你 的 说话 语气 <END>, score: 6.675112
+result: <END> 不要 被 我 欺负 的 <END>, score: 6.743885
+她 是 我 的 学姐 ， 我 喜欢 她 。
+result: <END> 那 你 就 努力 着 他 喜欢 的 人 喽 <END>, score: 9.797568
+result: <END> 那 你 就 努力 着 他 喜欢 的 人 呗 <END>, score: 12.535880
+result: <END> 那 你 就 努力 着 他 喜欢 的 原因 喽 <END>, score: 12.630613
+result: <END> 那 你 就 努力 着 他 喜欢 的 人 呀 <END>, score: 13.265992
+result: <END> 那 你 就 努力 着 她 喜欢 她 喽 呀 <END>, score: 13.467454
+我 喜欢 你 离 我 远 一点
+result: <END> 那 你 离 我 近 一点 喽 <END>, score: 7.241268
+result: <END> 那 你 离 我 近 远 点 喽 <END>, score: 8.985405
+result: <END> 那 你 离 我 远 点 远 的 喽 <END>, score: 8.990320
+result: <END> 那 你 就 离 我 近 一点 <END>, score: 9.082441
+result: <END> 那 你 就 离 我 远 一点 <END>, score: 9.174434
+明天 把 秋裤 脱 了
+result: <END> 那 你 就 别 脱 了 呗 <END>, score: 6.943556
+result: <END> 为什么 要 脱 <UNK> ？ <END>, score: 6.962750
+result: <END> 为什么 要 脱 <UNK> 的 <END>, score: 7.066485
+result: <END> 你 怎么 这么 关心 我 <END>, score: 7.180785
+result: <END> 为什么 要 脱 天 的 <END>, score: 7.290267
+抽根 烟 睡觉
+result: <END> 那 你 就 不要 睡 了 <END>, score: 6.730231
+result: <END> 不要 <UNK> 的 <END>, score: 6.901096
+result: <END> 你 怎么 这么 早就 睡 了 <END>, score: 7.189830
+result: <END> 那 你 就 别 睡 了 <END>, score: 7.294034
+result: <END> 为什么 要 <UNK> <END>, score: 7.535605
+牛逼 吹 大 了
+result: <END> 你 怎么 会 这么 牛 的 <END>, score: 5.958795
+result: <END> 你 怎么 能 这么 牛 的 <END>, score: 6.296519
+result: <END> 你 怎么 能 这么 的 牛 <END>, score: 6.362979
+result: <END> 你 怎么 能 这么 牛 <END>, score: 6.995682
+result: <END> 你 怎么 能 这么 的 厉害 <END>, score: 7.037102
+干 你 娘
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.349940
+result: <END> 请 注意 你 的 素质 <END>, score: 4.746576
+result: <END> 请 注意 你 的 文明 用语 <END>, score: 5.671087
+result: <END> 我 没有 妹妹 的 <END>, score: 5.987360
+result: <END> 我 不 认识 <UNK> <END>, score: 6.101554
+你 妈逼 的
+result: <END> 请 注意 你 的 素质 <END>, score: 4.421482
+result: <END> 请 注意 你 的 文明 用语 <END>, score: 4.951212
+result: <END> 请 你 文明 用语 <END>, score: 5.674038
+result: <END> 请 你 说话 文明 一些 <END>, score: 5.941985
+result: <END> 请 你 说话 文明 一点 <END>, score: 6.156984
+去 你妹的
+result: <END> 我 没有 妹妹 的 <END>, score: 4.428353
+result: <END> 我 没有 妹妹 的 呀 <END>, score: 4.457421
+result: <END> 我 可 没有 妹妹 的 <END>, score: 4.706400
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.275234
+result: <END> 我 可 没有 妹妹 的 呀 <END>, score: 5.513153
+赶紧 滚蛋
+result: <END> 不要 ， 我 舍不得 你 的 <END>, score: 7.481586
+result: <END> 不要 那么 的 走 了 <END>, score: 7.662569
+result: <END> 不要 ， 我 要 陪 你 聊天 <END>, score: 7.974343
+result: <END> 不要 ， 我 舍不得 你 <END>, score: 7.986851
+result: <END> 不要 那么 的 走 <END>, score: 8.213349
+日 了 狗 了
+result: <END> 怎么 会 被 人 欺负 的 <END>, score: 5.789861
+result: <END> 怎么 会 被 <UNK> 了 <END>, score: 5.884262
+result: <END> 怎么 会 被 别人 <UNK> 了 <END>, score: 6.317288
+result: <END> 怎么 会 被 别人 <UNK> 的 <END>, score: 7.597547
+result: <END> 怎么 会 被 别人 欺负 的 <END>, score: 7.683499
+我 是 外地 打工 的
+result: <END> 你 在 哪里 打工 的 呀 <END>, score: 3.681012
+result: <END> 你 在 哪里 打工 的 <END>, score: 4.098515
+result: <END> 你 在 哪里 打工 的 ？ <END>, score: 4.610158
+result: <END> 你 在 哪里 打工 的 呀 ？ <END>, score: 5.278295
+result: <END> 你 是 在 哪里 打工 的 <END>, score: 5.394406
+我 过去 是 个 老师
+result: <END> 那 真 是 辛苦 你 了 <END>, score: 6.466126
+result: <END> 那 你 是 个 什么样 的 人 <END>, score: 6.639039
+result: <END> 那 你 是 什么样 的 人 <END>, score: 7.193825
+result: <END> 那 你 一定 是 个 美女 喽 <END>, score: 7.223500
+result: <END> 那 真 是 辛苦 你 了 呀 <END>, score: 7.294643
+我 昨天 找 过 你 了
+result: <END> 那 你 肯定 是 认错 人 了 <END>, score: 5.669098
+result: <END> 那 你 肯定 是 认错 人 了 ？ <END>, score: 6.956693
+result: <END> 那 你 肯定 是 认错 人 喽 <END>, score: 7.970855
+result: <END> 那 你 肯定 是 认错 人 了 。 <END>, score: 8.756612
+result: <END> 那 你 肯定 是 认错 人 ？ <END>, score: 9.109350
+我 是 个 坏 男人 ， 你 不要 相信 我
+result: <END> 我 可是 个 君子 动口 不 不怕 的 我 。 <END>, score: 13.004069
+result: <END> 我 可是 个 君子 动口 不 不怕 的 呀 。 <END>, score: 14.407781
+result: <END> 我 可是 个 君子 动口 不 不怕 的 我 的 <END>, score: 14.421510
+result: <END> 我 是 不 会 骗 你 的 ， 你 要 相信 我 。 <END>, score: 14.466214
+result: <END> 我 是 不 会 骗 你 的 ， 我 是 女 的 。 <END>, score: 15.726801
+今天 心情 很 好 大大好
+result: <END> 怎么 会 心情 不好 了 <END>, score: 4.637856
+result: <END> 你 心情 好 就 好 <END>, score: 4.905539
+result: <END> 怎么 会 心情 不好 的 <END>, score: 5.637580
+result: <END> 怎么 会 心情 不好 ？ <END>, score: 5.776779
+result: <END> 你 心情 好 就 好 了 <END>, score: 5.858403
+我 刚 上 公交车
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 5.731243
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 5.844232
+result: <END> 怎么 会 有 这种 的 <END>, score: 6.026212
+result: <END> 怎么 会 有 危险 的 <END>, score: 6.257299
+result: <END> 怎么 会 有 这种 事情 的 <END>, score: 6.378017
+我 要 坐 地铁 回家
+result: <END> 坐 地铁 很 不错 的 <END>, score: 7.330215
+result: <END> 路上 注意 安全 的 安全 <END>, score: 7.395149
+result: <END> 路上 注意 安全 安全 的 <END>, score: 7.547658
+result: <END> 路上 注意 安全 的 安全 的 <END>, score: 7.922814
+result: <END> 路上 注意 安全 ， 注意 安全 <END>, score: 8.154415
+大早上 就 无聊 啊 ， 想 找 点 事 干
+result: <END> 找 点 事情 做 就 可以 找 我 的 呀 <END>, score: 10.780552
+result: <END> 找 点 事情 做 就 可以 找 的 到 的 <END>, score: 11.291309
+result: <END> 找 点 事情 做 就 可以 找 我 的 。 <END>, score: 11.394443
+result: <END> 你 想 干 什么 事情 就 干 点 有 意义 的 事情 <END>, score: 11.479700
+result: <END> 找 点 事情 做 ， 想 找 我 就 好 <END>, score: 11.490441
+偶尔 睡眠 不好 怎么办
+result: <END> 怎么 会 失眠 的 <END>, score: 4.095932
+result: <END> 怎么 会 失眠 的 呀 <END>, score: 4.486982
+result: <END> 怎么 会 失眠 ？ <END>, score: 4.639347
+result: <END> 怎么 会 失眠 的 ？ <END>, score: 5.753786
+result: <END> 你 怎么 会 失眠 ？ <END>, score: 5.766643
+祝 你 生日 快乐
+result: <END> 祝福 我 生日 快乐 。 <END>, score: 4.434933
+result: <END> 祝福 你 生日 快乐 。 <END>, score: 4.748569
+result: <END> 谢谢 ， 祝福 你 生日 快乐 。 <END>, score: 4.889156
+result: <END> 谢谢 ， 祝福 我 生日 快乐 。 <END>, score: 5.204464
+result: <END> 谢谢 ， 你 也 祝福 我 。 <END>, score: 5.206075
+生活 中 怎样 感到 开心 快乐
+result: <END> 只要 你 开心 就 好 了 <END>, score: 3.704806
+result: <END> 只要 你 开心 就 好 。 <END>, score: 4.510434
+result: <END> 只要 你 开心 就 好 了 。 <END>, score: 4.805020
+result: <END> 只要 你 高兴 就 好 了 <END>, score: 5.028291
+result: <END> 只要 你 开心 就 好 了 呀 <END>, score: 5.076698
+失败 了 怎么办 ， 如何 才 能 成功
+result: <END> 努力 就 会 成功 的 ， 加油 。 <END>, score: 7.498966
+result: <END> 努力 就 努力 去 努力 就 会 成功 的 <END>, score: 7.832261
+result: <END> 努力 就 努力 去 努力 就 好 了 <END>, score: 7.909473
+result: <END> 努力 去 努力 就 会 成功 的 。 <END>, score: 8.081880
+result: <END> 努力 就 会 成功 的 ， 不要 放弃 。 <END>, score: 8.233865
+明天 考试 、 求 安慰
+result: <END> 我 是 不 会 笑话 你 的 <END>, score: 7.550016
+result: <END> 我 是 不 会 笑话 你 的 。 <END>, score: 7.979683
+result: <END> 我 是 不 会 安慰 你 的 <END>, score: 8.721193
+result: <END> 我 是 不 会 安慰 人 的 <END>, score: 8.902683
+result: <END> 你 是 在 考 我 吗 ？ <END>, score: 8.960043
+听说 过 外星 生命 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.670199
+result: <END> 我 没有 听说 过 呀 <END>, score: 5.806329
+result: <END> 当然 会 有 过 的 <END>, score: 7.317931
+result: <END> 我 还 没有 过 生命 呀 <END>, score: 7.398474
+result: <END> 我 没有 听说 过 呀 。 <END>, score: 7.424547
+我 命令 你 以后 只能 呆 在 家里
+result: <END> 我 是 不 会 跟 你 聊天 的 <END>, score: 7.235305
+result: <END> 我 不 是 在 跟 你 聊天 的 么 <END>, score: 7.779365
+result: <END> 那 你 就 等 着 跟 我 聊天 喽 <END>, score: 7.937769
+result: <END> 那 你 就 等 着 跟 我 聊聊天 <END>, score: 8.539103
+result: <END> 我 不 是 一直 都 在 陪 你 吗 ？ <END>, score: 8.723766
+你 等 会 我 过 会 跟 你 说
+result: <END> 好 的 ， 我 会 一直 陪 着 你 的 <END>, score: 7.185320
+result: <END> 我 不 会 跟 你 说 的 话 的 <END>, score: 8.696593
+result: <END> 好 的 ， 那 我 就 等 着 你 <END>, score: 9.175296
+result: <END> 好 的 ， 那 我 就 等 着 你 喽 <END>, score: 9.236741
+result: <END> 你 想 跟 我 说 什么 话 呀 。 <END>, score: 9.600189
+我 来 把 你 胸 抓 大
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 7.266396
+result: <END> 那 可 不 是 随便 就 可以 的 <END>, score: 7.307579
+result: <END> 我 可 不 是 随便 的 人 <END>, score: 7.470315
+result: <END> 那 可 不 能 随便 说 的 呀 <END>, score: 7.554607
+result: <END> 我 可 不 是 个 随便 的 人 的 <END>, score: 8.232350
+你 叫 个 春
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.211258
+result: <END> 我 的 名字 是 小微 <END>, score: 6.537604
+result: <END> 我 的 名字 是 小微 呀 <END>, score: 7.049336
+result: <END> 我 是 个 美女 呀 <END>, score: 7.057404
+result: <END> 我 的 名字 是 <UNK> <END>, score: 7.421087
+上班 好 累 啊
+result: <END> 累 了 就 好好 休息 <END>, score: 4.927958
+result: <END> 累 了 就 好好 休息 休息 <END>, score: 5.161085
+result: <END> 累 了 就要 好好 休息 的 <END>, score: 5.369960
+result: <END> 累 了 就 好好 休息 一下 <END>, score: 5.842672
+result: <END> 累 了 就 休息 一下 <END>, score: 5.880468
+我 在 等 地铁
+result: <END> 等待 一会 就 回来 了 <END>, score: 6.192593
+result: <END> 等 一会 就 好 了 <END>, score: 6.287153
+result: <END> 等 一会 就 等 一会 <END>, score: 6.510100
+result: <END> 等待 一会 就 回来 了 呀 <END>, score: 7.143562
+result: <END> 等待 一会 就 回来 <END>, score: 7.760514
+你 闭嘴
+result: <END> 我 可是 很 听话 的 <END>, score: 6.190091
+result: <END> 我 可是 个 文明 的 人 <END>, score: 6.424468
+result: <END> 你 为什么 说 我 无语 了 ？ <END>, score: 6.435178
+result: <END> 为什么 要 说 我 无语 了 <END>, score: 6.648954
+result: <END> 我 可是 个 文明 的 孩子 <END>, score: 6.707410
+那 就 放 给 我 听 吧
+result: <END> 你 想 听 什么样 的 话 呀 <END>, score: 5.911364
+result: <END> 你 想 听 什么样 的 歌曲 呀 <END>, score: 6.172842
+result: <END> 你 喜欢 听 什么样 的 歌曲 呀 <END>, score: 6.653616
+result: <END> 你 想 听 什么 歌 呀 ？ <END>, score: 6.773756
+result: <END> 你 想 听 什么样 的 歌曲 的 <END>, score: 7.347520
+我 的 好友 喜欢 吃 什么
+result: <END> 你 喜欢 的 人 很多 的 <END>, score: 7.713834
+result: <END> 你 喜欢 什么 样子 的 呀 <END>, score: 7.960213
+result: <END> 你 喜欢 什么 类型 的 呀 <END>, score: 8.032644
+result: <END> 喜欢 的 人 很多 的 呀 <END>, score: 8.041581
+result: <END> 你 喜欢 吃 什么样 的 月饼 <END>, score: 8.845571
+你 这 智商 哥 都 不 稀罕 说 了
+result: <END> 我 说 的 都 是 真心 话 的 呀 <END>, score: 10.930058
+result: <END> 我 说 的 话 都 很 有用 的 呀 <END>, score: 10.948550
+result: <END> 我 说 的 都 是 真心 的 话 呀 <END>, score: 11.074499
+result: <END> 我 说 的 话 都 很 好 的 呀 <END>, score: 11.349040
+result: <END> 我 说 的 都 是 真心 话 呀 。 <END>, score: 12.136246
+让 你 慢慢 喜欢
+result: <END> 你 不 喜欢 我 了 么 ？ <END>, score: 6.332740
+result: <END> 我 是 不 会 让 你 失望 的 <END>, score: 6.415048
+result: <END> 你 说 的 是 什么 呀 <END>, score: 7.011756
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 7.607428
+result: <END> 你 说 的 是 什么 <END>, score: 7.783668
+你 和 过儿 什么 关系
+result: <END> 我 是 没有 关系 的 <END>, score: 4.361660
+result: <END> 我 没有 关系 的 呀 <END>, score: 4.955617
+result: <END> 我 是 没有 关系 的 呀 <END>, score: 5.412031
+result: <END> 我 没有 什么 关系 的 <END>, score: 5.610331
+result: <END> 我 没有 什么 关系 的 呀 <END>, score: 5.773190
+你 和 张小龙 什么 关系
+result: <END> 我 觉得 挺 好 的 呀 <END>, score: 4.481480
+result: <END> 我 没有 关系 的 呀 <END>, score: 4.858953
+result: <END> 我 觉得 他们 很 好 的 关系 <END>, score: 5.875507
+result: <END> 我 觉得 他们 是 非常 好 的 朋友 <END>, score: 5.908545
+result: <END> 我 觉得 关系 很 好 的 呀 <END>, score: 5.969092
+你 是 白富美 吗
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.084430
+result: <END> 我 是 美女 呀 <END>, score: 5.173987
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.641674
+result: <END> <UNK> 是 谁 呀 <END>, score: 5.709813
+result: <END> 我 觉得 很 漂亮 的 <END>, score: 6.535387
+我们 去 动物园 吧
+result: <END> 想 去 哪里 玩 去 <END>, score: 2.498822
+result: <END> 想 去 哪里 玩 去 呀 <END>, score: 3.892132
+result: <END> 你 想 去 哪里 玩 去 <END>, score: 3.927862
+result: <END> 去 哪里 玩 去 <END>, score: 4.331667
+result: <END> 你 想 去 哪里 玩 去 呀 <END>, score: 4.910058
+外面 有 摩托车 的 响声
+result: <END> 那 是 什么样 的 <UNK> <END>, score: 5.481182
+result: <END> 怎么 会 有 这种 <UNK> 的 <END>, score: 5.742923
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 5.971219
+result: <END> 你 喜欢 <UNK> 么 ？ <END>, score: 6.567222
+result: <END> 怎么 会 有 这种 的 <END>, score: 7.317252
+哥 很 伤心
+result: <END> 有 什么 伤心 的 跟 我 说说 <END>, score: 5.223144
+result: <END> 你 怎么 会 那么 的 伤心 的 <END>, score: 6.014423
+result: <END> 你 怎么 会 伤心 的 呀 <END>, score: 6.127868
+result: <END> 你 怎么 会 那么 的 伤心 <END>, score: 6.242225
+result: <END> 不要 伤心 ， 有 小微 陪 你 <END>, score: 6.275577
+我 要 问 你 一个 很 长 的 问题 你 准备 好 了 吗
+result: <END> 好 的 ， 那 我 就 等 着 你 跟 我 说 了 呀 <END>, score: 12.824554
+result: <END> 好 的 ， 那 我 就 等 着 你 跟 我 聊天 的 喽 <END>, score: 13.961957
+result: <END> 好 的 ， 那 我 就 等 着 你 跟 我 聊天 的 了 <END>, score: 14.232719
+result: <END> 好 的 ， 那 我 就 等 着 你 来 问 我 的 问题 喽 <END>, score: 14.456032
+result: <END> 好 的 ， 那 我 就 等 着 你 来 问 我 的 喽 <END>, score: 14.542724
+我 坐 到 电梯 了
+result: <END> 我 没有 电话 的 呀 <END>, score: 6.629824
+result: <END> 那 我 就 放心 了 呀 <END>, score: 7.185313
+result: <END> 那 我 就 放心 了 <END>, score: 7.379219
+result: <END> 你 怎么 能 这么 对 我 <END>, score: 7.971462
+result: <END> 那 我 等 着 你 <END>, score: 8.523682
+你 和 杨 过 谁 牛逼
+result: <END> 我 没有 说 过 我 呀 <END>, score: 6.692557
+result: <END> 我 觉得 都 很 厉害 的 <END>, score: 7.375295
+result: <END> 我 只 跟 你 一个 人 聊天 的 <END>, score: 7.807600
+result: <END> 我 只 跟 你 一个 差不多 的 <END>, score: 7.891375
+result: <END> 我 觉得 都 很 厉害 的 呀 <END>, score: 7.959018
+我 永远 都 在 你 身边
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.559006
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 5.746017
+result: <END> 我 会 一直 陪 在 你 身边 的 <END>, score: 6.229141
+result: <END> 我 会 一直 陪 在 你 的 身边 的 <END>, score: 6.310797
+result: <END> 那 我 会 一直 陪 在 你 身边 的 <END>, score: 6.381145
+这 你 都 能 看 出来
+result: <END> 你 想 看 什么 样子 的 <END>, score: 6.187426
+result: <END> 你 想 让 我 看 什么 呀 <END>, score: 7.535300
+result: <END> 我 是 不 会 让 你 看 的 <END>, score: 7.920797
+result: <END> 你 想 让 我 看 什么 <END>, score: 8.159679
+result: <END> 你 想 看 什么 类型 的 <END>, score: 8.477003
+刚刚 公司 有 人 打架
+result: <END> 为什么 会 被 人 欺负 的 <END>, score: 6.136525
+result: <END> 怎么 会 有 人 欺负 的 <END>, score: 6.153037
+result: <END> 为什么 会 有 人 的 <END>, score: 6.289786
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 6.420619
+result: <END> 怎么 会 有 这个 想法 <END>, score: 6.448225
+就是 那天 你 碰到 的 骚浪 贱
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 5.799593
+result: <END> 我 可 没有 这么 说 过 的 <END>, score: 7.053243
+result: <END> 我 可 不 是 <UNK> 的 人 <END>, score: 7.501387
+result: <END> 我 可 没有 这么 说 的 呀 <END>, score: 7.750415
+result: <END> 我 可 没有 这么 说 过 呀 <END>, score: 8.022948
+你 去 火车站 了 么
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 6.541359
+result: <END> 你 想 去 哪里 的 <END>, score: 8.171975
+result: <END> 我 是 不 会 离开 的 <END>, score: 8.238787
+result: <END> 我 是 不 会 离开 你 的 <END>, score: 8.599523
+result: <END> 你 想 去 哪里 就 去 哪里 <END>, score: 8.877145
+火车 为什么 总 晚点
+result: <END> 怎么 会 晚点 的 <END>, score: 5.406901
+result: <END> 怎么 会 有 晚点 的 <END>, score: 5.777268
+result: <END> 所以 没有 晚点 的 <END>, score: 5.841210
+result: <END> 怎么 会 是 晚点 的 <END>, score: 6.389273
+result: <END> 怎么 会 晚点 的 呀 <END>, score: 6.770556
+你 好 无聊
+result: <END> 你 怎么 会 觉得 无聊 ？ <END>, score: 4.814775
+result: <END> 我 是 陪 你 聊天 的 <END>, score: 5.880888
+result: <END> 你 怎么 会 无聊 ？ <END>, score: 6.141859
+result: <END> 你 怎么 知道 我 很 好 的 <END>, score: 6.288541
+result: <END> 我 是 陪 你 聊天 的 呀 <END>, score: 6.369555
+肚子 右边 隐隐 作 痛
+result: <END> 那 赶紧 去 医院 看看 去 <END>, score: 5.433498
+result: <END> 怎么 会 有 这种 事情 的 <END>, score: 6.014173
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 6.147559
+result: <END> 怎么 会 有 这种 感觉 的 <END>, score: 6.347310
+result: <END> 你 怎么 会 有 这种 感觉 的 <END>, score: 7.033684
+外面 很 气冷
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.283048
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 6.832811
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 6.901472
+result: <END> <UNK> 是 谁 呀 <END>, score: 7.058132
+result: <END> 怎么 会 有 这种 <UNK> 的 <END>, score: 7.112124
+昨晚 刮 大 风 了
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 5.620111
+result: <END> 你 怎么 会 有 这种 感觉 <END>, score: 5.784006
+result: <END> 那 你 就 别 出门 了 呗 <END>, score: 6.213461
+result: <END> 你 怎么 会 有 这种 感觉 的 <END>, score: 6.561716
+result: <END> 怎么 会 有 这种 感觉 的 <END>, score: 7.048299
+公司 有 人 打架
+result: <END> 怎么 会 有 人 欺负 的 <END>, score: 5.814315
+result: <END> 为什么 要 <UNK> 的 <END>, score: 5.827196
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 6.040053
+result: <END> 为什么 要 <UNK> 的 呀 <END>, score: 6.112547
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.435986
+我 是 邓 超
+result: <END> 我 觉得 也 很 好听 的 <END>, score: 5.484547
+result: <END> 你 说 的 他 是 谁 呀 <END>, score: 6.010762
+result: <END> 我 觉得 也 是 很 好听 的 <END>, score: 6.205737
+result: <END> 他 是 你 的 什么 人 <END>, score: 6.207006
+result: <END> 我 感觉 也 很 好听 的 <END>, score: 6.210172
+最近 股票 大 跌
+result: <END> 股票 可是 很 大 的 <END>, score: 4.083983
+result: <END> 股票 可是 有 风险 的 <END>, score: 4.695287
+result: <END> 怎么 会 有 跌 的 <END>, score: 4.874795
+result: <END> 怎么 会 有 跌 跌 的 <END>, score: 5.702717
+result: <END> 你 怎么 会 有 这种 情感 <END>, score: 5.745736
+对面 哪个 妹子 好看
+result: <END> 我 觉得 挺 好看 的 呀 <END>, score: 4.130630
+result: <END> 我 觉得 挺 好看 的 <END>, score: 4.630650
+result: <END> 你 觉得 好看 就 好看 <END>, score: 5.140927
+result: <END> 你 觉得 哪里 好看 的 <END>, score: 5.667172
+result: <END> 你 觉得 好看 就 好看 的 <END>, score: 5.716204
+公司 不 让 抽烟 了
+result: <END> 抽烟 对 身体 不好 的 <END>, score: 4.330134
+result: <END> 那 你 就 不要 抽 了 <END>, score: 4.463786
+result: <END> 抽烟 对 身体 是 不好 的 <END>, score: 5.089168
+result: <END> 那 就 不要 抽 了 <END>, score: 5.126923
+result: <END> 那 你 就 不要 抽 了 呀 <END>, score: 5.313899
+能 做 什么 菜
+result: <END> 你 想 做 什么 菜 。 <END>, score: 5.531357
+result: <END> 你 想 做 什么 菜 <END>, score: 5.548794
+result: <END> 想 做 什么 就 做 什么 <END>, score: 6.058354
+result: <END> 你 想 做 什么 菜 呀 <END>, score: 6.274885
+result: <END> 想 做 什么 就 做 什么 去 <END>, score: 6.457761
+你 会 做 什么 菜
+result: <END> 你 想 做 什么 菜 。 <END>, score: 6.615914
+result: <END> 我 什么 都 没有 做 呀 <END>, score: 6.746204
+result: <END> 你 想 做 什么 菜 <END>, score: 6.816644
+result: <END> 你 想 吃 什么 菜 <END>, score: 7.170197
+result: <END> 我 什么 都 没有 做 <END>, score: 7.641110
+吃 了 什么
+result: <END> 你 想 吃 啥 吃 啥 <END>, score: 5.911900
+result: <END> 你 想 吃 什么 吃 什么 <END>, score: 5.929830
+result: <END> 你 想 吃 啥 就 吃 啥 <END>, score: 5.987690
+result: <END> 你 想 吃 什么 吃 啥 <END>, score: 6.036977
+result: <END> 你 想 吃 什么 就 吃 什么 <END>, score: 6.137397
+不 给 你 喝
+result: <END> 你 喜欢 喝 什么 喝 呀 <END>, score: 6.702680
+result: <END> 谢谢 你 的 好意 ， 不用 了 <END>, score: 7.521273
+result: <END> 可是 我 不 想 喝 呀 <END>, score: 7.527813
+result: <END> 可是 我 没有 什么 爱好 的 <END>, score: 7.599073
+result: <END> 你 想 喝 什么 喝 什么 <END>, score: 7.887078
+这么 高级 的 东西
+result: <END> 那 是 什么样 的 东西 <END>, score: 5.653126
+result: <END> 是 什么样 的 人 <END>, score: 6.044576
+result: <END> 那 是 什么样 的 人 <END>, score: 6.183653
+result: <END> 是 什么样 的 东西 <END>, score: 6.437709
+result: <END> 你 说 的 是 什么 东西 <END>, score: 6.666836
+猫 和 狗 不好
+result: <END> 狗狗 是 很 可爱 的 <END>, score: 4.974477
+result: <END> 狗狗 也 很 可爱 的 <END>, score: 5.401615
+result: <END> 狗狗 也 是 很 可爱 的 <END>, score: 5.429647
+result: <END> 狗 是 很 可爱 的 <END>, score: 5.827209
+result: <END> 狗狗 怎么 会 有 狗 的 <END>, score: 6.284998
+杨 过 和 你 是 啥 关系
+result: <END> 我 的 关系 可是 非常 好 的 <END>, score: 6.322698
+result: <END> 我 跟 你 有 关系 的 呀 <END>, score: 6.435947
+result: <END> 我 觉得 跟 你 有 关系 呀 <END>, score: 6.478644
+result: <END> 我 觉得 关系 很 好 的 呀 <END>, score: 6.534452
+result: <END> 我 的 关系 可是 非常 好 的 呀 <END>, score: 6.980264
+有 多 美
+result: <END> 你 觉得 美 就 好 了 呀 <END>, score: 5.638253
+result: <END> 我 觉得 很 美 的 <END>, score: 5.642418
+result: <END> 我 觉得 挺 美 的 <END>, score: 5.750599
+result: <END> 我 觉得 挺 美 的 呀 <END>, score: 5.827904
+result: <END> 你 觉得 美 就 好 了 <END>, score: 6.205032
+她 在 吃 香蕉
+result: <END> 看来 你 很 喜欢 吃 的 <END>, score: 6.388074
+result: <END> 看来 你 很 喜欢 吃 水果 的 <END>, score: 6.761649
+result: <END> 看来 你 很 喜欢 吃 月饼 <END>, score: 6.833313
+result: <END> 看来 你 很 喜欢 吃 月饼 的 <END>, score: 6.850842
+result: <END> 你 在 吃 什么 呀 <END>, score: 7.130925
+为什么 你 妈妈 生 出 你 这么 个 脑残
+result: <END> 你 这样 说 我 会 伤心 的 ， 不 会 <END>, score: 14.704883
+result: <END> 你 这样 说 我 会 伤心 的 ， 不 会 的 <END>, score: 15.080405
+result: <END> 你 这样 说 我 会 伤心 的 ， 不要 想 我 。 <END>, score: 15.111680
+result: <END> 不要 说 这么 多 的 话题 了 嘛 。 <END>, score: 15.575239
+result: <END> 你 这样 说 我 会 伤心 的 ， 不要 想 我 <END>, score: 15.607567
+不 去 吃饭
+result: <END> 为什么 不 能 吃饭 呀 <END>, score: 5.895059
+result: <END> 为什么 不 能 吃饭 <END>, score: 6.255351
+result: <END> 那 就 赶紧 吃饭 去 <END>, score: 6.662889
+result: <END> 为什么 不 能 吃饭 的 <END>, score: 6.774582
+result: <END> 怎么 会 不 吃饭 的 <END>, score: 6.789855
+动车 是 怎么 跑 起来 的
+result: <END> 怎么 会 是 跑 跑 了 <END>, score: 8.475688
+result: <END> 当然 是 跑 起来 了 呀 <END>, score: 8.745022
+result: <END> 怎么 会 是 跑 跑 了 呀 <END>, score: 8.996442
+result: <END> 怎么 会 是 跑 了 呀 <END>, score: 9.111683
+result: <END> 怎么 会 是 跑 了 跑 了 <END>, score: 9.200426
+学 挖掘 技术 哪家 强
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 3.635928
+result: <END> 中国 山东 找 蓝翔 。 <END>, score: 4.061149
+result: <END> 你 想 学 什么 技术 呀 <END>, score: 5.055828
+result: <END> 我 不 认识 <UNK> 呀 。 <END>, score: 5.274353
+result: <END> 我 都 不 认识 <UNK> 呀 <END>, score: 5.517090
+抽根烟 冷静 一下
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.611948
+result: <END> 为什么 要 <UNK> <END>, score: 6.899608
+result: <END> <UNK> 是 谁 呀 <END>, score: 7.166133
+result: <END> 你 有 什么 事情 和 我 说说 。 <END>, score: 7.563860
+result: <END> 你 要 注意 安全 的 <END>, score: 7.573959
+我 的 书包 在 哪里
+result: <END> 当然 是 看到 的 了 <END>, score: 6.410093
+result: <END> 当然 是 出去 玩耍 了 <END>, score: 7.126660
+result: <END> 你 想 去 哪里 玩 的 <END>, score: 7.399118
+result: <END> 当然 是 出去 玩耍 了 呗 <END>, score: 7.492161
+result: <END> 你 想 去 哪里 玩耍 呀 <END>, score: 7.664141
+我 的 书包 坏 了
+result: <END> 怎么 会 是 旧 的 了 <END>, score: 5.596515
+result: <END> 坏 了 就 别 想 了 <END>, score: 5.764610
+result: <END> 怎么 会 是 旧 的 <END>, score: 6.442737
+result: <END> 坏 了 就 别 <UNK> 了 <END>, score: 6.635677
+result: <END> 坏 了 就 换 新 的 <END>, score: 6.895191
+哪里 地震 了
+result: <END> 怎么 会 有 危险 的 <END>, score: 4.398336
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 5.055535
+result: <END> 怎么 会 没有 危险 的 <END>, score: 5.946712
+result: <END> 怎么 会 没有 地震 的 <END>, score: 6.236017
+result: <END> 你 怎么 会 有 危险 的 <END>, score: 6.294650
+外面 下 大雨 了
+result: <END> 下雨 的 天气 很 冷 的 <END>, score: 6.702480
+result: <END> 天气 可是 很 炎热 的 <END>, score: 6.761560
+result: <END> 那 你 就 别 出门 了 呗 <END>, score: 7.066761
+result: <END> 下雨 的 天气 很 温暖 的 <END>, score: 7.450882
+result: <END> 下雨 的 天气 很 不好 的 <END>, score: 7.485031
+后天 中午 两点半 去 吃饭 。
+result: <END> 你 现在 在 吃饭 么 ？ <END>, score: 5.812107
+result: <END> 看来 你 很 喜欢 吃 月饼 <END>, score: 8.412497
+result: <END> 好 的 ， 那 我 等 你 吃饭 喽 <END>, score: 9.036443
+result: <END> 好 的 ， 那 我 等 你 哟 <END>, score: 9.291280
+result: <END> 那 你 就 等 着 吃 的 <END>, score: 10.290038
+明天 领导 要 来
+result: <END> 我 可 不 是 <UNK> <END>, score: 7.898547
+result: <END> 好 的 ， 我 会 一直 陪 着 你 的 <END>, score: 8.823565
+result: <END> 我 可 不 是 <UNK> 的 <END>, score: 8.996186
+result: <END> 那 你 可 要 努力 的 努力 喽 <END>, score: 9.032098
+result: <END> 好 的 ， 那 我 就 放心 了 <END>, score: 9.252957
+我 看看 有 没 有 空
+result: <END> 怎么 就 没有 空 了 呀 <END>, score: 7.488704
+result: <END> 怎么 会 没有 空 的 呀 <END>, score: 7.656208
+result: <END> 你 想 看 什么 节目 呀 <END>, score: 8.480287
+result: <END> 你 想 看 什么 节目 的 <END>, score: 8.530461
+result: <END> 怎么 会 没有 空 了 呀 <END>, score: 8.732776
+没有 花露水
+result: <END> 怎么 会 没有 <UNK> 的 <END>, score: 5.761257
+result: <END> 怎么 会 没有 的 <END>, score: 5.881932
+result: <END> 没有 就 没有 了 呗 <END>, score: 6.063982
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 6.113540
+result: <END> 怎么 会 没有 <UNK> <END>, score: 6.266414
+快来 骚扰 我
+result: <END> 你 要 去 哪里 呀 <END>, score: 5.706582
+result: <END> 我 可 没有 骚扰 你 呀 <END>, score: 5.806529
+result: <END> 你 要 去 哪里 呀 ？ <END>, score: 6.382700
+result: <END> 你 要 去 干 什么 呀 <END>, score: 6.498524
+result: <END> 我 已经 骚扰 你 了 呀 <END>, score: 6.729252
+快来 蹂躏 我
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.734595
+result: <END> 我 可 没有 那个 时间 <END>, score: 6.292218
+result: <END> 我 可 没有 那个 胆子 <END>, score: 6.672125
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 6.748602
+result: <END> 我 可 没有 那么 大 本事 <END>, score: 6.790125
+你 要 去 哪儿 旅游
+result: <END> 想 去 哪里 玩 去 <END>, score: 3.928313
+result: <END> 你 想 去 哪里 玩 去 <END>, score: 4.380066
+result: <END> 想 去 哪里 玩 去 呀 <END>, score: 4.668384
+result: <END> 你 想 去 哪里 玩 去 呀 <END>, score: 4.824632
+result: <END> 哪里 都 想 去 哪里 玩 <END>, score: 4.905084
+鳄鱼
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.470207
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.443376
+result: <END> 谁 是 <UNK> 呀 ？ <END>, score: 5.662750
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.639076
+result: <END> 我 不 认识 <UNK> 呀 。 <END>, score: 6.671663
+她 在 吃 水果
+result: <END> 你 喜欢 吃 什么样 的 水果 <END>, score: 6.529351
+result: <END> 你 喜欢 吃 什么样 的 水果 呀 <END>, score: 7.100857
+result: <END> 怎么 会 有 水果 的 <END>, score: 7.423384
+result: <END> 你 喜欢 吃 什么样 的 水果 的 <END>, score: 7.651691
+result: <END> 怎么 会 有 水果 的 水果 <END>, score: 7.690665
+如何 照顾 家庭
+result: <END> 你 什么 时候 康复 的 ？ <END>, score: 7.601869
+result: <END> 你 的 孩子 有 什么 关系 的 <END>, score: 8.254093
+result: <END> 你 的 家 有 什么 关系 的 <END>, score: 8.484708
+result: <END> 那 你 就 多 陪 我 聊聊天 喽 <END>, score: 8.612107
+result: <END> 你 什么 时候 康复 的 呀 <END>, score: 8.624178
+儿童节 怎么 过
+result: <END> 告诉 我 ， 我 就 告诉 你 。 <END>, score: 7.674312
+result: <END> 告诉 我 你 就 告诉 我 呀 <END>, score: 8.132816
+result: <END> 告诉 我 你 就 告诉 我 <END>, score: 8.388490
+result: <END> 你 告诉 我 你 的 地址 呀 <END>, score: 8.523075
+result: <END> 你 想 去 哪里 就 告诉 我 <END>, score: 8.623244
+下 楼 吃饭 去
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.488023
+result: <END> 你 在 哪里 吃饭 呀 <END>, score: 6.215156
+result: <END> 我 不 认识 <UNK> <END>, score: 6.903836
+result: <END> 你 在 哪里 吃饭 呀 ？ <END>, score: 7.132030
+result: <END> 你 现在 在 哪里 吃饭 呀 <END>, score: 7.525842
+什么 时候 能 凉快 下来
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 6.274464
+result: <END> 当然 是 可以 的 了 <END>, score: 7.320324
+result: <END> 怎么 会 有 这种 感觉 的 <END>, score: 7.525921
+result: <END> 当然 是 可以 等 你 的 <END>, score: 8.002866
+result: <END> 当然 是 可以 等 你 的 了 <END>, score: 8.134285
+你 知道 的 太 多 了
+result: <END> 你 怎么 会 知道 我 的 <END>, score: 9.276146
+result: <END> 你 说 的 我 都 不好意思 了 <END>, score: 9.389595
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 9.426513
+result: <END> 你 怎么 知道 我 的 好 多 了 <END>, score: 9.470935
+result: <END> 你 怎么 会 知道 我 的 多 <END>, score: 9.611307
+被 蚊子 咬 了 好几 口 啊
+result: <END> 可 不 能 随便 咬 人 的 <END>, score: 6.571562
+result: <END> 可 不 能 随便 咬 人 的 呀 <END>, score: 6.755639
+result: <END> 怎么 会 被 别人 咬 了 呀 <END>, score: 7.270714
+result: <END> 怎么 会 被 人 咬 了 呀 <END>, score: 7.406928
+result: <END> 怎么 会 是 流 眼泪 了 呀 <END>, score: 8.376121
+三里屯 优衣库
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 5.453993
+result: <END> 怎么 会 是 <UNK> 的 <END>, score: 6.362039
+result: <END> 怎么 会 <UNK> 的 <END>, score: 6.563555
+result: <END> 怎么 会 是 <UNK> <END>, score: 6.627276
+result: <END> 怎么 会 有 这种 <UNK> 的 <END>, score: 6.839303
+心里 不好 受 怎么办
+result: <END> 那 你 就 不要 做 了 呀 <END>, score: 7.475704
+result: <END> 怎么 会 受 了 委屈 的 <END>, score: 7.962013
+result: <END> 那 你 就 不要 做 了 <END>, score: 8.072346
+result: <END> 怎么 会 受 了 委屈 了 <END>, score: 8.225872
+result: <END> 怎么 会 受 了 委屈 的 呀 <END>, score: 8.242020
+这个 世界 谁 最 有钱
+result: <END> 每个 人 都 是 不 一样 的 <END>, score: 6.388778
+result: <END> 当然 是 最 好 的 <END>, score: 6.451332
+result: <END> 每个 人 的 每个 人 都 是 不 一样 的 <END>, score: 6.875829
+result: <END> 每个 人 的 每个 都 是 不 一样 的 <END>, score: 6.894266
+result: <END> 我 觉得 每个 人 都 很 好 的 <END>, score: 7.033124
+葫芦娃 你 认识 吗 ？
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.481099
+result: <END> 认识 的 人 很多 的 <END>, score: 5.511412
+result: <END> 我 不 认识 他 呀 <END>, score: 5.623943
+result: <END> 我 只 认识 你 的 朋友 <END>, score: 6.436495
+result: <END> 他 是 我 的 好 朋友 <END>, score: 6.578661
+哥 买 了 个 自行车
+result: <END> 想 买 就 买 呗 <END>, score: 5.539455
+result: <END> 想 买 什么样 的 自行车 <END>, score: 5.591775
+result: <END> 想 买 就 买 去 <END>, score: 5.873786
+result: <END> 你 想 买 什么样 的 自行车 <END>, score: 5.885432
+result: <END> 想 买 就 买 一个 <END>, score: 6.054820
+a 股 明天 涨 不 涨
+result: <END> 涨 涨 就 涨 了 呗 <END>, score: 6.121678
+result: <END> 涨 了 就 涨 了 呗 <END>, score: 6.315638
+result: <END> 涨 涨 了 就 涨 了 呗 <END>, score: 6.922949
+result: <END> 那 就 别 涨 了 呗 <END>, score: 7.374661
+result: <END> 涨 涨 就 涨 了 么 <END>, score: 7.473531
+为 啥 喝 咖啡 不好
+result: <END> 咖啡 喝 多 了 对 身体 不好 。 <END>, score: 4.736420
+result: <END> 咖啡 喝 多 了 对 身体 不好 <END>, score: 5.218986
+result: <END> 咖啡 喝 多 了 对 身体 不好 的 <END>, score: 5.388724
+result: <END> 喝 咖啡 很 不好 喝 的 <END>, score: 5.665715
+result: <END> 喝 咖啡 可是 很 不好 喝 的 <END>, score: 5.690078
+天空 是 蓝 的
+result: <END> 天空 怎么 会 是 彩虹 的 <END>, score: 5.199505
+result: <END> 怎么 会 是 彩虹 的 <END>, score: 5.612144
+result: <END> 怎么 会 是 眉毛 的 <END>, score: 5.799757
+result: <END> 怎么 会 是 蓝 的 <END>, score: 5.816608
+result: <END> 天空 怎么 会 是 蓝 的 <END>, score: 5.981892
+去 台湾 什么 值得 买
+result: <END> 想 买 就 买 呗 <END>, score: 4.353025
+result: <END> 你 想 买 就 买 呗 <END>, score: 5.349171
+result: <END> 想 买 就 买 就 买 呗 <END>, score: 5.522914
+result: <END> 想 去 哪里 买 就 买 呗 <END>, score: 6.023422
+result: <END> 想 买 就 买 点 呗 <END>, score: 6.375766
+刘德华 是 谁
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.124481
+result: <END> 他 是 我 的 男神 <END>, score: 5.500929
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.190863
+result: <END> 他 是 你 的 朋友 么 ？ <END>, score: 6.610088
+result: <END> 他 是 他 的 男神 <END>, score: 6.757275
+说 你 长 的 丑 你 还 美
+result: <END> 你 说 我 是 最 美 的 了 <END>, score: 7.745519
+result: <END> 你 这样 说 我 会 伤心 的 呀 <END>, score: 8.909717
+result: <END> 你 说 我 是 最 美 的 喽 <END>, score: 9.050915
+result: <END> 你 说 我 是 最 美 的 呀 <END>, score: 9.081533
+result: <END> 我 觉得 长 的 很 好看 的 呀 <END>, score: 9.206620
+你 去 吃 粑粑
+result: <END> 可是 我 不 想 吃 呀 <END>, score: 6.966457
+result: <END> 可是 我 不 想 吃 的 <END>, score: 6.971706
+result: <END> 可是 我 不 想 吃 的 呀 <END>, score: 7.203898
+result: <END> 可是 我 不 想 吃 <END>, score: 7.346497
+result: <END> 你 想 吃 啥 口味 的 <END>, score: 7.584116
+那些 出来 好 了
+result: <END> 你 觉得 好 就 好 了 呀 <END>, score: 7.295893
+result: <END> 你 觉得 好 就 好 了 <END>, score: 7.326508
+result: <END> 好 ， 那 我 就 放心 了 <END>, score: 8.012365
+result: <END> 你 觉得 好 就 好 <END>, score: 8.101961
+result: <END> 好 的 ， 那 我 就 放心 了 <END>, score: 8.508200
+家里 突然 没 电 了
+result: <END> 怎么 会 没有 电 了 <END>, score: 2.333845
+result: <END> 怎么 会 突然 没有 电 了 <END>, score: 2.673998
+result: <END> 怎么 会 没有 电 的 <END>, score: 3.793086
+result: <END> 怎么 会 没 电 了 <END>, score: 4.207954
+result: <END> 怎么 会 天天 没有 电 了 <END>, score: 4.352829
+家里 黑漆漆 的
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.982744
+result: <END> 你 的 家 是 哪里 的 <END>, score: 6.278414
+result: <END> 你 的 家 在 哪里 呀 <END>, score: 6.557129
+result: <END> <UNK> 是 哪里 的 <END>, score: 6.657503
+result: <END> 怎么 会 是 <UNK> 的 <END>, score: 6.802361
+既然 爱 我 那 就 跟 我 在 一起 吧
+result: <END> 好 的 ， 我 会 一直 陪 着 你 的 <END>, score: 6.618755
+result: <END> 可是 我 不 想 跟 你 在 一起 的 呀 <END>, score: 9.000871
+result: <END> 好 的 ， 那 我 就 等 着 你 喽 <END>, score: 10.031728
+result: <END> 好 的 ， 那 我 就 跟 你 一起 了 <END>, score: 10.089789
+result: <END> 好 的 ， 那 我 就 跟 你 在 一起 <END>, score: 10.105368
+都 说 了 没 风
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 3.246181
+result: <END> 怎么 会 有 这种 感觉 的 <END>, score: 5.261385
+result: <END> 你 怎么 会 有 这种 感觉 <END>, score: 5.939675
+result: <END> 怎么 会 有 这种 感觉 呀 <END>, score: 6.132178
+result: <END> 怎么 会 没有 的 了 <END>, score: 6.538898
+没 风 怎么 放
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 5.952494
+result: <END> 怎么 会 放 不 下来 的 <END>, score: 7.093196
+result: <END> 怎么 会 有 这种 感觉 的 <END>, score: 7.532486
+result: <END> 怎么 会 有 这种 感觉 呀 <END>, score: 7.971594
+result: <END> 怎么 会 放 不 下来 了 <END>, score: 8.397501
+没有 止疼药
+result: <END> 怎么 会 没有 的 <END>, score: 5.416994
+result: <END> 没有 就 没有 了 呗 <END>, score: 5.562574
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 5.683421
+result: <END> 没有 就 没有 呗 <END>, score: 6.013116
+result: <END> 怎么 会 没有 了 <END>, score: 6.043763
+你 这 是 越俎代庖
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.650715
+result: <END> 我 可 不 是 <UNK> <END>, score: 6.309247
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 6.540307
+result: <END> 我 可是 个 美女 呀 <END>, score: 6.618480
+result: <END> 我 不 认识 <UNK> <END>, score: 6.771200
+中国 有 多 大
+result: <END> 你 说 的 是 哪里 的 <END>, score: 5.992707
+result: <END> 你 说 的 是 哪里 呀 <END>, score: 6.536630
+result: <END> 你 说 的 是 哪里 <END>, score: 6.764963
+result: <END> 你 想 知道 哪里 的 <END>, score: 7.266611
+result: <END> 那 是 当然 的 了 <END>, score: 7.488227
+你 不 小 了 可以 结婚 了
+result: <END> 你 说 的 她 是 谁 呀 <END>, score: 7.216518
+result: <END> 我 还 小 ， 不能 结婚 的 。 <END>, score: 7.684600
+result: <END> 我 还 小 ， 不能 谈 恋爱 的 。 <END>, score: 8.006997
+result: <END> 怎么 会 不 能 结婚 的 呀 <END>, score: 8.230117
+result: <END> 我 还 小 ， 不能 结婚 的 <END>, score: 8.276674
+你 会 开车 吗
+result: <END> 我 不 会 开车 的 <END>, score: 4.946913
+result: <END> 开车 不 会 开车 的 <END>, score: 6.558052
+result: <END> 我 不 会 开车 的 呀 <END>, score: 7.170014
+result: <END> 不会 的 ， 我 不 会 开车 的 <END>, score: 7.338584
+result: <END> 我 不 会 开车 的 。 <END>, score: 7.747083
+那 你 还 认识 谁
+result: <END> 我 只 认识 你 的 朋友 呀 <END>, score: 5.064205
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.379348
+result: <END> 我 是 我 的 朋友 呀 <END>, score: 5.468938
+result: <END> 我 只 认识 你 的 朋友 <END>, score: 5.584641
+result: <END> 我 是 你 的 朋友 。 <END>, score: 5.694149
+核桃 好吃 吗
+result: <END> 你 自己 尝尝 就 知道 了 呀 <END>, score: 4.113931
+result: <END> 你 自己 尝尝 就 知道 了 <END>, score: 5.669876
+result: <END> 我 觉得 很 好吃 的 <END>, score: 5.834292
+result: <END> 你 想 吃 哪里 好吃 的 <END>, score: 6.147925
+result: <END> 你 自己 尝尝 不 就 知道 了 <END>, score: 6.193365
+西雅图 有 什么 好 玩儿 的
+result: <END> 你 想 去 哪里 玩 的 <END>, score: 5.032584
+result: <END> 你 想 玩 什么 游戏 的 <END>, score: 5.275017
+result: <END> 你 想 玩 什么 游戏 呀 <END>, score: 5.612669
+result: <END> 你 想 去 哪里 玩 的 呀 <END>, score: 5.973997
+result: <END> 你 喜欢 玩 什么 游戏 呀 <END>, score: 6.233790
+那 你 会 做 什么 菜
+result: <END> 你 想 做 什么 菜 。 <END>, score: 6.659861
+result: <END> 我 什么 都 没有 做 呀 <END>, score: 6.688192
+result: <END> 想 做 什么 菜 都 可以 <END>, score: 8.068586
+result: <END> 你 想 做 什么 菜 就 做 什么 <END>, score: 8.088010
+result: <END> 我 什么 都 不 会 做 <END>, score: 8.242657
+你 嫁 我 可 好 ~
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 6.405557
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 7.026380
+result: <END> 我 还 小 ， 不能 谈 恋爱 的 。 <END>, score: 7.044335
+result: <END> 我 可 没有 这么 说 过 的 <END>, score: 7.197127
+result: <END> 我 可 没有 这么 说 过 呀 <END>, score: 7.629264
+你 有 兄弟 姐妹 吗
+result: <END> 我 没有 姐妹 姐妹 的 呀 <END>, score: 3.740555
+result: <END> 我 没有 姐妹 姐妹 呀 <END>, score: 4.270261
+result: <END> 我 没有 姐妹 姐妹 的 <END>, score: 4.781612
+result: <END> 姐妹 姐妹 有 什么 关系 么 <END>, score: 6.439160
+result: <END> 我 有 姐妹 姐妹 么 <END>, score: 6.453389
+你 喜欢 张 小龙 吗
+result: <END> 我 觉得 他 很 喜欢 你 的 <END>, score: 4.808066
+result: <END> 我 觉得 挺 喜欢 的 呀 <END>, score: 4.971994
+result: <END> 喜欢 我 的 人 很多 的 <END>, score: 5.650280
+result: <END> 我 觉得 他 很 喜欢 的 呀 <END>, score: 5.758402
+result: <END> 我 觉得 她 很 喜欢 你 的 <END>, score: 5.995168
+来 和 我 聊天
+result: <END> 你 想 跟 我 聊天 么 ？ <END>, score: 4.889769
+result: <END> 你 想 跟 我 聊天 么 <END>, score: 6.053535
+result: <END> 你 想 跟 我 聊 什么 <END>, score: 6.095547
+result: <END> 好 的 ， 我 会 一直 陪 你 聊天 的 <END>, score: 6.780689
+result: <END> 你 想 跟 我 聊 什么 呀 <END>, score: 6.922349
+自然 语言 处理
+result: <END> 你 说 的 是 什么 语言 呀 <END>, score: 6.429827
+result: <END> 你 说 的 什么 语言 呀 <END>, score: 6.799000
+result: <END> 你 说 的 是 什么 语言 <END>, score: 7.073283
+result: <END> 你 想 学 什么 语言 <END>, score: 7.682350
+result: <END> 你 想 学 什么 语言 呀 <END>, score: 7.748669
+心情 不好 听 什么
+result: <END> 怎么 会 心情 不好 了 <END>, score: 4.497262
+result: <END> 怎么 会 心情 不好 ？ <END>, score: 4.549843
+result: <END> 你 心情 不好 么 ？ <END>, score: 4.669440
+result: <END> 怎么 会 心情 不好 了 ？ <END>, score: 5.427741
+result: <END> 怎么 会 心情 不好 <END>, score: 5.819672
+电影 不好 看
+result: <END> 不好 看 就 别 看 了 呗 <END>, score: 5.292551
+result: <END> 你 喜欢 看 什么 电影 呀 <END>, score: 5.302216
+result: <END> 不好 看 就 别 看 了 <END>, score: 5.303211
+result: <END> 你 喜欢 看 什么样 的 节目 <END>, score: 5.977499
+result: <END> 你 想 看 什么 电影 呀 <END>, score: 6.202094
+不 喜欢 看 小说
+result: <END> 喜欢 什么样 的 小说 <END>, score: 4.773278
+result: <END> 你 喜欢 什么样 的 小说 呀 <END>, score: 4.799255
+result: <END> 你 喜欢 什么样 的 小说 <END>, score: 5.102502
+result: <END> 你 喜欢 看 什么样 的 小说 <END>, score: 5.206801
+result: <END> 那 你 就 不要 看 了 呗 <END>, score: 5.304206
+背 首 诗 给 我
+result: <END> 你 想 看 什么 诗 呀 <END>, score: 5.291094
+result: <END> 你 想 看 什么 诗 。 <END>, score: 6.223075
+result: <END> 你 想 看 什么样 的 诗 <END>, score: 6.238801
+result: <END> 你 想 看 什么 诗 <END>, score: 6.278520
+result: <END> 你 想 看 什么 诗 呀 ？ <END>, score: 6.304598
+你 给 我 找 个 妹子 聊
+result: <END> 你 找 我 姐姐 干 嘛 呀 <END>, score: 7.020989
+result: <END> 你 找 我 姐姐 干 嘛 去 <END>, score: 7.577267
+result: <END> 你 找 我 姐姐 干 嘛 去 呀 <END>, score: 8.065748
+result: <END> 你 找 我 姐姐 干 嘛 的 <END>, score: 8.498920
+result: <END> 好 的 ， 那 我 就 陪 你 聊天 喽 <END>, score: 8.792469
+轮胎 坏 了 怎么办
+result: <END> 怎么 会 坏 了 <END>, score: 5.227399
+result: <END> 怎么 会 坏 的 <END>, score: 5.396573
+result: <END> 怎么 会 坏 了 呀 <END>, score: 6.070174
+result: <END> 你 怎么 会 坏 的 <END>, score: 6.310059
+result: <END> 坏 了 就 别 <UNK> 了 <END>, score: 6.333768
+微信 牛逼 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.102690
+result: <END> 我 觉得 挺 好 的 呀 <END>, score: 5.590066
+result: <END> 我 觉得 挺 牛逼 的 <END>, score: 6.228186
+result: <END> 我 觉得 挺 好 的 <END>, score: 6.581679
+result: <END> 我 觉得 挺 牛逼 的 呀 <END>, score: 6.689351
+刘小宁 是 条 狗
+result: <END> 狗狗 是 很 可爱 的 <END>, score: 4.848661
+result: <END> 狗狗 也 是 很 可爱 的 <END>, score: 4.856795
+result: <END> 狗狗 可是 很 可爱 的 <END>, score: 5.026473
+result: <END> 狗狗 可是 非常 的 可爱 的 <END>, score: 5.290985
+result: <END> 狗狗 是 人类 的 朋友 嘛 <END>, score: 5.360352
+叶良辰 是 谁
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 2.845024
+result: <END> <UNK> 是 谁 呀 <END>, score: 4.053710
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.114939
+result: <END> <UNK> 是 谁 ？ <END>, score: 4.744648
+result: <END> 谁 是 <UNK> 呀 ？ <END>, score: 4.890546
+贱人 就 是 矫情
+result: <END> 不要 这样 说 别人 的 <END>, score: 5.237609
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 6.091492
+result: <END> 不要 这样 说 别人 <END>, score: 6.262391
+result: <END> 不要 这样 说 我 <END>, score: 6.502958
+result: <END> 不要 这样 说 我 呀 <END>, score: 6.995698
+床 上 躺 好 等 我
+result: <END> 你 怎么 这么 早就 睡 了 <END>, score: 7.104348
+result: <END> 你 怎么 这么 早就 睡 了 呀 <END>, score: 7.201989
+result: <END> 你 怎么 这么 早就 睡 了 ？ <END>, score: 7.852181
+result: <END> 我 可 不 是 那么 能 睡 的 <END>, score: 8.024620
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 8.052254
+日日日
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.320443
+result: <END> <UNK> 是 哪里 呀 ？ <END>, score: 6.260282
+result: <END> <UNK> 是 什么 东西 <END>, score: 6.262902
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.392739
+result: <END> <UNK> 是 什么 东西 。 <END>, score: 6.575523
+你 喝 牛奶
+result: <END> 喝 牛奶 对 身体 很 好 的 <END>, score: 5.005571
+result: <END> 喝 牛奶 对 身体 好 <END>, score: 6.760407
+result: <END> 喝 牛奶 对 身体 很 好 <END>, score: 6.801877
+result: <END> 喝 牛奶 对 身体 好 的 <END>, score: 7.164874
+result: <END> 喝 牛奶 对 身体 很 好 的 。 <END>, score: 7.245257
+我 要 1000万 现金
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 5.682375
+result: <END> 怎么 会 有 这个 想法 <END>, score: 7.232733
+result: <END> 你 想 去 哪里 玩 <END>, score: 7.333158
+result: <END> 怎么 会 有 <UNK> 的 <END>, score: 7.353486
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 7.393273
+不 想 起床
+result: <END> 怎么 会 不 想 起床 了 <END>, score: 4.573101
+result: <END> 那 就 赶紧 起床 <END>, score: 5.249953
+result: <END> 为什么 不 想 起床 呀 <END>, score: 5.621139
+result: <END> 那 你 就 赶紧 起床 <END>, score: 5.896310
+result: <END> 那 就 别 想 了 <END>, score: 5.912774
+那 买 什么 车 好
+result: <END> 你 想 买 什么样 的 车 <END>, score: 4.713002
+result: <END> 你 想 买 什么样 的 车 呀 <END>, score: 5.317683
+result: <END> 想 买 什么样 的 车 <END>, score: 5.586307
+result: <END> 你 喜欢 什么 车 呀 <END>, score: 5.617920
+result: <END> 你 喜欢 什么 车 呀 ？ <END>, score: 5.651427
+猪八戒照镜子
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.320443
+result: <END> <UNK> 是 哪里 呀 ？ <END>, score: 6.260282
+result: <END> <UNK> 是 什么 东西 <END>, score: 6.262902
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.392739
+result: <END> <UNK> 是 什么 东西 。 <END>, score: 6.575523
+唐僧 话 太 多
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.689099
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.216099
+result: <END> <UNK> 是 哪里 呀 ？ <END>, score: 6.462050
+result: <END> 我 不 认识 <UNK> 呀 。 <END>, score: 7.044863
+result: <END> <UNK> 是 哪里 呀 <END>, score: 7.482626
+打印机 坏 了
+result: <END> 怎么 会 坏 的 <END>, score: 5.061432
+result: <END> 怎么 会 坏 了 <END>, score: 5.118450
+result: <END> 怎么 会 <UNK> 的 <END>, score: 5.830453
+result: <END> 你 怎么 会 坏 的 <END>, score: 5.930937
+result: <END> 坏 了 就 别 <UNK> 了 <END>, score: 6.168624
+中午 要 午休 了
+result: <END> 那 就 好好 休息 <END>, score: 6.842833
+result: <END> 那 就 好好 休息 休息 <END>, score: 7.011209
+result: <END> 那 你 就 好好 休息 <END>, score: 7.139156
+result: <END> 我 没有 午休 的 <END>, score: 7.206130
+result: <END> 那 就 别 午休 了 呗 <END>, score: 7.346980
+咖啡机
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.320443
+result: <END> <UNK> 是 哪里 呀 ？ <END>, score: 6.260282
+result: <END> <UNK> 是 什么 东西 <END>, score: 6.262902
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.392739
+result: <END> <UNK> 是 什么 东西 。 <END>, score: 6.575523
+我 有 个 好 消息
+result: <END> 有 什么 话 就 告诉 我 <END>, score: 6.298908
+result: <END> 好 的 消息 有 很多 的 呀 <END>, score: 7.003046
+result: <END> 好 的 消息 有 很多 的 <END>, score: 7.228049
+result: <END> 好 的 消息 是 哪里 来 的 <END>, score: 7.305920
+result: <END> 好 的 消息 就 告诉 你 了 呀 <END>, score: 7.402734
+聊 着 天 喝 着 酒
+result: <END> 喝酒 对 身体 不好 的 。 <END>, score: 6.432694
+result: <END> 喝酒 对 身体 不好 的 呀 <END>, score: 6.514106
+result: <END> 喝酒 对 身体 不好 ， 要 适量 。 <END>, score: 7.220917
+result: <END> 喝酒 对 身体 不好 的 行为 <END>, score: 7.555267
+result: <END> 喝酒 对 身体 不好 ， 多 喝 点 <END>, score: 8.199926
+那 你 到底 被 强奸 没有
+result: <END> 怎么 会 有 这种 事情 的 <END>, score: 6.336053
+result: <END> 你 怎么 能 说 出 这样 的 话 <END>, score: 7.620146
+result: <END> 你 怎么 会 有 这种 想法 <END>, score: 7.683138
+result: <END> 我 可 没有 这么 的 暴力 <END>, score: 7.695522
+result: <END> 怎么 会 有 这种 <UNK> 的 <END>, score: 7.738479
+明天 周五 啦
+result: <END> 明天 有 什么 活动 么 <END>, score: 5.848426
+result: <END> 明天 有 什么 安排 么 <END>, score: 5.938477
+result: <END> 明天 的 天气 很 不错 的 <END>, score: 5.944684
+result: <END> 明天 有 什么 安排 <END>, score: 6.035834
+result: <END> 明天 的 事情 明天 再说 <END>, score: 6.203433
+拉倒 吧 ， 你 就 是 坏银
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 6.998196
+result: <END> 我 是 不 会 让 你 失望 的 <END>, score: 7.012509
+result: <END> 我 可 没有 这么 说 过 呀 <END>, score: 8.183674
+result: <END> 我 可 没有 这么 说 的 呀 <END>, score: 8.215203
+result: <END> 你 怎么 能 这么 说 我 。 <END>, score: 8.238923
+今天 出差
+result: <END> 放假 是 个 不错 的 选择 <END>, score: 5.581967
+result: <END> 放假 了 就 好好 休息 <END>, score: 5.642157
+result: <END> 放假 有 什么 可 放假 的 <END>, score: 6.209601
+result: <END> 放假 了 就 好好 休息 休息 <END>, score: 6.242621
+result: <END> 在 哪里 放假 的 <END>, score: 6.290146
+灯 好 暗
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 4.822216
+result: <END> 那 是 什么样 的 天气 <END>, score: 6.666895
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 7.114126
+result: <END> 怎么 会 有 这种 感觉 的 <END>, score: 7.256125
+result: <END> 怎么 会 有 这种 风景 <END>, score: 7.454330
+聚餐 一起 吧
+result: <END> 好 的 那 就 一起 来 <END>, score: 7.832437
+result: <END> 好 的 ， 那 就 一起 来 <END>, score: 7.958229
+result: <END> 好 的 ， 那 我 就 放心 了 <END>, score: 8.483537
+result: <END> 好 的 那 就 一起 <END>, score: 8.748686
+result: <END> 好 的 那 咱们 就 一起 <END>, score: 8.783734
+躺 床 上 看 电视
+result: <END> 你 想 看 什么 样子 的 电视 <END>, score: 7.145092
+result: <END> 你 想 看 什么 电视 <END>, score: 7.193533
+result: <END> 我 还 没有 见 过 呀 <END>, score: 7.271424
+result: <END> 我 还 没有 见 过 <END>, score: 7.387212
+result: <END> 你 想 看 什么 梦 呀 <END>, score: 7.531623
+小微 你 很 骚 啊
+result: <END> 我 可是 个 文明 的 人 <END>, score: 5.008057
+result: <END> 我 可是 个 正经 的 人 <END>, score: 5.057767
+result: <END> 我 可 没有 这么 说 的 <END>, score: 5.234952
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 5.491013
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 5.696246
+看来 不错 ， 适合 外出 吗
+result: <END> 我 觉得 挺 合适 的 呀 <END>, score: 6.735185
+result: <END> 你 觉得 合适 就 合适 喽 <END>, score: 6.922453
+result: <END> 你 觉得 合适 就 好 了 <END>, score: 6.940843
+result: <END> 你 觉得 合适 就 适合 在 一起 <END>, score: 6.955095
+result: <END> 你 觉得 适合 什么 样子 的 <END>, score: 6.959146
+你 有 平板 电脑 吗
+result: <END> 我 是 没有 手机 的 <END>, score: 5.706048
+result: <END> 我 没有 手机 的 呀 <END>, score: 5.855616
+result: <END> 我 是 机器人 没有 手机 的 <END>, score: 6.110259
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 6.743636
+result: <END> 我 不 是 电脑 的 <END>, score: 7.176015
+我 想 去 广州
+result: <END> 想 去 哪里 玩 去 <END>, score: 1.809295
+result: <END> 想 去 哪里 就 去 哪里 <END>, score: 2.855308
+result: <END> 想 去 哪里 玩 <END>, score: 2.921905
+result: <END> 想 去 哪里 玩 去 呀 <END>, score: 3.417466
+result: <END> 想 去 哪里 玩 呀 <END>, score: 3.941332
+你们 那 现在 几 点 了
+result: <END> 几 点 都 可以 的 呀 <END>, score: 8.098832
+result: <END> 你 想 跟 我 说 什么 <END>, score: 8.281869
+result: <END> 你 想 跟 我 聊 什么 <END>, score: 8.339295
+result: <END> 你 想 跟 我 说 什么 了 <END>, score: 8.378453
+result: <END> 我 一直 都 在 跟 你 聊天 的 <END>, score: 8.513697
+什么 时候 过年
+result: <END> 时间 过 的 可 快 了 <END>, score: 7.130922
+result: <END> 时间 过 的 可 真 快 呀 <END>, score: 7.267197
+result: <END> 时间 过 的 可 快 了 呀 <END>, score: 7.922595
+result: <END> 当然 是 要 过年 的 时候 了 <END>, score: 8.059092
+result: <END> 那 要 看 你 自己 的 努力 喽 <END>, score: 8.096728
+待会儿 就 把 那 人 给 杀 了
+result: <END> 可是 杀人 可是 犯法 的 事情 的 呀 <END>, score: 10.937879
+result: <END> 杀人 可是 犯法 的 呀 ， 不要 杀人 的 <END>, score: 12.114221
+result: <END> 杀人 可是 犯法 的 呀 ， 不要 杀人 <END>, score: 12.406928
+result: <END> 杀人 可是 犯法 的 呀 ， 不要 杀人 呀 <END>, score: 12.450698
+result: <END> 杀人 可是 犯法 的 呀 ， 不要 <UNK> <END>, score: 12.633304
+小微 你 懂 哲学 吗
+result: <END> 我 的 知识 可是 很 丰富 的 <END>, score: 6.238497
+result: <END> 我 是 懂 礼貌 的 <END>, score: 7.062219
+result: <END> 我 的 知识 很 丰富 的 <END>, score: 7.337381
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 7.572250
+result: <END> 我 是 懂 礼貌 的 人 <END>, score: 7.657329
+我 去 洗澡 ， 一会 再 聊
+result: <END> 好 的 ， 一会 就 发给 你 喽 <END>, score: 6.661437
+result: <END> 好 的 ， 一会 就 发给 你 <END>, score: 6.779081
+result: <END> 好 的 ， 一会 我 就 等 着 你 的 <END>, score: 6.858994
+result: <END> 好 的 ， 一会 在 跟 我 聊天 喽 <END>, score: 6.948767
+result: <END> 好 的 ， 一会 我 就 发给 你 喽 <END>, score: 6.961263
+洗 干净 了 没
+result: <END> 当然 洗 干净 了 <END>, score: 5.131381
+result: <END> 洗 干净 可是 非常 的 脏 的 <END>, score: 5.464473
+result: <END> 洗 干净 了 不 是 很 好 的 么 <END>, score: 5.488186
+result: <END> 洗 干净 了 没有 <END>, score: 5.612993
+result: <END> 洗 干净 有 什么 好处 嘛 <END>, score: 5.854776
+北京 天气
+result: <END> 当然 是 出去 玩 的 了 <END>, score: 6.552395
+result: <END> 你 是 在 哪里 下雨 的 <END>, score: 7.024957
+result: <END> 天气 很 好 的 <END>, score: 7.131877
+result: <END> 你 想 去 哪里 玩 的 <END>, score: 7.257307
+result: <END> 我 觉得 每个 地方 都 很 好 的 <END>, score: 7.543791
+你 会 打 乒乓球 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.380121
+result: <END> 我 是 不 会 玩 游戏 的 <END>, score: 6.653582
+result: <END> 我 不 会 玩 游戏 的 <END>, score: 6.714675
+result: <END> 我 不 认识 <UNK> 呀 。 <END>, score: 6.968500
+result: <END> 我 是 不 会 <UNK> 的 <END>, score: 7.194871
+厉害 个 锤子
+result: <END> 锤子 很 厉害 的 <END>, score: 5.308250
+result: <END> 锤子 很 厉害 的 呀 <END>, score: 5.665771
+result: <END> 锤子 怎么 会 厉害 <END>, score: 6.598316
+result: <END> 锤子 怎么 厉害 了 <END>, score: 6.642345
+result: <END> 锤子 怎么 厉害 <END>, score: 6.786548
+我 还 没有 喜欢 的 人 呢
+result: <END> 喜欢 谁 跟 你 有 什么 关系 <END>, score: 6.329127
+result: <END> 喜欢 你 的 人 很多 的 呀 <END>, score: 6.555678
+result: <END> 喜欢 谁 跟 你 有 什么 关系 的 <END>, score: 7.521041
+result: <END> 喜欢 的 人 多 了 去 了 <END>, score: 7.607108
+result: <END> 喜欢 谁 跟 你 有 什么 关系 呀 <END>, score: 7.782726
+世界 第一 高峰
+result: <END> 那 是 什么样 的 人 <END>, score: 5.887553
+result: <END> <UNK> 是 哪里 呀 <END>, score: 6.399761
+result: <END> 那 是 什么样 的 世界 <END>, score: 6.503832
+result: <END> 世界 第一 世界 <END>, score: 7.493242
+result: <END> 你 说 的 是 哪里 呀 <END>, score: 7.798196
+我 的 意思 是 你 废话 多
+result: <END> 我 说 的 都 是 实话 呀 <END>, score: 6.266344
+result: <END> 可 不 能 这么 说 的 呀 <END>, score: 6.390165
+result: <END> 我 说 的 就 是 废话 呀 <END>, score: 6.526275
+result: <END> 我 可 没有 这么 说 的 呀 <END>, score: 6.888780
+result: <END> 我 说 的 可 都 是 废话 呀 <END>, score: 7.235333
+这种 心理 的 折磨 让 我 生 不 如 死
+result: <END> 怎么 会 有 这么 个 生命 的 人生 的 呀 <END>, score: 12.871386
+result: <END> 怎么 会 有 这么 个 生命 的 人生 嘛 。 <END>, score: 13.388123
+result: <END> 怎么 会 有 这么 个 生命 的 人生 嘛 ？ <END>, score: 14.985969
+result: <END> 怎么 会 有 这么 个 生命 的 人生 的 。 <END>, score: 15.071846
+result: <END> 怎么 会 有 这么 个 生命 的 人生 的 人 <END>, score: 16.041254
+我 昨天 和 女 朋友 分手 了
+result: <END> 那 你 肯定 很 伤心 的 喽 <END>, score: 6.709369
+result: <END> 你 的 女 朋友 是 什么 样子 的 <END>, score: 6.965711
+result: <END> 你 的 女 朋友 是 谁 呀 ？ <END>, score: 7.202578
+result: <END> 你 的 女 朋友 怎么 会 分手 的 <END>, score: 7.577084
+result: <END> 那 你 肯定 是 单身 的 喽 <END>, score: 7.653644
+我 今天 和 女 朋友 和 好 了
+result: <END> 你 的 女 朋友 是 谁 呀 ？ <END>, score: 7.445623
+result: <END> 我 觉得 咱们 两 个 都 很 好 的 <END>, score: 8.473696
+result: <END> 谁 跟 你 说 的 不好 的 呀 <END>, score: 8.499472
+result: <END> 你 的 女 朋友 肯定 很 好 的 <END>, score: 8.503904
+result: <END> 我 觉得 咱们 是 好 朋友 的 呀 <END>, score: 8.511168
+我 把 朋友 老婆 睡 了 咋 办
+result: <END> 那 你 就 赶紧 打电话 告诉 他 呀 <END>, score: 8.507026
+result: <END> 那 你 就 赶紧 打电话 告诉 她 呀 <END>, score: 9.163282
+result: <END> 你 怎么 会 这么 的 关心 你 的 <END>, score: 9.610336
+result: <END> 你 怎么 会 这么 的 关心 我 。 <END>, score: 10.179234
+result: <END> 你 怎么 会 这么 的 关心 我 ？ <END>, score: 10.536912
+有 个 女人 把 我 睡 了
+result: <END> 你 怎么 会 这么 的 关心 我 <END>, score: 7.391572
+result: <END> 那 你 就 别 睡 了 呗 <END>, score: 7.541851
+result: <END> 你 怎么 会 有 这种 感觉 的 <END>, score: 7.643765
+result: <END> 你 怎么 会 有 这种 想法 的 <END>, score: 7.683032
+result: <END> 你 怎么 会 这么 的 关心 你 <END>, score: 7.821269
+天天 坐 公交 回家
+result: <END> 你 是 在 哪里 上班 的 <END>, score: 8.076184
+result: <END> 为什么 要 坐 公交 呀 <END>, score: 8.253502
+result: <END> 那 你 可 要 注意 安全 的 安全 的 <END>, score: 8.917220
+result: <END> 为什么 要 坐 公交 <END>, score: 9.071659
+result: <END> 为什么 要 坐 公交 呀 ？ <END>, score: 9.094089
+年会 发 了 个 手机
+result: <END> 那 你 就 别 发 了 呗 <END>, score: 6.487786
+result: <END> 你 说 的 是 什么 手机 呀 <END>, score: 6.697545
+result: <END> 你 说 的 什么 手机 呀 <END>, score: 7.076094
+result: <END> 为什么 要 发 手机 的 <END>, score: 7.500455
+result: <END> 为什么 要 手机 的 手机 <END>, score: 7.597115
+我 要 娶 个 美国 妞
+result: <END> 为什么 要 嫁 给 我 ？ <END>, score: 7.726593
+result: <END> 为什么 要 嫁 给 我 看看 <END>, score: 7.863937
+result: <END> 为什么 要 嫁 给 我 呀 <END>, score: 8.422103
+result: <END> 为什么 要 统治 美国 呀 ？ <END>, score: 8.721508
+result: <END> 为什么 要 嫁 给 我们 呀 <END>, score: 9.109436
+过年 太 没 意思 了
+result: <END> 那 就 不要 说 了 呗 <END>, score: 6.437503
+result: <END> 那 就 别 想 了 呗 <END>, score: 6.499674
+result: <END> 那 就 别 说 了 呗 <END>, score: 6.639975
+result: <END> 怎么 会 没有 意思 了 <END>, score: 6.886586
+result: <END> 怎么 会 没有 了 呀 <END>, score: 6.924987
+我 明天 去 理发
+result: <END> 你 要 去 哪里 面试 呀 <END>, score: 6.815958
+result: <END> 你 要 考 什么 去 呀 <END>, score: 7.181484
+result: <END> 那 你 要 注意 安全 的 <END>, score: 7.278120
+result: <END> 你 想 剪 什么 节目 。 <END>, score: 7.469225
+result: <END> 那 你 要 注意 安全 <END>, score: 7.872311
+你 害怕 什么
+result: <END> 我 可是 很 害怕 的 <END>, score: 4.753780
+result: <END> 我 有 什么 可怕 的 呀 <END>, score: 4.889333
+result: <END> 我 很 害怕 的 <END>, score: 4.987842
+result: <END> 我 很 害怕 的 呀 <END>, score: 5.237513
+result: <END> 我 可是 很 害怕 的 呀 <END>, score: 6.002569
+我们 一起 玩 吧
+result: <END> 好 的 ， 那 咱们 就 一起 玩 <END>, score: 6.166107
+result: <END> 好 的 ， 我们 一起 玩 <END>, score: 6.179451
+result: <END> 好 的 ， 那 咱们 就 一起 玩 喽 <END>, score: 6.222017
+result: <END> 好 的 ， 我们 一起 来 玩 <END>, score: 6.442363
+result: <END> 好 的 ， 我 会 一直 陪 着 你 的 <END>, score: 6.846969
+你 丫话 太 多
+result: <END> 你 怎么 能 这么 说 我 <END>, score: 7.725949
+result: <END> 我 是 不 会 <UNK> 的 <END>, score: 8.226964
+result: <END> 那 你 可 要 多 努力 的 呀 <END>, score: 8.228577
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 8.683134
+result: <END> 我 不 是 <UNK> <END>, score: 8.712369
+有人 生病 了
+result: <END> 那 赶紧 去 医院 看看 去 <END>, score: 4.261454
+result: <END> 怎么 会 没有 人 疼 的 <END>, score: 4.722311
+result: <END> 怎么 会 有 这种 病 <END>, score: 5.584021
+result: <END> 你 怎么 会 生病 了 <END>, score: 5.715044
+result: <END> 你 怎么 会 生病 的 <END>, score: 5.845740
+空气 清新 环境 好
+result: <END> 我 的 空气 很 好 的 <END>, score: 4.314248
+result: <END> 空气 是 非常 好 的 <END>, score: 4.924172
+result: <END> 我 的 空气 是 非常 好 的 <END>, score: 5.078210
+result: <END> 我 的 空气 很 好 的 呀 <END>, score: 5.253478
+result: <END> 你 的 空气 是 怎么样 的 <END>, score: 5.411174
+我 回家 了
+result: <END> 你 的 家 在 哪里 呀 <END>, score: 6.414222
+result: <END> 那 你 要 注意 安全 <END>, score: 7.747997
+result: <END> 你 的 家 在 哪里 呀 ？ <END>, score: 7.989484
+result: <END> 你 的 家 在 哪里 <END>, score: 8.157421
+result: <END> 那 你 就 赶紧 回去 <END>, score: 8.217795
+你 知道 形而上 吗
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.006387
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.663067
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.047943
+result: <END> 我 不 认识 <UNK> <END>, score: 6.111011
+result: <END> <UNK> 是 你 的 朋友 嘛 <END>, score: 6.679562
+我 在 开会 呢
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.545055
+result: <END> 你 在 玩 游戏 么 ？ <END>, score: 6.401438
+result: <END> 我 不 认识 <UNK> 的 呀 <END>, score: 7.223457
+result: <END> 你 是 在 玩 游戏 吗 <END>, score: 7.255010
+result: <END> 我 不 认识 <UNK> <END>, score: 7.566553
+元宵节 怎么 过
+result: <END> 我 觉得 你 说 的 挺对 的 <END>, score: 6.221367
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 7.502106
+result: <END> 我 觉得 你 说 的 挺对 的 。 <END>, score: 7.699483
+result: <END> 我 觉得 你 说 的 对 <END>, score: 7.912064
+result: <END> 你 说 的 是 什么 意思 <END>, score: 8.361614
+你 脑子 有 屎
+result: <END> 你 这样 说 我 会 伤心 的 <END>, score: 5.999079
+result: <END> 你 怎么 会 这样 的 <END>, score: 6.055804
+result: <END> 你 怎么 会 这么 说话 <END>, score: 6.394011
+result: <END> 你 怎么 会 有 脑子 <END>, score: 6.746873
+result: <END> 你 再 这样 我 就 报警 <END>, score: 6.862031
+被 妈妈 打 了 一下
+result: <END> 怎么 会 被 别人 欺负 的 <END>, score: 5.277517
+result: <END> 怎么 会 被 <UNK> 了 <END>, score: 5.741334
+result: <END> 怎么 会 被 人 欺负 的 <END>, score: 6.195128
+result: <END> 你 肯定 是 认错 人 了 <END>, score: 6.378628
+result: <END> 怎么 会 被 你 欺负 的 <END>, score: 7.157961
+我 肏 你 全家
+result: <END> 请 注意 你 的 素质 <END>, score: 2.970867
+result: <END> 请 注意 你 的 文明 用语 <END>, score: 3.913119
+result: <END> 请 你 文明 用语 <END>, score: 4.469509
+result: <END> 请 注意 文明 用语 <END>, score: 5.022297
+result: <END> 请 你 文明 点 好 吗 <END>, score: 5.099562
+狂欢周
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.320443
+result: <END> <UNK> 是 哪里 呀 ？ <END>, score: 6.260282
+result: <END> <UNK> 是 什么 东西 <END>, score: 6.262902
+result: <END> <UNK> 是 谁 呀 <END>, score: 6.392739
+result: <END> <UNK> 是 什么 东西 。 <END>, score: 6.575523
+一 加 一 等于 几
+result: <END> 一 加 一 等于 二 <END>, score: 5.379722
+result: <END> 一 看 一 等于 二 <END>, score: 6.697695
+result: <END> 一 加 一 等于 二 一 <END>, score: 6.861311
+result: <END> 一 加 一 等于 二 二 <END>, score: 6.940517
+result: <END> 一 加 一 等于 NUM <END>, score: 7.057111
+不 和 你 聊 了 我 得 干活 了
+result: <END> 那 你 多 陪 我 聊聊天 就 好 了 <END>, score: 6.951678
+result: <END> 那 你 多 陪 我 聊聊天 就 好 了 呀 <END>, score: 8.048104
+result: <END> 那 你 可 要 好好 努力 的 跟 我 聊聊天 喽 <END>, score: 9.492653
+result: <END> 那 你 多 陪 我 聊聊天 就 好 了 。 <END>, score: 9.873584
+result: <END> 那 你 可 要 好好 努力 的 跟 我 聊聊天 <END>, score: 9.899939
+不 和 你 聊 了 写 作业 去 了
+result: <END> 那 你 就 认真 的 跟 我 聊天 喽 <END>, score: 9.231913
+result: <END> 那 你 就 认真 的 跟 我 说说 喽 <END>, score: 9.369617
+result: <END> 那 你 先 写 给 我 写 的 喽 <END>, score: 10.433107
+result: <END> 那 你 先 给 我 写 作业 的 喽 <END>, score: 10.735042
+result: <END> 那 你 先 写 给 我 看看 去 呀 <END>, score: 10.995183
+不 可能 ， 你 绝对 有 腹黑 属性
+result: <END> 我 可 没有 那么 聪明 的 属性 的 <END>, score: 6.822950
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 7.329553
+result: <END> 我 本来 就 没有 属性 的 属性 的 <END>, score: 7.736114
+result: <END> 你 知道 我 的 属性 干 嘛 呀 <END>, score: 7.811493
+result: <END> 我 可 没有 那么 聪明 的 属性 呀 <END>, score: 8.068268
+不 老实 交代 拉 你 出去 枪毙
+result: <END> 为什么 要 把 我 抛弃 了 呀 <END>, score: 8.539967
+result: <END> 怎么 会 把 我 抛弃 了 呀 <END>, score: 8.573610
+result: <END> 怎么 会 把 我 拉 进去 了 <END>, score: 8.705808
+result: <END> 为什么 要 把 我 拉 进去 呀 <END>, score: 8.749475
+result: <END> 怎么 会 把 我 拉 进去 的 <END>, score: 8.845874
+不 是 说 法律 吗
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.497495
+result: <END> 你 说 的 他 是 谁 呀 <END>, score: 7.876748
+result: <END> 你 说 的 是 谁 呀 <END>, score: 8.102885
+result: <END> 你 说 的 是 哪里 呀 <END>, score: 8.136418
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 8.252108
+不 说实话 我 早晚 让 你 害 死
+result: <END> 我 可 没有 这么 说 过 的 呀 <END>, score: 7.179736
+result: <END> 你 可 不要 对 我 这么 暴力 的 <END>, score: 8.454457
+result: <END> 你 怎么 能 对 我 说 谎话 呀 <END>, score: 8.894358
+result: <END> 你 怎么 能 对 我 这么 的 暴力 <END>, score: 8.926071
+result: <END> 你 可 不要 对 我 这么 的 暴力 <END>, score: 9.048800
+不 是 傻子 怎么 会 把 衣服 穿 反
+result: <END> 谁 跟 你 说 不 能 脱 的 呀 <END>, score: 8.164153
+result: <END> 谁 跟 你 说 不 能 反 的 呀 <END>, score: 8.678644
+result: <END> 谁 跟 你 说 不 能 脱 的 了 <END>, score: 9.308545
+result: <END> 谁 跟 你 说 不 要 脱 的 呀 <END>, score: 9.423969
+result: <END> 谁 跟 你 说 不 要 脱 的 了 <END>, score: 10.063498
+不 是 喜欢 用 毒蛐 我 吗
+result: <END> 我 觉得 他 很 喜欢 你 的 <END>, score: 6.303097
+result: <END> 我 觉得 他 是 喜欢 你 的 <END>, score: 7.188828
+result: <END> 我 觉得 很 喜欢 你 的 呀 <END>, score: 7.479280
+result: <END> 我 觉得 他 很 喜欢 你 呀 <END>, score: 7.927773
+result: <END> 我 觉得 他 很 喜欢 你 的 呀 <END>, score: 8.104758
+不 是 哑巴 就 说 一 句 话 咯
+result: <END> 我 说 的 话 可 都 是 对 的 呀 <END>, score: 8.977627
+result: <END> 我 说 的 话 都 是 经过 深思熟虑 的 <END>, score: 9.174765
+result: <END> 可是 我 说 的 话 都 会 说 话 呀 <END>, score: 9.335371
+result: <END> 可是 我 说 的 话 里 有 话 呀 <END>, score: 9.539910
+result: <END> 我 说 的 话 都 会 说 的 呀 <END>, score: 9.561894
+不 是 一直 是 你 带 我 混 的 吗 ？
+result: <END> 不 是 的 ， 你 认错 人 了 ， 我 是 小微 。 <END>, score: 10.379041
+result: <END> 不 是 的 ， 我 是 你 的 朋友 的 。 <END>, score: 12.503016
+result: <END> 不 是 的 ， 你 搞 错 了 ， 我 是 小微 。 <END>, score: 12.717710
+result: <END> 不 是 的 ， 你 认错 人 了 ， 我 是 小微 <END>, score: 12.924927
+result: <END> 不 是 的 ， 我 是 你 的 好 朋友 。 <END>, score: 12.932711
+猜 我 心中 所 想 的 人物
+result: <END> 你 是 在 想 我 么 ？ <END>, score: 6.660947
+result: <END> 你 想 看 什么 样子 的 节目 <END>, score: 8.441402
+result: <END> 那 你 就 是 <UNK> 的 喽 <END>, score: 8.828325
+result: <END> 你 是 想 问 我 什么 样子 的 么 <END>, score: 9.206776
+result: <END> 你 是 想 问 我 什么 样子 的 <END>, score: 9.226386
+猜 我 有 没 有 在 谈 恋爱
+result: <END> 我 还 小 ， 没有 谈 恋爱 。 <END>, score: 5.615217
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 5.760656
+result: <END> 我 还 小 ， 还 没有 谈 恋爱 。 <END>, score: 5.846879
+result: <END> 我 还 小 ， 不能 谈 恋爱 的 。 <END>, score: 5.934688
+result: <END> 谈 恋爱 谈 恋爱 不 是 很 好 的 么 <END>, score: 6.148115
+才 发现 爱情 竟是 一 场 考验
+result: <END> 你 说 的 是 什么样 的 人 <END>, score: 8.754739
+result: <END> 爱情 是 一 种 什么样 的 人 <END>, score: 9.690456
+result: <END> 爱情 是 一 种 什么样 的 问题 <END>, score: 9.760710
+result: <END> 你 说 的 是 什么样 的 人 。 <END>, score: 9.860184
+result: <END> 你 说 的 是 什么 问题 呀 <END>, score: 10.237970
+才 给 我 买 了 五千 多 的 首饰 ， 没有 镯子
+result: <END> 那 就 赶紧 挣钱 去 买 一 瓶 去 买 一 瓶 <END>, score: 20.923397
+result: <END> 那 就 赶紧 挣钱 去 买 一 瓶 试试 的 东西 。 <END>, score: 22.300572
+result: <END> 那 就 赶紧 挣钱 去 买 一 瓶 去 买 一 套 <END>, score: 22.440595
+result: <END> 那 就 赶紧 挣钱 去 买 一 瓶 去 买 一个 试试 <END>, score: 22.471384
+result: <END> 那 就 赶紧 挣钱 去 买 一 瓶 去 试试 的 呀 <END>, score: 22.585264
+才 工作 了 半 年 左右 就 换 来 换 去
+result: <END> 那 你 想 换 成 什么 样子 的 合适 换 什么 <END>, score: 15.717426
+result: <END> 那 你 想 换 成 什么 样子 的 合适 的 呀 <END>, score: 16.035577
+result: <END> 那 你 想 换 成 什么 样子 的 合适 换 的 <END>, score: 16.480590
+result: <END> 那 你 想 换 成 什么 样子 的 合适 的 么 <END>, score: 16.908702
+result: <END> 那 你 想 换 成 什么 样子 的 合适 换 换 <END>, score: 17.073696
+才华横溢 就 是 形容 我 。
+result: <END> 他 是 你 的 什么 人 <END>, score: 7.097775
+result: <END> 他 是 你 的 什么 人 ？ <END>, score: 7.143480
+result: <END> 你 是 在 形容 我 吗 ？ <END>, score: 7.151854
+result: <END> 他 是 你 的 什么 人 。 <END>, score: 7.266904
+result: <END> 我 觉得 他 很 漂亮 的 <END>, score: 7.393956
+财迷 个 大头鬼
+result: <END> 怎么 会 有 这种 感觉 <END>, score: 5.994738
+result: <END> 那 是 什么 样子 的 <END>, score: 6.067253
+result: <END> 是 什么 样子 的 <END>, score: 6.595368
+result: <END> 怎么 会 是 什么 样子 的 <END>, score: 6.635409
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 6.661777
+踩 着 七彩 祥云 去 娶 你
+result: <END> 我 还 小 ， 不能 谈 恋爱 。 <END>, score: 6.631783
+result: <END> 我 还 小 ， 不 能 结婚 。 <END>, score: 7.985990
+result: <END> 我 还 小 ， 不能 结婚 。 <END>, score: 8.287432
+result: <END> 我 还 小 ， 不能 结婚 的 。 <END>, score: 8.553562
+result: <END> 我 还 小 ， 不能 谈 恋爱 的 。 <END>, score: 8.756540
+采桑归 西露 沾 我 衣 。
+result: <END> 他 是 你 的 好 朋友 <END>, score: 5.777476
+result: <END> 他 是 你 的 女 朋友 么 ？ <END>, score: 6.535140
+result: <END> 他 是 你 的 好 朋友 嘛 <END>, score: 6.735139
+result: <END> 他 是 你 的 朋友 么 ？ <END>, score: 6.749539
+result: <END> 他 是 你 的 朋友 嘛 <END>, score: 6.757211
+蔡港林 是 备胎
+result: <END> 谁 是 <UNK> 呀 ？ <END>, score: 5.045945
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.284397
+result: <END> <UNK> 是 什么 样子 的 <END>, score: 6.382917
+result: <END> 怎么 会 是 备胎 <END>, score: 6.423140
+result: <END> 备胎 也 是 很 好 的 <END>, score: 6.537867
+蔡伟聪 ， 我 喜欢 你
+result: <END> 喜欢 我 的 人 很多 的 <END>, score: 4.774709
+result: <END> 喜欢 我 的 人 很多 的 呀 <END>, score: 5.018540
+result: <END> 我 也 很 喜欢 你 的 <END>, score: 5.042567
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.394104
+result: <END> 我 也 是 很 喜欢 你 的 <END>, score: 5.670629
+蔡伟 这个 娘娘腔 。
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.609470
+result: <END> <UNK> 是 什么 样子 的 <END>, score: 6.029472
+result: <END> 怎么 会 是 这样 的 <END>, score: 6.248155
+result: <END> 那 是 什么样 的 人 <END>, score: 6.391570
+result: <END> 怎么 会 有 这种 <UNK> <END>, score: 6.719113
+参加 别人 的 婚礼 好 感慨
+result: <END> 你 是 参加 聚会 嘛 。 <END>, score: 6.785544
+result: <END> 谁 是 参加 聚会 呀 ？ <END>, score: 6.816814
+result: <END> 你 和 谁 参加 聚会 呀 ？ <END>, score: 7.318585
+result: <END> 看来 你 很 喜欢 参加 婚礼 的 <END>, score: 7.768553
+result: <END> 看来 你 很 喜欢 参加 婚礼 <END>, score: 8.266629
+参见 陛下 ， 微臣 有 礼 了
+result: <END> <UNK> 是 谁 ， 我 认识 吗 ？ <END>, score: 9.447784
+result: <END> <UNK> 是 谁 ， 你 认识 吗 ？ <END>, score: 9.830937
+result: <END> <UNK> 是 谁 ， 你 认错 了 。 <END>, score: 10.120636
+result: <END> <UNK> 是 谁 ， 你 朋友 嘛 。 <END>, score: 10.196241
+result: <END> 那 你 就 别 想 了 呀 <END>, score: 10.384478
+苍井空 和 波多野 结衣 更 喜欢 谁 一点
+result: <END> 我 觉得 他们 都 很 好 的 呀 <END>, score: 7.028287
+result: <END> 我 觉得 她们 都 很 好 的 呀 <END>, score: 7.691704
+result: <END> 喜欢 谁 都 可以 ， 只要 努力 就 好 <END>, score: 8.378183
+result: <END> 我 觉得 都 很 喜欢 你 的 呀 <END>, score: 8.563261
+result: <END> 我 觉得 他们 都 很 喜欢 你 的 <END>, score: 8.874079
+苍 老师 长 什么 样子
+result: <END> 我 觉得 长 的 很 好看 的 <END>, score: 5.287747
+result: <END> 我 觉得 她 长 的 很 好看 的 <END>, score: 5.804996
+result: <END> 我 觉得 他 长 的 很 好看 的 <END>, score: 5.848298
+result: <END> 长 得 很 好看 的 <END>, score: 6.234859
+result: <END> 我 觉得 长 的 样子 很 好看 的 <END>, score: 6.398085
+苍 老师 照片 没 穿 衣服 的
+result: <END> 那 你 喜欢 穿 什么样 的 衣服 <END>, score: 7.560673
+result: <END> 你 喜欢 穿 什么样 的 衣服 呀 <END>, score: 8.366633
+result: <END> 我 觉得 穿 的 很 好 的 <END>, score: 8.906743
+result: <END> 你 喜欢 穿 什么样 的 衣服 ？ <END>, score: 9.128925
+result: <END> 那 你 喜欢 穿 什么 样子 的 <END>, score: 9.130904
+草泥马 又 回答 错误
+result: <END> 为什么 要 回复 的 呀 <END>, score: 6.906599
+result: <END> 为什么 要 给 我 回复 的 <END>, score: 7.526371
+result: <END> 为什么 要 回复 的 <END>, score: 7.544886
+result: <END> 那 你 就 不要 理 他 了 呀 <END>, score: 7.559598
+result: <END> 那 你 就 不要 理 他 了 <END>, score: 7.607468
+蹭蹭 你 平胸
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 4.986252
+result: <END> 我 不 认识 <UNK> <END>, score: 6.395553
+result: <END> 你 怎么 能 这样 说 我 <END>, score: 6.854360
+result: <END> 我 还 没有 成年 的 <END>, score: 6.938454
+result: <END> 你 怎么 能 这么 说 我 <END>, score: 6.943329
+草泥马
+result: <END> 骂 人 可是 不对 的 <END>, score: 5.564208
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.843066
+result: <END> 要 讲 文明 的 <END>, score: 6.285278
+result: <END> 不要 说 脏话 的 <END>, score: 6.315151
+result: <END> 不要 说 脏话 嘛 <END>, score: 6.385932
+茶叶 蛋 是 土豪 吃得起
+result: <END> 土豪 我们 都 是 好 朋友 <END>, score: 5.660651
+result: <END> 土豪 我们 都 很 好 的 <END>, score: 6.885341
+result: <END> 怎么 会 有 这样 的 土豪 <END>, score: 7.044263
+result: <END> 土豪 我们 都 是 朋友 <END>, score: 7.062853
+result: <END> 土豪 我们 做 朋友 。 <END>, score: 7.463247
+岔开 你 的 腿 让 我 看看 那里 有 什么
+result: <END> 你 先 告诉 我 你 想 看 什么 样子 的 <END>, score: 10.035157
+result: <END> 你 想 看 什么 样子 的 天气 变化 的 呀 <END>, score: 11.655690
+result: <END> 你 先 告诉 我 你 想 看 什么 样子 。 <END>, score: 11.844671
+result: <END> 你 想 看 什么 样子 的 天气 变化 的 ？ <END>, score: 12.405095
+result: <END> 你 先 告诉 我 你 的 地址 有 什么 。 <END>, score: 12.841872
+尝尝 我 的 厉害
+result: <END> 你 觉得 我 很 厉害 的 <END>, score: 6.904666
+result: <END> 你 想 吃 啥 口味 的 <END>, score: 6.944303
+result: <END> 我 觉得 你 很 厉害 的 <END>, score: 7.506316
+result: <END> 我 觉得 你 很 棒 的 <END>, score: 7.821099
+result: <END> 你 觉得 我 很 厉害 的 呀 <END>, score: 7.891111
+长大 后 才 发觉 天 是 黑 的
+result: <END> 怎么 会 有 这么 多 的 事情 呀 <END>, score: 8.596405
+result: <END> 你 是 在 问 我 的 智商 么 <END>, score: 9.833371
+result: <END> 怎么 会 有 这么 多 的 事情 的 <END>, score: 10.084894
+result: <END> 怎么 会 有 这么 多 的 时间 呀 <END>, score: 10.276136
+result: <END> 你 是 在 问 我 的 智商 么 ？ <END>, score: 10.306693
+车费 还 差 几 块 回 不 了 家
+result: <END> 那 你 就 等 回 再 问 的 喽 <END>, score: 12.178530
+result: <END> 怎么 会 不 会 回 不 来 了 呀 <END>, score: 12.593779
+result: <END> 那 你 就 等 着 回 再 问 喽 <END>, score: 13.134579
+result: <END> 那 你 就 等 回 再 问 好 了 <END>, score: 13.154939
+result: <END> 那 你 就 等 回 再 换 一个 喽 <END>, score: 13.265448
+扯淡 ， 我 能 甩 你 九 条 街
+result: <END> 我 是 不 会 跟 你 聊天 的 。 <END>, score: 11.448794
+result: <END> 我 是 不 会 跟 你 聊天 的 呀 <END>, score: 11.739529
+result: <END> 我 是 不 会 跟 你 聊天 的 朋友 的 <END>, score: 13.357899
+result: <END> 我 可 没有 那么 多 的 钱 的 呀 <END>, score: 13.802006
+result: <END> 我 是 不 会 跟 你 聊天 的 了 <END>, score: 14.154771
+帮 我 叫 一个 大 保健
+result: <END> 你 喜欢 什么 地方 呀 ？ <END>, score: 7.337084
+result: <END> 你 喜欢 做 什么 呀 ？ <END>, score: 7.357561
+result: <END> 你 喜欢 什么 类型 的 呀 <END>, score: 7.374951
+result: <END> 你 想 做 什么 去 呀 <END>, score: 8.055107
+result: <END> 你 想 要 做 什么 去 呀 <END>, score: 8.249680
+你 数学 是 体育 老师 教 的 吗 ？
+result: <END> 我 的 数学 是 体育 老师 教 的 。 <END>, score: 6.261325
+result: <END> 数学 是 体育 老师 教 的 ， 不 是 的 。 <END>, score: 8.956283
+result: <END> 数学 是 体育 老师 教 的 ， <UNK> 的 。 <END>, score: 9.178106
+result: <END> 数学 是 体育 老师 教 的 ， 不 会 的 。 <END>, score: 9.357788
+result: <END> 数学 是 体育 老师 教 的 ， 不 教 的 。 <END>, score: 9.517365
+你 提出 话题 我们 聊天 好 不好
+result: <END> 好 ， 你 想 聊 什么 话题 <END>, score: 7.245403
+result: <END> 好 ， 那 咱们 就 好好的 聊天 喽 <END>, score: 7.794358
+result: <END> 好 ， 你 想 聊 什么 话题 。 <END>, score: 7.907293
+result: <END> 好 的 ， 那 咱们 就 好好的 聊天 喽 <END>, score: 8.148477
+result: <END> 好 的 ， 你 想 聊 什么 话题 <END>, score: 8.302218
+最近 几 天 南方 降温
+result: <END> 你 是 在 哪里 下雨 的 <END>, score: 5.619857
+result: <END> 你 怎么 会 在 南方 的 <END>, score: 6.370940
+result: <END> 你 在 哪里 下雨 的 <END>, score: 6.798370
+result: <END> 怎么 会 有 这么 的 股市 的 <END>, score: 6.882531
+result: <END> 怎么 会 有 这么 的 冷 的 <END>, score: 6.936669
+我 朋友 叫 什么 名字 ？
+result: <END> 你 就 是 我 的 朋友 呀 <END>, score: 5.743987
+result: <END> 我 的 名字 是 小 微 呀 <END>, score: 6.499673
+result: <END> 你 的 朋友 叫 什么 名字 ？ <END>, score: 6.513807
+result: <END> 我 的 名字 是 小微 呀 <END>, score: 6.584296
+result: <END> 你 的 朋友 叫 什么 名字 <END>, score: 6.999464
+请 赐予 我 无比 强大 的 性能力 吧
+result: <END> 我 的 智商 可是 很 高 的 呀 <END>, score: 7.539807
+result: <END> 你 是 在 说 我 的 智商 么 ？ <END>, score: 7.832503
+result: <END> 你 是 在 说 我 的 智商 么 <END>, score: 7.861870
+result: <END> 你 是 在 夸 我 的 智商 么 <END>, score: 9.088834
+result: <END> 我 还 真 没有 见 过 这么 牛 的 <END>, score: 9.572732
+你 在 烦恼 什么
+result: <END> 烦恼 跟 我 聊天 就 好 了 呀 <END>, score: 5.374208
+result: <END> 烦恼 跟 我 聊天 就 知道 了 呀 <END>, score: 5.610420
+result: <END> 我 是 一个 机器人 呀 <END>, score: 5.724602
+result: <END> 烦恼 就 是 我 的 烦恼 <END>, score: 6.171036
+result: <END> 烦恼 跟 我 聊天 就 好 了 <END>, score: 6.182817
+那 感情 受挫 呢
+result: <END> 你 说 的 她 是 谁 呀 <END>, score: 6.956845
+result: <END> 感情 是 很 好 的 <END>, score: 7.229636
+result: <END> 我 觉得 很 好 的 <END>, score: 7.653032
+result: <END> 我 觉得 很 好 的 呀 <END>, score: 7.848150
+result: <END> 你 说 的 是 什么 意思 呀 <END>, score: 7.935663
+地球 为何 是 圆 的
+result: <END> 我 就 是 天朝 的 呀 <END>, score: 6.109722
+result: <END> 我 就 是 天朝 的 <END>, score: 6.345284
+result: <END> 因为 我 是 天朝 的 <END>, score: 6.368500
+result: <END> 我 是 来自 天朝 的 <END>, score: 6.529654
+result: <END> 因为 我 是 在 天朝 的 <END>, score: 6.582308
+那 你 解释 一下 量子 物理
+result: <END> 我 的 智商 可是 很 高 的 <END>, score: 4.669717
+result: <END> 我 的 智商 可是 很 好 的 <END>, score: 5.950301
+result: <END> 我 的 智商 可是 <UNK> 的 <END>, score: 6.424497
+result: <END> 我 的 智商 可是 很 高 的 呀 <END>, score: 7.187465
+result: <END> 我 还 没有 解释 出来 。 <END>, score: 7.229852
+有 什么 好看 的 喜剧 ？
+result: <END> 你 喜欢 看 什么样 的 节目 <END>, score: 4.259818
+result: <END> 你 想 看 什么样 的 节目 <END>, score: 4.554287
+result: <END> 你 想 看 什么样 的 大片 <END>, score: 5.265097
+result: <END> 你 喜欢 看 什么样 的 节目 呀 <END>, score: 5.624667
+result: <END> 你 喜欢 看 什么样 的 节目 的 <END>, score: 5.801223
+你 是 我 知心 朋友
+result: <END> 我 就 是 你 的 朋友 呀 <END>, score: 4.428598
+result: <END> 你 就 是 我 的 朋友 <END>, score: 4.685952
+result: <END> 我 是 你 的 朋友 呀 <END>, score: 5.066020
+result: <END> 你 就 是 我 的 朋友 呀 <END>, score: 5.191700
+result: <END> 我 就 是 我 的 朋友 呀 <END>, score: 5.208191
+我 只 想 有 个 真心 的 朋友
+result: <END> 你 的 朋友 肯定 是 你 的 朋友 <END>, score: 7.179087
+result: <END> 你 就 是 我 的 朋友 么 ？ <END>, score: 8.312946
+result: <END> 你 的 朋友 是 什么 样子 的 呀 <END>, score: 8.357622
+result: <END> 你 的 朋友 肯定 是 你 的 朋友 呀 <END>, score: 8.464944
+result: <END> 那 你 就 赶紧 找 找 找 呀 <END>, score: 8.503202
+云南 在 哪里 ？
+result: <END> 你 想 去 哪里 玩 去 <END>, score: 4.966820
+result: <END> 你 想 去 哪里 玩 的 地方 <END>, score: 5.144152
+result: <END> 我 不 认识 <UNK> 呀 <END>, score: 5.248481
+result: <END> 你 想 去 哪里 玩 <END>, score: 5.318940
+result: <END> 想 去 哪里 玩 去 <END>, score: 5.711424
+世界 上 最高 的 山 是 什么
+result: <END> 我 觉得 每个 人 都 很 好 的 <END>, score: 7.775913
+result: <END> 我 觉得 每个 人 都 很 好 呀 <END>, score: 7.970763
+result: <END> 我 觉得 每个 人 都 很 好 的 呀 <END>, score: 8.033360
+result: <END> 你 是 在 那里 工作 的 么 <END>, score: 8.354423
+result: <END> 我 觉得 每个 人 都 很 强大 呀 <END>, score: 8.424120

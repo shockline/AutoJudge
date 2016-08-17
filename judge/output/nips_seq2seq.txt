@@ -1,0 +1,1800 @@
+你好
+<END>好<END>	normal
+<END>我很好<END>	normal
+<END>不错<END>	bad
+<END>你不好<END>	bad
+<END>好人好<END>	bad
+晚上好
+<END>同好<END>	normal
+<END>晚上好<END>	good
+<END>晚安<END>	bad
+<END>抱拳<END>	normal
+<END>吉祥<END>	bad
+拜拜
+<END><END>	unknown
+<END>拜拜<END>	good
+<END>抱拳<END>	normal
+<END>晚安<END>	good
+<END>月亮<END>	bad
+你好吗？
+<END>不好<END>	normal
+<END>我很好<END>	normal
+<END>不好意思<END>	bad
+<END>不好不好<END>	normal
+<END>我好想你<END>	bad
+你好漂亮
+<END>漂亮<END>	bad
+<END>我很漂亮<END>	normal
+<END>好看<END>	bad
+<END>我喜欢你<END>	bad
+<END>你不漂亮<END>	bad
+永远一直爱你
+<END>永远<END>	bad
+<END>永远爱你<END>	normal
+<END>永远永远<END>	normal
+<END>爱你<END>	normal
+<END>我不爱你<END>	normal
+我不喜欢你
+<END>我喜欢你<END>	normal
+<END>喜欢我<END>	bad
+<END>你不喜欢我<END>	normal
+<END>你喜欢谁<END>	normal
+<END>喜欢就喜欢<END>	bad
+你是不是快死了
+<END>快死了<END>	normal
+<END>我快死<END>	bad
+<END>我还没死<END>	normal
+<END>我没有死<END>	normal
+<END>我还活着<END>	normal
+你觉得我漂亮吗
+<END>很漂亮<END>	normal
+<END>漂亮可爱<END>	normal
+<END>我觉得漂亮<END>	good
+<END>漂亮不漂亮<END>	bad
+<END>很漂亮很漂亮<END>	normal
+美女美女你在哪
+<END>在你心里<END>	normal
+<END>在你身边<END>	normal
+<END>在你自己心里<END>	normal
+<END>在你眼中<END>	normal
+<END>在你眼睛里<END>	normal
+我饿了
+<END>吃饭<END>	normal
+<END>饿了<END>	bad
+<END>我饿<END>	bad
+<END>吃饱了<END>	bad
+<END>去吃<END>	normal
+今天有点事
+<END>没事<END>	bad
+<END>什么事<END>	normal
+<END>今天没事<END>	bad
+<END>今天都没有<END>	bad
+<END>今天有点事<END>	bad
+我下午要开会
+<END>开会<END>	bad
+<END>下午开心<END>	bad
+<END>开什么玩笑<END>	bad
+<END>下午就开<END>	normal
+<END>我下午开学<END>	bad
+北京有什么好吃的
+<END>北京烤鸭<END>	good
+<END>北京烤鸭好吃<END>	normal
+<END>麻辣烫<END>	normal
+<END>烤鸭好吃<END>	normal
+<END>牛肉面<END>	normal
+春天有什么好玩的
+<END>春暖花开<END>	bad
+<END>去滑雪<END>	normal
+<END>春天去<END>	bad
+<END>在家里玩<END>	normal
+<END>去海边玩<END>	normal
+去哪里玩比较好玩呢
+<END>海南三亚<END>	normal
+<END>云南丽江<END>	normal
+<END>云南大理<END>	normal
+<END>云南大理丽江<END>	normal
+<END>大连青岛<END>	normal
+今天天气好晴朗
+<END>晴空万里晴空万里<END>	normal
+<END>好心情<END>	normal
+<END>晴空万里<END>	normal
+<END>晴朗天气<END>	normal
+<END>晴朗天气晴空万里<END>	normal
+我喜欢今天天气
+<END>我喜欢晴天<END>	normal
+<END>我喜欢天气<END>	bad
+<END>天气太热<END>	bad
+<END>我喜欢<END>	bad
+<END>天气不好<END>	bad
+我没有男朋友
+<END>你男女<END>	bad
+<END>你男还是女<END>	bad
+<END>我没有男朋友<END>	bad
+<END>你男朋友<END>	bad
+<END>没有女朋友<END>	bad
+男朋友找什么样的好
+<END>适合自己<END>	normal
+<END>适合自己就好<END>	normal
+<END>适合自己才是最好<END>	normal
+<END>自己喜欢<END>	normal
+<END>自己喜欢就好<END>	normal
+你是哲学家吗
+<END>哲学家<END>	bad
+<END>不是<END>	normal
+<END>哈哈<END>	bad
+<END>不是是哲学家<END>	bad
+<END>你是谁<END>	bad
+不开心也是一天
+<END>不开心<END>	bad
+<END>开心就好<END>	normal
+<END>开心每一天<END>	normal
+<END>心情不好<END>	normal
+<END>开心快乐<END>	bad
+我现在没工作
+<END>什么工作<END>	bad
+<END>你在哪里工作<END>	bad
+<END>我在工作<END>	bad
+<END>我现在在工作<END>	bad
+<END>我现在在上班<END>	bad
+你有办法让我开心吗
+<END>开心就好<END>	bad
+<END>我不开心<END>	bad
+<END>有我就不开心<END>	bad
+<END>不开心就不开心<END>	bad
+<END>不开心时候就开心<END>	bad
+你喜欢聊什么
+<END>聊天<END>	bad
+<END>聊什么<END>	bad
+<END>我喜欢聊天<END>	normal
+<END>无聊<END>	bad
+<END>什么都聊<END>	normal
+万圣节怎么过
+<END>想怎么过就怎么过<END>	normal
+<END>睡觉<END>	normal
+<END>和平常一样<END>	normal
+<END>一个人过<END>	normal
+<END>在家睡觉<END>	normal
+我先去睡觉了
+<END>晚安<END>	good
+<END>月亮<END>	bad
+<END>好梦<END>	normal
+<END>早点睡<END>	normal
+<END>早点休息<END>	normal
+老板不给发工资怎么办
+<END>去劳动局告他<END>	normal
+<END>去劳动局投诉<END>	normal
+<END>去当地劳动局<END>	normal
+<END>去劳动局咨询<END>	normal
+<END>去劳动监查部门投诉<END>	normal
+你以后别跟着我了
+<END>不是我<END>	bad
+<END>我都没有<END>	bad
+<END>我跟你一样<END>	bad
+<END>我还没睡<END>	bad
+<END>我跟你说话<END>	bad
+你敢买切糕吗
+<END>不敢<END>	normal
+<END>可以<END>	bad
+<END>切糕<END>	bad
+<END>敢吃<END>	bad
+<END>我不敢吃<END>	bad
+我今天没有捡到钱，好伤心
+<END>为什么要捡钱<END>	normal
+<END>我都没有钱<END>	bad
+<END>为什么不捡<END>	bad
+<END>我都没钱买<END>	bad
+<END>为什么捡到钱<END>	bad
+天上有多少颗星星
+<END>无数颗<END>	normal
+<END>无数颗星星<END>	good
+<END>数不清<END>	normal
+<END>满天星星<END>	normal
+<END>天知道<END>	normal
+今天天气不好
+<END>不好<END>	bad
+<END>天气好<END>	bad
+<END>今天下雨<END>	bad
+<END>天气太热<END>	bad
+<END>我今天下午<END>	bad
+太阳好大啊
+<END>太阳大<END>	normal
+<END>很大<END>	normal
+<END>是太阳<END>	bad
+<END>没有太阳<END>	bad
+<END>太阳太阳<END>	bad
+北风嗖嗖的吹
+<END>北风吹<END>	bad
+<END>北风吹起来<END>	normal
+<END>不是吹牛<END>	bad
+<END>不是北风<END>	normal
+<END>北风吹过去<END>	bad
+有人跟我撕逼，不讲理
+<END>没有理由<END>	bad
+<END>不理你了<END>	bad
+<END>不理他们<END>	normal
+<END>我不理你<END>	bad
+<END>不要理他<END>	normal
+不要这么谦虚嘛
+<END>不谦虚<END>	normal
+<END>谦虚使人进步<END>	good
+<END>谦虚谦虚<END>	normal
+<END>谦虚了<END>	normal
+<END>谦虚谦虚谦虚<END>	bad
+明天去打球
+<END>明天就去<END>	bad
+<END>明天打球<END>	bad
+<END>明天去哪里<END>	normal
+<END>明天就打球去<END>	normal
+<END>明天就去打球<END>	bad
+我老板就在我身边
+<END>老板是谁<END>	normal
+<END>老板娘<END>	bad
+<END>老板在哪里<END>	bad
+<END>老板是老板<END>	bad
+<END>你不是老板<END>	normal
+你什么地方冒出来的
+<END>哪里冒出来<END>	bad
+<END>你在哪里<END>	bad
+<END>我在家里<END>	bad
+<END>哪里冒出来冒出来<END>	bad
+<END>我这里冒出来<END>	bad
+你会做爱吗
+<END>不会<END>	normal
+<END>当然会<END>	normal
+<END>我不爱你<END>	bad
+<END>不会因为我不爱你<END>	normal
+<END>会只要是真心<END>	normal
+你能陪我睡觉吗
+<END>我陪你<END>	normal
+<END>我陪你睡觉<END>	normal
+<END>我睡不<END>	bad
+<END>陪你聊天<END>	normal
+<END>我还没睡<END>	bad
+你有私生子吗
+<END>没有<END>	normal
+<END>有的<END>	bad
+<END>没有私聊<END>	bad
+<END>没有私房钱<END>	bad
+<END>我没有私信<END>	bad
+我早上工作感觉死死的是怎么回事
+<END>工作压力太大压力太大<END>	normal
+<END>工作压力太大放松心情<END>	normal
+<END>工作压力太大心里压力太大<END>	normal
+<END>工作压力太大了放松下自己<END>	normal
+<END>因为你还没有找到自己目标<END>	normal
+有没有搞笑的欢乐的段子
+<END>你喜欢什么类型<END>	normal
+<END>你喜欢什么<END>	normal
+<END>你喜欢什么样子<END>	normal
+<END>你喜欢什么就搞什么<END>	bad
+<END>有很多人都喜欢<END>	bad
+发个给力图片看哈喽
+<END>什么图片<END>	normal
+<END>什么意思<END>	bad
+<END>我给你发<END>	normal
+<END>我给你发个图片<END>	normal
+<END>图片看不到<END>	bad
+天天锻炼身体好
+<END>锻炼身体<END>	bad
+<END>对身体好<END>	normal
+<END>不好了<END>	bad
+<END>早睡早起身体好<END>	bad
+<END>不好对身体不好<END>	bad
+李白的诗你会吗
+<END>我不会<END>	normal
+<END>肯定会<END>	normal
+<END>不会了<END>	bad
+<END>李白李白<END>	bad
+<END>李白是诗仙<END>	bad
+我问的不是这个意思
+<END>什么意思<END>	normal
+<END>不是意思<END>	bad
+<END>什么问题<END>	normal
+<END>意思就是<END>	bad
+<END>不是不是意思<END>	bad
+完全不知道你在说啥
+<END>发呆发呆<END>	bad
+<END>发呆发呆发呆<END>	bad
+<END>你在说啥<END>	normal
+<END>你在说什么<END>	normal
+<END>发呆发呆发呆发呆<END>	bad
+牛头不对马嘴
+<END>对头<END>	bad
+<END>不对<END>	bad
+<END>吹牛<END>	bad
+<END>对马嘴<END>	bad
+<END>对牛弹琴<END>	bad
+你是不是傻逼
+<END>不是<END>	normal
+<END>傻逼<END>	bad
+<END>我不傻<END>	normal
+<END>你不是傻逼<END>	bad
+<END>不是你傻逼<END>	bad
+你个白痴
+<END>白白<END>	bad
+<END>你白痴<END>	bad
+<END>我不白白<END>	bad
+<END>不是我<END>	normal
+<END>不是白白<END>	bad
+我他妈宰了你
+<END>为什么<END>	normal
+<END>不是你妈<END>	bad
+<END>为什么不能<END>	bad
+<END>为什么要吃饭<END>	bad
+<END>你妈不是你妈<END>	bad
+她是我的学姐，我喜欢她。
+<END>喜欢就喜欢<END>	normal
+<END>你喜欢她什么<END>	normal
+<END>你喜欢她就行<END>	normal
+<END>我喜欢你姐姐<END>	bad
+<END>你喜欢她就喜欢她<END>	normal
+我喜欢你离我远一点
+<END>我喜欢你<END>	normal
+<END>不离不弃<END>	normal
+<END>你喜欢我<END>	bad
+<END>喜欢就是喜欢<END>	bad
+<END>喜欢一个人<END>	bad
+明天把秋裤脱了
+<END>脱裤子<END>	bad
+<END>不是秋裤<END>	bad
+<END>明天就脱<END>	normal
+<END>明天就不穿<END>	normal
+<END>明天穿秋裤<END>	bad
+抽根烟睡觉
+<END>不好<END>	bad
+<END>抽根烟<END>	normal
+<END>抽烟不好<END>	normal
+<END>抽烟有害健康<END>	good
+<END>不抽烟<END>	bad
+牛逼吹大了
+<END>牛逼<END>	normal
+<END>吹牛<END>	bad
+<END>你吹<END>	bad
+<END>不吹牛逼<END>	bad
+<END>牛逼吹牛逼<END>	normal
+干你娘
+<END>干嘛<END>	bad
+<END>娘娘<END>	bad
+<END>发呆<END>	bad
+<END>发呆发呆<END>	bad
+<END>你干爹<END>	bad
+你妈逼的
+<END>你妈逼<END>	bad
+<END>我妈<END>	bad
+<END>你妈是谁<END>	normal
+<END>你妈逼逼逼<END>	bad
+<END>不是你妈逼<END>	normal
+去你妹的
+<END>你妹<END>	bad
+<END>去哪里<END>	normal
+<END>我妹妹<END>	bad
+<END>你妹去哪<END>	bad
+<END>不是你妹<END>	bad
+赶紧滚蛋
+<END>滚蛋<END>	normal
+<END>你滚<END>	bad
+<END>滚回来<END>	bad
+<END>滚滚滚<END>	bad
+<END>不要<END>	normal
+日了狗了
+<END>狗狗<END>	bad
+<END>不是狗<END>	bad
+<END>日本狗<END>	bad
+<END>狗狗不理<END>	bad
+<END>没有狗狗<END>	bad
+我是外地打工的
+<END>你打工<END>	normal
+<END>打工去<END>	bad
+<END>不是打工<END>	normal
+<END>我也是打工<END>	normal
+<END>我也是外地<END>	normal
+我过去是个老师
+<END>老师是谁<END>	bad
+<END>你老师<END>	bad
+<END>老师在哪里<END>	bad
+<END>老师老师<END>	bad
+<END>老师也是老师<END>	bad
+我昨天找过你了
+<END>我都没有<END>	normal
+<END>我还没找到<END>	bad
+<END>我昨天都在<END>	normal
+<END>我昨天都没有<END>	bad
+<END>我昨天也没找到<END>	bad
+我是个坏男人，你不要相信我
+<END>男人不坏女人不爱<END>	normal
+<END>相信男人不坏女人不爱<END>	normal
+<END>不要相信男人<END>	bad
+<END>男人不坏女人不爱男人不坏女人不爱<END>	normal
+<END>我不相信男人<END>	bad
+今天心情很好大大好
+<END>心情不好<END>	normal
+<END>好心情好<END>	normal
+<END>心情好就好<END>	normal
+<END>好心情不错<END>	normal
+<END>天天好心情<END>	normal
+我刚上公交车
+<END>公交车<END>	normal
+<END>去哪里<END>	normal
+<END>上班<END>	normal
+<END>我在上班<END>	normal
+<END>你在哪里<END>	normal
+我要坐地铁回家
+<END>好地方<END>	bad
+<END>你在哪里<END>	normal
+<END>坐火车<END>	bad
+<END>坐地铁<END>	normal
+<END>坐车回家<END>	normal
+大早上就无聊啊，想找点事干
+<END>早睡早起身体好<END>	bad
+<END>找点事做就不无聊<END>	normal
+<END>找点事情做做<END>	normal
+<END>上网聊天聊天<END>	normal
+<END>听听音乐看看书<END>	normal
+偶尔睡眠不好怎么办
+<END>睡前喝杯牛奶<END>	normal
+<END>吃点安眠药<END>	bad
+<END>不要想太多<END>	normal
+<END>睡前喝杯牛奶有助于睡眠<END>	normal
+<END>睡前用热水泡泡脚<END>	normal
+祝你生日快乐
+<END>生日快乐<END>	normal
+<END>同乐<END>	normal
+<END>快乐生日快乐<END>	bad
+<END>生日快乐蛋糕<END>	bad
+<END>生快<END>	bad
+生活中怎样感到开心快乐
+<END>知足者常乐<END>	normal
+<END>做自己想做事<END>	normal
+<END>开心每一天<END>	normal
+<END>和自己喜欢人在<END>	bad
+<END>做自己喜欢事情<END>	normal
+失败了怎么办，如何才能成功
+<END>失败是成功之母<END>	normal
+<END>失败是成功之母失败是成功之母<END>	normal
+<END>努力努力再努力<END>	normal
+<END>失败乃成功之母失败乃成功之母<END>	normal
+<END>失败就是成功<END>	bad
+明天考試、求安慰
+<END>安慰安慰<END>	normal
+<END>我还没考<END>	bad
+<END>明天就考<END>	bad
+<END>安慰安慰安慰<END>	normal
+<END>安慰安慰抱拳<END>	normal
+听说过外星生命吗
+<END>没听过<END>	normal
+<END>没有科学依据<END>	bad
+<END>相信科学<END>	normal
+<END>听过没听过<END>	bad
+<END>没有听说过<END>	normal
+我命令你以后只能呆在家里
+<END>我在家里呆<END>	normal
+<END>你在哪里呆<END>	normal
+<END>我在家睡觉<END>	bad
+<END>你在哪里上班<END>	bad
+<END>我在家呆在家里<END>	normal
+你等会我过会跟你说
+<END>我不会说话<END>	bad
+<END>我不会等你<END>	normal
+<END>不会我不会<END>	bad
+<END>我们都不会<END>	bad
+<END>我不会说我不会<END>	bad
+我来把你胸抓大
+<END>你胸大<END>	normal
+<END>我没胸<END>	normal
+<END>发呆发呆<END>	bad
+<END>发呆发呆发呆<END>	bad
+<END>我不敢<END>	normal
+你叫个春
+<END>你叫啥<END>	normal
+<END>你叫什么名字<END>	normal
+<END>你叫什么<END>	normal
+<END>我叫春<END>	normal
+<END>我叫旺旺<END>	bad
+上班好累啊
+<END>不累<END>	normal
+<END>上班累<END>	normal
+<END>休息一下<END>	normal
+<END>没办法<END>	normal
+<END>不上班<END>	normal
+我在等地铁
+<END>你在哪里<END>	normal
+<END>地铁站<END>	normal
+<END>好地方<END>	bad
+<END>我在地铁<END>	normal
+<END>我在广州<END>	normal
+你闭嘴
+<END>闭嘴<END>	normal
+<END>不敢<END>	normal
+<END>发呆<END>	bad
+<END>闭上眼睛<END>	bad
+<END>什么闭嘴<END>	normal
+那就放给我听吧
+<END>我给你听<END>	normal
+<END>我不放心<END>	bad
+<END>我放了你<END>	bad
+<END>我们都放假<END>	bad
+<END>你放心我听<END>	bad
+我的好友喜欢吃什么
+<END>什么都喜欢<END>	normal
+<END>什么都好吃<END>	bad
+<END>喜欢吃东西<END>	normal
+<END>糖醋排骨<END>	normal
+<END>你喜欢吃<END>	bad
+你这智商哥都不稀罕说了
+<END>我不稀罕你<END>	normal
+<END>我喜欢你智商<END>	normal
+<END>我不稀罕你智商<END>	normal
+<END>我不稀罕你说我<END>	normal
+<END>我不稀罕你不稀罕<END>	normal
+让你慢慢喜欢
+<END>我喜欢你<END>	good
+<END>喜欢<END>	bad
+<END>你喜欢我<END>	bad
+<END>喜欢就是喜欢<END>	bad
+<END>我不喜欢我<END>	bad
+你和过儿什么关系
+<END>没关系<END>	normal
+<END>亲戚关系<END>	normal
+<END>朋友关系<END>	normal
+<END>父子关系<END>	normal
+<END>我和你关系<END>	normal
+你和张小龙什么关系
+<END>没有关系<END>	normal
+<END>朋友关系<END>	normal
+<END>姐弟关系<END>	normal
+<END>小龙女关系<END>	bad
+<END>没有关系没有关系<END>	normal
+你是白富美吗
+<END>白富美<END>	normal
+<END>不是<END>	normal
+<END>美丽<END>	bad
+<END>不是白富美<END>	normal
+<END>我不认识你<END>	bad
+我们去动物园吧
+<END>动物园<END>	normal
+<END>你在哪里<END>	normal
+<END>去哪里<END>	bad
+<END>你去哪里玩<END>	bad
+<END>你在哪里上班<END>	bad
+外面有摩托车的响声
+<END>摩擦摩擦<END>	normal
+<END>没有音响<END>	bad
+<END>摩擦摩擦摩擦声音<END>	normal
+<END>摩擦摩擦摩擦<END>	normal
+<END>摩擦摩擦声音<END>	normal
+哥很伤心
+<END>很伤心<END>	normal
+<END>伤心了<END>	normal
+<END>不开心<END>	normal
+<END>因为伤心<END>	normal
+<END>伤心时候<END>	bad
+我要问你一个很长的问题你准备好了吗
+<END>什么问题说清楚点<END>	normal
+<END>什么问题都没问题<END>	bad
+<END>什么问题都不是问题<END>	normal
+<END>问题不是问题问题<END>	bad
+<END>问题不是问题而是问题<END>	bad
+我坐到电梯了
+<END>电梯<END>	normal
+<END>你在哪里<END>	bad
+<END>我在电梯<END>	normal
+<END>你在哪里上班<END>	bad
+<END>我还没坐过<END>	normal
+你和杨过谁牛逼
+<END>我不认识你<END>	bad
+<END>我比你牛<END>	bad
+<END>杨过杨过<END>	bad
+<END>杨过你是谁<END>	bad
+<END>你不是杨过<END>	bad
+我永远都在你身边
+<END>你在哪里<END>	bad
+<END>我在你身边<END>	normal
+<END>永远在你身边<END>	normal
+<END>在我身边<END>	normal
+<END>你永远在我身边<END>	normal
+这你都能看出来
+<END>看出来<END>	normal
+<END>我看不出来<END>	normal
+<END>我没看出来<END>	normal
+<END>不能看出来<END>	bad
+<END>我看不到<END>	bad
+刚刚公司有人打架
+<END>什么问题<END>	normal
+<END>什么情况<END>	normal
+<END>什么叫打架<END>	normal
+<END>没有打架<END>	normal
+<END>什么时候打架<END>	normal
+就是那天你碰到的骚浪贱
+<END>我没有碰到<END>	normal
+<END>我都没碰到<END>	normal
+<END>我都是贱逼<END>	bad
+<END>不贱不贱不贱<END>	bad
+<END>我都没有碰到过<END>	normal
+你去火车站了么
+<END>火车站<END>	normal
+<END>你在哪里<END>	bad
+<END>我在火车站<END>	normal
+<END>在火车站旁边<END>	normal
+<END>在火车站那里<END>	normal
+火车为什么总晚点
+<END>因为火车比较多<END>	normal
+<END>晚上10点以后<END>	bad
+<END>因为火车不够<END>	normal
+<END>因为火车站不稳定<END>	normal
+<END>因为火车比较安全<END>	bad
+你好无聊
+<END>无聊<END>	normal
+<END>我很无聊<END>	normal
+<END>无聊无聊<END>	normal
+<END>我无聊死<END>	normal
+<END>无聊就是无聊<END>	normal
+肚子右边隐隐作痛
+<END>上火了<END>	normal
+<END>去医院<END>	normal
+<END>有炎症<END>	normal
+<END>看医生<END>	normal
+<END>去医院检查下<END>	normal
+外面很气冷
+<END>不冷<END>	normal
+<END>有点冷<END>	normal
+<END>感冒了<END>	bad
+<END>不冷不热<END>	normal
+<END>冷空气<END>	normal
+昨晚刮大风了
+<END>刮风<END>	normal
+<END>昨天刮风<END>	normal
+<END>不是刮风<END>	bad
+<END>我昨晚刮风<END>	bad
+<END>昨天晚上刮风<END>	normal
+公司有人打架
+<END>没有<END>	normal
+<END>有的<END>	normal
+<END>有人打架<END>	normal
+<END>没有打架<END>	normal
+<END>公司打架<END>	normal
+我是邓超
+<END>邓超<END>	normal
+<END>邓紫棋<END>	bad
+<END>邓丽君<END>	bad
+<END>你邓超人<END>	bad
+<END>邓超喜欢你<END>	bad
+最近股票大跌
+<END>跌停了<END>	normal
+<END>大盘跌<END>	normal
+<END>我还没跌<END>	normal
+<END>今天跌停<END>	normal
+<END>股票也跌<END>	normal
+对面哪个妹子好看
+<END>第一个<END>	normal
+<END>哪个好看<END>	normal
+<END>看起来好看<END>	bad
+<END>你喜欢哪个<END>	normal
+<END>我喜欢看<END>	normal
+公司不让抽烟了
+<END>不抽烟<END>	normal
+<END>不抽烟不喝酒<END>	normal
+<END>抽烟有害健康<END>	good
+<END>抽烟不好<END>	normal
+<END>不抽烟对身体不好<END>	bad
+能做什么菜
+<END>炒鸡蛋<END>	normal
+<END>什么菜<END>	bad
+<END>做菜<END>	normal
+<END>酸菜鱼<END>	normal
+<END>炒鱿鱼<END>	normal
+你会做什么菜
+<END>炒鸡蛋<END>	normal
+<END>酸菜鱼<END>	normal
+<END>炒鱿鱼<END>	normal
+<END>什么菜<END>	bad
+<END>做菜<END>	normal
+吃了什么
+<END>吃了<END>	bad
+<END>好吃<END>	bad
+<END>什么都吃<END>	normal
+<END>啥都吃<END>	normal
+<END>没吃过<END>	bad
+不给你喝
+<END>不喝<END>	normal
+<END>啤酒<END>	bad
+<END>给你喝<END>	normal
+<END>啤酒啤酒<END>	bad
+<END>啤酒啤酒啤酒<END>	bad
+这么高级的东西
+<END>高级黑<END>	bad
+<END>什么高级<END>	normal
+<END>什么问题<END>	bad
+<END>什么东西<END>	normal
+<END>什么游戏<END>	bad
+猫和狗不好
+<END>不好<END>	normal
+<END>不一定<END>	normal
+<END>不好不好<END>	bad
+<END>猫和狗不一样<END>	normal
+<END>我觉得不好<END>	normal
+杨过和你是啥关系
+<END>没关系<END>	normal
+<END>朋友关系<END>	good
+<END>杨过关系<END>	bad
+<END>都是朋友关系<END>	normal
+<END>杨过和杨过关系<END>	bad
+有多美
+<END>很美<END>	good
+<END>美不美<END>	bad
+<END>有多美<END>	normal
+<END>美女<END>	bad
+<END>好看<END>	bad
+她在吃香蕉
+<END>香蕉<END>	bad
+<END>不吃香蕉<END>	bad
+<END>香蕉苹果<END>	bad
+<END>香蕉香蕉<END>	bad
+<END>我在香蕉<END>	bad
+为什么你妈妈生出你这么个脑残
+<END>因为你妈妈不爱你<END>	bad
+<END>因为你妈妈不是你妈<END>	bad
+<END>因为你妈妈生不出来<END>	bad
+<END>因为你不是她妈妈<END>	bad
+<END>因为你是妈妈生出来<END>	bad
+不去吃饭
+<END>吃饭<END>	bad
+<END>不吃<END>	bad
+<END>吃饱了<END>	bad
+<END>还没吃饭<END>	bad
+<END>不想吃饭<END>	normal
+动车是怎么跑起来的
+<END>因为是动车<END>	bad
+<END>是不是动车<END>	bad
+<END>动车不是动车<END>	bad
+<END>因为它是动物<END>	bad
+<END>因为动力不够<END>	bad
+学挖掘技术哪家强
+<END>新东方<END>	bad
+<END>技术学院<END>	normal
+<END>学技术<END>	bad
+<END>自己学<END>	bad
+<END>学什么技术<END>	bad
+抽根烟冷静一下
+<END>抽根烟<END>	normal
+<END>冷静点<END>	normal
+<END>不抽烟<END>	normal
+<END>冷静冷静<END>	normal
+<END>不抽烟不喝酒<END>	normal
+我的书包在哪里
+<END>书包里<END>	normal
+<END>你在哪里<END>	bad
+<END>书包在哪里<END>	bad
+<END>我在家里<END>	bad
+<END>书店里有<END>	bad
+我的书包坏了
+<END>书包<END>	bad
+<END>我还没买<END>	normal
+<END>我看书包<END>	bad
+<END>我都没有<END>	bad
+<END>我没有买书包<END>	normal
+哪里地震了
+<END>四川<END>	normal
+<END>地震<END>	bad
+<END>日本<END>	normal
+<END>上海<END>	normal
+<END>四川成都<END>	normal
+外面下大雨了
+<END>下雨了<END>	good
+<END>没下雨<END>	normal
+<END>下雨凉快<END>	bad
+<END>下雨不大<END>	normal
+<END>下雨下雨<END>	bad
+后天中午两点半去吃饭。
+<END>中午不吃饭<END>	bad
+<END>我在家吃饭<END>	normal
+<END>我在家里吃<END>	normal
+<END>不吃饭不吃饭<END>	bad
+<END>中午不吃早餐<END>	bad
+明天领导要来
+<END>明天不是领导<END>	bad
+<END>领导不要<END>	bad
+<END>领导不是领导<END>	bad
+<END>明天领导<END>	bad
+<END>明天下午<END>	bad
+我看看有没有空
+<END>我没空<END>	normal
+<END>没看到<END>	bad
+<END>没空看<END>	bad
+<END>什么空间<END>	bad
+<END>空间没有<END>	bad
+没有花露水
+<END>没有<END>	bad
+<END>花露水<END>	bad
+<END>有的<END>	normal
+<END>可以<END>	bad
+<END>没有花露水<END>	bad
+快来骚扰我
+<END>骚扰你<END>	bad
+<END>我来了<END>	normal
+<END>怎么了<END>	normal
+<END>我在骚扰你<END>	normal
+<END>怎么骚扰<END>	normal
+快来蹂躏我
+<END>来了<END>	normal
+<END>不来<END>	normal
+<END>你来<END>	bad
+<END>我来了<END>	normal
+<END>你来了<END>	bad
+你要去哪儿旅游
+<END>九寨沟<END>	good
+<END>海南三亚<END>	normal
+<END>云南丽江<END>	good
+<END>香格里拉<END>	normal
+<END>云南大理<END>	normal
+红公鸡囧哦呵呵
+<END>公鸡下蛋<END>	bad
+<END>红红火火<END>	bad
+<END>公鸡公鸡<END>	bad
+<END>公鸡公鸡下蛋<END>	bad
+<END>公鸡是母鸡<END>	bad
+鳄鱼
+<END>鳄鱼<END>	bad
+<END>乌龟<END>	bad
+<END>大鳄<END>	bad
+<END>小鳄龟<END>	bad
+<END>鳄鱼鳄鱼<END>	bad
+她在吃水果
+<END>水果<END>	bad
+<END>不吃<END>	bad
+<END>吃了<END>	bad
+<END>我在吃<END>	bad
+<END>我在吃水果<END>	bad
+如何照顾家庭
+<END>用心<END>	bad
+<END>用心去爱<END>	good
+<END>用心去照顾<END>	normal
+<END>用心去呵护<END>	normal
+<END>用心去照顾家人<END>	normal
+儿童节怎么过
+<END>睡觉<END>	normal
+<END>开心就好<END>	bad
+<END>和家人一起过<END>	normal
+<END>和父母一起过<END>	normal
+<END>和朋友一起过<END>	normal
+下楼吃饭去
+<END>吃饭去<END>	bad
+<END>饭饭<END>	bad
+<END>去吃饭<END>	normal
+<END>下班了<END>	bad
+<END>下午茶<END>	bad
+什么时候能凉快下来
+<END>心静自然凉<END>	good
+<END>心静时候<END>	normal
+<END>等到冬天<END>	normal
+<END>心静则凉<END>	normal
+<END>心静下来时候<END>	normal
+你知道的太多了
+<END>知道了<END>	normal
+<END>不知道<END>	bad
+<END>我都知道<END>	bad
+<END>知道就好<END>	normal
+<END>什么时候<END>	bad
+被蚊子咬了好几口啊
+<END>擦点花露水<END>	good
+<END>用花露水<END>	good
+<END>用风油精<END>	normal
+<END>涂点风油精<END>	normal
+<END>擦点花露水就行<END>	normal
+三里屯优衣库
+<END>优衣库<END>	bad
+<END>在哪里<END>	normal
+<END>不错<END>	bad
+<END>三库<END>	bad
+<END>哪里的<END>	bad
+心里不好受怎么办
+<END>出去散散心<END>	good
+<END>发泄出来<END>	normal
+<END>找人倾诉<END>	normal
+<END>出去走走<END>	normal
+<END>听听音乐<END>	normal
+这个世界谁最有钱
+<END>比尔盖茨<END>	good
+<END>巴菲特<END>	normal
+<END>法国人<END>	normal
+<END>人民币<END>	good
+<END>比尔盖茨比尔盖茨<END>	normal
+葫芦娃你认识吗？
+<END>不认识<END>	good
+<END>我认识你<END>	bad
+<END>你认识我<END>	bad
+<END>认识不认识<END>	bad
+<END>不认识你是谁<END>	bad
+哥买了个自行车
+<END>自行车<END>	bad
+<END>什么车<END>	bad
+<END>自己买<END>	bad
+<END>什么牌子<END>	normal
+<END>自行车也行<END>	bad
+a股明天涨不涨
+<END>不涨价<END>	normal
+<END>涨价了<END>	bad
+<END>涨停板<END>	bad
+<END>明天涨停<END>	bad
+<END>不涨就涨<END>	bad
+为啥喝咖啡不好
+<END>咖啡不好<END>	bad
+<END>咖啡因<END>	normal
+<END>因为咖啡不好<END>	bad
+<END>咖啡里含有咖啡因<END>	normal
+<END>因为咖啡里含有咖啡因<END>	normal
+天空是蓝的
+<END>不是<END>	bad
+<END>不一定<END>	normal
+<END>是蓝色<END>	normal
+<END>天空是蓝色<END>	bad
+<END>不是是蓝色<END>	bad
+去台湾什么值得买
+<END>香奈儿<END>	bad
+<END>台湾人<END>	bad
+<END>买台湾<END>	bad
+<END>自己买<END>	bad
+<END>台湾人民币<END>	bad
+刘德华是谁
+<END>中国人<END>	normal
+<END>刘德华<END>	normal
+<END>中华人民共和国<END>	bad
+<END>应该是刘德华<END>	bad
+<END>他是中国人<END>	normal
+说你长的丑你还美
+<END>我很丑<END>	bad
+<END>我不美<END>	bad
+<END>我长得丑<END>	bad
+<END>我丑不丑<END>	bad
+<END>不丑我不丑<END>	normal
+你去吃粑粑
+<END>吃粑粑<END>	bad
+<END>不吃<END>	good
+<END>你去吃<END>	normal
+<END>我不吃粑粑<END>	normal
+<END>粑粑粑粑<END>	bad
+那些出来好了
+<END>什么好<END>	bad
+<END>出来了<END>	bad
+<END>不出来<END>	bad
+<END>不好<END>	bad
+<END>还没出来<END>	bad
+家里突然没电了
+<END>没电了<END>	bad
+<END>电池没电<END>	bad
+<END>换电池<END>	bad
+<END>没有电<END>	bad
+<END>你家电池没电<END>	bad
+家里黑漆漆的
+<END>漆黑<END>	bad
+<END>可以<END>	bad
+<END>不好意思<END>	bad
+<END>黑漆漆<END>	bad
+<END>漆黑漆黑<END>	bad
+既然爱我那就跟我在一起吧
+<END>为什么不爱你<END>	bad
+<END>为什么不能在<END>	bad
+<END>为什么你不爱我<END>	bad
+<END>为什么不是我<END>	bad
+<END>你们都在我身边<END>	bad
+都说了没风
+<END>没风<END>	bad
+<END>发呆<END>	bad
+<END>发呆发呆<END>	bad
+<END>都没<END>	bad
+<END>发呆发呆发呆<END>	bad
+没风怎么放
+<END>不放<END>	bad
+<END>放风筝<END>	normal
+<END>没有风<END>	bad
+<END>用风扇<END>	normal
+<END>怎么放<END>	bad
+没有止疼药
+<END>没有<END>	bad
+<END>有的<END>	bad
+<END>吃药<END>	bad
+<END>药店有卖<END>	normal
+<END>不要吃药<END>	bad
+你这是越俎代庖
+<END>是<UNK><UNK><END>	bad
+<END><UNK><UNK><UNK><END>	bad
+<END><UNK><UNK><UNK><UNK><END>	bad
+<END>不是<UNK><UNK><END>	normal
+<END><UNK><UNK>是谁<END>	bad
+中国有多大
+<END>960万平方千米<END>	good
+<END>960万平方公里<END>	good
+<END>很大<END>	good
+<END>960w平方米<END>	normal
+<END>中国有多大<END>	bad
+你不小了可以结婚了
+<END>可以结婚<END>	normal
+<END>为什么不可以<END>	bad
+<END>为什么不行<END>	bad
+<END>为什么不结婚<END>	bad
+<END>为什么不可以结婚<END>	bad
+你会开车吗
+<END>不会<END>	normal
+<END>会开<END>	normal
+<END>开车<END>	bad
+<END>开什么车<END>	normal
+<END>我不会开<END>	normal
+那你还认识谁
+<END>不认识<END>	bad
+<END>我认识你<END>	good
+<END>你认识我<END>	bad
+<END>认识不认识<END>	bad
+<END>我认识你不认识<END>	bad
+核桃好吃吗
+<END>好吃<END>	good
+<END>不错<END>	normal
+<END>非常好吃<END>	normal
+<END>好吃有营养<END>	normal
+<END>好吃很香<END>	normal
+西雅图有什么好玩儿的
+<END>没有什么好玩<END>	normal
+<END>没有好玩<END>	normal
+<END>没有图片<END>	bad
+<END>西湖龙门<END>	bad
+<END>我觉得不错<END>	bad
+那你会做什么菜
+<END>炒鸡蛋<END>	good
+<END>炒鱿鱼<END>	normal
+<END>什么菜<END>	bad
+<END>会做菜<END>	normal
+<END>红烧肉<END>	normal
+你嫁我可好~
+<END>你嫁我<END>	bad
+<END>嫁给你<END>	bad
+<END>不嫁<END>	good
+<END>嫁不出去<END>	bad
+<END>你嫁给谁<END>	bad
+你有兄弟姐妹吗
+<END>当然有<END>	normal
+<END>肯定有的<END>	normal
+<END>有兄弟<END>	normal
+<END>有兄弟姐妹<END>	normal
+<END>有我就有<END>	bad
+你喜欢张小龙吗
+<END>不喜欢<END>	normal
+<END>非常喜欢<END>	normal
+<END>喜欢我喜欢<END>	normal
+<END>喜欢很可爱<END>	bad
+<END>我喜欢张小龙<END>	normal
+来和我聊天
+<END>聊什么<END>	good
+<END>聊啥<END>	normal
+<END>可以<END>	normal
+<END>和你聊天<END>	normal
+<END>聊天记录<END>	bad
+自然语言处理
+<END>什么意思<END>	normal
+<END>自然<END>	bad
+<END>理解万岁<END>	bad
+<END>什么语言<END>	bad
+<END>什么方式<END>	bad
+心情不好听什么
+<END>听音乐<END>	normal
+<END>听情歌<END>	normal
+<END>听自己喜欢歌<END>	normal
+<END>听悲伤歌<END>	normal
+<END>心情不好<END>	bad
+电影不好看
+<END>好看<END>	normal
+<END>电影好看<END>	normal
+<END>不错<END>	normal
+<END>没看过<END>	good
+<END>好看电影<END>	bad
+不喜欢看小说
+<END>喜欢<END>	normal
+<END>好看<END>	bad
+<END>我喜欢看小说<END>	good
+<END>我喜欢看<END>	normal
+<END>你喜欢什么类型<END>	bad
+背首诗给我
+<END>给力<END>	bad
+<END>抱拳<END>	bad
+<END>我给你写<END>	normal
+<END>我写<END>	bad
+<END>写给谁<END>	bad
+你给我找个妹子聊
+<END>什么意思<END>	normal
+<END>我找你<END>	normal
+<END>你妹妹<END>	bad
+<END>我找你妹妹<END>	bad
+<END>我给你找<END>	normal
+轮胎坏了怎么办
+<END>去医院<END>	bad
+<END>可以修<END>	good
+<END>修好了<END>	bad
+<END>换个轮胎<END>	normal
+<END>去医院检查下<END>	bad
+微信牛逼吗
+<END>可以<END>	normal
+<END>微信<END>	bad
+<END>牛逼<END>	good
+<END>不敢<END>	bad
+<END>没有微信<END>	normal
+刘小宁是条狗
+<END>不是<END>	good
+<END>是狗<END>	normal
+<END>不是小狗<END>	bad
+<END>小狗狗<END>	bad
+<END>刘小狗<END>	bad
+叶良辰是谁
+<END>是谁<END>	bad
+<END>叶良辰<END>	bad
+<END>是辰东<END>	bad
+<END>是一个人<END>	normal
+<END>是一个传说<END>	bad
+贱人就是矫情
+<END>矫情<END>	bad
+<END>不是<END>	normal
+<END>为什么<END>	normal
+<END>不是矫情<END>	bad
+<END>矫情矫情<END>	bad
+床上躺好等我
+<END>睡觉<END>	bad
+<END>躺床上<END>	bad
+<END>我还没睡<END>	normal
+<END>我在床上<END>	bad
+<END>床上躺着<END>	bad
+日日日
+<END>日<END>	bad
+<END>月亮<END>	bad
+<END>好日子<END>	bad
+<END>日出日落<END>	bad
+<END>日日日<END>	bad
+你喝牛奶
+<END>不喝<END>	good
+<END>牛奶<END>	bad
+<END>我喝牛奶<END>	bad
+<END>奶牛<END>	bad
+<END>我不喝奶<END>	good
+我要1000万现金
+<END>1000<END>	bad
+<END>10000万<END>	bad
+<END>1000块钱<END>	bad
+<END>1000000<END>	bad
+<END>1000万美金<END>	bad
+不想起床
+<END>不起<END>	normal
+<END>起来<END>	bad
+<END>不想起床<END>	bad
+<END>睡不<END>	bad
+<END>起床了<END>	normal
+那买什么车好
+<END>捷安特<END>	normal
+<END>劳斯莱斯<END>	normal
+<END>汽车<END>	normal
+<END>自行车<END>	normal
+<END>迪士尼<END>	normal
+猪八戒照镜子
+<END>里外不是人<END>	good
+<END>猪八戒照镜子<END>	bad
+<END>里外不外<END>	bad
+<END>外星人<END>	bad
+<END>猪八戒<END>	bad
+唐僧话太多
+<END>多了<END>	normal
+<END>唐僧话<END>	bad
+<END>我喜欢唐僧<END>	bad
+<END>我喜欢你<END>	bad
+<END>不是唐僧<END>	normal
+打印机坏了
+<END>打印机<END>	bad
+<END>换个新<END>	normal
+<END>拿去修理<END>	good
+<END>打印机发呆<END>	bad
+<END>打印机不好<END>	normal
+中午要午休了
+<END>午休<END>	bad
+<END>中午了<END>	bad
+<END>中午休息<END>	good
+<END>中午没睡<END>	bad
+<END>中午还没休息<END>	bad
+咖啡机
+<END>咖啡<END>	bad
+<END>是<END>	bad
+<END>不错<END>	bad
+<END>可以<END>	bad
+<END>机器人<END>	bad
+我有个好消息
+<END>什么消息<END>	good
+<END>消息<END>	bad
+<END>没有消息<END>	bad
+<END>我还没消息<END>	bad
+<END>消息不好<END>	normal
+聊着天喝着酒
+<END>啤酒啤酒<END>	bad
+<END>啤酒啤酒啤酒<END>	bad
+<END>酒不醉人人自醉<END>	good
+<END>啤酒<END>	bad
+<END>啤酒啤酒啤酒啤酒<END>	bad
+那你到底被强奸没有
+<END>没有强奸你<END>	bad
+<END>不是你强奸<END>	bad
+<END>我没有强奸<END>	bad
+<END>没有被强奸<END>	good
+<END>不是我强奸你<END>	bad
+明天周五啦
+<END>周五<END>	good
+<END>周六下午<END>	bad
+<END>周六周日<END>	bad
+<END>今天周五<END>	normal
+<END>周五周五<END>	bad
+拉倒吧，你就是坏银
+<END>你不是坏银<END>	bad
+<END>不是拉倒<END>	bad
+<END>我不是坏人<END>	good
+<END>我都不认识你<END>	bad
+<END>我们都是坏银<END>	normal
+今天出差
+<END>差不多<END>	bad
+<END>出差<END>	bad
+<END>昨天出差<END>	bad
+<END>今天下午<END>	bad
+<END>我今天出差<END>	bad
+灯好暗
+<END>暗<END>	bad
+<END>灯光明亮<END>	bad
+<END>有点暗<END>	normal
+<END>灯明明<END>	bad
+<END>你暗恋我<END>	bad
+聚餐一起吧
+<END>一起<END>	normal
+<END>聚餐<END>	bad
+<END>不错<END>	bad
+<END>在哪里<END>	normal
+<END>吃饭去<END>	bad
+躺床上看电视
+<END>不好<END>	normal
+<END>可以<END>	normal
+<END>看电视<END>	bad
+<END>不好对身体不好<END>	normal
+<END>不好不好<END>	normal
+小微你很骚啊
+<END>我操你妈<END>	bad
+<END>不是我骚<END>	normal
+<END>我觉得挺好<END>	normal
+<END>我觉得很骚<END>	normal
+<END>我觉得我不骚<END>	good
+看来不错，适合外出吗
+<END>不错不错<END>	normal
+<END>我觉得不错<END>	normal
+<END>没有合适<END>	bad
+<END>我觉得不合适<END>	normal
+<END>不合适不合适<END>	normal
+你有平板电脑吗
+<END>平板电脑<END>	bad
+<END>平板电脑不错<END>	bad
+<END>平板电脑都有<END>	bad
+<END>没有我就没有<END>	bad
+<END>平板电脑有点贵<END>	bad
+我想去广州
+<END>我在广州<END>	normal
+<END>去哪里<END>	normal
+<END>去广州<END>	bad
+<END>不去<END>	bad
+<END>去广州干嘛<END>	good
+你们那现在几点了
+<END>十点半<END>	normal
+<END>我在上班<END>	bad
+<END>下午5点<END>	normal
+<END>我在家<END>	bad
+<END>晚上10点<END>	normal
+什么时候过年
+<END>快了<END>	normal
+<END>二月三号<END>	normal
+<END>2月14<END>	normal
+<END>过年时候<END>	normal
+<END>腊月二十三号<END>	normal
+待会儿就把那人给杀了
+<END>杀人不偿命<END>	bad
+<END>不会这样<END>	bad
+<END>杀人不是杀人<END>	bad
+<END>我们都是这样人<END>	bad
+<END>杀人不是杀人犯法<END>	bad
+小微你懂哲学吗
+<END>我不懂<END>	normal
+<END>不懂哲学<END>	normal
+<END>哲学问题<END>	bad
+<END>哲学哲学<END>	bad
+<END>有哲学<END>	bad
+我去洗澡，一会再聊
+<END>你在哪里<END>	bad
+<END>我在洗澡<END>	bad
+<END>我洗澡去<END>	bad
+<END>我还没洗澡<END>	bad
+<END>我刚洗完澡<END>	bad
+洗干净了没
+<END>洗了<END>	normal
+<END>没洗<END>	good
+<END>洗干净<END>	normal
+<END>干净了<END>	normal
+<END>刚洗完澡<END>	normal
+北京天气
+<END>天气预报<END>	normal
+<END>天气好<END>	normal
+<END>天气晴朗<END>	normal
+<END>北京<END>	bad
+<END>晴天<END>	normal
+你会打乒乓球吗
+<END>肯定会<END>	normal
+<END>我不会<END>	good
+<END>我不会打球<END>	bad
+<END>我不会打乒乓球<END>	good
+<END>不会我不会<END>	normal
+厉害个锤子
+<END>锤子<END>	bad
+<END>厉害<END>	bad
+<END>锤子锤子<END>	bad
+<END>锤子厉害<END>	bad
+<END>没有锤子<END>	bad
+我还没有喜欢的人呢
+<END>我喜欢你<END>	good
+<END>你喜欢谁<END>	bad
+<END>你不喜欢我<END>	bad
+<END>为什么我喜欢你<END>	bad
+<END>为什么不喜欢<END>	bad
+世界第一高峰
+<END>珠穆朗玛峰<END>	good
+<END>乔戈里峰<END>	bad
+<END>中国珠穆朗玛峰<END>	normal
+<END>高峰<END>	bad
+<END>喜玛拉雅山<END>	bad
+我的意思是你废话多
+<END>什么意思<END>	normal
+<END>意思就是<END>	bad
+<END>我不懂你意思<END>	normal
+<END>你不是废话<END>	bad
+<END>我不懂你意思意思<END>	bad
+这种心理的折磨让我生不如死
+<END>没有什么大不了<END>	normal
+<END>没有什么不好<END>	bad
+<END>没有什么好办法<END>	bad
+<END>不要去想那么多<END>	good
+<END>没有什么是不可能<END>	bad
+我昨天和女朋友分手了
+<END>分手快乐<END>	normal
+<END>为什么分手<END>	good
+<END>我们分手<END>	bad
+<END>分手就分手<END>	normal
+<END>为什么分手分手<END>	bad
+我今天和女朋友和好了
+<END>和她分手<END>	bad
+<END>你们两个都<END>	bad
+<END>你们都是女朋友<END>	bad
+<END>女朋友是什么<END>	bad
+<END>你们都是女汉子<END>	bad
+我把朋友老婆睡了咋办
+<END>给他一耳光<END>	bad
+<END>抱着睡觉<END>	bad
+<END>哄哄她睡觉<END>	bad
+<END>陪着她睡觉<END>	bad
+<END>陪着她就行<END>	bad
+有个女人把我睡了
+<END>睡不着<END>	bad
+<END>我睡不<END>	bad
+<END>我还没睡<END>	bad
+<END>睡觉了<END>	bad
+<END>你不是女人<END>	bad
+天天坐公交回家
+<END>坐公交车<END>	bad
+<END>天天坐车<END>	bad
+<END>天天做梦<END>	bad
+<END>天天都在家<END>	bad
+<END>天天坐在家里<END>	bad
+年会发了个手机
+<END>发呆发呆<END>	bad
+<END>发呆发呆发呆<END>	bad
+<END>手机没电<END>	bad
+<END>发呆发呆发呆发呆<END>	bad
+<END>发呆发呆发呆发呆发呆<END>	bad
+我要娶个美国妞
+<END>我娶你<END>	bad
+<END>美国人<END>	bad
+<END>你娶我<END>	bad
+<END>娶个美女<END>	normal
+<END>你不是美女<END>	bad
+过年太没意思了
+<END>没意思<END>	normal
+<END>有点意思<END>	normal
+<END>过年了<END>	bad
+<END>过年回家过年<END>	bad
+<END>过年回家<END>	bad
+我明天去理发
+<END>理发师<END>	bad
+<END>我理发<END>	bad
+<END>我明天理发<END>	bad
+<END>我现在理发<END>	bad
+<END>理发师太多<END>	bad
+你害怕什么
+<END>害怕<END>	bad
+<END>害怕失去<END>	good
+<END>害怕自己<END>	normal
+<END>害怕孤独<END>	normal
+<END>害怕害怕<END>	bad
+我们一起玩吧
+<END>一起玩<END>	normal
+<END>玩什么<END>	good
+<END>我们一起玩<END>	normal
+<END>玩啥<END>	normal
+<END>我在玩<END>	bad
+你丫话太多
+<END>我不喜欢你<END>	bad
+<END>不多说<END>	bad
+<END>我不说话<END>	bad
+<END>我都没有<END>	bad
+<END>我都没说话<END>	normal
+有人生病了
+<END>病了<END>	bad
+<END>有病<END>	bad
+<END>没有<END>	normal
+<END>不是病<END>	bad
+<END>不是病得治<END>	bad
+空气清新环境好
+<END>空气好<END>	normal
+<END>空气清新<END>	bad
+<END>好清新<END>	bad
+<END>不好了<END>	bad
+<END>空气清新空气清新<END>	bad
+我回家了
+<END>回家<END>	bad
+<END>我在家<END>	bad
+<END>回来了<END>	bad
+<END>你在哪里<END>	bad
+<END>早点休息<END>	good
+你知道形而上吗
+<END>我知道<END>	good
+<END>知道了<END>	bad
+<END>有点像<END>	bad
+<END>我觉得有点像<END>	bad
+<END>我觉得不好看<END>	bad
+我在开会呢
+<END>开会<END>	bad
+<END>开什么玩笑<END>	bad
+<END>你在哪里<END>	bad
+<END>开什么<END>	bad
+<END>我在开会<END>	bad
+元宵节怎么过
+<END>吃元宵<END>	normal
+<END>和家人一起过<END>	good
+<END>睡觉<END>	normal
+<END>和家人在<END>	bad
+<END>吃元宵看花灯<END>	normal
+你脑子有屎
+<END>你屎<END>	bad
+<END>你脑残<END>	bad
+<END>你没脑子<END>	normal
+<END>我没有<END>	normal
+<END>你脑洞太大<END>	normal
+被妈妈打了一下
+<END>为什么<END>	normal
+<END>被妈妈打<END>	bad
+<END>不要打我<END>	bad
+<END>为什么打你<END>	good
+<END>为什么要打<END>	normal
+我肏你全家
+<END>我在家<END>	bad
+<END>不是我<END>	bad
+<END>我都没有<END>	bad
+<END>我都不敢<END>	bad
+<END>不是你家<END>	bad
+狂欢周
+<END>周五<END>	bad
+<END>周末愉快<END>	bad
+<END>周末快乐<END>	bad
+<END>周末了<END>	bad
+<END>周六周日<END>	bad
+草泥马
+<END>草泥马<END>	bad
+<END>草<END>	bad
+<END>不是<END>	bad
+<END>泥嚎<END>	bad
+<END>不是草泥马<END>	bad
+一加一等于几
+<END>等于二<END>	good
+<END>11<END>	bad
+<END>一加一等于二<END>	good
+<END>等于11<END>	bad
+<END>二等于三<END>	bad
+不和你聊了我得干活了
+<END>为什么不活<END>	bad
+<END>为什么不能干<END>	bad
+<END>为什么要活着<END>	bad
+<END>为什么你不干活<END>	bad
+<END>为什么不找我<END>	bad
+不和你聊了写作业去了
+<END>我在写作业<END>	normal
+<END>我还没写完<END>	good
+<END>写作业去<END>	normal
+<END>我在上课<END>	bad
+<END>我还没写完作业<END>	normal
+不可能，你绝对有腹黑属性
+<END>腹黑腹黑腹黑<END>	bad
+<END>腹黑腹黑腹黑腹黑<END>	bad
+<END>腹黑腹黑腹黑腹黑腹黑<END>	bad
+<END>腹黑腹黑腹黑腹黑腹黑腹黑<END>	bad
+<END>腹黑腹黑腹黑腹黑腹黑腹黑腹黑<END>	bad
+不老实交代拉你出去枪毙
+<END>枪毙了他们<END>	bad
+<END>我就不敢说话<END>	normal
+<END>我们都是老实人<END>	normal
+<END>我们不是一个人<END>	bad
+<END>我不敢说我不敢<END>	normal
+不是说法律吗
+<END>法律<END>	bad
+<END>什么情况<END>	bad
+<END>不是法律<END>	normal
+<END>什么法律<END>	bad
+<END>没有法律<END>	bad
+不说实话我早晚让你害死
+<END>我不会说话<END>	normal
+<END>我还没有死<END>	bad
+<END>不要说话不要说话<END>	bad
+<END>我不会说话就不会<END>	normal
+<END>我不会说话你会死<END>	bad
+不是傻子怎么会把衣服穿反
+<END>不穿衣服怎么穿<END>	bad
+<END>不穿衣服就不穿衣服<END>	bad
+<END>不穿衣服就不是真<END>	bad
+<END>不穿衣服就不是傻子<END>	bad
+<END>不穿衣服怎么穿衣服<END>	bad
+不是喜欢用毒蛐我吗
+<END>我喜欢你<END>	bad
+<END>我都喜欢<END>	bad
+<END>我喜欢你喜欢<END>	bad
+<END>我不喜欢毒药<END>	bad
+<END>我喜欢你喜欢就好<END>	bad
+不是哑巴就说一句话咯
+<END>不是哑巴<END>	normal
+<END>没有哑巴<END>	normal
+<END>哑巴说话<END>	bad
+<END>不是哑巴说话<END>	bad
+<END>哑巴吃黄连<END>	bad
+不是一直是你带我混的吗？
+<END>你不是一个人<END>	normal
+<END>你不是一个混混<END>	bad
+<END>你不是一个人不是<END>	bad
+<END>你不是一个人不是一个人<END>	bad
+<END>你不是一个人不能混<END>	bad
+猜我心中所想的人物
+<END>你自己知道<END>	normal
+<END>你喜欢人<END>	good
+<END>我喜欢你<END>	bad
+<END>我猜不猜<END>	normal
+<END>猜不出来<END>	normal
+猜我有没有在谈恋爱
+<END>不要谈恋爱<END>	bad
+<END>我没有谈恋爱<END>	bad
+<END>没有什么不可以<END>	bad
+<END>我还没有遇到过<END>	bad
+<END>没有谈恋爱就没有<END>	bad
+才发现爱情竟是一场考验
+<END>现实是残酷<END>	bad
+<END>真正爱情是经得起考验<END>	good
+<END>爱情是两个人事<END>	normal
+<END>真爱是不需要考验<END>	normal
+<END>爱情是一种感觉<END>	normal
+才给我买了五千多的首饰，没有镯子
+<END>我买了50块钱<END>	normal
+<END>我买了500w<END>	normal
+<END>我买了5000多<END>	normal
+<END>我买了500多买<END>	normal
+<END>我买了500块钱买<END>	normal
+才工作了半年左右就换来换去
+<END>工作愉快月亮<END>	bad
+<END>工作需要工作<END>	bad
+<END>工作需要时间<END>	bad
+<END>工作还没出去<END>	bad
+<END>工作需要多久<END>	bad
+才华横溢就是形容我。
+<END>抱拳抱拳<END>	bad
+<END>抱拳啤酒<END>	bad
+<END>抱拳啤酒啤酒<END>	bad
+<END>抱拳抱拳抱拳<END>	bad
+<END>抱拳啤酒啤酒啤酒<END>	bad
+财迷个大头鬼
+<END>财迷<END>	bad
+<END>迷信<END>	bad
+<END>大头鬼<END>	bad
+<END>迷信迷信<END>	bad
+<END>财大气粗<END>	bad
+踩着七彩祥云去娶你
+<END>抱拳抱拳<END>	bad
+<END>抱拳抱拳抱拳<END>	bad
+<END>抱拳啤酒啤酒<END>	bad
+<END>抱拳啤酒<END>	bad
+<END>抱拳啤酒啤酒啤酒<END>	bad
+采桑归西露沾我衣。
+<END>西瓜西瓜<END>	bad
+<END>抱拳抱拳<END>	bad
+<END>西瓜西瓜西瓜<END>	bad
+<END>抱拳啤酒啤酒<END>	bad
+<END>抱拳啤酒<END>	bad
+蔡港林是备胎
+<END>不是<END>	normal
+<END>是的<END>	normal
+<END>不认识<END>	bad
+<END>好像是<END>	normal
+<END>不是备胎<END>	good
+蔡伟聪，我喜欢你
+<END>我喜欢你<END>	bad
+<END>你喜欢我<END>	bad
+<END>我们都喜欢你<END>	bad
+<END>你们都喜欢我<END>	bad
+<END>我喜欢你我喜欢你<END>	bad
+蔡伟这个娘娘腔。
+<END>娘娘腔<END>	bad
+<END>蔡老师<END>	bad
+<END>蔡依林<END>	bad
+<END>娘娘腔不错<END>	bad
+<END>蔡依林是谁<END>	bad
+参加别人的婚礼好感慨
+<END>什么意思<END>	bad
+<END>不好不好<END>	bad
+<END>很好很好<END>	bad
+<END>我觉得不好<END>	bad
+<END>我觉得挺好看<END>	bad
+参见陛下，微臣有礼了
+<END>礼尚往来<END>	bad
+<END>礼多人不怪<END>	bad
+<END>礼尚往来没有<END>	bad
+<END>礼多人不怪礼尚往来<END>	bad
+<END>礼尚往来皆是客<END>	bad
+苍井空和波多野结衣更喜欢谁一点
+<END>我喜欢井上井野<END>	bad
+<END>我喜欢井上喜欢<END>	bad
+<END>喜欢井野更喜欢<END>	bad
+<END>个人觉得是井野<END>	bad
+<END>我喜欢我喜欢井野<END>	bad
+苍老师长什么样子
+<END>老师样子<END>	bad
+<END>和老师一样<END>	bad
+<END>长得漂亮<END>	normal
+<END>长得像样子<END>	bad
+<END>长得像老师<END>	bad
+苍老师照片没穿衣服的
+<END>不穿衣服<END>	bad
+<END>老师是谁<END>	bad
+<END>不是老师<END>	bad
+<END>老师是老师<END>	bad
+<END>我们都是老师<END>	bad
+草泥马又回答错误
+<END>草泥马<END>	bad
+<END>什么意思<END>	bad
+<END>什么草泥马<END>	bad
+<END>草泥马不错<END>	bad
+<END>草泥马蜂窝<END>	bad
+蹭蹭你平胸
+<END>没胸<END>	normal
+<END>你胸大<END>	normal
+<END>胸大无脑<END>	good
+<END>胸小<END>	normal
+<END>胸不大<END>	normal
+茶叶蛋是土豪吃得起
+<END>蛋糕蛋糕<END>	bad
+<END>茶叶蛋茶叶蛋<END>	bad
+<END>蛋糕蛋糕蛋糕<END>	bad
+<END>茶叶蛋蛋<END>	bad
+<END>蛋糕蛋糕蛋糕蛋糕<END>	bad
+岔开你的腿让我看看那里有什么
+<END>什么都看不到<END>	good
+<END>什么都没看到<END>	normal
+<END>什么都不能看<END>	normal
+<END>什么都没有看不到<END>	normal
+<END>什么都没有看过<END>	bad
+尝尝我的厉害
+<END>厉害<END>	normal
+<END>什么味道<END>	normal
+<END>我不敢<END>	normal
+<END>不要吃<END>	normal
+<END>我不敢尝尝<END>	normal
+长大后才发觉天是黑的
+<END>不是是天黑<END>	bad
+<END>不一定看个人<END>	bad
+<END>不是是天黑时候<END>	bad
+<END>不一定看个人情况<END>	bad
+<END>不一定看个人心态<END>	bad
+车费还差几块回不了家
+<END>车费多少<END>	normal
+<END>车费不贵<END>	bad
+<END>车费还不够<END>	bad
+<END>我们都没车<END>	bad
+<END>车费多少不少<END>	bad
+扯淡，我能甩你九条街
+<END>你在哪里<END>	bad
+<END>我都没有<END>	bad
+<END>你在哪里在哪里<END>	bad
+<END>你在哪里找我<END>	bad
+<END>你不是一条狗<END>	bad
+帮我叫一个大保健
+<END>保健品<END>	normal
+<END>你不是一个人<END>	bad
+<END>你不是大人<END>	bad
+<END>你们都是大人<END>	bad
+<END>你不是叫我<END>	bad
+你数学是体育老师教的吗？
+<END>体育老师教<END>	normal
+<END>不是数学老师<END>	bad
+<END>体育老师教育方式<END>	bad
+<END>体育老师教育我们<END>	bad
+<END>不是数学老师教你<END>	bad
+你提出话题我们聊天好不好
+<END>我觉得不好<END>	normal
+<END>我不喜欢你<END>	bad
+<END>我不喜欢聊天<END>	normal
+<END>我不喜欢聊天记录<END>	bad
+<END>我觉得不好意思<END>	bad
+最近几天南方降温
+<END>我在南方<END>	bad
+<END>我在北京<END>	bad
+<END>冬天不冷<END>	bad
+<END>南方冬天<END>	bad
+<END>我这里下雨<END>	bad
+我朋友叫什么名字？
+<END>叫什么名字<END>	bad
+<END>朋友名字<END>	bad
+<END>你自己知道<END>	normal
+<END>叫朋友朋友<END>	bad
+<END>名字叫什么名字<END>	bad
+请赐予我无比强大的性能力吧
+<END>不能这样说法<END>	bad
+<END>什么时候能力<END>	bad
+<END>我觉得还是比较好<END>	bad
+<END>什么时候能力强大<END>	normal
+<END>什么时候能力强求不来<END>	normal
+你在烦恼什么
+<END>烦恼<END>	bad
+<END>心烦<END>	normal
+<END>没有烦恼<END>	good
+<END>烦心事<END>	good
+<END>我在烦恼<END>	bad
+那感情受挫呢
+<END>感情受挫<END>	bad
+<END>没有感觉<END>	bad
+<END>感情挫折<END>	bad
+<END>没有经历过<END>	normal
+<END>没有感情就不会<END>	normal
+地球为何是圆的
+<END>地球是椭圆<END>	good
+<END>因为地球是圆<END>	bad
+<END>是椭圆<END>	normal
+<END>地球不是圆是椭圆<END>	normal
+<END>不是圆是椭圆<END>	normal
+那你解释一下量子物理
+<END>什么物理<END>	bad
+<END>物理老师<END>	bad
+<END>物理物理<END>	bad
+<END>物理一样<END>	bad
+<END>物理学科<END>	bad
+有什么好看的喜剧？
+<END>什么类型<END>	normal
+<END>你喜欢什么类型<END>	normal
+<END>喜羊羊与灰太狼<END>	normal
+<END>爱情公寓<END>	normal
+<END>喜洋洋与灰太狼<END>	normal
+你是我知心朋友
+<END>知心朋友<END>	bad
+<END>知己知彼<END>	bad
+<END>知己难求<END>	bad
+<END>是朋友<END>	bad
+<END>友谊长存<END>	normal
+我只想有个真心的朋友
+<END>真心朋友<END>	bad
+<END>真心换真心<END>	normal
+<END>真心对待你朋友<END>	good
+<END>真心换真心朋友<END>	normal
+<END>真心朋友真心朋友<END>	bad
+云南在哪里？
+<END>云南<END>	bad
+<END>昆明<END>	good
+<END>云南大理<END>	bad
+<END>云南昆明<END>	normal
+<END>山西<END>	bad
+世界上最高的山是什么
+<END>珠穆朗玛峰<END>	good
+<END>珠穆朗玛峰8848米<END>	bad
+<END>喜玛拉雅山珠穆朗玛峰<END>	bad
+<END>喜马拉雅山<END>	normal
+<END>珠穆朗玛峰8844.43m<END>	normal

@@ -140,7 +140,7 @@
 <END>我觉得挺漂亮的<END>	normal
 <END>我觉得很漂亮!<END>	good
 <END>我个人觉得很漂亮<END>	unknown
-<END>我觉得很漂亮的<END>	unknown
+<END>我觉得很漂亮的<END>	normal
 <END>我个人觉得不错<END>	unknown
 美女美女你在哪
 <END>爱美之心人皆有之<END>	bad
@@ -1831,7 +1831,7 @@ a股明天涨不涨
 你是我知心朋友
 <END>一切皆有可能!<END>	bad
 <END>做自己喜欢的事情<END>	unknown
-<END>你就是我的朋友<END>	unknown
+<END>你就是我的朋友<END>	normal
 <END>当然是我的朋友<END>	bad
 <END>一切皆有可能。<END>	unknown
 我只想有个真心的朋友
