@@ -121,7 +121,7 @@
 永远一直爱你
 <END>我也很爱你<END>	good
 <END>我一直都很爱你<END>	normal
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我也是很爱你的<END>	normal
 <END>我一直都很爱你的<END>	normal
 我不喜欢你
@@ -129,7 +129,7 @@
 <END>为什么不喜欢我<END>	good
 <END>我也很喜欢你的<END>	bad
 <END>为什么不喜欢我？<END>	normal
-<END>我可是很喜欢你的<END>	normal
+<END>我可是很喜欢你的<END>	good
 你是不是快死了
 <END>不是，我是小微<END>	bad
 <END>不要这样说我嘛<END>	good
@@ -141,7 +141,7 @@
 <END>我感觉是很漂亮<END>	normal
 <END>我觉得挺漂亮的<END>	normal
 <END>我觉得你很漂亮<END>	good
-<END>我觉得非常漂亮<END>	normal
+<END>我觉得非常漂亮<END>	good
 美女美女你在哪
 <END>我就是美女美女<END>	bad
 <END>美女当然是美女<END>	bad
@@ -377,7 +377,7 @@
 <END>李白宇是谁呀？<END>	bad
 <END>李白斯是谁呀？<END>	bad
 我问的不是这个意思
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>这有什么不好意思的<END>	bad
 <END>那你说的是哪个意思<END>	normal
 <END>你说的是什么意思。<END>	normal
@@ -462,7 +462,7 @@
 <END>我没有妹妹的呀<END>	normal
 赶紧滚蛋
 <END>我可不是随便的人<END>	bad
-<END>我可舍不得你<END>	normal
+<END>我可舍不得你<END>	good
 <END>我可舍不得滚<END>	unknown
 <END>不要这样说我嘛<END>	unknown
 <END>不要这样对我嘛<END>	good
@@ -617,7 +617,7 @@
 <END>不要这样说，我会伤心的<END>	normal
 <END>不要这样说，我会很伤心的<END>	good
 让你慢慢喜欢
-<END>我可是很喜欢你的<END>	bad
+<END>我可是很喜欢你的<END>	normal
 <END>我可不是随便的人<END>	bad
 <END>我已经很努力了<END>	bad
 <END>我已经很喜欢你了<END>	unknown
@@ -630,7 +630,7 @@
 <END>我们什么关系都没有<END>	good
 你和张小龙什么关系
 <END>他们是很好的朋友<END>	normal
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们两个是好朋友<END>	normal
 <END>他们是好朋友的关系<END>	normal
 <END>我们是好朋友的关系<END>	normal
@@ -665,8 +665,8 @@
 <END>那真是辛苦你了<END>	unknown
 <END>我可以陪你聊聊天<END>	unknown
 你和杨过谁牛逼
-<END>我都不认识他们呀<END>	bad
-<END>你肯定是认错人了<END>	bad
+<END>我都不认识他们呀<END>	normal
+<END>你肯定是认错人了<END>	normal
 <END>这个你要问他自己<END>	normal
 <END>我可从来没有过过<END>	unknown
 <END>当然是我最牛了<END>	unknown
@@ -675,7 +675,7 @@
 <END>我可一直都在你身边<END>	normal
 <END>我永远都在你的身边<END>	normal
 <END>我可是一直都在你身边<END>	normal
-<END>我也一直都在你身边<END>	normal
+<END>我也一直都在你身边<END>	good
 这你都能看出来
 <END>这有什么可看的<END>	bad
 <END>我可是什么都会的<END>	bad
@@ -737,8 +737,8 @@
 <END>为什么要打架了<END>	normal
 <END>怎么打架了<END>	normal
 我是邓超
-<END>他是你的好朋友<END>	bad
-<END>看来你很喜欢他<END>	bad
+<END>他是你的好朋友<END>	normal
+<END>看来你很喜欢他<END>	normal
 <END>你很喜欢他<END>	bad
 <END>他是你的好朋友嘛<END>	bad
 <END>我也很喜欢他<END>	bad
@@ -793,7 +793,7 @@
 猫和狗不好
 <END>狗狗可是很可爱的<END>	normal
 <END>狗狗都很可爱<END>	bad
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>狗狗是很可爱的<END>	normal
 <END>狗狗感觉很可爱<END>	normal
 杨过和你是啥关系
@@ -899,7 +899,7 @@
 <END>我可没有那个胆子<END>	good
 <END>我可舍不得你<END>	bad
 快来蹂躏我
-<END>我可不是随便的人<END>	bad
+<END>我可不是随便的人<END>	normal
 <END>我可舍不得你<END>	bad
 <END>我可没那个胆子<END>	normal
 <END>我可没有那个胆子<END>	good
@@ -924,7 +924,7 @@
 <END>是不是很漂亮<END>	normal
 她在吃水果
 <END>是不是很好吃<END>	normal
-<END>有什么好吃的<END>	bad
+<END>有什么好吃的<END>	normal
 <END>一定很好吃<END>	normal
 <END>苹果有什么好吃的<END>	bad
 <END>我也好喜欢吃的<END>	unknown
@@ -1785,7 +1785,7 @@ a股明天涨不涨
 <END>每个地方都很温暖<END>	bad
 <END>是个很不错的日子<END>	bad
 <END>看来你很会享受<END>	bad
-<END>每个地方都很不错<END>	unknown
+<END>每个地方都很不错<END>	bad
 我朋友叫什么名字？
 <END>你的名字是小微。<END>	bad
 <END>你的名字叫小微。<END>	bad
@@ -1841,9 +1841,9 @@ a股明天涨不涨
 <END>那要看是什么事情的<END>	unknown
 <END>你的朋友就是最好的了<END>	unknown
 云南在哪里？
-<END>哪里都可以的<END>	bad
-<END>哪里都可以<END>	bad
-<END>在哪里都可以<END>	bad
+<END>哪里都可以的<END>	normal
+<END>哪里都可以<END>	normal
+<END>在哪里都可以<END>	normal
 <END>我也不太清楚<END>	normal
 <END>云南是个不错的地方<END>	normal
 世界上最高的山是什么

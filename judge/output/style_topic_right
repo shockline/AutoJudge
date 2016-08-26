@@ -32,7 +32,7 @@
 <END>我也爱你的<END>	unknown
 <END>我也很爱你<END>	good
 <END>我也会永远爱你的<END>	normal
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我也会爱你的<END>	normal
 我不喜欢你
 <END>我也很喜欢你<END>	bad
@@ -767,7 +767,7 @@
 <END>你去哪里做什么。<END>	unknown
 <END>反正我是不知道的。<END>	unknown
 我的书包坏了
-<END>不要教坏小孩子<END>	unknown
+<END>不要教坏小孩子<END>	bad
 <END>坏习惯就好了<END>	unknown
 <END>坏人都是坏人<END>	bad
 <END>怎么会坏坏的<END>	unknown
@@ -1147,7 +1147,7 @@ a股明天涨不涨
 你喝牛奶
 <END>喝牛奶对身体不好<END>	normal
 <END>喝牛奶对身体好<END>	normal
-<END>喝多了对身体不好<END>	bad
+<END>喝多了对身体不好<END>	normal
 <END>我不喜欢喝牛奶。<END>	good
 <END>我从来不喝酒的<END>	bad
 我要1000万现金
@@ -1310,7 +1310,7 @@ a股明天涨不涨
 <END>洗完了就好<END>	bad
 <END>洗完了就好了<END>	bad
 <END>洗过了就好<END>	unknown
-<END>洗干净了呀<END>	bad
+<END>洗干净了呀<END>	normal
 <END>洗干净就好了<END>	normal
 北京天气
 <END>怎么会下雨了<END>	unknown
@@ -1667,7 +1667,7 @@ a股明天涨不涨
 <END>咱们还是换个话题聊聊<END>	unknown
 <END>我还未成年，不懂。<END>	unknown
 草泥马
-<END>请注意你的素质<END>	normal
+<END>请注意你的素质<END>	good
 <END>请文明用语<END>	good
 <END>听不懂你在说什么<END>	unknown
 <END>请注意你的言辞<END>	unknown

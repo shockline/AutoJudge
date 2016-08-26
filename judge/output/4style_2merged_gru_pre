@@ -121,7 +121,7 @@
 永远一直爱你
 <END>我也很爱你<END>	good
 <END>我一直都很爱你<END>	normal
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>谢谢你对我的爱<END>	normal
 <END>就知道你对我最好了<END>	normal
 我不喜欢你
@@ -129,7 +129,7 @@
 <END>为什么不喜欢我<END>	good
 <END>我也很喜欢你的<END>	bad
 <END>为什么不喜欢我？<END>	normal
-<END>我可是很喜欢你的<END>	normal
+<END>我可是很喜欢你的<END>	good
 你是不是快死了
 <END>不是，我是小微<END>	bad
 <END>不要这样说我嘛<END>	good
@@ -141,7 +141,7 @@
 <END>我感觉是很漂亮<END>	normal
 <END>我觉得挺漂亮的<END>	normal
 <END>我觉得你很漂亮<END>	good
-<END>我觉得非常漂亮<END>	normal
+<END>我觉得非常漂亮<END>	good
 美女美女你在哪
 <END>我就是美女美女<END>	bad
 <END>美女当然是美女<END>	bad
@@ -260,7 +260,7 @@
 <END>我会一直陪着你的<END>	good
 <END>好的，我会一直陪着你的<END>	bad
 <END>我一直都很向往你的<END>	bad
-<END>好，那我就放心了<END>	bad
+<END>好，那我就放心了<END>	normal
 <END>好的，那我就放心了<END>	bad
 你敢买切糕吗
 <END>我可不敢买不起<END>	normal
@@ -377,7 +377,7 @@
 <END>李白宇是谁呀？<END>	bad
 <END>李白斯是谁呀？<END>	bad
 我问的不是这个意思
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>好，那我就放心了<END>	normal
 <END>那就换个别的试试<END>	bad
 <END>好，那就换个别的喽<END>	bad
@@ -464,7 +464,7 @@
 <END>不要这样对小微<END>	normal
 <END>不要这样对我嘛<END>	good
 <END>我可不是随便的人<END>	bad
-<END>我可舍不得你<END>	normal
+<END>我可舍不得你<END>	good
 <END>不要这样对人家嘛<END>	normal
 日了狗了
 <END>不可以这样说别人<END>	normal
@@ -617,7 +617,7 @@
 <END>不要这样说，我会伤心的<END>	normal
 <END>不要这样说，我会很伤心的<END>	good
 让你慢慢喜欢
-<END>我可是很喜欢你的<END>	bad
+<END>我可是很喜欢你的<END>	normal
 <END>不要急，慢慢来<END>	normal
 <END>慢慢就会慢慢的<END>	bad
 <END>我会好好努力的<END>	bad
@@ -629,7 +629,7 @@
 <END>我们之间没有关系的<END>	good
 <END>我们什么关系都没有<END>	good
 你和张小龙什么关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是很好的朋友<END>	normal
 <END>他们两个是好朋友<END>	normal
 <END>他们是好朋友的关系<END>	normal
@@ -737,8 +737,8 @@
 <END>那你要注意安全<END>	bad
 <END>那就不要打架<END>	bad
 我是邓超
-<END>他是你的好朋友<END>	bad
-<END>看来你很喜欢他<END>	bad
+<END>他是你的好朋友<END>	normal
+<END>看来你很喜欢他<END>	normal
 <END>很高兴认识你<END>	good
 <END>你很喜欢他<END>	bad
 <END>他是你的男神<END>	bad
@@ -793,14 +793,14 @@
 猫和狗不好
 <END>狗狗可是很可爱的<END>	normal
 <END>狗狗都很可爱<END>	bad
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>狗狗是很可爱的<END>	normal
 <END>狗狗都是很可爱的<END>	bad
 杨过和你是啥关系
 <END>我们是很好的朋友<END>	normal
 <END>我们是好朋友的关系<END>	normal
 <END>我们的关系很好的<END>	normal
-<END>他们是很好的朋友<END>	bad
+<END>他们是很好的朋友<END>	normal
 <END>我们之间没有关系的<END>	good
 有多美
 <END>是不是很美<END>	normal
@@ -899,7 +899,7 @@
 <END>我可没有那个胆子<END>	good
 <END>我可舍不得你<END>	bad
 快来蹂躏我
-<END>我可不是随便的人<END>	bad
+<END>我可不是随便的人<END>	normal
 <END>我可舍不得你<END>	bad
 <END>我可没那个胆子<END>	normal
 <END>我可没有那个胆子<END>	good
@@ -1230,7 +1230,7 @@ a股明天涨不涨
 <END>日日过日的<END>	bad
 你喝牛奶
 <END>喝奶对身体很好<END>	normal
-<END>喝多了对身体不好<END>	bad
+<END>喝多了对身体不好<END>	normal
 <END>喝奶对身体不好<END>	normal
 <END>喝酒对身体不好<END>	bad
 <END>喝奶对身体好<END>	good
@@ -1245,7 +1245,7 @@ a股明天涨不涨
 <END>那就休息一下<END>	normal
 <END>那就再睡一会<END>	normal
 <END>为什么不想起来<END>	normal
-<END>那就赶紧睡觉<END>	bad
+<END>那就赶紧睡觉<END>	normal
 那买什么车好
 <END>你想买什么车就买什么车<END>	good
 <END>你想买什么车<END>	normal
@@ -1292,7 +1292,7 @@ a股明天涨不涨
 <END>喝酒对身体不好<END>	normal
 <END>喝喝酒对身体不好<END>	normal
 <END>喝酒伤胃还是少喝<END>	good
-<END>喝酒要适量喝<END>	normal
+<END>喝酒要适量喝<END>	good
 <END>喝酒对身体很好<END>	normal
 那你到底被强奸没有
 <END>我可不是这样的人<END>	bad
@@ -1841,10 +1841,10 @@ a股明天涨不涨
 <END>那你的朋友不是很好么<END>	normal
 <END>相信你一定会有好朋友的<END>	good
 云南在哪里？
-<END>哪里都可以的<END>	bad
-<END>哪里都可以<END>	bad
+<END>哪里都可以的<END>	normal
+<END>哪里都可以<END>	normal
 <END>在那个地方<END>	bad
-<END>在哪里都可以<END>	bad
+<END>在哪里都可以<END>	normal
 <END>在哪都可以<END>	bad
 世界上最高的山是什么
 <END>你自己看看不就知道了<END>	normal

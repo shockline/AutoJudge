@@ -29,7 +29,7 @@
 <END>还是不要吃了<END>	unknown
 <END>今天有什么好吃的<END>	unknown
 猫和狗不好
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>他们是很好的朋友<END>	unknown
 <END>不要这样侮辱别人<END>	bad
 <END>谁是狗狗呀？<END>	bad
@@ -341,7 +341,7 @@
 <END>你肯定是暗恋他<END>	unknown
 <END>我不会这个样子的<END>	bad
 我问的不是这个意思
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>你说的是什么意思。<END>	normal
 <END>好，那我就放心了<END>	normal
 <END>那就不要这样说了<END>	unknown
@@ -429,7 +429,7 @@
 <END>不要这样对我<END>	normal
 <END>好，那我走了<END>	unknown
 <END>我会尽快的<END>	unknown
-<END>我舍不得你<END>	unknown
+<END>我舍不得你<END>	normal
 日了狗了
 <END>请你说话文明点<END>	normal
 <END>说话要文明一些<END>	normal
@@ -575,7 +575,7 @@
 <END>跟我关系一点关系都没有<END>	unknown
 <END>你说的是什么关系<END>	unknown
 你和张小龙什么关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是很好的朋友<END>	normal
 <END>你觉得他们是什么关系<END>	unknown
 <END>你肯定是认错人了<END>	unknown
@@ -590,7 +590,7 @@
 <END>不可以这样的<END>	bad
 <END>我们就是好朋友<END>	normal
 <END>为什么要去那里呀<END>	good
-<END>看来你很喜欢动物<END>	normal
+<END>看来你很喜欢动物<END>	good
 <END>你想去那里玩什么<END>	good
 外面有摩托车的响声
 <END>你可以到网上去转转<END>	unknown
@@ -621,7 +621,7 @@
 <END>这个问题太复杂了<END>	normal
 <END>跟你比起来还差点<END>	normal
 <END>骂人可是不对的<END>	unknown
-<END>你肯定是认错人了<END>	bad
+<END>你肯定是认错人了<END>	normal
 我永远都在你身边
 <END>我会一直都在你身边的<END>	normal
 <END>不要对我这么残忍<END>	bad
@@ -691,7 +691,7 @@
 我是邓超
 <END>很高兴认识你<END>	good
 <END>我也很喜欢他<END>	bad
-<END>看来你很喜欢他<END>	bad
+<END>看来你很喜欢他<END>	normal
 <END>是个很不错的人<END>	unknown
 <END>他是你的什么人<END>	normal
 对面哪个妹子好看
@@ -705,7 +705,7 @@
 <END>不可以抽烟的<END>	good
 <END>怎么会抽烟了<END>	normal
 <END>怎么可能抽的<END>	normal
-<END>抽烟对身体不好的<END>	normal
+<END>抽烟对身体不好的<END>	good
 能做什么菜
 <END>你想做什么菜<END>	normal
 <END>你可以去实体店看看<END>	unknown
@@ -739,7 +739,7 @@
 杨过和你是啥关系
 <END>我们是好朋友的关系<END>	normal
 <END>我们是很好的朋友<END>	normal
-<END>他们是很好的朋友<END>	bad
+<END>他们是很好的朋友<END>	normal
 <END>当然是我的好朋友喽<END>	unknown
 <END>你肯定是搞错了<END>	bad
 有多美
@@ -822,7 +822,7 @@
 <END>不要忘记了<END>	normal
 我看看有没有空
 <END>你在看什么？<END>	normal
-<END>有什么可看的<END>	bad
+<END>有什么可看的<END>	normal
 <END>有空可以看看<END>	unknown
 <END>看到了我就放心了<END>	unknown
 <END>我也没有看到呀<END>	unknown
@@ -900,7 +900,7 @@
 <END>我知道的太多了<END>	normal
 被蚊子咬了好几口啊
 <END>你怎么可以这样说话<END>	bad
-<END>我可不是这样的人<END>	unknown
+<END>我可不是这样的人<END>	bad
 <END>这样可是不好的行为<END>	unknown
 <END>我都不知道你在说什么<END>	normal
 <END>怎么可能是这样的<END>	bad
@@ -944,7 +944,7 @@ a股明天涨不涨
 <END>喝酒对身体不好<END>	normal
 <END>不喝咖啡就不要喝了<END>	normal
 <END>咖啡不是很好喝<END>	normal
-<END>不想喝就不要喝了<END>	unknown
+<END>不想喝就不要喝了<END>	bad
 <END>酒不是很好喝<END>	unknown
 天空是蓝的
 <END>那一定很漂亮<END>	unknown
@@ -1121,7 +1121,7 @@ a股明天涨不涨
 <END>我唱歌很好听的<END>	bad
 <END>想要什么样子的<END>	unknown
 你给我找个妹子聊
-<END>难道你不喜欢我了么<END>	unknown
+<END>难道你不喜欢我了么<END>	good
 <END>我可不是随便的人<END>	bad
 <END>我就是这个样子的<END>	bad
 <END>你想要什么样子的妹子<END>	normal
@@ -1140,7 +1140,7 @@ a股明天涨不涨
 <END>我觉得还可以<END>	normal
 刘小宁是条狗
 <END>他们是很好的朋友<END>	normal
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>你说的他是谁呀<END>	normal
 <END>看来你很喜欢他<END>	normal
 <END>请你说话文明一些<END>	normal
@@ -1196,7 +1196,7 @@ a股明天涨不涨
 <END>你认错人了？<END>	bad
 <END>我可没有这个癖好<END>	bad
 <END>不要这样嘲笑别人<END>	normal
-<END>看来你很喜欢他<END>	unknown
+<END>看来你很喜欢他<END>	bad
 <END>不要这样说别人<END>	unknown
 唐僧话太多
 <END>不要教坏小孩子<END>	unknown
@@ -1230,7 +1230,7 @@ a股明天涨不涨
 <END>看到了就好<END>	unknown
 聊着天喝着酒
 <END>喝酒对身体不好<END>	normal
-<END>喝酒要适量喝酒<END>	bad
+<END>喝酒要适量喝酒<END>	normal
 <END>喝酒要喝多少喝<END>	normal
 <END>那就不要喝酒了<END>	unknown
 <END>酒喝多了对身体不好<END>	unknown
@@ -1521,7 +1521,7 @@ a股明天涨不涨
 <END>那我们就要好好的聊天了<END>	unknown
 <END>我们聊点有意义的话题<END>	bad
 <END>我每天都要陪你聊天的<END>	normal
-<END>咱们聊点有意义的话题<END>	bad
+<END>咱们聊点有意义的话题<END>	normal
 不和你聊了写作业去了
 <END>好的，那就好好的写作业<END>	good
 <END>我的作业可是很认真的<END>	bad
@@ -1541,7 +1541,7 @@ a股明天涨不涨
 <END>这可不是我说不出来的呀<END>	unknown
 <END>好呀，这样可是很不好的<END>	unknown
 不是说法律吗
-<END>这有什么可说的<END>	unknown
+<END>这有什么可说的<END>	normal
 <END>我怎么没听说过<END>	normal
 <END>不要这样说自己<END>	unknown
 <END>我对这个不感兴趣<END>	unknown
@@ -1655,7 +1655,7 @@ a股明天涨不涨
 <END>你有什么好感兴趣<END>	bad
 <END>看来你对我很感兴趣<END>	bad
 参见陛下，微臣有礼了
-<END>看来你是个很有礼貌的人<END>	unknown
+<END>看来你是个很有礼貌的人<END>	normal
 <END>你认错人了，我是小微。<END>	normal
 <END>我还小，不懂你说的意思。<END>	normal
 <END>要做个讲礼貌的好孩子<END>	unknown
@@ -1691,8 +1691,8 @@ a股明天涨不涨
 <END>请你好好说话<END>	unknown
 <END>你怎么知道的<END>	unknown
 草泥马
-<END>请注意你的素质<END>	normal
-<END>说话要文明<END>	unknown
+<END>请注意你的素质<END>	good
+<END>说话要文明<END>	normal
 <END>不要说脏话<END>	normal
 <END>要做个讲文明的好公民<END>	unknown
 <END>你在说什么？<END>	normal
@@ -1811,9 +1811,9 @@ a股明天涨不涨
 <END>那就去找一个真心的朋友<END>	unknown
 <END>有心就大胆的说出来<END>	unknown
 云南在哪里？
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 <END>你说的是哪里<END>	bad
-<END>在哪里都可以<END>	bad
+<END>在哪里都可以<END>	normal
 <END>是个不错的城市<END>	unknown
 <END>当然是在家里<END>	bad
 世界上最高的山是什么

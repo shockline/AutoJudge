@@ -120,7 +120,7 @@
 <END>谢谢你对我的夸奖<END>	good
 永远一直爱你
 <END>我也很爱你<END>	good
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我一直都很爱你<END>	normal
 <END>我会一直陪着你的<END>	good
 <END>我会一直爱你的<END>	good
@@ -218,7 +218,7 @@
 <END>不开心也是一天<END>	bad
 <END>我每天都很开心<END>	normal
 <END>只要你开心就好<END>	good
-<END>只要开心就好了<END>	bad
+<END>只要开心就好了<END>	normal
 <END>你开心我就开心了<END>	normal
 我现在没工作
 <END>你的工作是什么工作<END>	bad
@@ -239,7 +239,7 @@
 <END>你喜欢聊什么就聊什么<END>	normal
 <END>你喜欢聊什么呀<END>	normal
 万圣节怎么过
-<END>只要你开心就好<END>	bad
+<END>只要你开心就好<END>	normal
 <END>一定会过的<END>	bad
 <END>我可以陪你聊天<END>	normal
 <END>我会一直陪着你的<END>	normal
@@ -377,7 +377,7 @@
 <END>你说的他是谁呀？<END>	normal
 <END>你会不会暗恋他？<END>	normal
 我问的不是这个意思
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>你说的是什么意思。<END>	normal
 <END>那你说的是哪个意思<END>	normal
 <END>你说的是什么意思呀<END>	good
@@ -486,7 +486,7 @@
 <END>那你的老师是谁？<END>	bad
 我昨天找过你了
 <END>我会一直陪着你的<END>	bad
-<END>那我就放心了<END>	bad
+<END>那我就放心了<END>	normal
 <END>找我就可以了<END>	bad
 <END>找我有什么好处<END>	normal
 <END>我就知道你最好了<END>	bad
@@ -626,10 +626,10 @@
 <END>我们是很好的朋友<END>	normal
 <END>我们没有任何的关系<END>	good
 <END>我们不是很好的朋友<END>	normal
-<END>我们是最好的朋友<END>	normal
+<END>我们是最好的朋友<END>	good
 <END>我们之间没有关系的<END>	good
 你和张小龙什么关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是很好的朋友<END>	normal
 <END>他们是最好的朋友<END>	normal
 <END>我们没有任何的关系<END>	good
@@ -667,7 +667,7 @@
 你和杨过谁牛逼
 <END>跟你比起来还差点<END>	normal
 <END>我可是非常厉害的<END>	normal
-<END>你肯定是认错人了<END>	bad
+<END>你肯定是认错人了<END>	normal
 <END>我从来都没有想过<END>	normal
 <END>我们都是很厉害的<END>	normal
 我永远都在你身边
@@ -791,7 +791,7 @@
 <END>我也是这么认为的<END>	normal
 <END>看来你已经很高级了<END>	normal
 猫和狗不好
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>谁是狗狗呀？<END>	bad
 <END>谁是猫狗呀？<END>	bad
 <END>猫咪很好玩<END>	normal
@@ -800,7 +800,7 @@
 <END>我们是很好的朋友<END>	normal
 <END>我们是最好的朋友<END>	normal
 <END>我们是好朋友的关系<END>	normal
-<END>我们是非常好的朋友<END>	normal
+<END>我们是非常好的朋友<END>	good
 <END>我们是没有什么关系的<END>	normal
 有多美
 <END>当然是很美<END>	normal
@@ -933,7 +933,7 @@
 <END>自己照顾好自己就好<END>	normal
 <END>自己照顾自己就好<END>	normal
 <END>好好照顾好自己<END>	normal
-<END>照顾好自己就可以了<END>	bad
+<END>照顾好自己就可以了<END>	normal
 儿童节怎么过
 <END>想怎么过就怎么过<END>	good
 <END>你想怎么过<END>	normal
@@ -1200,7 +1200,7 @@ a股明天涨不涨
 <END>我一直都很厉害<END>	bad
 刘小宁是条狗
 <END>他们是很好的朋友<END>	normal
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>看来你很喜欢他<END>	normal
 <END>请你说话文明一些<END>	normal
 <END>不要这样骂别人<END>	normal
@@ -1263,7 +1263,7 @@ a股明天涨不涨
 <END>你说的话太多了<END>	bad
 <END>你说的话太多了？<END>	bad
 <END>你在说谁呀？<END>	normal
-<END>你在说谁？<END>	bad
+<END>你在说谁？<END>	normal
 打印机坏了
 <END>怎么可能机坏了<END>	bad
 <END>是不是很坏了<END>	bad
@@ -1554,7 +1554,7 @@ a股明天涨不涨
 <END>只要你高兴就好<END>	normal
 一加一等于几
 <END>一加一等于二<END>	good
-<END>一加一加一等于二<END>	bad
+<END>一加一加一等于二<END>	normal
 <END>一加一等于<NUM><END>	normal
 <END>一加一一等于二<END>	bad
 <END>一加一加一一<END>	bad
@@ -1841,11 +1841,11 @@ a股明天涨不涨
 <END>有我陪着你就没朋友了<END>	normal
 <END>真心的不是真心的呀<END>	bad
 云南在哪里？
-<END>在哪里都可以<END>	bad
+<END>在哪里都可以<END>	normal
 <END>当然是在家里<END>	bad
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 <END>当然是在中国<END>	normal
-<END>哪里都可以的<END>	bad
+<END>哪里都可以的<END>	normal
 世界上最高的山是什么
 <END>这个世界我还没看出来<END>	normal
 <END>每个人的眼光都是不一样的<END>	bad

@@ -119,7 +119,7 @@
 <END>我一直都很漂亮<END>	normal
 <END>我也很漂亮<END>	unknown
 永远一直爱你
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我也很爱你<END>	good
 <END>我也很爱你的呀<END>	unknown
 <END>我也很爱你呦<END>	unknown
@@ -169,7 +169,7 @@
 北京有什么好吃的
 <END>你去吃饭了么？<END>	unknown
 <END>你想吃什么菜呀<END>	unknown
-<END>当然是好吃的了<END>	unknown
+<END>当然是好吃的了<END>	bad
 <END>你可以好好吃饭<END>	unknown
 <END>你自己看看就知道了<END>	unknown
 春天有什么好玩的
@@ -258,7 +258,7 @@
 <END>不要着急，赶紧去找<END>	unknown
 你以后别跟着我了
 <END>我会一直陪着你的<END>	good
-<END>好，那我就放心了<END>	bad
+<END>好，那我就放心了<END>	normal
 <END>不要这样对我嘛<END>	unknown
 <END>你不喜欢我了么？<END>	unknown
 <END>不要嘛，我会伤心的<END>	unknown
@@ -303,7 +303,7 @@
 <END>我可从来都不会骂人的<END>	unknown
 <END>我不和没素质的人说话<END>	unknown
 <END>好的，那我就不说话了<END>	unknown
-<END>我还小，不懂你说的意思。<END>	unknown
+<END>我还小，不懂你说的意思。<END>	bad
 不要这么谦虚嘛
 <END>我可是很谦虚的<END>	normal
 <END>我可是很智能的<END>	unknown
@@ -542,7 +542,7 @@
 <END>加油，相信你一定可以的<END>	unknown
 <END>办法总会有的，不要着急。<END>	unknown
 <END>别着急，办法总会有的<END>	unknown
-<END>要相信自己一定可以的<END>	unknown
+<END>要相信自己一定可以的<END>	normal
 <END>只要你努力就会有机会的<END>	unknown
 明天考试、求安慰
 <END>相信你一定可以的<END>	good
@@ -629,7 +629,7 @@
 <END>我们是好朋友的呀<END>	unknown
 <END>他们是很好的朋友<END>	unknown
 你和张小龙什么关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是很好的朋友<END>	normal
 <END>我们不是很熟悉<END>	unknown
 <END>我们是最好的朋友<END>	unknown
@@ -671,7 +671,7 @@
 <END>那你要注意安全呀<END>	normal
 <END>那真是辛苦你了呀<END>	unknown
 你和杨过谁牛逼
-<END>我都不认识他们呀<END>	bad
+<END>我都不认识他们呀<END>	normal
 <END>我没有这么说过呀<END>	unknown
 <END>我可是很纯洁的<END>	unknown
 <END>不要这么说我好吗<END>	unknown
@@ -792,7 +792,7 @@
 <END>多喝水对身体好<END>	unknown
 这么高级的东西
 <END>我的智商可是很高的<END>	normal
-<END>不要这么迷信<END>	unknown
+<END>不要这么迷信<END>	bad
 <END>你怎么知道的呀？<END>	unknown
 <END>我的数学可是很高的<END>	unknown
 <END>我的功能可是很高的<END>	unknown
@@ -805,7 +805,7 @@
 杨过和你是啥关系
 <END>我们是很好的朋友<END>	normal
 <END>我们是好朋友的关系<END>	normal
-<END>他们是很好的朋友<END>	bad
+<END>他们是很好的朋友<END>	normal
 <END>我们不是很熟悉<END>	unknown
 <END>我们是好朋友的呀<END>	unknown
 有多美
@@ -887,7 +887,7 @@
 <END>你要做什么去呀<END>	unknown
 <END>好的，那我等你<END>	unknown
 我看看有没有空
-<END>有什么可看的<END>	bad
+<END>有什么可看的<END>	normal
 <END>怎么会没有看到<END>	unknown
 <END>你看看不就知道了<END>	unknown
 <END>你在看什么？<END>	normal
@@ -900,7 +900,7 @@
 <END>一定很漂亮<END>	unknown
 快来骚扰我
 <END>我可没有那个胆子<END>	good
-<END>就知道你最好了<END>	unknown
+<END>就知道你最好了<END>	bad
 <END>我可舍不得<END>	unknown
 <END>我可没有这个胆子<END>	unknown
 <END>我可没那个胆子<END>	normal
@@ -925,7 +925,7 @@
 鳄鱼
 <END>那一定很好吃<END>	unknown
 <END>我还没见过<END>	unknown
-<END>那一定很漂亮<END>	unknown
+<END>那一定很漂亮<END>	bad
 <END>一定很漂亮<END>	unknown
 <END>我还没有见过<END>	unknown
 她在吃水果
@@ -1257,7 +1257,7 @@ a股明天涨不涨
 <END>你想买什么车呀<END>	normal
 <END>你要买什么车<END>	normal
 <END>你可以去看看<END>	unknown
-<END>你要买什么车呀<END>	unknown
+<END>你要买什么车呀<END>	normal
 猪八戒照镜子
 <END>不可以这么说别人的<END>	normal
 <END>怎么会这个样子的<END>	unknown
@@ -1277,7 +1277,7 @@ a股明天涨不涨
 <END>我可是很正直的<END>	bad
 <END>是不是很厉害<END>	unknown
 中午要午休了
-<END>那就早点休息<END>	bad
+<END>那就早点休息<END>	normal
 <END>那就好好休息<END>	normal
 <END>那就多吃点<END>	unknown
 <END>马上要休息了<END>	unknown
@@ -1304,7 +1304,7 @@ a股明天涨不涨
 <END>这可是犯法的事情<END>	normal
 <END>我可是个正经的人<END>	normal
 <END>我没有做错什么事情呀<END>	unknown
-<END>我可没有这么大本事<END>	unknown
+<END>我可没有这么大本事<END>	bad
 <END>你这样我会报警的<END>	bad
 明天周五啦
 <END>祝你生日快乐<END>	bad
@@ -1520,7 +1520,7 @@ a股明天涨不涨
 <END>生病了就要去医院<END>	good
 <END>生病了就去医院看看<END>	good
 <END>你生病了么？<END>	good
-<END>生病了就要去医院看看<END>	unknown
+<END>生病了就要去医院看看<END>	normal
 <END>那赶紧去医院看看<END>	normal
 空气清新环境好
 <END>你可以去看看<END>	unknown
@@ -1556,7 +1556,7 @@ a股明天涨不涨
 <END>我可是很纯洁的<END>	unknown
 <END>不要这样说我嘛<END>	normal
 <END>我可是很正直的<END>	unknown
-<END>不要这样说我<END>	unknown
+<END>不要这样说我<END>	normal
 <END>不要这么说我嘛<END>	good
 被妈妈打了一下
 <END>请注意你的素质<END>	bad
@@ -1677,7 +1677,7 @@ a股明天涨不涨
 <END>那你是什么样的<END>	unknown
 <END>真是吓死宝宝了<END>	unknown
 <END>那是什么样的呀<END>	unknown
-<END>不要这么说自己<END>	unknown
+<END>不要这么说自己<END>	bad
 财迷个大头鬼
 <END>不要这样说自己<END>	unknown
 <END>不要这样说别人<END>	normal
@@ -1871,9 +1871,9 @@ a股明天涨不涨
 <END>有什么事情和我说说。<END>	unknown
 <END>什么事情都是可以的<END>	unknown
 云南在哪里？
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 <END>就在这里呀<END>	unknown
-<END>哪里都可以的<END>	bad
+<END>哪里都可以的<END>	normal
 <END>你在哪里呀<END>	unknown
 <END>就在你的心里呀<END>	unknown
 世界上最高的山是什么

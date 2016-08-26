@@ -218,7 +218,7 @@
 <END>开心就好<END>	normal
 <END>你开心就好了<END>	normal
 <END>为什么不开心？<END>	normal
-<END>只要开心就好了<END>	bad
+<END>只要开心就好了<END>	normal
 <END>是不是很开心<END>	bad
 我现在没工作
 <END>那就好好工作<END>	bad
@@ -738,8 +738,8 @@
 <END>为什么要打架呀<END>	normal
 <END>为什么要打架的<END>	good
 我是邓超
-<END>看来你很喜欢他<END>	bad
-<END>他是你的好朋友<END>	bad
+<END>看来你很喜欢他<END>	normal
+<END>他是你的好朋友<END>	normal
 <END>没听过这个人<END>	normal
 <END>你喜欢就好。<END>	bad
 <END>你认识他么？<END>	bad

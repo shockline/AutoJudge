@@ -242,8 +242,8 @@
 <END>你可以试试<END>	bad
 <END>很高兴认识你<END>	bad
 <END>你高兴就好<END>	bad
-<END>你开心就好<END>	bad
-<END>只要你开心就好<END>	bad
+<END>你开心就好<END>	normal
+<END>只要你开心就好<END>	normal
 我先去睡觉了
 <END>早点休息，晚安<END>	good
 <END>早点休息，晚安。<END>	normal
@@ -763,7 +763,7 @@
 公司不让抽烟了
 <END>抽烟对身体不好<END>	good
 <END>那就不要抽了<END>	good
-<END>抽烟对身体不好的<END>	normal
+<END>抽烟对身体不好的<END>	good
 <END>抽烟有什么好的<END>	normal
 <END>抽烟有什么不好的<END>	good
 能做什么菜
@@ -799,7 +799,7 @@
 猫和狗不好
 <END>狗狗是很可爱的动物<END>	normal
 <END>小猫咪很可爱<END>	normal
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>狗狗是很可爱的<END>	normal
 <END>只要你喜欢就好<END>	bad
 杨过和你是啥关系
@@ -1874,7 +1874,7 @@ a股明天涨不涨
 <END>你想去哪里都可以<END>	bad
 <END>你想去哪里？<END>	bad
 <END>在家里呆着<END>	bad
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 <END>哪里都很美<END>	bad
 世界上最高的山是什么
 <END>你自己看看就知道了呀<END>	normal

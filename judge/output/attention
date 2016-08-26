@@ -31,7 +31,7 @@
 永远一直爱你
 <END>我也很爱你<END>	good
 <END>谢谢你对我的爱<END>	normal
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我也好爱你<END>	normal
 <END>我也永远爱你<END>	good
 我不喜欢你
@@ -288,7 +288,7 @@
 <END>你是不是听错了<END>	bad
 我问的不是这个意思
 <END>那你说的是什么意思呀<END>	good
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>那你说的是什么意思。<END>	good
 <END>这有什么不好意思的<END>	bad
 <END>是，就是这个意思。<END>	bad
@@ -375,7 +375,7 @@
 <END>不要这么凶嘛<END>	good
 <END>不要这样对我<END>	normal
 <END>不要，我舍不得你<END>	normal
-<END>我可舍不得你<END>	normal
+<END>我可舍不得你<END>	good
 日了狗了
 <END>请注意你的素质<END>	good
 <END>狗狗那么可爱<END>	bad
@@ -537,10 +537,10 @@
 <END>我们是好朋友的关系<END>	normal
 <END>我们关系是很好的朋友<END>	normal
 <END>我们的关系可多了<END>	normal
-<END>我们是最好的朋友<END>	normal
+<END>我们是最好的朋友<END>	good
 你和张小龙什么关系
 <END>我们是好朋友的关系<END>	normal
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>我觉得他们是好朋友<END>	normal
 <END>他们是好朋友的关系<END>	normal
 <END>我们的关系很好的<END>	bad
@@ -654,7 +654,7 @@
 <END>怎么会打架的<END>	normal
 我是邓超
 <END>很高兴认识你<END>	good
-<END>看来你很喜欢他<END>	bad
+<END>看来你很喜欢他<END>	normal
 <END>我也很喜欢他<END>	bad
 <END>我也很喜欢<END>	bad
 <END>我也很喜欢你<END>	bad
@@ -1149,7 +1149,7 @@ a股明天涨不涨
 <END>喝奶对身体可不好<END>	bad
 <END>喝牛奶对身体不好<END>	normal
 <END>喝奶对身体不好<END>	normal
-<END>喝多了对身体不好<END>	bad
+<END>喝多了对身体不好<END>	normal
 我要1000万现金
 <END>谁是金金呀？<END>	bad
 <END>那你要好好努力<END>	normal
@@ -1191,7 +1191,7 @@ a股明天涨不涨
 <END>午休可以休息一下<END>	good
 <END>午休可以休息<END>	normal
 <END>那就午休了<END>	bad
-<END>那就早点休息<END>	bad
+<END>那就早点休息<END>	normal
 咖啡机
 <END>听起来很不错<END>	bad
 <END>看来你很喜欢咖啡<END>	normal
@@ -1207,8 +1207,8 @@ a股明天涨不涨
 聊着天喝着酒
 <END>喝酒对身体不好<END>	normal
 <END>喝酒对身体可不好<END>	good
-<END>喝酒要适量喝酒<END>	bad
-<END>喝酒要适量喝<END>	normal
+<END>喝酒要适量喝酒<END>	normal
+<END>喝酒要适量喝<END>	good
 <END>喝酒可要适量<END>	normal
 那你到底被强奸没有
 <END>这个可是说不准的<END>	bad
@@ -1494,7 +1494,7 @@ a股明天涨不涨
 <END>是不是很高兴<END>	bad
 一加一等于几
 <END>一加一等于二<END>	good
-<END>一加一加一等于二<END>	bad
+<END>一加一加一等于二<END>	normal
 <END>一加一等于三<END>	normal
 <END>一加一等于<NUM><END>	normal
 <END>一加一等于几<END>	bad
@@ -1787,9 +1787,9 @@ a股明天涨不涨
 <END>那就去找一个好朋友的呀<END>	normal
 <END>那就跟我说说来听听<END>	bad
 云南在哪里？
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 <END>想去哪里都可以<END>	bad
-<END>哪里都可以的<END>	bad
+<END>哪里都可以的<END>	normal
 <END>当然是在中国<END>	normal
 <END>你想去哪里都可以<END>	bad
 世界上最高的山是什么

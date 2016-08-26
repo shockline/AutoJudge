@@ -219,7 +219,7 @@
 <END>小微一直都很开心<END>	normal
 <END>我每天都很开心<END>	normal
 <END>只要你开心就好了<END>	bad
-<END>只要开心就好了<END>	bad
+<END>只要开心就好了<END>	normal
 我现在没工作
 <END>小微一直都在工作<END>	bad
 <END>现在就在工作<END>	bad
@@ -632,7 +632,7 @@
 <END>他们是很好的朋友<END>	normal
 <END>我们可是很好的朋友<END>	normal
 <END>我们没有任何的关系<END>	good
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>这是个秘密，不能告诉你<END>	normal
 你是白富美吗
 <END>谢谢你对我的认可<END>	bad
@@ -939,7 +939,7 @@
 <END>谢谢你对我的认可<END>	bad
 <END>你可以自己照顾自己<END>	bad
 <END>不要太注重外表<END>	bad
-<END>你要好好照顾自己<END>	bad
+<END>你要好好照顾自己<END>	normal
 儿童节怎么过
 <END>你可以试试<END>	bad
 <END>你可以试一下<END>	bad
@@ -1209,7 +1209,7 @@ a股明天涨不涨
 <END>不要随便骂人<END>	good
 <END>请不要侮辱别人<END>	normal
 <END>不要这么侮辱别人<END>	normal
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 叶良辰是谁
 <END>肯定不是你<END>	normal
 <END>是个大帅哥<END>	normal
@@ -1280,7 +1280,7 @@ a股明天涨不涨
 <END>那就好好休息<END>	normal
 <END>那就好好休息一下<END>	normal
 <END>那你要好好休息<END>	normal
-<END>那就早点休息<END>	bad
+<END>那就早点休息<END>	normal
 <END>午安，好好休息<END>	normal
 咖啡机
 <END>真是很不错<END>	normal

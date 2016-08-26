@@ -1111,7 +1111,7 @@ a股明天涨不涨
 你喝牛奶
 <END>喝牛奶对身体不好<END>	normal
 <END>喝牛奶对身体好<END>	normal
-<END>喝多了对身体不好<END>	bad
+<END>喝多了对身体不好<END>	normal
 <END>我不喜欢喝牛奶。<END>	good
 <END>你喜欢喝牛奶么？<END>	normal
 我要1000万现金
@@ -1125,7 +1125,7 @@ a股明天涨不涨
 <END>那就早点休息<END>	bad
 <END>那就别睡了<END>	bad
 <END>那就早点睡觉<END>	bad
-<END>那就赶紧睡觉<END>	bad
+<END>那就赶紧睡觉<END>	normal
 那买什么车好
 <END>想买什么就买什么<END>	good
 <END>你想买什么就买什么<END>	good
@@ -1273,7 +1273,7 @@ a股明天涨不涨
 洗干净了没
 <END>洗完了就好<END>	bad
 <END>洗完了就好了<END>	bad
-<END>洗干净了呀<END>	bad
+<END>洗干净了呀<END>	normal
 <END>洗干净就好了<END>	normal
 <END>我可是很讲卫生的<END>	bad
 北京天气

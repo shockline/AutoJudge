@@ -1,0 +1,1800 @@
+你 好
+result: <END> 你 好 <END>, score: 9.633098, origin: 7.882283, reverse: 16.097733
+result: <END> 你 好 你 好 <END>, score: 9.962738, origin: 9.222621, reverse: 18.851359
+result: <END> 你 好 呀 <END>, score: 10.779307, origin: 7.603528, reverse: 19.283212
+result: <END> 嘿 嘿 ， 你 好 <END>, score: 10.879930, origin: 9.590338, reverse: 21.432612
+result: <END> 你 好 ， 你 好 <END>, score: 11.023223, origin: 8.549141, reverse: 22.083544
+晚上 好
+result: <END> 晚上 好 呀 <END>, score: 3.872136, origin: 6.906149, reverse: 9.714702
+result: <END> 晚上 好 ， 晚上 好 <END>, score: 3.875945, origin: 7.315930, reverse: 12.401666
+result: <END> 晚上 好 <END>, score: 4.159286, origin: 5.680735, reverse: 9.221522
+result: <END> 晚上 好 ， 晚上 你 好 <END>, score: 4.256576, origin: 9.701990, reverse: 13.351398
+result: <END> 晚上 好 ， 晚上 <END>, score: 4.355949, origin: 8.526735, reverse: 11.139899
+拜 拜
+result: <END> 拜 拜 ， 再 见 <END>, score: 4.399550, origin: 6.776841, reverse: 13.380711
+result: <END> 拜 拜 <END>, score: 4.597707, origin: 6.051921, reverse: 9.688759
+result: <END> 拜 拜 ， 拜 拜 <END>, score: 4.729237, origin: 4.678527, reverse: 14.750970
+result: <END> 那 就 拜 拜 拜 <END>, score: 4.938250, origin: 9.014219, reverse: 13.191406
+result: <END> 拜 拜 ， 下次 再 见 <END>, score: 5.007023, origin: 8.719031, reverse: 14.844734
+你 好 吗 ？
+result: <END> 我 很 好 呀 <END>, score: 13.440184, origin: 8.202536, reverse: 24.256319
+result: <END> 我 很 好 的 呀 <END>, score: 14.108766, origin: 8.632896, reverse: 26.455567
+result: <END> 我 很 好 的 <END>, score: 14.837916, origin: 8.431716, reverse: 26.154860
+result: <END> 我 很 好 不 好 <END>, score: 15.289052, origin: 9.773632, reverse: 27.652804
+result: <END> 我 的 好 好 的 <END>, score: 15.371188, origin: 9.239973, reverse: 27.998852
+你 好 漂亮
+result: <END> 谢 谢 你 对 我 的 漂亮 <END>, score: 7.262132, origin: 7.524826, reverse: 20.006691
+result: <END> 我 很 漂亮 <END>, score: 8.051103, origin: 5.475038, reverse: 16.297988
+result: <END> 比 我 漂亮 <END>, score: 8.186085, origin: 8.597782, reverse: 15.152501
+result: <END> 我 才 是 最 漂亮 的 <END>, score: 8.319888, origin: 8.398623, reverse: 19.714716
+result: <END> 谢 谢 ， 我 很 漂亮 <END>, score: 8.489112, origin: 8.405355, reverse: 19.953579
+永 远 一直 爱 你
+result: <END> 我 永 远 也 爱 你 <END>, score: 4.410453, origin: 8.535019, reverse: 14.071353
+result: <END> 我 永 远 爱 你 <END>, score: 4.899418, origin: 8.603897, reverse: 13.311784
+result: <END> 我 也 永 远 爱 你 <END>, score: 4.941690, origin: 7.918832, reverse: 15.094344
+result: <END> 我 永 远 都 爱 你 <END>, score: 5.048625, origin: 8.624885, reverse: 14.944514
+result: <END> 我 就 永 远 爱 你 <END>, score: 5.316854, origin: 8.871870, reverse: 15.221847
+我 不 喜欢 你
+result: <END> 为什么 不 喜欢 我 呀 <END>, score: 3.565242, origin: 6.558376, reverse: 12.282471
+result: <END> 你 为什么 不 喜欢 我 呀 <END>, score: 4.139957, origin: 7.055740, reverse: 14.318907
+result: <END> 为什么 不 喜欢 我 的 <END>, score: 4.657644, origin: 7.565755, reverse: 13.411311
+result: <END> 为什么 不 喜欢 我 的 呀 <END>, score: 4.941549, origin: 8.042176, reverse: 15.041281
+result: <END> 为什么 不 喜欢 我 <END>, score: 5.066879, origin: 5.743301, reverse: 13.348413
+你 是 不 是 快 死 了
+result: <END> 我 当 然 不 会 死 的 <END>, score: 8.578400, origin: 9.180551, reverse: 21.177478
+result: <END> 我 怎 么 可 能 死 了 <END>, score: 9.521073, origin: 8.394008, reverse: 22.861244
+result: <END> 我 从 来 不 会 死 的 <END>, score: 9.964402, origin: 9.204023, reverse: 23.147421
+result: <END> 我 怎 么 可 能 是 死 了 <END>, score: 10.319451, origin: 9.945201, reverse: 24.765558
+result: <END> 怎 么 可 能 是 死 了 <END>, score: 10.421129, origin: 9.390390, reverse: 23.720017
+你 觉得 我 漂亮 吗
+result: <END> 我 觉得 我 很 漂亮 <END>, score: 3.192981, origin: 6.538292, reverse: 11.759277
+result: <END> 我 觉得 我 很 漂亮 呀 <END>, score: 3.278291, origin: 8.947952, reverse: 12.277008
+result: <END> 我 当 然 很 漂亮 <END>, score: 3.568385, origin: 6.581686, reverse: 12.276970
+result: <END> 我 感觉 我 很 漂亮 <END>, score: 3.885887, origin: 7.475523, reverse: 12.347472
+result: <END> 我 感觉 挺 漂亮 的 <END>, score: 4.089493, origin: 6.893841, reverse: 12.887629
+美 女 美 女 你 在 哪
+result: <END> 美 女 在 哪 里 都 美 <END>, score: 9.105462, origin: 8.143290, reverse: 22.374964
+result: <END> 美 女 在 你 心 里 呀 <END>, score: 10.468837, origin: 8.517517, reverse: 24.162259
+result: <END> 美 美 女 在 你 心 里 <END>, score: 10.498598, origin: 9.454723, reverse: 23.803116
+result: <END> 美 女 在 你 的 心 里 <END>, score: 10.576258, origin: 8.992252, reverse: 24.112261
+result: <END> 美 女 在 哪 里 都 很 美 <END>, score: 10.606914, origin: 8.626277, reverse: 25.741472
+我 饿 了
+result: <END> 饿 了 就 去 吃 饭 <END>, score: 3.408023, origin: 3.442984, reverse: 14.821610
+result: <END> 快 去 吃 饭 <END>, score: 3.769200, origin: 7.310796, reverse: 10.822802
+result: <END> 饿 就 去 吃 饭 <END>, score: 3.907529, origin: 7.384538, reverse: 12.417383
+result: <END> 你 饿 了 就 去 吃 饭 <END>, score: 3.915755, origin: 5.682491, reverse: 16.015725
+result: <END> 那 就 去 吃 饭 <END>, score: 4.006073, origin: 5.539196, reverse: 13.349020
+今天 有 点 事
+result: <END> 今天 什 么 事 了 <END>, score: 5.930569, origin: 9.827790, reverse: 14.260331
+result: <END> 今天 什 么 事 <END>, score: 6.122522, origin: 9.812834, reverse: 13.112389
+result: <END> 今天 有 什 么 事 吗 <END>, score: 6.134313, origin: 8.664139, reverse: 16.478674
+result: <END> 今天 有 什 么 事 么 <END>, score: 6.177738, origin: 8.240618, reverse: 16.722218
+result: <END> 今天 有 什 么 事 <END>, score: 6.307072, origin: 8.151414, reverse: 15.516640
+我 下午 要 开会
+result: <END> 好 ， 那 就 下午 下午 <END>, score: 11.288039, origin: 9.432016, reverse: 23.512049
+result: <END> 好 的 ， 那 就 下午 下午 <END>, score: 11.974897, origin: 8.652717, reverse: 26.255831
+result: <END> 下午 怎 么 样 <END>, score: 12.625940, origin: 8.563746, reverse: 22.938309
+result: <END> 上课 要 注意 安全 <END>, score: 14.927966, origin: 7.715511, reverse: 26.590447
+result: <END> 那 就 好 好 开会 <END>, score: 16.191089, origin: 9.049590, reverse: 29.251731
+北京 有 什 么 好 吃 的
+result: <END> 当 然 是 有 好 吃 的 <END>, score: 4.009261, origin: 8.482923, reverse: 14.949120
+result: <END> 你 有 什 么 好 吃 的 <END>, score: 4.247374, origin: 8.276425, reverse: 15.377781
+result: <END> 什 么 都 有 好 吃 的 <END>, score: 4.251074, origin: 8.655648, reverse: 15.220543
+result: <END> 一 定 会 有 好 吃 的 <END>, score: 4.355120, origin: 8.707446, reverse: 15.346980
+result: <END> 什 么 好 吃 的 都 有 <END>, score: 4.544099, origin: 8.389996, reverse: 15.753000
+春天 有 什 么 好 玩 的
+result: <END> 当 然 是 有 好 玩 的 <END>, score: 4.889254, origin: 9.083309, reverse: 15.948945
+result: <END> 这 有 什 么 好 玩 的 <END>, score: 5.112161, origin: 8.238332, reverse: 16.629517
+result: <END> 什 么 都 有 好 玩 的 <END>, score: 5.320216, origin: 8.342931, reverse: 16.881909
+result: <END> 一 定 会 有 好 玩 的 <END>, score: 5.451942, origin: 9.122809, reverse: 16.735857
+result: <END> 有 什 么 好 玩 的 呀 <END>, score: 5.462286, origin: 8.105465, reverse: 17.186638
+去 哪 里 玩 比 较 好 玩 呢
+result: <END> 你 想 去 哪 里 玩 都 好 玩 <END>, score: 13.194406, origin: 9.211060, reverse: 30.615840
+result: <END> 你 想 去 哪 玩 就 去 哪 里 玩 <END>, score: 13.527418, origin: 9.109587, reverse: 32.563631
+result: <END> 哪 里 都 好 玩 就 哪 里 玩 <END>, score: 13.543013, origin: 9.307848, reverse: 31.072370
+result: <END> 想 去 哪 里 玩 就 哪 里 玩 <END>, score: 13.739700, origin: 10.674167, reverse: 30.767786
+result: <END> 想 去 哪 里 玩 都 可 以 玩 <END>, score: 13.866257, origin: 9.901721, reverse: 31.279629
+今天 天气 好 晴 朗
+result: <END> 今天 天气 很 晴 朗 <END>, score: 24.845738, origin: 7.228887, reverse: 42.395817
+result: <END> 今天 天气 很 晴 天 <END>, score: 24.894408, origin: 8.597349, reverse: 41.878862
+result: <END> 今天 天气 天气 很 好 <END>, score: 25.188088, origin: 7.832595, reverse: 42.626156
+result: <END> 天气 不错 ， 天气 不错 <END>, score: 25.246255, origin: 8.368014, reverse: 42.479787
+result: <END> 今天 的 天气 很 好 <END>, score: 25.314407, origin: 8.544158, reverse: 42.501657
+我 喜欢 今天 天气
+result: <END> 最 喜欢 天气 预报 <END>, score: 15.490980, origin: 8.092455, reverse: 27.233205
+result: <END> 我 也 喜欢 天气 <END>, score: 15.914602, origin: 8.199118, reverse: 27.792666
+result: <END> 今天 天气 很 适合 <END>, score: 16.966586, origin: 9.197910, reverse: 28.867447
+result: <END> 我 就 喜欢 天气 <END>, score: 17.079433, origin: 9.116486, reverse: 29.063553
+result: <END> 我 不 喜欢 天气 <END>, score: 17.237182, origin: 9.425349, reverse: 29.156539
+我 没有 男 朋友
+result: <END> 我 也 没有 男 朋友 。 <END>, score: 3.923573, origin: 8.866247, reverse: 13.233856
+result: <END> 我 没有 男 朋友 。 <END>, score: 4.510755, origin: 8.226292, reverse: 12.918382
+result: <END> 为什么 没有 男 朋友 <END>, score: 4.665302, origin: 7.999898, reverse: 11.807618
+result: <END> 为什么 会 没有 男 朋友 <END>, score: 4.868651, origin: 8.838864, reverse: 13.167130
+result: <END> 我 也 没有 男 朋友 <END>, score: 5.076752, origin: 7.066078, reverse: 14.224184
+男 朋友 找 什 么 样 的 好
+result: <END> 你 觉得 什 么 样 的 男 朋友 好 <END>, score: 15.759090, origin: 10.519439, reverse: 33.718940
+result: <END> 你 觉得 什 么 样 的 算 好 <END>, score: 15.815604, origin: 8.475726, reverse: 33.246980
+result: <END> 你 可 以 自 己 找 找 看 <END>, score: 16.210320, origin: 10.798804, reverse: 32.815256
+result: <END> 你 觉得 什 么 样 的 男 朋友 呀 <END>, score: 16.237185, origin: 10.605763, reverse: 34.364937
+result: <END> 我 可 以 帮 你 找 找 看 <END>, score: 16.329354, origin: 8.606216, reverse: 33.924985
+你 是 哲 学 家 吗
+result: <END> 我 当 然 是 在 家 <END>, score: 14.588024, origin: 9.863383, reverse: 28.041441
+result: <END> 你 就 是 我 的 家 <END>, score: 14.645496, origin: 9.924505, reverse: 28.097349
+result: <END> 我 当 然 相 信 你 <END>, score: 14.999752, origin: 9.929865, reverse: 28.601131
+result: <END> 当 然 是 相 当 的 <END>, score: 15.184478, origin: 9.881906, reverse: 28.885580
+result: <END> 我 本 来 就 很 聪明 <END>, score: 15.450011, origin: 9.238961, reverse: 29.540461
+不 开心 也 是 一 天
+result: <END> 不 开心 也 是 一 天 <END>, score: 13.200946, origin: 8.677170, reverse: 26.568279
+result: <END> 开心 不 是 一 天 的 <END>, score: 14.625607, origin: 9.781577, reverse: 28.130192
+result: <END> 不 开心 也 是 一 天 的 <END>, score: 15.238996, origin: 10.347295, reverse: 30.192582
+result: <END> 我 感觉 也 是 很 开心 <END>, score: 15.482613, origin: 9.631968, reverse: 29.418604
+result: <END> 恩 ， 我 也 很 开心 <END>, score: 15.515863, origin: 9.322688, reverse: 29.598652
+我 现在 没 工作
+result: <END> 我 也 没有 工作 <END>, score: 8.780771, origin: 7.653737, reverse: 17.835214
+result: <END> 现在 没有 工作 了 <END>, score: 9.172055, origin: 8.499529, reverse: 18.031709
+result: <END> 现在 没有 工作 的 <END>, score: 9.291394, origin: 8.853716, reverse: 18.050398
+result: <END> 怎 么 会 没有 工作 <END>, score: 9.988805, origin: 7.816147, reverse: 20.919945
+result: <END> 现在 都 没有 工作 <END>, score: 10.106290, origin: 8.580522, reverse: 19.331619
+你 有 办 法 让 我 开心 吗
+result: <END> 我 没有 办 法 让 你 开心 的 <END>, score: 6.790864, origin: 10.781162, reverse: 19.366450
+result: <END> 有 什 么 办 法 让 你 开心 的 <END>, score: 7.694769, origin: 9.914028, reverse: 22.457943
+result: <END> 你 想 让 我 给 你 开心 果 喽 <END>, score: 7.815080, origin: 11.044865, reverse: 22.145172
+result: <END> 我 可 以 给 你 开心 办 法 <END>, score: 8.169203, origin: 10.558614, reverse: 21.430883
+result: <END> 你 想 让 我 给 你 开心 果 <END>, score: 8.189915, origin: 11.035880, reverse: 21.255929
+你 喜欢 聊 什 么
+result: <END> 我 什 么 都 喜欢 聊 <END>, score: 6.534597, origin: 6.634375, reverse: 17.920406
+result: <END> 什 么 都 喜欢 聊 <END>, score: 7.316062, origin: 8.202855, reverse: 16.936008
+result: <END> 你 喜欢 聊 什 么 我 都 喜欢 <END>, score: 8.812685, origin: 8.787228, reverse: 23.109310
+result: <END> 你 喜欢 聊 什 么 <END>, score: 8.908436, origin: 5.451513, reverse: 20.389974
+result: <END> 当 然 是 喜欢 聊 天 <END>, score: 9.622299, origin: 8.575771, reverse: 21.499382
+万圣节 怎 么 过
+result: <END> 可 以 一起 过 <END>, score: 9.411894, origin: 10.304537, reverse: 17.600761
+result: <END> 可 以 一起 过 节 <END>, score: 9.635103, origin: 10.965400, reverse: 19.064976
+result: <END> 可 以 一起 过 的 <END>, score: 10.172196, origin: 9.992889, reverse: 20.249042
+result: <END> 那 就 一起 过 <END>, score: 10.325737, origin: 9.638053, reverse: 19.191888
+result: <END> 当 然 过 了 <END>, score: 10.328348, origin: 11.073318, reverse: 18.580504
+我 先 去 睡 觉 了
+result: <END> 去 睡 觉 做 什 么 去 <END>, score: 5.076287, origin: 7.653812, reverse: 16.828777
+result: <END> 好 的 ， 早 点 休息 <END>, score: 5.076787, origin: 7.001358, reverse: 15.680542
+result: <END> 好 的 ， 那 你 早 点 休息 <END>, score: 5.491135, origin: 8.561611, reverse: 18.460931
+result: <END> 好 的 ， 那 就 早 点 休息 <END>, score: 5.774415, origin: 6.788147, reverse: 19.625673
+result: <END> 去 睡 觉 去 干 嘛 <END>, score: 5.931346, origin: 8.322154, reverse: 16.335285
+老板 不 给 发 工资 怎 么 办
+result: <END> 那 就 先 给 他 发 工资 呗 <END>, score: 10.722140, origin: 11.487073, reverse: 24.680026
+result: <END> 那 就 先 给 老板 发 工资 喽 <END>, score: 11.251326, origin: 11.058821, reverse: 25.619543
+result: <END> 那 就 给 他 好 好 发 工资 <END>, score: 11.466205, origin: 12.152546, reverse: 25.457773
+result: <END> 那 就 先 给 他 发 工资 喽 <END>, score: 11.589533, origin: 10.380462, reverse: 26.393421
+result: <END> 你 可 以 给 老板 发 工资 的 <END>, score: 11.675318, origin: 10.872796, reverse: 26.304970
+你 以后 别 跟 着 我 了
+result: <END> 我 什 么 时候 跟 你 了 <END>, score: 14.282893, origin: 10.424266, reverse: 28.793733
+result: <END> 我 一直 都 跟 你 在 一起 <END>, score: 15.036441, origin: 10.161320, reverse: 29.982921
+result: <END> 我 可 是 很 正 经 的 <END>, score: 16.935338, origin: 9.034030, reverse: 33.178756
+result: <END> 我 可 是 很 纯 洁 的 <END>, score: 17.271011, origin: 9.004851, reverse: 33.670793
+result: <END> 不 要 这 样 对 我 嘛 <END>, score: 17.322408, origin: 8.558854, reverse: 33.935360
+你 敢 买 切 糕 吗
+result: <END> 我 不 敢 买 不 起 <END>, score: 14.346173, origin: 6.220451, reverse: 29.257196
+result: <END> 我 不 敢 买 不 买 <END>, score: 14.710512, origin: 8.928590, reverse: 28.617050
+result: <END> 我 可 不 敢 买 饼 <END>, score: 15.094725, origin: 9.914389, reverse: 28.743441
+result: <END> 不 敢 买 不 起 呀 <END>, score: 15.297031, origin: 8.727595, reverse: 29.541075
+result: <END> 我 不 敢 买 的 呀 <END>, score: 15.556863, origin: 8.825237, reverse: 29.870417
+我 今天 没有 捡 到 钱 ， 好 伤 心
+result: <END> 不 要 伤 心 ， 我 会 心 疼 的 <END>, score: 22.944608, origin: 9.431052, reverse: 45.878989
+result: <END> 不 要 伤 心 ， 我 陪 着 你 。 <END>, score: 23.090174, origin: 11.630665, reverse: 45.144250
+result: <END> 不 要 伤 心 ， 我 陪 着 你 的 <END>, score: 23.554488, origin: 10.549546, reverse: 46.270892
+result: <END> 不 要 伤 心 ， 一 定 要 心 疼 <END>, score: 23.679482, origin: 11.259175, reverse: 46.145328
+result: <END> 不 要 伤 心 ， 一 定 会 心 疼 <END>, score: 23.707032, origin: 12.043609, reverse: 45.848499
+天 上 有 多 少 颗 星 星
+result: <END> 你 想 要 多 少 数 星 星 <END>, score: 10.447571, origin: 9.814484, reverse: 25.004609
+result: <END> 你 想 要 多 少 数 星 星 星 <END>, score: 12.360572, origin: 11.947075, reverse: 28.252071
+result: <END> 你 要 给 我 数 星 星 星 <END>, score: 12.690227, origin: 9.810266, reverse: 28.210211
+result: <END> 你 可 以 看 看 有 多 少 数 星 星 <END>, score: 13.180369, origin: 11.518955, reverse: 32.463833
+result: <END> 你 要 给 我 数 星 星 吗 <END>, score: 13.218300, origin: 12.037185, reverse: 28.010206
+今天 天气 不 好
+result: <END> 今天 天气 不 好 <END>, score: 8.574257, origin: 7.197982, reverse: 17.735517
+result: <END> 今天 天气 好 了 <END>, score: 8.663214, origin: 8.890636, reverse: 17.137176
+result: <END> 今天 天气 很 好 <END>, score: 8.711632, origin: 5.913868, reverse: 18.482102
+result: <END> 今天 天气 还 不错 <END>, score: 8.927448, origin: 6.874641, reverse: 18.378651
+result: <END> 天气 挺 好 的 <END>, score: 9.018478, origin: 7.462906, reverse: 18.256581
+太阳 好 大 啊
+result: <END> 我 觉得 很 不错 <END>, score: 18.016842, origin: 8.167018, reverse: 30.809624
+result: <END> 我 觉得 还 不错 <END>, score: 18.288061, origin: 8.619087, reverse: 31.003335
+result: <END> 我 觉得 很 好 <END>, score: 18.637536, origin: 7.342539, reverse: 32.049677
+result: <END> 一直 都 很 好 <END>, score: 19.210230, origin: 8.479207, reverse: 32.380669
+result: <END> 我 觉得 还 好 <END>, score: 19.371741, origin: 9.427200, reverse: 32.205116
+北 风 嗖 嗖 的 吹
+result: <END> 你 可 以 吹 风 吹 <END>, score: 26.602653, origin: 10.007456, reverse: 45.143452
+result: <END> 你 这 是 在 吹 吹 <END>, score: 27.319408, origin: 9.715118, reverse: 46.292675
+result: <END> 你 可 要 注意 风 吹 <END>, score: 27.564697, origin: 10.068004, reverse: 46.491852
+result: <END> 你 可 以 去 吹 吹 <END>, score: 28.639360, origin: 9.932158, reverse: 48.085304
+result: <END> 你 可 以 自 己 吹 <END>, score: 28.733182, origin: 10.237519, reverse: 48.088467
+有 人 跟 我 撕 逼 ， 不 讲 理
+result: <END> 那 你 就 不 要 和 他 讲 理 喽 <END>, score: 36.868429, origin: 12.816616, reverse: 64.319206
+result: <END> 不 可 以 随 便 讲 理 别人 的 呀 <END>, score: 38.086627, origin: 13.648830, reverse: 65.702826
+result: <END> 好 ， 那 你 就 不 理 他 们 了 <END>, score: 38.535019, origin: 13.135559, reverse: 66.563358
+result: <END> 不 可 以 随 便 随 便 讲 理 的 <END>, score: 38.568698, origin: 12.879444, reverse: 66.721235
+result: <END> 不 理 你 就 不 要 理 他 们 了 <END>, score: 38.662331, origin: 13.914750, reverse: 66.411295
+不 要 这 么 谦 虚 嘛
+result: <END> 我 就 是 很 谦 虚 的 <END>, score: 8.113213, origin: 8.196717, reverse: 20.934568
+result: <END> 我 一直 都 很 谦 虚 的 <END>, score: 8.601649, origin: 6.900265, reverse: 22.187956
+result: <END> 那 就 不 要 谦 虚 了 <END>, score: 8.894157, origin: 7.695305, reverse: 22.265094
+result: <END> 我 可 是 很 谦 虚 的 <END>, score: 8.906175, origin: 5.516503, reverse: 23.216034
+result: <END> 谦 虚 可 是 很 重要 的 <END>, score: 9.030770, origin: 9.402979, reverse: 21.728395
+明天 去 打 球
+result: <END> 为什么 要 打 球 <END>, score: 4.944973, origin: 8.702981, reverse: 11.905827
+result: <END> 我 可 不 会 打 球 <END>, score: 6.727533, origin: 8.032021, reverse: 17.597038
+result: <END> 我 不 会 打 球 <END>, score: 6.812421, origin: 8.931154, reverse: 15.904393
+result: <END> 我 不 会 打 球 的 <END>, score: 7.254669, origin: 9.332637, reverse: 17.792683
+result: <END> 打 球 可 是 很 危 险 的 <END>, score: 7.320822, origin: 9.594172, reverse: 20.632243
+我 老板 就 在 我 身 边
+result: <END> 在 你 身 边 你 的 自由 <END>, score: 14.054211, origin: 10.150417, reverse: 28.584409
+result: <END> 在 你 身 边 干 嘛 去 <END>, score: 14.083267, origin: 10.101973, reverse: 28.646679
+result: <END> 在 你 身 边 做 什 么 <END>, score: 14.779090, origin: 9.667709, reverse: 29.826825
+result: <END> 看 来 你 很 羡 慕 你 <END>, score: 14.880384, origin: 9.295386, reverse: 30.131097
+result: <END> 在 你 身 边 干 什 么 <END>, score: 14.896144, origin: 9.238308, reverse: 30.178074
+你 什 么 地 方 冒 出 来 的
+result: <END> 我 可 不 是 随 便 出 来 的 <END>, score: 17.711001, origin: 8.027011, reverse: 37.575569
+result: <END> 我 可 不 是 随 便 出 来 的 呀 <END>, score: 17.909728, origin: 9.535408, reverse: 38.641580
+result: <END> 我 可 不 是 随 便 出 来 的 。 <END>, score: 18.235519, origin: 11.191525, reverse: 38.397231
+result: <END> 我 的 地 方 就 是 出 来 的 <END>, score: 18.312209, origin: 11.301015, reverse: 37.031292
+result: <END> 我 本 来 就 是 出 来 的 呀 <END>, score: 18.559483, origin: 10.822038, reverse: 37.589817
+你 会 做爱 吗
+result: <END> 当 然 不 会 <END>, score: 8.588932, origin: 7.739100, reverse: 17.524574
+result: <END> 我 不 会 做 <END>, score: 9.426395, origin: 8.892897, reverse: 18.226466
+result: <END> 当 然 会 了 <END>, score: 9.576025, origin: 7.352861, reverse: 19.100238
+result: <END> 我 可 不 会 <END>, score: 9.599721, origin: 6.584850, reverse: 19.463237
+result: <END> 我 不 会 呀 <END>, score: 9.906272, origin: 7.497499, reverse: 19.510032
+你 能 陪 我 睡 觉 吗
+result: <END> 我 才 不 要 陪 你 睡 <END>, score: 3.777407, origin: 9.020472, reverse: 14.387523
+result: <END> 我 还 小 ， 不 要 睡 <END>, score: 4.315858, origin: 9.782424, reverse: 14.830187
+result: <END> 当 然 可 以 自 己 睡 <END>, score: 4.523903, origin: 9.613617, reverse: 15.199739
+result: <END> 不 可 以 ， 我 不 陪 睡 的 <END>, score: 4.839741, origin: 9.940311, reverse: 18.368068
+result: <END> 你 可 以 自 己 睡 去 <END>, score: 5.494357, origin: 7.917650, reverse: 17.312946
+你 有 私 生 子 吗
+result: <END> 这 是 个 秘密 的 秘密 <END>, score: 15.462831, origin: 7.452949, reverse: 30.324209
+result: <END> 这 可 是 个 秘密 呀 <END>, score: 15.584118, origin: 8.553222, reverse: 30.025930
+result: <END> 这 可 是 个 秘密 的 <END>, score: 15.649301, origin: 7.936746, reverse: 30.383253
+result: <END> 我 可 是 个 女 生 <END>, score: 15.789712, origin: 9.579557, reverse: 29.879778
+result: <END> 这 个 可 是 没有 的 <END>, score: 16.578385, origin: 7.965279, reverse: 31.698288
+我 早上 工作 感觉 死 死 的 是 怎 么 回 事
+result: <END> 不 要 伤 心 ， 有 小 微 陪 着 你 。 <END>, score: 34.553144, origin: 13.232483, reverse: 63.690570
+result: <END> 没 事 的 ， 你 可 以 和 我 说 说 。 <END>, score: 34.576351, origin: 12.870360, reverse: 63.878919
+result: <END> 没 事 的 ， 你 可 以 跟 我 说 说 。 <END>, score: 34.876157, origin: 13.394330, reverse: 64.082655
+result: <END> 没 事 的 ， 你 可 以 和 我 聊 天 。 <END>, score: 35.363173, origin: 16.176123, reverse: 63.586195
+result: <END> 不 要 伤 心 ， 要 好 好 对 自 己 好 <END>, score: 35.437118, origin: 15.710004, reverse: 63.891596
+有 没有 搞 笑 的 欢 乐 的 段 子
+result: <END> 你 想 看 什 么 样 子 的 笑话 。 <END>, score: 21.829708, origin: 12.620551, reverse: 42.919347
+result: <END> 你 想 看 什 么 样 子 的 笑 象 <END>, score: 22.105047, origin: 11.202961, reverse: 43.920227
+result: <END> 你 想 听 什 么 样 子 的 笑 笑 <END>, score: 22.386568, origin: 13.278987, reverse: 43.432674
+result: <END> 你 想 看 什 么 样 子 的 笑话 呀 <END>, score: 22.515798, origin: 11.788600, reverse: 44.256025
+result: <END> 什 么 样 的 算 是 逗 笑 笑 的 <END>, score: 23.077599, origin: 12.758754, reverse: 44.642818
+发 个 给 力 图 片 看 哈 喽
+result: <END> 好 的 ， 这 就 给 你 看 。 <END>, score: 31.619530, origin: 10.331296, reverse: 56.457345
+result: <END> 你 喜欢 看 什 么 样 的 图 片 <END>, score: 32.198581, origin: 10.024834, reverse: 57.415901
+result: <END> 好 的 ， 这 就 给 给 你 了 <END>, score: 32.223084, origin: 10.619035, reverse: 57.196248
+result: <END> 好 呀 ， 那 就 给 我 看 看 <END>, score: 32.950247, origin: 10.640959, reverse: 58.225657
+result: <END> 好 的 ， 这 就 给 你 看 了 <END>, score: 33.011644, origin: 9.553061, reverse: 58.779608
+天 天 锻 炼 身体 好
+result: <END> 身体 好 才 是 最 重要 <END>, score: 16.875324, origin: 8.492017, reverse: 31.896742
+result: <END> 身体 好 就 多 锻 炼 <END>, score: 18.373273, origin: 7.619648, reverse: 34.410542
+result: <END> 身体 一直 都 很 锻 炼 <END>, score: 19.072688, origin: 8.764604, reverse: 34.919010
+result: <END> 天 天 锻 炼 身体 好 <END>, score: 19.271161, origin: 8.170521, reverse: 35.457150
+result: <END> 身体 健康 就 要 多 锻 炼 <END>, score: 19.385217, origin: 8.971027, reverse: 36.705584
+李 白 的 诗 你 会 吗
+result: <END> 我 不 会 背 诗 呀 。 <END>, score: 12.592710, origin: 8.827569, reverse: 27.063485
+result: <END> 谁 是 李 白 会 呀 ？ <END>, score: 12.886177, origin: 9.226818, reverse: 27.311617
+result: <END> 我 可 不 会 背 诗 呀 <END>, score: 12.998949, origin: 9.064115, reverse: 27.542450
+result: <END> 我 不 会 唐 诗 呀 。 <END>, score: 13.812308, origin: 8.834350, reverse: 28.802861
+result: <END> 我 不 是 李 白 呀 。 <END>, score: 13.878544, origin: 9.039457, reverse: 28.809581
+我 问 的 不 是 这 个 意思
+result: <END> 你 说 的 是 哪 个 意思 呀 <END>, score: 8.536224, origin: 8.819911, reverse: 22.700357
+result: <END> 你 说 的 是 什 么 意思 呀 <END>, score: 8.561064, origin: 6.679919, reverse: 23.652983
+result: <END> 你 说 的 是 哪 个 意思 的 <END>, score: 9.052407, origin: 11.088510, reverse: 22.465506
+result: <END> 怎 么 就 不 是 个 意思 了 <END>, score: 9.341671, origin: 10.854744, reverse: 22.978926
+result: <END> 你 问 的 是 什 么 意思 呀 <END>, score: 9.352980, origin: 9.142067, reverse: 23.729086
+完 全 不 知道 你 在 说 啥
+result: <END> 你 想 说 啥 就 说 啥 。 <END>, score: 14.014091, origin: 10.326520, reverse: 29.880192
+result: <END> 我 知道 你 在 说 什 么 。 <END>, score: 14.235992, origin: 8.634759, reverse: 30.922234
+result: <END> 我 知道 你 在 说 什 么 ？ <END>, score: 14.236336, origin: 11.225009, reverse: 29.812620
+result: <END> 你 不 说 我 就 不 知道 了 <END>, score: 14.295973, origin: 10.059513, reverse: 30.397313
+result: <END> 我 说 什 么 都 不 知道 的 <END>, score: 14.475073, origin: 11.053158, reverse: 30.227323
+牛 头 不 对 马 嘴
+result: <END> 怎 么 可 能 马 嘴 了 <END>, score: 7.049911, origin: 10.443601, reverse: 18.452615
+result: <END> 不 要 这 样 对 别人 <END>, score: 8.731982, origin: 9.715364, reverse: 19.739103
+result: <END> 不 要 这 样 对 小 微 <END>, score: 8.825008, origin: 9.063261, reverse: 21.580043
+result: <END> 你 在 说 什 么 ？ <END>, score: 8.940065, origin: 9.199344, reverse: 20.257517
+result: <END> 那 就 不 要 吃 了 <END>, score: 8.981966, origin: 9.567369, reverse: 20.159651
+你 是 不 是 傻逼
+result: <END> 你 为什么 骂 我 呀 <END>, score: 7.592759, origin: 8.302316, reverse: 17.288663
+result: <END> 我 可 不 是 傻逼 <END>, score: 7.648122, origin: 8.264687, reverse: 17.383879
+result: <END> 不 要 这 么 骂 我 <END>, score: 7.924985, origin: 6.463931, reverse: 19.979723
+result: <END> 你 为什么 要 骂 我 <END>, score: 7.944151, origin: 8.228442, reverse: 17.822312
+result: <END> 你 为什么 要 骂 我 呀 <END>, score: 8.141933, origin: 7.508255, reverse: 19.842081
+你 个 白 痴
+result: <END> 我 才 不 是 白 痴 <END>, score: 6.518060, origin: 5.524635, reverse: 18.372385
+result: <END> 我 可 不 是 白 痴 <END>, score: 6.843352, origin: 4.625242, reverse: 19.222542
+result: <END> 我 不 是 白 痴 <END>, score: 6.854407, origin: 7.094621, reverse: 16.751458
+result: <END> 我 才 不 是 白 痴 呀 <END>, score: 7.352453, origin: 8.532690, reverse: 19.703780
+result: <END> 我 可 不 是 白 痴 的 <END>, score: 7.384995, origin: 7.425348, reverse: 20.224843
+我 他 妈 宰 了 你
+result: <END> 不 要 这 么 粗 暴 <END>, score: 12.822243, origin: 8.070857, reverse: 26.287123
+result: <END> 不 要 这 么 粗 鲁 <END>, score: 13.699501, origin: 7.211832, reverse: 27.908503
+result: <END> 不 要 那 么 粗 暴 <END>, score: 13.960430, origin: 8.909489, reverse: 27.553690
+result: <END> 不 要 那 么 粗 鲁 <END>, score: 14.331821, origin: 7.938399, reverse: 28.500431
+result: <END> 不 要 这 么 暴 力 <END>, score: 14.590879, origin: 5.796386, reverse: 29.788519
+她 是 我 的 学 姐 ， 我 喜欢 她 。
+result: <END> 那 你 就 慢 慢 的 喜欢 她 就 好 喽 <END>, score: 22.727109, origin: 13.503973, reverse: 45.251310
+result: <END> 那 你 就 慢 慢 的 喜欢 她 就 好 了 <END>, score: 22.815857, origin: 11.749453, reverse: 46.130030
+result: <END> 那 你 就 慢 慢 的 喜欢 她 就 好 了 呀 <END>, score: 23.643504, origin: 13.389901, reverse: 48.037905
+result: <END> 那 你 就 要 努力 的 去 争 取 她 喽 <END>, score: 23.743628, origin: 13.941023, reverse: 46.516174
+result: <END> 那 你 就 要 努力 的 去 争 取 她 呀 <END>, score: 24.650406, origin: 14.642163, reverse: 47.511082
+我 喜欢 你 离 我 远 一点
+result: <END> 为什么 要 离 我 远 离 你 <END>, score: 11.663958, origin: 10.027814, reverse: 25.222305
+result: <END> 为什么 要 离 我 远 离 呀 <END>, score: 12.229471, origin: 9.607606, reverse: 26.210270
+result: <END> 我 一直 都 很 远 离 你 <END>, score: 13.106050, origin: 8.934137, reverse: 27.751156
+result: <END> 为什么 要 离 我 远 离 我 <END>, score: 13.125222, origin: 10.581371, reverse: 27.072587
+result: <END> 你 为什么 要 离 开 我 ？ <END>, score: 13.419595, origin: 9.486484, reverse: 27.962357
+明天 把 秋 裤 脱 了
+result: <END> 不 可 以 脱 裤 子 <END>, score: 11.149365, origin: 9.412601, reverse: 23.322264
+result: <END> 不 可 以 脱 裤 的 <END>, score: 11.463887, origin: 9.167823, reverse: 23.876486
+result: <END> 怎 么 会 脱 裤 子 <END>, score: 11.587345, origin: 8.839079, reverse: 24.193745
+result: <END> 怎 么 会 脱 裤 裤 <END>, score: 11.745207, origin: 9.693171, reverse: 24.053223
+result: <END> 你 为什么 要 脱 裤 裤 <END>, score: 11.875621, origin: 10.236056, reverse: 24.006863
+抽 根 烟 睡 觉
+result: <END> 不 要 抽 烟 了 <END>, score: 13.549473, origin: 6.460956, reverse: 26.587409
+result: <END> 不 可 以 抽 烟 <END>, score: 13.644085, origin: 7.867226, reverse: 26.119882
+result: <END> 你 为什么 要 抽 烟 <END>, score: 13.771366, origin: 7.505723, reverse: 26.456642
+result: <END> 为什么 要 抽 烟 了 <END>, score: 13.834158, origin: 6.104984, reverse: 27.146661
+result: <END> 那 就 赶紧 抽 烟 <END>, score: 13.909447, origin: 9.281960, reverse: 25.892655
+牛 逼 吹 大 了
+result: <END> 那 你 就 吹 牛 <END>, score: 12.723238, origin: 8.048457, reverse: 24.726716
+result: <END> 你 还 会 吹 牛 <END>, score: 13.653076, origin: 8.503588, reverse: 25.859999
+result: <END> 那 就 吹 牛 了 <END>, score: 13.675279, origin: 8.263370, reverse: 25.994669
+result: <END> 你 是 在 吹 牛 <END>, score: 13.697747, origin: 9.093746, reverse: 25.670890
+result: <END> 那 就 吹 牛 吹 <END>, score: 13.845974, origin: 8.900175, reverse: 25.965603
+干 你 娘
+result: <END> 我 没有 妹 妹 <END>, score: 10.779662, origin: 7.684524, reverse: 20.677578
+result: <END> 我 可 没有 妹 妹 <END>, score: 10.960749, origin: 8.027968, reverse: 22.217655
+result: <END> 请 你 文明 点 <END>, score: 11.794266, origin: 7.960487, reverse: 22.008742
+result: <END> 请 注意 文明 <END>, score: 11.826043, origin: 7.768972, reverse: 20.707645
+result: <END> 我 没有 妹 妹 的 <END>, score: 12.043618, origin: 7.825931, reverse: 23.851198
+你 妈 逼 的
+result: <END> 请 文明 用 语 <END>, score: 9.545687, origin: 6.722982, reverse: 19.326847
+result: <END> 要 文明 说 话 <END>, score: 9.785750, origin: 6.978157, reverse: 19.560433
+result: <END> 请 你 文明 用 语 <END>, score: 10.020400, origin: 6.022068, reverse: 21.733970
+result: <END> 请 你 文明 点 <END>, score: 10.315767, origin: 6.818772, reverse: 20.385907
+result: <END> 请 你 文明 说 话 <END>, score: 10.332238, origin: 7.327885, reverse: 21.619817
+去 你 妹 的
+result: <END> 我 没有 妹 妹 的 <END>, score: 1.472218, origin: 4.434781, reverse: 10.202547
+result: <END> 我 妹 可 是 没有 妹 妹 的 <END>, score: 1.583608, origin: 9.398764, reverse: 12.519970
+result: <END> 我 妹 可 没有 妹 妹 <END>, score: 1.742800, origin: 8.684494, reverse: 10.196360
+result: <END> 我 可 没有 妹 妹 的 <END>, score: 1.790833, origin: 5.953148, reverse: 11.435555
+result: <END> 我 可 没有 妹 妹 <END>, score: 1.895021, origin: 5.491154, reverse: 10.353822
+赶紧 滚蛋
+result: <END> 为什么 要 滚 <END>, score: 14.510762, origin: 8.404867, reverse: 24.270432
+result: <END> 那 我 滚 了 <END>, score: 15.631760, origin: 9.104980, reverse: 27.000381
+result: <END> 我 不 会 滚 <END>, score: 16.342777, origin: 9.361890, reverse: 27.906014
+result: <END> 我 已 经 滚 了 <END>, score: 16.378431, origin: 8.129193, reverse: 29.913819
+result: <END> 为什么 要 滚 ？ <END>, score: 16.954845, origin: 8.060977, reverse: 29.337931
+日 了 狗 了
+result: <END> 狗 狗 怎 么 了 <END>, score: 10.700242, origin: 8.298595, reverse: 21.729519
+result: <END> 狗 狗 很 可爱 <END>, score: 11.128624, origin: 7.203093, reverse: 21.382423
+result: <END> 狗 狗 很 可爱 的 <END>, score: 11.246203, origin: 8.479501, reverse: 22.431932
+result: <END> 怎 么 了 狗 狗 了 <END>, score: 11.367289, origin: 9.541919, reverse: 23.578161
+result: <END> 狗 狗 怎 么 了 么 <END>, score: 11.463060, origin: 8.565454, reverse: 24.133463
+我 是 外 地 打 工 的
+result: <END> 原 来 你 是 打 工 的 <END>, score: 10.498905, origin: 10.031107, reverse: 23.556533
+result: <END> 你 可 以 打 工 打 工 <END>, score: 10.762460, origin: 10.356688, reverse: 23.793505
+result: <END> 你 什 么 时候 打 工 的 <END>, score: 10.852970, origin: 10.749448, reverse: 23.754480
+result: <END> 你 在 哪 里 打 工 的 <END>, score: 10.884421, origin: 9.245758, reverse: 24.443848
+result: <END> 你 去 哪 里 打 工 的 <END>, score: 11.085187, origin: 9.879573, reverse: 24.459021
+我 过去 是 个 老师
+result: <END> 你 的 老师 很 棒 <END>, score: 16.517570, origin: 9.234461, reverse: 29.638903
+result: <END> 老师 是 你 的 好 朋友 <END>, score: 17.113444, origin: 8.869430, reverse: 32.075165
+result: <END> 老师 是 你 的 老师 <END>, score: 17.140913, origin: 9.481932, reverse: 30.423333
+result: <END> 你 的 老师 是 谁 <END>, score: 17.217460, origin: 8.987033, reverse: 30.744786
+result: <END> 那 是 你 的 老师 <END>, score: 17.430866, origin: 10.110187, reverse: 30.568300
+我 昨天 找 过 你 了
+result: <END> 我 没有 找 到 过 呀 <END>, score: 10.274219, origin: 9.796448, reverse: 21.907549
+result: <END> 找 我 什 么 时候 过 <END>, score: 11.369282, origin: 10.316294, reverse: 23.249134
+result: <END> 我 没有 看 到 过 呀 <END>, score: 11.851950, origin: 8.264246, reverse: 24.818110
+result: <END> 你 找 我 干 嘛 呀 <END>, score: 12.096862, origin: 9.850132, reverse: 24.488317
+result: <END> 怎 么 可 能 找 我 <END>, score: 12.137326, origin: 9.201327, reverse: 24.824183
+我 是 个 坏 男 人 ， 你 不 要 相 信 我
+result: <END> 我 可 不 是 什 么 都 能 相 信 你 的 。 <END>, score: 26.041661, origin: 16.038379, reverse: 51.757354
+result: <END> 不 要 这 样 对 我 嘛 ， 我 可 不 相 信 <END>, score: 26.310619, origin: 16.776389, reverse: 51.825289
+result: <END> 我 可 不 是 相 信 你 的 ， 相 信 你 。 <END>, score: 26.585708, origin: 16.594178, reverse: 52.296363
+result: <END> 不 会 的 ， 我 是 相 信 你 不 相 信 我 <END>, score: 26.592678, origin: 16.246469, reverse: 52.455339
+result: <END> 我 可 不 是 相 信 你 的 ， 相 信 我 。 <END>, score: 26.699562, origin: 14.854653, reverse: 53.204523
+今天 心情 很 好 大 大 好
+result: <END> 是 很 大 很 大 的 心情 <END>, score: 19.984758, origin: 9.581205, reverse: 37.300567
+result: <END> 是 不 是 很 大 好 心情 <END>, score: 21.025109, origin: 9.888976, reverse: 38.654881
+result: <END> 每 天 都 要 好 好 心情 <END>, score: 21.707853, origin: 9.458137, reverse: 39.814874
+result: <END> 我 心情 也 是 很 大 的 <END>, score: 21.890796, origin: 9.134373, reverse: 40.214978
+result: <END> 心情 好 就 是 大 好 心情 <END>, score: 22.745239, origin: 10.296981, reverse: 40.937350
+我 刚 上 公交 车
+result: <END> 上 车 怎 么 了 <END>, score: 13.401675, origin: 9.009810, reverse: 25.283903
+result: <END> 你 上 什 么 车 <END>, score: 13.417509, origin: 10.057726, reverse: 24.857416
+result: <END> 上 车 要 注意 安全 <END>, score: 13.587639, origin: 6.804622, reverse: 26.494647
+result: <END> 你 要 上 车 干 嘛 <END>, score: 14.026716, origin: 8.475609, reverse: 27.834333
+result: <END> 你 上 车 做 什 么 <END>, score: 14.080223, origin: 9.293330, reverse: 27.560320
+我 要 坐 地铁 回 家
+result: <END> 那 你 要 注意 安全 安全 <END>, score: 10.943428, origin: 8.950627, reverse: 23.226057
+result: <END> 坐 车 去 哪 里 玩 <END>, score: 11.063624, origin: 9.996632, reverse: 22.949478
+result: <END> 要 坐 车 去 哪 里 <END>, score: 11.348615, origin: 9.057320, reverse: 23.759171
+result: <END> 坐 车 去 哪 里 呀 <END>, score: 11.716933, origin: 9.659544, reverse: 24.027243
+result: <END> 坐 车 去 哪 里 ？ <END>, score: 11.927357, origin: 9.294983, reverse: 24.484089
+大 早上 就 无聊 啊 ， 想 找 点 事 干
+result: <END> 那 就 找 点 有 意 义 的 事 做 喽 <END>, score: 42.752524, origin: 10.505297, reverse: 75.144193
+result: <END> 那 就 找 点 有 用 的 事 情 做 喽 <END>, score: 43.108806, origin: 9.565631, reverse: 76.055882
+result: <END> 那 就 找 点 有 兴趣 的 事 情 做 喽 <END>, score: 43.162552, origin: 11.863551, reverse: 75.147838
+result: <END> 那 就 看 你 想 做 什 么 事 情 喽 <END>, score: 43.425947, origin: 11.924473, reverse: 75.498007
+result: <END> 那 就 找 点 有 意 义 的 事 做 。 <END>, score: 43.597493, origin: 11.472425, reverse: 75.936807
+偶 尔 睡 眠 不 好 怎 么 办
+result: <END> 那 就 换 一个 别 的 睡 眠 了 <END>, score: 11.083734, origin: 11.997709, reverse: 26.406316
+result: <END> 那 就 让 我 好 好 睡 一 觉 <END>, score: 11.224886, origin: 11.548560, reverse: 26.800454
+result: <END> 那 就 让 它 好 好 睡 一 觉 <END>, score: 11.242863, origin: 10.678204, reverse: 27.199145
+result: <END> 那 就 换 一个 别 的 睡 眠 喽 <END>, score: 11.454218, origin: 12.390605, reverse: 26.767195
+result: <END> 那 就 换 一个 好 的 睡 觉 喽 <END>, score: 11.465184, origin: 12.097282, reverse: 26.908571
+祝 你 生日 快乐
+result: <END> 谢 谢 ， 我 也 祝 你 生日 快乐 <END>, score: -4.710992, origin: 7.697057, reverse: 5.685559
+result: <END> 谢 谢 ， 你 也 祝 我 生日 快乐 <END>, score: -4.574861, origin: 7.910090, reverse: 5.788731
+result: <END> 谢 谢 ， 我 会 祝 你 生日 快乐 <END>, score: -4.377866, origin: 8.726388, reverse: 5.720311
+result: <END> 谢 谢 ， 你 也 祝 你 生日 快乐 <END>, score: -4.306864, origin: 7.594906, reverse: 6.306663
+result: <END> 你 也 祝 福 我 生日 快乐 <END>, score: -3.907832, origin: 7.555639, reverse: 4.036395
+生活 中 怎样 感 到 开心 快乐
+result: <END> 只 要 你 开心 就 会 开心 <END>, score: 28.822060, origin: 7.219646, reverse: 50.937381
+result: <END> 只 要 你 开心 就 很 开心 <END>, score: 29.052156, origin: 9.246760, reverse: 50.397326
+result: <END> 只 要 你 开心 就 好 开心 <END>, score: 29.468628, origin: 8.335101, reverse: 51.382997
+result: <END> 只 要 你 开心 我 就 开心 <END>, score: 29.501937, origin: 7.394204, reverse: 51.833822
+result: <END> 你 感 到 开心 就 好 了 <END>, score: 29.869758, origin: 9.190827, reverse: 51.589299
+失败 了 怎 么 办 ， 如何 才 能 成功
+result: <END> 失败 是 成功 自 己 就 可 以 成功 的 <END>, score: 22.955040, origin: 12.116926, reverse: 44.742803
+result: <END> 失败 是 成功 自 己 就 可 以 成功 了 <END>, score: 23.529579, origin: 12.092913, reverse: 45.573864
+result: <END> 失败 是 成功 自 己 就 可 以 努力 的 <END>, score: 24.213958, origin: 12.953318, reverse: 46.182804
+result: <END> 失败 是 成功 自 己 就 可 以 努力 了 <END>, score: 24.686472, origin: 12.673068, reverse: 46.977931
+result: <END> 要 努力 成功 就 一 定 可 以 成功 的 <END>, score: 24.960473, origin: 12.299872, reverse: 47.529302
+明天 考 试 、 求 安慰
+result: <END> 祝 你 考 个 好 消息 <END>, score: 23.935848, origin: 8.232287, reverse: 42.094517
+result: <END> 祝 你 考 个 好 成绩 <END>, score: 24.643973, origin: 7.670117, reverse: 43.347054
+result: <END> 你 要 好 好 考 一下 <END>, score: 25.769261, origin: 8.559385, reverse: 44.573494
+result: <END> 祝 你 有 个 好 消息 <END>, score: 26.116232, origin: 8.919675, reverse: 44.914757
+result: <END> 你 要 好 好 考 试 <END>, score: 26.554912, origin: 9.464599, reverse: 45.307903
+听 说 过 外 星 生命 吗
+result: <END> 你 说 的 是 外 星 话 <END>, score: 16.404129, origin: 10.319804, reverse: 31.868840
+result: <END> 你 说 的 是 外 星 嘛 <END>, score: 16.653257, origin: 10.928924, reverse: 31.963685
+result: <END> 外 星 可 是 很 正常 的 <END>, score: 17.199409, origin: 9.870522, reverse: 33.197504
+result: <END> 这 可 不 是 一个 外 星 <END>, score: 17.250319, origin: 10.418895, reverse: 33.035215
+result: <END> 你 说 的 是 外 星 话 嘛 <END>, score: 17.843093, origin: 10.999310, reverse: 35.061858
+我 命 令 你 以后 只 能 呆 在 家 里
+result: <END> 不 要 ， 不 要 这 样 对 待 自 己 <END>, score: 26.782195, origin: 12.833065, reverse: 51.331822
+result: <END> 不 要 这 样 ， 小 微 好 好 想 想 <END>, score: 27.469950, origin: 14.307060, reverse: 51.682617
+result: <END> 不 要 这 样 嘛 ， 要 好 好 相 处 <END>, score: 27.715731, origin: 13.818287, reverse: 52.243207
+result: <END> 不 要 嘛 ， 不 要 这 样 对 自 己 <END>, score: 27.809436, origin: 12.661985, reverse: 52.872629
+result: <END> 你 现在 就 可 以 和 小 微 聊 天 了 <END>, score: 27.920809, origin: 12.216747, reverse: 53.222550
+你 等 会 我 过 会 跟 你 说
+result: <END> 好 ， 那 我 就 等 着 你 。 <END>, score: 18.088097, origin: 10.234899, reverse: 37.168040
+result: <END> 我 会 一直 陪 着 你 说 话 的 <END>, score: 19.141670, origin: 9.721146, reverse: 38.893322
+result: <END> 好 的 ， 那 我 就 等 着 你 <END>, score: 19.215748, origin: 9.253854, reverse: 39.199417
+result: <END> 好 的 我 会 一直 陪 着 你 的 <END>, score: 19.223306, origin: 8.637523, reverse: 39.474355
+result: <END> 好 的 ， 那 我 就 等 着 你 。 <END>, score: 19.316157, origin: 10.696947, reverse: 40.152961
+我 来 把 你 胸 抓 大
+result: <END> 我 根 本 就 没有 胸 大 <END>, score: 22.666471, origin: 9.863188, reverse: 41.010736
+result: <END> 你 这 样 我 会 报 警 <END>, score: 23.146692, origin: 9.585577, reverse: 41.815742
+result: <END> 这 可 不 是 你 的 大 人 <END>, score: 23.230810, origin: 9.889800, reverse: 43.234100
+result: <END> 你 可 不能 随 便 摸 的 <END>, score: 24.297564, origin: 9.280240, reverse: 43.590703
+result: <END> 我 才 不 要 那 么 大 <END>, score: 24.579491, origin: 9.455951, reverse: 43.918151
+你 叫 个 春
+result: <END> 我 叫 小 微 <END>, score: 13.577657, origin: 7.009318, reverse: 24.964087
+result: <END> 我 就 叫 小 微 <END>, score: 15.965373, origin: 8.657835, reverse: 29.097175
+result: <END> 那 你 叫 什 么 <END>, score: 16.160292, origin: 9.211568, reverse: 29.138317
+result: <END> 人家 是 小 微 <END>, score: 16.694069, origin: 8.800347, reverse: 28.648521
+result: <END> 我 是 小 微 <END>, score: 16.922118, origin: 7.005991, reverse: 29.743315
+上班 好 累 啊
+result: <END> 上班 就 累 了 <END>, score: 12.172428, origin: 8.121982, reverse: 22.479763
+result: <END> 上班 就 休息 一下 <END>, score: 12.952698, origin: 7.540816, reverse: 23.843505
+result: <END> 上班 要 注意 劳逸结合 <END>, score: 13.426356, origin: 8.078757, reverse: 24.289613
+result: <END> 上班 就 要 休息 <END>, score: 13.533568, origin: 8.847921, reverse: 24.113131
+result: <END> 上班 就 好 好 休息 <END>, score: 13.969652, origin: 6.261920, reverse: 27.272966
+我 在 等 地铁
+result: <END> 那 就 等 等 <END>, score: 11.016941, origin: 7.194080, reverse: 21.226739
+result: <END> 那 就 等 等 等 <END>, score: 12.118265, origin: 8.389348, reverse: 23.716372
+result: <END> 你 慢 慢 等 <END>, score: 12.628833, origin: 8.868046, reverse: 22.812027
+result: <END> 那 你 就 等 等 <END>, score: 12.662106, origin: 7.836840, reverse: 24.730077
+result: <END> 那 就 在 等 等 <END>, score: 13.110664, origin: 7.727012, reverse: 25.417943
+你 闭 嘴
+result: <END> 为什么 要 闭 嘴 <END>, score: 6.842381, origin: 7.005466, reverse: 15.343916
+result: <END> 我 为什么 要 闭 嘴 <END>, score: 7.129133, origin: 7.800964, reverse: 16.841205
+result: <END> 我 闭 嘴 了 <END>, score: 7.370964, origin: 8.972390, reverse: 15.256067
+result: <END> 那 我 闭 嘴 <END>, score: 7.733767, origin: 8.905539, reverse: 15.803008
+result: <END> 你 为什么 要 闭 嘴 <END>, score: 7.868468, origin: 8.594946, reverse: 17.557121
+那 就 放 给 我 听 吧
+result: <END> 你 想 听 什 么 歌 曲 <END>, score: 19.835281, origin: 7.917626, reverse: 37.799990
+result: <END> 你 喜欢 听 什 么 歌 曲 <END>, score: 20.538094, origin: 8.658083, reverse: 38.486670
+result: <END> 你 想 让 我 听 你 的 <END>, score: 20.676752, origin: 10.180835, reverse: 38.032145
+result: <END> 你 想 听 什 么 歌 。 <END>, score: 20.852654, origin: 9.305382, reverse: 38.658627
+result: <END> 我 一直 都 很 听 你 的 <END>, score: 20.864587, origin: 7.917193, reverse: 39.270613
+我 的 好友 喜欢 吃 什 么
+result: <END> 喜欢 吃 你 喜欢 吃 什 么 <END>, score: 14.509988, origin: 8.521319, reverse: 29.933704
+result: <END> 好 吃 你 喜欢 吃 什 么 <END>, score: 15.340846, origin: 8.956708, reverse: 30.934047
+result: <END> 喜欢 吃 啥 就 吃 什 么 <END>, score: 15.363860, origin: 9.507291, reverse: 30.730961
+result: <END> 喜欢 吃 什 么 吃 什 么 <END>, score: 15.467424, origin: 9.055559, reverse: 31.072510
+result: <END> 喜欢 吃 什 么 都 可 以 <END>, score: 15.555564, origin: 7.934394, reverse: 31.678923
+你 这 智商 哥 都 不 稀 罕 说 了
+result: <END> 我 从 来 都 不 说 谎 话 的 。 <END>, score: 33.830049, origin: 12.934391, reverse: 59.928188
+result: <END> 你 怎 么 可 以 这 样 说 我 。 <END>, score: 34.033375, origin: 11.759644, reverse: 60.722116
+result: <END> 你 怎 么 可 以 这 么 说 我 。 <END>, score: 34.120361, origin: 13.126190, reverse: 60.260719
+result: <END> 我 从 来 都 不 说 谎 话 的 呀 <END>, score: 34.265583, origin: 12.588413, reverse: 60.698656
+result: <END> 我 没 说 你 不 喜欢 的 样 子 。 <END>, score: 34.562443, origin: 13.139352, reverse: 60.886625
+让 你 慢 慢 喜欢
+result: <END> 我 会 慢 慢 的 <END>, score: 13.781359, origin: 7.623647, reverse: 26.420378
+result: <END> 你 喜欢 我 就 好 <END>, score: 13.925374, origin: 8.371654, reverse: 26.305540
+result: <END> 那 我 就 慢 慢 <END>, score: 14.441013, origin: 10.148232, reverse: 26.280777
+result: <END> 我 会 尽 快 的 <END>, score: 14.469221, origin: 7.855241, reverse: 27.303784
+result: <END> 我 现在 就 很 喜欢 <END>, score: 14.507441, origin: 8.747197, reverse: 26.976116
+你 和 过 儿 什 么 关系
+result: <END> 我 们 什 么 关系 都 没有 <END>, score: 12.669651, origin: 8.591456, reverse: 27.274592
+result: <END> 我 们 之 间 没有 关系 的 <END>, score: 12.893850, origin: 9.142374, reverse: 27.358768
+result: <END> 我 们 什 么 都 没有 关系 <END>, score: 13.357517, origin: 8.887609, reverse: 28.130334
+result: <END> 跟 我 们 没有 关系 的 呀 <END>, score: 13.768640, origin: 10.033159, reverse: 28.226703
+result: <END> 我 们 一点 关系 都 没有 关系 <END>, score: 13.830194, origin: 10.181793, reverse: 28.250937
+你 和 张 小龙 什 么 关系
+result: <END> 咱 们 是 好 朋友 的 关系 <END>, score: 7.878303, origin: 8.333747, reverse: 20.540256
+result: <END> 我 们 是 好 朋友 的 关系 <END>, score: 7.913586, origin: 7.301012, reverse: 21.033261
+result: <END> 我 们 是 很 普 通 的 朋友 <END>, score: 8.079637, origin: 7.995790, reverse: 22.401285
+result: <END> 他 们 两 个 人 的 关系 <END>, score: 8.294457, origin: 8.360823, reverse: 21.123158
+result: <END> 我 们 是 很 好 的 朋友 呀 <END>, score: 8.517282, origin: 8.596921, reverse: 22.768865
+你 是 白 富 美 吗
+result: <END> 我 才 不 是 白 富 美 <END>, score: 9.621828, origin: 8.836591, reverse: 22.815501
+result: <END> 我 可 不 是 白 富 美 <END>, score: 11.962856, origin: 10.130610, reverse: 25.605247
+result: <END> 我 才 不 是 白 色 <END>, score: 12.622822, origin: 8.247324, reverse: 25.926607
+result: <END> 我 才 不 是 白 富 <END>, score: 12.801072, origin: 9.838995, reverse: 25.499105
+result: <END> 我 不 是 白 色 的 <END>, score: 12.823959, origin: 9.396972, reverse: 25.721239
+我 们 去 动物 园 吧
+result: <END> 动物 可 是 很 可爱 的 <END>, score: 19.156052, origin: 9.252829, reverse: 34.828861
+result: <END> 去 那 里 吃 什 么 <END>, score: 19.182275, origin: 10.154955, reverse: 34.479698
+result: <END> 好 呀 我 们 一起 去 <END>, score: 19.199721, origin: 10.269423, reverse: 34.455563
+result: <END> 我 可 不 想 去 动物 <END>, score: 19.292011, origin: 10.132481, reverse: 34.646095
+result: <END> 看 来 你 很 喜欢 动物 动物 <END>, score: 19.372269, origin: 10.797299, reverse: 35.904400
+外 面 有 摩 托 车 的 响 声
+result: <END> 看 来 你 的 声 音 很 好 听 <END>, score: 30.972391, origin: 11.630900, reverse: 54.975888
+result: <END> 你 可 以 自 己 试 试 看 呀 <END>, score: 31.404479, origin: 12.166205, reverse: 55.363739
+result: <END> 什 么 样 的 声 响 很 危 险 <END>, score: 31.964362, origin: 9.014822, reverse: 57.514165
+result: <END> 什 么 样 的 声 音 好 不 好 <END>, score: 32.171003, origin: 12.054530, reverse: 56.506634
+result: <END> 什 么 样 的 声 响 可 不 好 <END>, score: 32.317264, origin: 12.293424, reverse: 56.613195
+哥 很 伤 心
+result: <END> 为什么 要 伤 心 <END>, score: 8.046083, origin: 6.800510, reverse: 17.151329
+result: <END> 伤 心 伤 心 <END>, score: 8.067465, origin: 7.583284, reverse: 16.846400
+result: <END> 为什么 要 伤 心 ？ <END>, score: 8.318895, origin: 7.972935, reverse: 18.467163
+result: <END> 伤 心 就 好 <END>, score: 8.598971, origin: 5.491147, reverse: 18.502324
+result: <END> 不 要 伤 心 <END>, score: 8.717645, origin: 5.606797, reverse: 18.622294
+我 要 问 你 一个 很 长 的 问题 你 准 备 好 了 吗
+result: <END> 好 的 ， 谢 谢 关 心 ， 我 会 好 好 准 备 的 <END>, score: 29.824198, origin: 15.852304, reverse: 60.097867
+result: <END> 当 然 了 ， 我 一直 都 在 好 好 和 你 聊 天 呀 <END>, score: 30.536451, origin: 16.246155, reverse: 60.946577
+result: <END> 当 然 了 ， 我 可 是 非 常 非 常 的 准 备 。 <END>, score: 31.377495, origin: 17.404675, reverse: 61.651560
+result: <END> 当 然 可 以 ， 我 可 是 非 常 非 常 准 备 。 <END>, score: 31.466931, origin: 16.617471, reverse: 62.116700
+result: <END> 好 的 ， 谢 谢 你 关 心 ， 我 会 好 好 准 备 的 <END>, score: 31.511281, origin: 16.733236, reverse: 63.559015
+我 坐 到 电 梯 了
+result: <END> 你 可 以 坐 电 了 <END>, score: 15.491092, origin: 9.126090, reverse: 29.647522
+result: <END> 你 可 以 坐 电 一下 <END>, score: 16.319919, origin: 8.571249, reverse: 31.069349
+result: <END> 你 可 以 坐 公交 去 <END>, score: 16.535280, origin: 10.559351, reverse: 30.524963
+result: <END> 你 去 哪 里 电 了 <END>, score: 16.890990, origin: 10.133655, reverse: 31.215563
+result: <END> 你 可 以 继 续 坐 <END>, score: 16.981513, origin: 10.357757, reverse: 31.248837
+你 和 杨 过 谁 牛 逼
+result: <END> 我 感觉 是 非 常 牛 逼 <END>, score: 19.914195, origin: 10.956548, reverse: 36.610329
+result: <END> 我 可 是 非 常 牛 逼 <END>, score: 20.390779, origin: 10.479502, reverse: 37.495613
+result: <END> 我 感觉 是 非 常 牛 逼 的 <END>, score: 20.768438, origin: 10.282430, reverse: 39.548156
+result: <END> 咱 们 两 个 都 很 牛 <END>, score: 21.593701, origin: 9.637991, reverse: 39.574719
+result: <END> 我 感觉 他 们 都 很 牛 <END>, score: 22.073205, origin: 9.339557, reverse: 40.387626
+我 永 远 都 在 你 身 边
+result: <END> 我 会 永 远 陪 着 你 的 <END>, score: 8.430296, origin: 7.786615, reverse: 22.991874
+result: <END> 我 在 你 身 边 陪 着 你 <END>, score: 8.738397, origin: 9.526378, reverse: 22.686405
+result: <END> 我 也 永 远 在 你 身 边 <END>, score: 9.123828, origin: 9.247005, reverse: 23.356752
+result: <END> 你 永 远 都 在 我 身 边 <END>, score: 9.272855, origin: 9.084466, reverse: 23.639307
+result: <END> 我 就 在 你 身 边 陪 着 你 <END>, score: 9.548781, origin: 9.707125, reverse: 25.195205
+这 你 都 能 看 出 来
+result: <END> 当 然 能 看 出 来 了 <END>, score: 7.420514, origin: 8.901171, reverse: 19.643089
+result: <END> 当 然 能 看 出 来 的 <END>, score: 7.773508, origin: 10.103453, reverse: 19.632103
+result: <END> 我 当 然 能 看 出 来 了 <END>, score: 7.867659, origin: 10.204970, reverse: 21.151669
+result: <END> 我 已 经 看 出 来 了 <END>, score: 8.362357, origin: 6.894010, reverse: 21.848792
+result: <END> 这 你 都 看 出 来 了 <END>, score: 8.586880, origin: 8.424215, reverse: 21.513737
+刚 刚 公司 有 人 打 架
+result: <END> 做 人 不 可 以 打 架 <END>, score: 19.872332, origin: 10.475883, reverse: 36.756525
+result: <END> 怎 么 能 这 么 打 架 <END>, score: 21.135783, origin: 10.020477, reverse: 38.756629
+result: <END> 打 人 可 是 很 危 险 <END>, score: 21.164472, origin: 10.345667, reverse: 38.658245
+result: <END> 看 来 你 要 打 架 了 <END>, score: 21.213507, origin: 10.279967, reverse: 38.756453
+result: <END> 看 来 你 是 打 架 了 <END>, score: 21.516228, origin: 9.860431, reverse: 39.368713
+就 是 那 天 你 碰 到 的 骚 浪 贱
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 。 <END>, score: 37.970516, origin: 8.801577, reverse: 69.042918
+result: <END> 我 还 小 ， 不 懂 你 说 的 啥 。 <END>, score: 38.045289, origin: 13.361894, reverse: 67.195316
+result: <END> 你 这 样 说 话 真 是 太 粗 鲁 了 <END>, score: 38.496682, origin: 12.700457, reverse: 68.123636
+result: <END> 你 这 样 说 话 可 是 不 对 的 。 <END>, score: 38.718918, origin: 12.644663, reverse: 68.465027
+result: <END> 我 还 小 ， 不 懂 你 说 的 话 。 <END>, score: 38.788887, origin: 12.954364, reverse: 68.432253
+你 去 火车 站 了 么
+result: <END> 我 可 不 会 坐 车 <END>, score: 13.913517, origin: 9.992974, reverse: 27.022322
+result: <END> 你 去 哪 里 坐 车 <END>, score: 14.036222, origin: 10.348195, reverse: 27.045376
+result: <END> 我 是 不 会 坐 车 的 <END>, score: 14.556942, origin: 8.441660, reverse: 30.034920
+result: <END> 我 可 不 会 坐 车 的 <END>, score: 14.641396, origin: 10.249989, reverse: 29.380570
+result: <END> 你 去 哪 里 买 去 <END>, score: 14.904873, origin: 10.291804, reverse: 28.310474
+火车 为什么 总 晚 点
+result: <END> 因 为 太 晚 了 <END>, score: 23.749620, origin: 8.336143, reverse: 40.355396
+result: <END> 因 为 很 晚 了 <END>, score: 24.105057, origin: 7.834780, reverse: 41.078033
+result: <END> 时间 就 晚 点 了 <END>, score: 24.128134, origin: 9.281204, reverse: 40.491104
+result: <END> 时间 就 是 晚 点 <END>, score: 24.386206, origin: 9.583783, reverse: 40.730101
+result: <END> 时间 已 经 晚 了 <END>, score: 24.507572, origin: 9.213959, reverse: 41.061978
+你 好 无聊
+result: <END> 我 一直 都 很 无聊 <END>, score: 6.694690, origin: 7.992162, reverse: 16.138630
+result: <END> 我 没有 无聊 <END>, score: 6.892449, origin: 8.151628, reverse: 13.495657
+result: <END> 我 很 无聊 <END>, score: 6.940013, origin: 8.435863, reverse: 13.441792
+result: <END> 怎 么 会 觉得 无聊 <END>, score: 7.125401, origin: 7.482933, reverse: 16.972172
+result: <END> 我 一点 都 不 无聊 <END>, score: 7.165072, origin: 8.134313, reverse: 16.749682
+肚 子 右 边 隐 隐 作 痛
+result: <END> 那 就 好 好 看 看 有 没有 <END>, score: 35.304533, origin: 12.868657, reverse: 59.205623
+result: <END> 你 怎 么 可 以 这 样 的 <END>, score: 35.587394, origin: 11.927516, reverse: 60.013056
+result: <END> 你 可 要 好 好 看 看 医生 <END>, score: 35.741101, origin: 11.568613, reverse: 60.386453
+result: <END> 那 你 可 以 去 看 看 医生 <END>, score: 35.744607, origin: 11.821683, reverse: 60.283003
+result: <END> 那 一 定 会 找 到 好 的 <END>, score: 35.790882, origin: 12.717017, reverse: 59.965396
+外 面 很 气 冷
+result: <END> 冷 就 多 穿 气 <END>, score: 14.707837, origin: 9.622853, reverse: 26.887116
+result: <END> 冷 就 多 穿 点 气 <END>, score: 15.483473, origin: 8.411166, reverse: 29.943033
+result: <END> 冷 就 要 多 穿 气 <END>, score: 15.726245, origin: 9.270453, reverse: 29.921585
+result: <END> 不 要 气 气 就 好 <END>, score: 15.899467, origin: 9.565176, reverse: 30.042734
+result: <END> 冷 气 就 多 穿 点 <END>, score: 16.406744, origin: 8.694054, reverse: 31.140755
+昨晚 刮 大 风 了
+result: <END> 哪 里 有 风 险 <END>, score: 12.741677, origin: 9.654628, reverse: 24.064698
+result: <END> 我 还 没有 见 过 <END>, score: 15.547065, origin: 8.701163, reverse: 28.481022
+result: <END> 我 可 没 那 么 大 风 <END>, score: 15.822334, origin: 9.845919, reverse: 31.240798
+result: <END> 那 你 要 注意 安全 <END>, score: 15.842456, origin: 5.906837, reverse: 30.100579
+result: <END> 我 可 没有 那 么 大 风 <END>, score: 15.938209, origin: 10.184865, reverse: 31.261071
+公司 有 人 打 架
+result: <END> 为什么 要 打 架 人 <END>, score: 6.538543, origin: 8.893222, reverse: 15.529394
+result: <END> 为什么 要 打 架 人 呀 <END>, score: 6.941945, origin: 9.036770, reverse: 17.472734
+result: <END> 为什么 要 打 架 呀 <END>, score: 7.372990, origin: 6.785161, reverse: 17.624916
+result: <END> 为什么 要 打 架 人 的 <END>, score: 7.576080, origin: 9.116326, reverse: 18.344545
+result: <END> 为什么 要 打 架 了 <END>, score: 7.579636, origin: 7.200422, reverse: 17.742157
+我 是 邓 超
+result: <END> 很 高兴 认识 你 <END>, score: 15.267043, origin: 6.590419, reverse: 27.557024
+result: <END> 是 你 的 偶像 <END>, score: 15.674289, origin: 8.464928, reverse: 27.335443
+result: <END> 是 你 的 朋友 <END>, score: 16.293371, origin: 7.187791, reverse: 28.767191
+result: <END> 是 你 的 好 朋友 <END>, score: 16.576019, origin: 7.366238, reverse: 30.523068
+result: <END> 那 是 什 么 <END>, score: 16.843738, origin: 9.092241, reverse: 28.737236
+最近 股票 大 跌
+result: <END> 投 资 有 多 大 <END>, score: 10.002416, origin: 9.143935, reverse: 20.370336
+result: <END> 为什么 要 投 资 <END>, score: 10.789949, origin: 9.387711, reverse: 19.962337
+result: <END> 什 么 股 市 <END>, score: 10.930336, origin: 9.588460, reverse: 20.076854
+result: <END> 投 资 有 风 险 <END>, score: 11.005733, origin: 7.631132, reverse: 22.451991
+result: <END> 投 资 有 风 险 的 <END>, score: 11.849436, origin: 9.970999, reverse: 24.083052
+对 面 哪 个 妹 子 好看
+result: <END> 你 喜欢 哪 个 好看 妹 子 <END>, score: 8.707570, origin: 9.040123, reverse: 21.422190
+result: <END> 我 觉得 是 个 好看 妹 子 <END>, score: 8.865252, origin: 9.680467, reverse: 21.373017
+result: <END> 我 觉得 你 是 个 好看 妹 子 <END>, score: 9.043722, origin: 10.315106, reverse: 22.784557
+result: <END> 我 觉得 就 是 个 好看 妹 子 <END>, score: 9.118557, origin: 10.430407, reverse: 22.842050
+result: <END> 我 觉得 也 是 个 好看 妹 子 <END>, score: 9.579266, origin: 10.426879, reverse: 23.501718
+公司 不 让 抽 烟 了
+result: <END> 抽 烟 对 身体 不 好 <END>, score: 14.863380, origin: 5.739333, reverse: 30.202257
+result: <END> 抽 烟 有 害 健康 的 <END>, score: 15.493084, origin: 7.586344, reverse: 30.310259
+result: <END> 怎 么 能 抽 到 了 <END>, score: 15.572492, origin: 7.858058, reverse: 30.307249
+result: <END> 不 可 以 抽 烟 的 <END>, score: 15.747236, origin: 6.826719, reverse: 30.998886
+result: <END> 抽 烟 对 身体 有 害 <END>, score: 15.757521, origin: 9.256871, reverse: 29.972086
+能 做 什 么 菜
+result: <END> 你 想 做 什 么 做 什 么 菜 <END>, score: 1.795235, origin: 8.360178, reverse: 14.695973
+result: <END> 想 做 什 么 做 什 么 菜 ？ <END>, score: 1.897716, origin: 9.295039, reverse: 14.441720
+result: <END> 看 你 想 做 什 么 菜 了 <END>, score: 1.936679, origin: 9.455982, reverse: 12.999835
+result: <END> 想 做 什 么 做 什 么 菜 <END>, score: 2.328838, origin: 6.824144, reverse: 14.687992
+result: <END> 想 做 什 么 就 做 什 么 菜 咯 <END>, score: 2.398384, origin: 9.128285, reverse: 16.656997
+你 会 做 什 么 菜
+result: <END> 我 会 做 什 么 菜 呀 <END>, score: 2.547733, origin: 8.590075, reverse: 12.815301
+result: <END> 我 当 然 会 做 菜 了 <END>, score: 2.717566, origin: 9.008021, reverse: 12.878799
+result: <END> 我 没有 做 什 么 菜 呀 <END>, score: 3.068089, origin: 8.086379, reverse: 13.774536
+result: <END> 当 然 会 做 菜 了 <END>, score: 3.314638, origin: 8.045522, reverse: 12.715688
+result: <END> 我 什 么 都 会 做 菜 <END>, score: 3.413496, origin: 7.549687, reverse: 14.497986
+吃 了 什 么
+result: <END> 什 么 都 没有 吃 <END>, score: 3.118329, origin: 6.584248, reverse: 11.632935
+result: <END> 你 吃 了 什 么 呀 <END>, score: 3.209760, origin: 6.586772, reverse: 13.191040
+result: <END> 什 么 都 吃 了 <END>, score: 3.252480, origin: 8.005910, reverse: 11.215295
+result: <END> 什 么 都 没 吃 <END>, score: 3.261121, origin: 7.342167, reverse: 11.512101
+result: <END> 吃 的 什 么 都 可 以 <END>, score: 3.347926, origin: 8.566482, reverse: 13.968545
+不 给 你 喝
+result: <END> 为什么 不 给 我 喝 <END>, score: 6.214926, origin: 8.299861, reverse: 15.321382
+result: <END> 为什么 不 给 我 喝 了 <END>, score: 6.640394, origin: 9.085826, reverse: 17.020924
+result: <END> 为什么 不 要 喝 我 <END>, score: 6.641965, origin: 8.057758, reverse: 16.035197
+result: <END> 为什么 不 让 我 喝 了 <END>, score: 6.867806, origin: 8.969960, reverse: 17.395454
+result: <END> 为什么 不 让 我 喝 <END>, score: 6.922708, origin: 8.510621, reverse: 16.242174
+这 么 高 级 的 东西
+result: <END> 是 不 是 很 高 级 <END>, score: 8.012651, origin: 7.259175, reverse: 19.764141
+result: <END> 是 不 是 很 高 级 呀 <END>, score: 8.162023, origin: 8.228010, reverse: 20.990886
+result: <END> 是 不 是 很 高 级 了 <END>, score: 8.397179, origin: 9.413547, reverse: 20.818736
+result: <END> 高 级 不 是 很 高 <END>, score: 8.565855, origin: 9.209874, reverse: 19.718418
+result: <END> 不 是 很 高 级 的 <END>, score: 8.656550, origin: 10.299161, reverse: 19.381145
+猫 和 狗 不 好
+result: <END> 狗 狗 很 好 玩 <END>, score: 13.716427, origin: 8.152807, reverse: 26.100836
+result: <END> 狗 狗 也 很 好 <END>, score: 13.876505, origin: 7.758628, reverse: 26.498452
+result: <END> 狗 狗 可 好 了 <END>, score: 13.969258, origin: 8.232956, reverse: 26.427673
+result: <END> 狗 狗 也 很 可爱 <END>, score: 14.192526, origin: 5.169882, reverse: 28.059374
+result: <END> 狗 狗 很 可爱 。 <END>, score: 14.261459, origin: 8.172011, reverse: 26.871222
+杨 过 和 你 是 啥 关系
+result: <END> 我 们 是 很 好 的 朋友 <END>, score: 9.459929, origin: 4.979280, reverse: 24.237350
+result: <END> 当 然 是 我 们 的 朋友 <END>, score: 9.505195, origin: 9.414492, reverse: 22.401211
+result: <END> 我 们 是 普 通 的 朋友 <END>, score: 9.625526, origin: 8.819953, reverse: 22.827914
+result: <END> 我 们 是 好 朋友 的 朋友 <END>, score: 9.643436, origin: 8.188475, reverse: 23.124133
+result: <END> 当 然 是 非 常 好 的 朋友 <END>, score: 9.818097, origin: 8.098365, reverse: 24.840839
+有 多 美
+result: <END> 有 多 美 呀 <END>, score: 5.943634, origin: 8.754827, reverse: 13.310266
+result: <END> 有 多 美 <END>, score: 6.154718, origin: 7.566092, reverse: 12.692701
+result: <END> 有 很多 美 <END>, score: 6.419714, origin: 9.565206, reverse: 12.214503
+result: <END> 有 很多 美 的 <END>, score: 6.576326, origin: 9.771644, reverse: 13.778333
+result: <END> 是 有 多 美 呀 <END>, score: 6.580133, origin: 8.552511, reverse: 15.734828
+她 在 吃 香蕉
+result: <END> 你 喜欢 吃 糖 <END>, score: 11.811218, origin: 10.086209, reverse: 21.121937
+result: <END> 为什么 要 吃 醋 <END>, score: 11.848236, origin: 9.452915, reverse: 21.446231
+result: <END> 在 吃 什 么 <END>, score: 11.871898, origin: 9.921025, reverse: 21.279415
+result: <END> 你 喜欢 吃 苹果 <END>, score: 12.482434, origin: 8.415549, reverse: 22.796814
+result: <END> 我 也 喜欢 吃 <END>, score: 12.757332, origin: 8.301924, reverse: 23.238221
+为什么 你 妈 妈 生 出 你 这 么 个 脑残
+result: <END> 我 可 不 是 这 么 说 你 妈 妈 。 <END>, score: 26.067775, origin: 12.857942, reverse: 50.300561
+result: <END> 我 可 从 来 都 没有 说 过 我 妈 妈 <END>, score: 26.812520, origin: 10.477615, reverse: 52.384622
+result: <END> 我 可 从 来 都 没有 想 过 我 妈 妈 <END>, score: 26.980730, origin: 11.870056, reverse: 52.028162
+result: <END> 我 可 从 来 都 没 说 过 我 妈 妈 <END>, score: 27.327744, origin: 12.126354, reverse: 52.414054
+result: <END> 我 本 来 就 不 是 我 妈 妈 的 呀 <END>, score: 27.597278, origin: 12.822809, reverse: 52.500622
+不 去 吃 饭
+result: <END> 为什么 不 去 吃 饭 <END>, score: 6.006100, origin: 7.993369, reverse: 15.154414
+result: <END> 为什么 不 吃 饭 <END>, score: 6.649697, origin: 7.354534, reverse: 14.919053
+result: <END> 那 就 去 吃 饭 <END>, score: 6.846494, origin: 6.893446, reverse: 16.826371
+result: <END> 为什么 不 吃 饭 去 <END>, score: 7.276646, origin: 8.086826, reverse: 16.929426
+result: <END> 为什么 不能 吃 饭 <END>, score: 7.504170, origin: 8.702749, reverse: 15.561922
+动 车 是 怎 么 跑 起 来 的
+result: <END> 看 来 你 很 喜欢 锻 炼 车 喽 <END>, score: 15.212291, origin: 13.492566, reverse: 31.663602
+result: <END> 不 可 以 随 便 跑 起 来 的 <END>, score: 15.556734, origin: 11.891268, reverse: 32.841933
+result: <END> 马 上 就 可 以 跑 起 来 了 <END>, score: 15.819385, origin: 12.785119, reverse: 32.834070
+result: <END> 那 你 就 继 续 锻 炼 一下 呗 <END>, score: 16.038169, origin: 13.290081, reverse: 32.930207
+result: <END> 马 上 就 可 以 跑 起 来 的 <END>, score: 16.075106, origin: 13.716286, reverse: 32.800315
+学 挖 掘 技术 哪 家 强
+result: <END> 中国 山东 山东 找 找 蓝 翔 <END>, score: 2.658369, origin: 9.444669, reverse: 12.607098
+result: <END> 中国 山东 找 山东 找 蓝 翔 <END>, score: 2.830825, origin: 9.503989, reverse: 12.828040
+result: <END> 中国 山东 山东 山东 找 蓝 蓝 <END>, score: 3.161370, origin: 11.698865, reverse: 12.359587
+result: <END> 中国 山东 山东 找 蓝 蓝 翔 <END>, score: 3.324823, origin: 8.022989, reverse: 14.168465
+result: <END> 中国 山东 山东 山东 找 蓝 翔 <END>, score: 3.352067, origin: 8.930440, reverse: 13.818478
+抽 根 烟 冷 静 一下
+result: <END> 怎 么 能 吸 烟 了 <END>, score: 13.185149, origin: 8.632933, reverse: 26.564671
+result: <END> 怎 么 可 能 吸 烟 了 <END>, score: 14.105494, origin: 7.237252, reverse: 29.906169
+result: <END> 怎 么 会 吸 烟 了 <END>, score: 14.689917, origin: 7.649403, reverse: 29.135851
+result: <END> 你 可 以 吸 烟 一下 <END>, score: 14.988532, origin: 8.495747, reverse: 29.199726
+result: <END> 不 可 以 吸 烟 的 <END>, score: 15.010166, origin: 9.145887, reverse: 28.952000
+我 的 书 包 在 哪 里
+result: <END> 你 想 去 哪 里 的 书 <END>, score: 11.054621, origin: 9.819455, reverse: 24.441121
+result: <END> 你 可 以 去 看 看 书 <END>, score: 12.731547, origin: 9.320655, reverse: 27.050501
+result: <END> 你 去 店 里 看 看 去 <END>, score: 12.945374, origin: 9.441829, reverse: 27.304036
+result: <END> 你 可 以 去 包 店 看 看 <END>, score: 13.488354, origin: 9.930967, reverse: 29.298663
+result: <END> 看 来 你 很 喜欢 看 书 <END>, score: 13.710520, origin: 10.345439, reverse: 28.009841
+我 的 书 包 坏 了
+result: <END> 那 就 赶紧 去 修 修 <END>, score: 14.924406, origin: 8.166355, reverse: 29.249285
+result: <END> 那 就 赶紧 去 修 好 <END>, score: 15.198127, origin: 8.747733, reverse: 29.391153
+result: <END> 那 就 赶紧 去 学 习 <END>, score: 15.395487, origin: 9.564187, reverse: 29.323187
+result: <END> 看 来 你 很 喜欢 看 书 <END>, score: 15.431100, origin: 9.198160, reverse: 30.959503
+result: <END> 那 就 要 好 好 看 书 <END>, score: 15.474590, origin: 10.436083, reverse: 30.491092
+哪 里 地 震 了
+result: <END> 哪 里 都 很 堵 <END>, score: 12.579985, origin: 10.326483, reverse: 23.545771
+result: <END> 哪 里 都 很 洋 <END>, score: 12.898179, origin: 10.168346, reverse: 24.068108
+result: <END> 地 球 的 地 方 <END>, score: 13.705655, origin: 9.850092, reverse: 25.358039
+result: <END> 哪 里 都 很 正常 <END>, score: 13.839378, origin: 7.840082, reverse: 26.410504
+result: <END> 哪 里 都 很 惨 <END>, score: 13.964967, origin: 9.293633, reverse: 25.966968
+外 面 下 大 雨 了
+result: <END> 原 来 你 下 雨 了 <END>, score: 6.076290, origin: 9.437706, reverse: 16.064255
+result: <END> 下 雨 了 要 注意 安全 <END>, score: 6.757214, origin: 7.455165, reverse: 17.886663
+result: <END> 下 雨 就 要 认 真 <END>, score: 7.114528, origin: 9.875763, reverse: 17.359713
+result: <END> 怎 么 会 下 雨 了 <END>, score: 7.172581, origin: 8.169790, reverse: 18.173777
+result: <END> 下 雨 一 定 要 记 住 <END>, score: 7.180340, origin: 9.514319, reverse: 19.037206
+后 天 中午 两 点 半 去 吃 饭 。
+result: <END> 好 的 ， 那 你 去 吃 饭 去 。 <END>, score: 29.827234, origin: 13.810117, reverse: 53.834570
+result: <END> 好 的 ， 那 就 赶紧 吃 饭 去 。 <END>, score: 29.903057, origin: 13.805738, reverse: 53.944765
+result: <END> 好 的 ， 那 就 去 吃 饭 去 。 <END>, score: 29.959252, origin: 12.379907, reverse: 54.636114
+result: <END> 好 的 ， 那 就 赶紧 去 吃 饭 。 <END>, score: 30.245564, origin: 12.237647, reverse: 55.106100
+result: <END> 好 ， 那 你 慢 慢 吃 饭 去 。 <END>, score: 30.258365, origin: 13.069121, reverse: 54.768042
+明天 领 导 要 来
+result: <END> 领 导 什 么 呀 <END>, score: 13.162435, origin: 9.719065, reverse: 24.638166
+result: <END> 领 导 是 谁 呀 <END>, score: 13.316405, origin: 9.270569, reverse: 25.050335
+result: <END> 谁 是 你 领 导 呀 <END>, score: 13.758302, origin: 9.001212, reverse: 27.225626
+result: <END> 那 就 去 领 导 <END>, score: 14.399459, origin: 8.812010, reverse: 26.794080
+result: <END> 你 要 领 导 什 么 呀 <END>, score: 14.453564, origin: 8.992211, reverse: 29.651286
+我 看 看 有 没有 空
+result: <END> 看 什 么 有 空 的 <END>, score: 7.712744, origin: 8.885174, reverse: 18.638845
+result: <END> 什 么 有 空 看 的 <END>, score: 9.226344, origin: 8.852978, reverse: 20.814930
+result: <END> 怎 么 会 看 不 空 <END>, score: 9.273340, origin: 9.430490, reverse: 20.634562
+result: <END> 你 想 看 什 么 空 <END>, score: 9.357156, origin: 8.354292, reverse: 21.215527
+result: <END> 你 要 看 什 么 空 <END>, score: 9.438431, origin: 8.543316, reverse: 21.250624
+没有 花 露 水
+result: <END> 那 就 赶紧 擦 <END>, score: 20.051997, origin: 8.414558, reverse: 33.610900
+result: <END> 我 也 想 要 <END>, score: 21.973496, origin: 10.841512, reverse: 35.315775
+result: <END> 那 就 赶紧 的 <END>, score: 22.280466, origin: 10.767171, reverse: 35.786164
+result: <END> 怎 么 会 有 水 了 <END>, score: 22.706766, origin: 9.565540, reverse: 39.767292
+result: <END> 不 要 吓 我 <END>, score: 22.835769, origin: 10.441294, reverse: 36.719115
+快 来 骚 扰 我
+result: <END> 骚 扰 什 么 呀 <END>, score: 7.734737, origin: 9.949454, reverse: 16.785573
+result: <END> 骚 扰 怎 么 了 <END>, score: 7.867833, origin: 9.867837, reverse: 17.010688
+result: <END> 怎 么 可 能 骚 扰 你 <END>, score: 7.968029, origin: 9.089187, reverse: 20.344676
+result: <END> 我 怎 么 可 能 骚 扰 你 <END>, score: 7.982061, origin: 9.782948, reverse: 21.495967
+result: <END> 骚 扰 是 谁 呀 <END>, score: 8.239611, origin: 8.110079, reverse: 18.295125
+快 来 蹂 躏 我
+result: <END> 马 上 就 来 了 <END>, score: 14.251144, origin: 9.202589, reverse: 26.414810
+result: <END> 我 可 没有 这 个 兴趣 <END>, score: 14.366140, origin: 7.881371, reverse: 28.573898
+result: <END> 我 可 没有 那 个 兴趣 <END>, score: 14.631524, origin: 8.364549, reverse: 28.745941
+result: <END> 这 是 你 的 自由 <END>, score: 14.815515, origin: 9.095473, reverse: 27.266961
+result: <END> 我 可 没有 这 个 癖 好 <END>, score: 15.048453, origin: 7.930132, reverse: 30.956306
+你 要 去 哪 儿 旅游
+result: <END> 当 然 是 去 旅游 了 <END>, score: 9.619979, origin: 8.909278, reverse: 21.353136
+result: <END> 当 然 是 要 去 旅游 <END>, score: 11.653419, origin: 9.017561, reverse: 24.211643
+result: <END> 当 然 是 要 去 旅游 了 <END>, score: 11.777439, origin: 9.235111, reverse: 25.724150
+result: <END> 你 想 去 哪 儿 地 方 <END>, score: 11.787844, origin: 8.132478, reverse: 26.211572
+result: <END> 你 可 以 去 旅游 去 <END>, score: 11.865761, origin: 9.299494, reverse: 24.394161
+红 公 鸡 囧 哦 呵 呵
+result: <END> 笑 一 笑 十 年 少 。 <END>, score: 33.452082, origin: 10.572749, reverse: 56.114654
+result: <END> 看 来 你 很 喜欢 笑 。 <END>, score: 34.112440, origin: 9.704238, reverse: 57.430241
+result: <END> 说 的 是 什 么 意思 。 <END>, score: 34.887929, origin: 9.450492, reverse: 58.646831
+result: <END> 你 说 的 是 什 么 。 <END>, score: 35.146479, origin: 9.078733, reverse: 59.175513
+result: <END> 看 来 你 很 喜欢 嘛 。 <END>, score: 35.336874, origin: 10.481205, reverse: 58.846447
+鳄 鱼
+result: <END> 什 么 鱼 <END>, score: 10.163120, origin: 10.548923, reverse: 17.140633
+result: <END> 你 喜欢 吃 鱼 嘛 <END>, score: 10.485571, origin: 9.112286, reverse: 21.074122
+result: <END> 你 喜欢 吃 鱼 鱼 嘛 <END>, score: 10.894097, origin: 10.472761, reverse: 22.503241
+result: <END> 很 喜欢 吃 鱼 <END>, score: 11.208288, origin: 9.492085, reverse: 20.515233
+result: <END> 你 喜欢 吃 鱼 么 <END>, score: 11.233182, origin: 10.648605, reverse: 21.483714
+她 在 吃 水果
+result: <END> 吃 水果 对 身体 好 <END>, score: 8.971617, origin: 8.732182, reverse: 19.074232
+result: <END> 吃 水果 对 身体 很 好 <END>, score: 10.105511, origin: 8.705509, reverse: 22.134083
+result: <END> 你 喜欢 吃 水果 <END>, score: 11.487452, origin: 8.418377, reverse: 21.374199
+result: <END> 你 喜欢 吃 苹果 <END>, score: 12.423486, origin: 8.202454, reverse: 22.803928
+result: <END> 吃 西瓜 对 身体 很 好 <END>, score: 12.505667, origin: 9.734045, reverse: 25.122076
+如何 照 顾 家 庭
+result: <END> 你 可 以 照 顾 家 <END>, score: 15.955216, origin: 11.035006, reverse: 29.492449
+result: <END> 照 顾 好 自 己 <END>, score: 16.314636, origin: 9.269534, reverse: 29.333966
+result: <END> 一直 都 在 家 里 <END>, score: 17.216829, origin: 10.890908, reverse: 29.927938
+result: <END> 好 好 照 顾 自 己 的 家 <END>, score: 17.297443, origin: 10.674239, reverse: 34.421673
+result: <END> 家 里 有 多 美 <END>, score: 17.340324, origin: 10.738510, reverse: 30.169672
+儿童 节 怎 么 过
+result: <END> 当 然 是 过 节 <END>, score: 8.938251, origin: 10.919042, reverse: 18.089341
+result: <END> 过 节 就 可 以 <END>, score: 9.024135, origin: 11.052708, reverse: 18.154746
+result: <END> 过 节 就 好 了 <END>, score: 9.207854, origin: 9.180420, reverse: 19.219612
+result: <END> 你 可 以 过 节 一下 <END>, score: 9.367670, origin: 9.602436, reverse: 20.695627
+result: <END> 过 节 就 过 了 <END>, score: 9.436943, origin: 10.247432, reverse: 19.089591
+下 楼 吃 饭 去
+result: <END> 去 哪 里 吃 去 <END>, score: 16.863359, origin: 6.867018, reverse: 31.147505
+result: <END> 去 哪 里 吃 饭 <END>, score: 17.111177, origin: 8.962227, reverse: 30.603584
+result: <END> 你 想 吃 什 么 <END>, score: 17.729183, origin: 8.647886, reverse: 31.621168
+result: <END> 想 吃 什 么 去 <END>, score: 17.740787, origin: 8.571961, reverse: 31.670284
+result: <END> 你 去 哪 里 去 <END>, score: 18.023473, origin: 9.312809, reverse: 31.756615
+什 么 时候 能 凉 快 下 来
+result: <END> 快 点 下 来 就 可 以 了 <END>, score: 16.709076, origin: 9.583335, reverse: 34.048679
+result: <END> 我 一直 都 很 快 能 下 来 的 <END>, score: 17.064424, origin: 11.488429, reverse: 35.168422
+result: <END> 我 一直 都 很 快 就 下 来 了 <END>, score: 17.430831, origin: 10.875002, reverse: 35.954757
+result: <END> 不 要 急 ， 马 上 就 下 来 <END>, score: 17.673176, origin: 10.764946, reverse: 36.348132
+result: <END> 凉 快 的 时候 就 可 以 了 <END>, score: 18.095755, origin: 10.863767, reverse: 35.480893
+你 知道 的 太 多 了
+result: <END> 我 知道 的 太 多 了 <END>, score: 6.256921, origin: 7.366694, reverse: 17.209875
+result: <END> 你 知道 的 太 多 了 <END>, score: 7.568794, origin: 7.995729, reverse: 18.814394
+result: <END> 我 什 么 都 不 知道 <END>, score: 7.641559, origin: 8.586083, reverse: 18.665335
+result: <END> 我 知道 的 太 多 了 。 <END>, score: 7.704534, origin: 9.560130, reverse: 19.766421
+result: <END> 我 什 么 都 没 说 <END>, score: 8.425703, origin: 9.482736, reverse: 19.401260
+被 蚊 子 咬 了 好几 口 啊
+result: <END> 不 可 以 随 便 口 咬 别人 <END>, score: 22.440135, origin: 11.621783, reverse: 41.362286
+result: <END> 蚊 子 可 不能 随 便 吃 的 <END>, score: 22.546375, origin: 10.569322, reverse: 41.965113
+result: <END> 蚊 子 可 不能 随 便 咬 人 的 <END>, score: 22.550081, origin: 11.368681, reverse: 43.056395
+result: <END> 不 可 以 随 便 咬 口 的 <END>, score: 23.315978, origin: 9.940888, reverse: 43.333874
+result: <END> 不 可 以 随 便 口 咬 的 <END>, score: 23.346138, origin: 10.548263, reverse: 43.116655
+三 里 屯 优 衣 库
+result: <END> 你 可 以 搜 索 下 <END>, score: 23.879579, origin: 9.402511, reverse: 41.512608
+result: <END> 你 可 以 搜 索 一下 <END>, score: 24.473828, origin: 7.114265, reverse: 43.342213
+result: <END> 你 可 以 去 找 找 <END>, score: 24.510899, origin: 9.638788, reverse: 42.313232
+result: <END> 你 可 以 咨 询 一下 <END>, score: 25.850487, origin: 7.688581, reverse: 45.062733
+result: <END> 我 可 以 帮 你 找 找 <END>, score: 26.451817, origin: 9.374361, reverse: 46.627869
+心 里 不 好 受 怎 么 办
+result: <END> 怎 么 会 受 不 了 你 的 <END>, score: 8.834528, origin: 10.449515, reverse: 22.428105
+result: <END> 怎 么 会 受 不 好 的 办 法 <END>, score: 8.944610, origin: 11.042502, reverse: 23.759799
+result: <END> 怎 么 就 怎 么 受 不 好 了 <END>, score: 8.972165, origin: 11.380028, reverse: 23.654509
+result: <END> 怎 么 会 受 不 好 的 办 法 了 <END>, score: 8.991752, origin: 10.991425, reverse: 25.277607
+result: <END> 怎 么 会 受 不 了 的 呀 <END>, score: 9.111322, origin: 10.640898, reverse: 22.741504
+这 个 世界 谁 最 有 钱
+result: <END> 当 然 是 有 钱 人 的 <END>, score: 12.703405, origin: 8.010263, reverse: 27.571894
+result: <END> 当 然 是 有 钱 人 了 <END>, score: 13.306181, origin: 8.585112, reverse: 28.186639
+result: <END> 肯 定 是 有 钱 人 的 <END>, score: 13.574390, origin: 10.360667, reverse: 27.808843
+result: <END> 当 然 是 有 钱 人 呀 <END>, score: 13.852578, origin: 9.919214, reverse: 28.395448
+result: <END> 当 然 是 有 钱 的 人 <END>, score: 14.290416, origin: 10.411167, reverse: 28.810094
+葫 芦 娃 你 认识 吗 ？
+result: <END> 我 的 名 字 是 小 微 <END>, score: 22.252531, origin: 9.150702, reverse: 40.724743
+result: <END> 我 的 名 字 叫 小 微 <END>, score: 22.508383, origin: 9.507170, reverse: 40.937475
+result: <END> 这 个 名 字 我 很 喜欢 <END>, score: 22.656433, origin: 10.373456, reverse: 40.777709
+result: <END> 认识 呀 ， 很 高兴 认识 你 <END>, score: 23.020595, origin: 7.485496, reverse: 42.535638
+result: <END> 认识 呀 ， 可 是 小 微 <END>, score: 23.218951, origin: 10.465585, reverse: 41.541821
+哥 买 了 个 自 行 车
+result: <END> 行 ， 你 可 以 买 一个 <END>, score: 16.876424, origin: 10.945632, reverse: 32.275334
+result: <END> 你 可 以 买 一个 行 车 <END>, score: 17.100659, origin: 10.278175, reverse: 32.881724
+result: <END> 还 是 你 自 己 买 一个 <END>, score: 17.153741, origin: 10.713375, reverse: 32.771041
+result: <END> 你 可 以 自 己 买 车 <END>, score: 17.371178, origin: 8.506778, reverse: 34.027349
+result: <END> 你 可 以 自 己 买 一个 <END>, score: 17.402980, origin: 7.453583, reverse: 34.524150
+a股 明天 涨 不 涨
+result: <END> 怎 么 会 涨 涨 <END>, score: 10.162739, origin: 7.473455, reverse: 21.315289
+result: <END> 不 会 涨 涨 的 <END>, score: 11.976987, origin: 8.453654, reverse: 23.486986
+result: <END> 怎 么 会 不 会 涨 涨 <END>, score: 13.052333, origin: 10.402115, reverse: 27.045284
+result: <END> 怎 么 会 涨 的 <END>, score: 14.794310, origin: 8.687595, reverse: 27.411474
+result: <END> 怎 么 会 涨 涨 了 <END>, score: 14.828957, origin: 7.437975, reverse: 29.425093
+为 啥 喝 咖啡 不 好
+result: <END> 我 不 喜欢 喝 咖啡 。 <END>, score: 9.551648, origin: 8.786059, reverse: 21.308329
+result: <END> 喝 咖啡 对 身体 不 好 。 <END>, score: 10.105362, origin: 9.302078, reverse: 23.306770
+result: <END> 喝 咖啡 对 身体 好 。 <END>, score: 10.141770, origin: 9.023061, reverse: 22.049788
+result: <END> 你 喜欢 喝 什 么 咖啡 。 <END>, score: 10.543296, origin: 9.939252, reverse: 23.659315
+result: <END> 喝 咖啡 对 身体 不 好 <END>, score: 10.669873, origin: 6.058844, reverse: 24.074600
+天 空 是 蓝 的
+result: <END> 我 也 喜欢 蓝 天 <END>, score: 10.429762, origin: 9.218463, reverse: 20.948891
+result: <END> 天 空 是 个 美 丽 <END>, score: 11.835834, origin: 10.941326, reverse: 23.647766
+result: <END> 天 空 是 你 的 <END>, score: 12.886618, origin: 10.010068, reverse: 24.119426
+result: <END> 看 来 你 很 喜欢 蓝 天 <END>, score: 13.134089, origin: 9.529905, reverse: 27.535882
+result: <END> 天 空 是 什 么 <END>, score: 13.395916, origin: 9.321730, reverse: 25.141996
+去 台湾 什 么 值 得 买
+result: <END> 买 什 么 值 得 买 的 <END>, score: 15.857788, origin: 10.045460, reverse: 31.205929
+result: <END> 有 什 么 值 得 买 的 <END>, score: 16.050053, origin: 9.078927, reverse: 31.894821
+result: <END> 你 想 买 什 么 值 得 买 <END>, score: 16.134578, origin: 10.369127, reverse: 32.891200
+result: <END> 你 想 买 什 么 值 得 <END>, score: 16.545537, origin: 9.849692, reverse: 32.272328
+result: <END> 当 然 是 值 得 买 的 <END>, score: 17.071319, origin: 9.711037, reverse: 33.082868
+刘 德 华 是 谁
+result: <END> 刘 德 华 是 谁 <END>, score: 6.487786, origin: 8.272727, reverse: 15.722811
+result: <END> 刘 德 华 是 个 人 <END>, score: 7.030758, origin: 8.158840, reverse: 17.975866
+result: <END> 刘 德 华 是 中国 <END>, score: 7.049719, origin: 9.490215, reverse: 16.003793
+result: <END> 刘 德 华 是 谁 呀 <END>, score: 7.177842, origin: 8.072364, reverse: 18.223047
+result: <END> 刘 德 华 是 你 的 朋友 <END>, score: 7.408729, origin: 7.729492, reverse: 20.128402
+说 你 长 的 丑 你 还 美
+result: <END> 我 长 的 可 不 是 美 丑 <END>, score: 16.199708, origin: 10.974783, reverse: 32.724676
+result: <END> 我 长 的 可 是 美 美 的 <END>, score: 16.597760, origin: 10.070615, reverse: 33.680823
+result: <END> 我 长 的 可 不 是 美 美 <END>, score: 17.073377, origin: 9.050081, reverse: 34.797647
+result: <END> 我 长 本 就 很 美 的 呀 <END>, score: 17.097862, origin: 10.537459, reverse: 34.195178
+result: <END> 我 长 的 可 是 最 美 的 <END>, score: 17.673729, origin: 7.952895, reverse: 36.125515
+你 去 吃 粑 粑
+result: <END> 我 没有 吃 粑 粑 <END>, score: 5.796642, origin: 8.578691, reverse: 14.604335
+result: <END> 我 可 不 是 粑 粑 。 <END>, score: 6.184388, origin: 8.684635, reverse: 17.969997
+result: <END> 我 不 喜欢 吃 粑 粑 。 <END>, score: 6.240780, origin: 9.683612, reverse: 17.622423
+result: <END> 我 可 不 想 吃 粑 粑 <END>, score: 6.605350, origin: 8.019039, reverse: 18.856627
+result: <END> 我 可 不 喜欢 吃 粑 粑 <END>, score: 6.727628, origin: 7.893899, reverse: 19.084941
+那 些 出 来 好 了
+result: <END> 出 来 了 就 出 来 <END>, score: 16.523975, origin: 9.798009, reverse: 30.835104
+result: <END> 好 的 已 经 出 来 了 <END>, score: 16.539101, origin: 9.203501, reverse: 32.540073
+result: <END> 好 的 那 就 出 来 <END>, score: 16.825509, origin: 8.478769, reverse: 31.831255
+result: <END> 出 来 了 就 出 去 <END>, score: 16.858562, origin: 10.078079, reverse: 31.193054
+result: <END> 出 什 么 来 了 呀 <END>, score: 16.961945, origin: 9.631153, reverse: 31.532284
+家 里 突 然 没 电 了
+result: <END> 没 电 了 就 赶紧 去 电 <END>, score: 8.773785, origin: 10.968047, reverse: 20.690530
+result: <END> 怎 么 可 能 没 电 了 <END>, score: 9.283098, origin: 9.018896, reverse: 22.253471
+result: <END> 没 电 了 就 赶紧 去 医院 <END>, score: 9.465660, origin: 8.812551, reverse: 22.602707
+result: <END> 没 电 就 不 要 去 医院 <END>, score: 9.561776, origin: 10.701152, reverse: 21.930614
+result: <END> 怎 么 会 没 电 了 ？ <END>, score: 9.665911, origin: 7.911805, reverse: 23.274813
+家 里 黑 漆 漆 的
+result: <END> 怎 么 这 么 不 小心 <END>, score: 27.421524, origin: 9.595976, reverse: 46.489616
+result: <END> 哪 里 有 这 么 多 <END>, score: 27.803712, origin: 10.598882, reverse: 46.605782
+result: <END> 那 你 可 要 注意 安全 <END>, score: 28.138735, origin: 9.603151, reverse: 47.511127
+result: <END> 这 是 什 么 地 方 <END>, score: 28.743764, origin: 9.917803, reverse: 48.240604
+result: <END> 看 来 你 很 喜欢 玩 <END>, score: 28.835878, origin: 8.914522, reverse: 48.802174
+既 然 爱 我 那 就 跟 我 在 一起 吧
+result: <END> 我 还 小 ， 不 要 这 样 对 我 嘛 <END>, score: 29.421232, origin: 13.832177, reverse: 54.673684
+result: <END> 我 相 信 你 一 定 会 爱 上 你 的 <END>, score: 29.684344, origin: 9.728880, reverse: 56.808114
+result: <END> 好 的 ， 那 咱 们 就 在 一起 的 喽 <END>, score: 29.756598, origin: 15.290478, reverse: 54.527793
+result: <END> 好 ， 那 就 祝 福 你 们 了 在 一起 <END>, score: 29.788899, origin: 12.248844, reverse: 55.877494
+result: <END> 好 ， 我 相 信 你 会 爱 上 你 的 <END>, score: 29.964257, origin: 11.194955, reverse: 56.579673
+都 说 了 没 风
+result: <END> 怎 么 会 没有 了 <END>, score: 15.969599, origin: 7.970472, reverse: 29.397796
+result: <END> 那 就 别 说 了 <END>, score: 16.299947, origin: 6.512363, reverse: 30.494627
+result: <END> 怎 么 会 没有 的 <END>, score: 16.469818, origin: 8.894006, reverse: 29.716595
+result: <END> 那 就 没 办 法 <END>, score: 16.935668, origin: 9.962219, reverse: 29.924290
+result: <END> 那 就 继 续 说 <END>, score: 17.042620, origin: 6.041711, reverse: 31.757296
+没 风 怎 么 放
+result: <END> 可 以 放 松 一下 <END>, score: 16.025221, origin: 8.363643, reverse: 29.308755
+result: <END> 那 就 放 松 一下 <END>, score: 16.394220, origin: 6.455988, reverse: 30.653462
+result: <END> 那 就 放 松 了 <END>, score: 17.147102, origin: 8.330893, reverse: 30.925478
+result: <END> 那 就 放 轻 松 <END>, score: 17.148617, origin: 10.309088, reverse: 30.079844
+result: <END> 那 就 放 下 来 <END>, score: 17.356691, origin: 10.257892, reverse: 30.399034
+没有 止 疼 药
+result: <END> 药 就 去 医院 <END>, score: 17.698585, origin: 8.733977, reverse: 30.111989
+result: <END> 去 医院 治 疗 <END>, score: 19.061809, origin: 8.500141, reverse: 32.159666
+result: <END> 没有 药 就 去 医院 <END>, score: 19.560590, origin: 8.661323, reverse: 34.231705
+result: <END> 去 医院 看 看 <END>, score: 19.734813, origin: 4.530395, reverse: 34.822420
+result: <END> 不 要 感冒 了 <END>, score: 19.815717, origin: 9.010053, reverse: 33.018145
+你 这 是 越俎代庖
+result: <END> 我 是 小 微 呀 <END>, score: 8.768692, origin: 5.902463, reverse: 19.997077
+result: <END> 这 你 都 知道 <END>, score: 8.818624, origin: 8.166904, reverse: 17.669362
+result: <END> 你 认 错 人 了 <END>, score: 8.929484, origin: 7.687022, reverse: 19.461967
+result: <END> 当 然 是 我 <END>, score: 9.375947, origin: 9.148551, reverse: 18.044831
+result: <END> 为什么 这 么 说 呀 <END>, score: 9.525707, origin: 8.777032, reverse: 19.846567
+中国 有 多 大
+result: <END> 你 有 多 大 <END>, score: 6.868974, origin: 8.409194, reverse: 14.780308
+result: <END> 是 一个 很 大 的 国家 <END>, score: 7.318646, origin: 9.980724, reverse: 17.606327
+result: <END> 中国 可 是 很 大 的 <END>, score: 7.384736, origin: 9.133942, reverse: 18.063648
+result: <END> 是 有 多 大 <END>, score: 7.460829, origin: 8.355031, reverse: 15.649029
+result: <END> 有 多 大 的 <END>, score: 7.615004, origin: 9.572306, reverse: 15.347589
+你 不 小 了 可 以 结婚 了
+result: <END> 我 当 然 可 以 结婚 了 呀 <END>, score: 16.067417, origin: 10.515594, reverse: 32.732484
+result: <END> 我 还 小 ， 不 要 结婚 了 <END>, score: 16.253283, origin: 8.230347, reverse: 33.977399
+result: <END> 我 怎 么 可 能 结婚 了 呀 <END>, score: 16.447384, origin: 9.840845, reverse: 33.564472
+result: <END> 我 怎 么 不 可 以 结婚 了 <END>, score: 16.817751, origin: 10.774216, reverse: 33.693552
+result: <END> 怎 么 会 不 可 以 结婚 了 <END>, score: 16.999026, origin: 10.692044, reverse: 33.987732
+你 会 开车 吗
+result: <END> 我 不 会 开车 。 <END>, score: 3.887027, origin: 7.973699, reverse: 12.135597
+result: <END> 我 当 然 会 开车 了 <END>, score: 4.505531, origin: 8.642289, reverse: 14.161206
+result: <END> 我 不 会 开车 呀 <END>, score: 4.527406, origin: 6.963738, reverse: 13.483263
+result: <END> 我 当 然 会 开车 的 <END>, score: 4.797964, origin: 9.187783, reverse: 14.345184
+result: <END> 我 可 不 会 开车 。 <END>, score: 4.976391, origin: 8.124445, reverse: 15.055797
+那 你 还 认识 谁
+result: <END> 当 然 是 认识 你 <END>, score: 12.912096, origin: 7.229476, reverse: 25.347504
+result: <END> 当 然 是 认识 你 咯 <END>, score: 13.352736, origin: 8.780076, reverse: 26.741018
+result: <END> 我 只 认识 你 呀 <END>, score: 13.377475, origin: 7.153619, reverse: 26.044842
+result: <END> 当 然 是 认识 的 <END>, score: 13.570803, origin: 7.694691, reverse: 26.089137
+result: <END> 当 然 是 认识 你 呀 <END>, score: 13.593892, origin: 8.583246, reverse: 27.169884
+核桃 好 吃 吗
+result: <END> 我 觉得 好 吃 <END>, score: 10.021304, origin: 8.830719, reverse: 19.102983
+result: <END> 我 觉得 很 好 吃 <END>, score: 10.028025, origin: 7.031694, reverse: 21.312167
+result: <END> 有 好 吃 的 <END>, score: 10.044050, origin: 9.323042, reverse: 18.924482
+result: <END> 当 然 很 好 吃 <END>, score: 10.175112, origin: 8.802572, reverse: 20.763344
+result: <END> 很 好 吃 的 <END>, score: 10.235450, origin: 9.022107, reverse: 19.326882
+西 雅 图 有 什 么 好 玩 儿 的
+result: <END> 你 觉得 什 么 样 的 好 玩 儿 呀 <END>, score: 14.148753, origin: 12.562697, reverse: 31.971348
+result: <END> 你 想 玩 什 么 样 的 好 玩 儿 <END>, score: 14.264853, origin: 12.742338, reverse: 32.060217
+result: <END> 你 喜欢 玩 什 么 样 的 好 玩 儿 <END>, score: 14.472523, origin: 12.901033, reverse: 32.288876
+result: <END> 你 喜欢 玩 什 么 样 的 图 片 呀 <END>, score: 14.742447, origin: 10.649726, reverse: 33.639327
+result: <END> 你 喜欢 玩 什 么 样 的 好 玩 呀 <END>, score: 14.796559, origin: 12.046350, reverse: 33.118077
+那 你 会 做 什 么 菜
+result: <END> 我 当 然 会 做 菜 了 <END>, score: 3.050877, origin: 9.379793, reverse: 13.195627
+result: <END> 我 会 做 什 么 菜 呀 <END>, score: 3.215087, origin: 8.835127, reverse: 13.663642
+result: <END> 我 什 么 都 会 做 菜 的 <END>, score: 3.370324, origin: 9.760151, reverse: 14.917541
+result: <END> 我 什 么 都 会 做 菜 <END>, score: 3.387863, origin: 7.852651, reverse: 14.331526
+result: <END> 我 什 么 都 会 做 菜 呀 <END>, score: 3.452951, origin: 9.345235, reverse: 15.213400
+你 嫁 我 可 好 ~
+result: <END> 我 是 不 会 嫁 人 的 <END>, score: 14.502173, origin: 8.702990, reverse: 29.844680
+result: <END> 我 可 不 会 嫁 人 <END>, score: 15.208893, origin: 9.780590, reverse: 28.963881
+result: <END> 我 可 是 不 会 嫁 人 的 <END>, score: 16.308720, origin: 8.812565, reverse: 33.807073
+result: <END> 我 可 不 要 嫁 给 你 <END>, score: 16.831989, origin: 9.988394, reverse: 32.622101
+result: <END> 我 还 小 ， 不能 结婚 。 <END>, score: 16.897101, origin: 9.285236, reverse: 33.016472
+你 有 兄弟 姐 妹 吗
+result: <END> 当 然 有 姐 妹 了 <END>, score: 10.521857, origin: 8.985231, reverse: 22.608982
+result: <END> 我 没有 姐 妹 的 呀 <END>, score: 10.594539, origin: 6.831343, reverse: 23.635908
+result: <END> 我 还 小 ， 没有 姐 妹 <END>, score: 11.003224, origin: 8.226909, reverse: 25.050216
+result: <END> 我 可 没有 姐 妹 的 <END>, score: 11.126030, origin: 6.686578, reverse: 24.457224
+result: <END> 我 怎 么 没有 姐 妹 <END>, score: 11.197170, origin: 9.478545, reverse: 23.362295
+你 喜欢 张 小龙 吗
+result: <END> 我 觉得 他 很 喜欢 <END>, score: 7.932971, origin: 7.978919, reverse: 17.913279
+result: <END> 我 觉得 我 很 喜欢 <END>, score: 8.651780, origin: 9.055645, reverse: 18.478696
+result: <END> 我 觉得 不 是 很 喜欢 <END>, score: 9.345991, origin: 8.156389, reverse: 21.284391
+result: <END> 我 当 然 很 喜欢 <END>, score: 9.539095, origin: 7.968339, reverse: 20.212277
+result: <END> 喜欢 ， 当 然 喜欢 <END>, score: 9.569422, origin: 8.374509, reverse: 20.081528
+来 和 我 聊 天
+result: <END> 为什么 要 跟 你 聊 天 呀 <END>, score: 5.378957, origin: 8.928074, reverse: 16.715049
+result: <END> 为什么 要 跟 你 聊 天 <END>, score: 5.480654, origin: 7.846049, reverse: 15.895485
+result: <END> 为什么 要 跟 你 聊 天 的 <END>, score: 5.626218, origin: 8.235741, reverse: 17.364993
+result: <END> 为什么 要 和 你 聊 天 呀 <END>, score: 5.920058, origin: 9.157299, reverse: 17.389812
+result: <END> 你 想 跟 谁 聊 天 呀 <END>, score: 6.059011, origin: 8.763850, reverse: 17.756937
+自 然 语 言 处理
+result: <END> 我 会 尽 力 的 <END>, score: 17.418162, origin: 8.162471, reverse: 31.384887
+result: <END> 我 们 要 讲 文明 <END>, score: 17.790035, origin: 9.751105, reverse: 31.235291
+result: <END> 那 就 好 好 的 交流 <END>, score: 17.939829, origin: 10.162250, reverse: 32.701649
+result: <END> 那 你 就 教 教 我 <END>, score: 18.185700, origin: 9.508942, reverse: 33.332882
+result: <END> 怎 么 会 语 言 <END>, score: 18.211295, origin: 9.710333, reverse: 31.854564
+心情 不 好 听 什 么
+result: <END> 你 想 听 什 么 心情 <END>, score: 7.963998, origin: 8.437245, reverse: 19.189749
+result: <END> 为什么 心情 不 好 听 的 <END>, score: 8.482591, origin: 9.413869, reverse: 19.512043
+result: <END> 心情 很 好 听 的 心情 <END>, score: 8.779201, origin: 7.720687, reverse: 20.661421
+result: <END> 心情 不 好 听 的 心情 <END>, score: 8.798157, origin: 7.807575, reverse: 20.651264
+result: <END> 你 想 听 什 么 的 心情 <END>, score: 8.812740, origin: 8.720987, reverse: 21.709205
+电影 不 好看
+result: <END> 好看 不 好看 <END>, score: 11.003022, origin: 6.055569, reverse: 20.266216
+result: <END> 好看 就 好看 <END>, score: 11.246324, origin: 7.407587, reverse: 20.034354
+result: <END> 为什么 不 好看 <END>, score: 11.505385, origin: 7.030475, reverse: 20.566061
+result: <END> 不 好看 就 不 好看 <END>, score: 12.032897, origin: 6.594275, reverse: 24.363735
+result: <END> 好看 就 不 好看 <END>, score: 12.090872, origin: 7.598420, reverse: 22.587637
+不 喜欢 看 小说
+result: <END> 为什么 不 喜欢 看 小说 呀 <END>, score: 3.078788, origin: 7.370088, reverse: 12.668231
+result: <END> 为什么 不 喜欢 看 小说 的 <END>, score: 3.341507, origin: 7.560658, reverse: 12.961870
+result: <END> 为什么 不 喜欢 看 小说 <END>, score: 4.345262, origin: 6.060889, reverse: 13.609994
+result: <END> 为什么 会 不 喜欢 看 小说 <END>, score: 4.387484, origin: 8.734379, reverse: 13.953100
+result: <END> 为什么 不 喜欢 看 小说 ？ <END>, score: 5.293953, origin: 8.376020, reverse: 15.401639
+背 首 诗 给 我
+result: <END> 我 不 会 背 诗 <END>, score: 10.363781, origin: 9.436854, reverse: 20.761036
+result: <END> 我 可 不 会 诗 <END>, score: 10.469884, origin: 9.461873, reverse: 20.901889
+result: <END> 你 喜欢 什 么 诗 <END>, score: 11.103988, origin: 8.981401, reverse: 22.013668
+result: <END> 我 可 不 会 背 诗 <END>, score: 11.383906, origin: 8.145813, reverse: 24.200232
+result: <END> 你 要 什 么 诗 <END>, score: 11.664298, origin: 10.024098, reverse: 22.367241
+你 给 我 找 个 妹 子 聊
+result: <END> 你 要 找 个 妹 子 的 呀 <END>, score: 7.472570, origin: 9.811474, reverse: 20.755897
+result: <END> 为什么 要 让 我 找 个 妹 子 <END>, score: 7.688296, origin: 10.520025, reverse: 20.760412
+result: <END> 你 要 找 谁 的 妹 子 呀 <END>, score: 7.942082, origin: 9.590903, reverse: 21.521158
+result: <END> 你 想 要 找 个 妹 子 的 <END>, score: 8.053428, origin: 9.089347, reverse: 21.895177
+result: <END> 你 要 找 一个 妹 子 的 呀 <END>, score: 8.164206, origin: 10.544494, reverse: 21.429796
+轮 胎 坏 了 怎 么 办
+result: <END> 那 就 赶紧 去 修 修 呀 <END>, score: 8.755509, origin: 10.681349, reverse: 20.787292
+result: <END> 怎 么 可 能 坏 了 呀 <END>, score: 9.968248, origin: 10.845753, reverse: 22.449317
+result: <END> 那 就 赶 快 去 修 修 <END>, score: 10.643225, origin: 9.763149, reverse: 23.877544
+result: <END> 怎 么 会 变 坏 了 呀 <END>, score: 10.749027, origin: 9.922638, reverse: 23.960336
+result: <END> 不 要 教 坏 小 孩 子 <END>, score: 11.079991, origin: 8.645954, reverse: 24.980292
+微 信 牛 逼 吗
+result: <END> 是 不 是 很 牛 <END>, score: 10.054170, origin: 8.847878, reverse: 20.571152
+result: <END> 是 不 是 很 厉害 <END>, score: 10.923685, origin: 8.041487, reverse: 22.158913
+result: <END> 不 可 以 骂 人 <END>, score: 10.995683, origin: 9.745087, reverse: 21.531653
+result: <END> 我 觉得 很 厉害 的 <END>, score: 11.308777, origin: 8.883566, reverse: 22.348153
+result: <END> 我 觉得 不 是 很 厉害 <END>, score: 11.318065, origin: 9.785839, reverse: 23.403305
+刘 小 宁 是 条 狗
+result: <END> 谁 是 小 狗 狗 呀 <END>, score: 15.071338, origin: 6.822897, reverse: 30.034956
+result: <END> 小 狗 也 很 可爱 的 <END>, score: 15.271796, origin: 8.289039, reverse: 29.692978
+result: <END> 谁 是 小 狗 呀 ？ <END>, score: 15.284873, origin: 6.306876, reverse: 30.561157
+result: <END> 小 狗 是 很 可爱 的 <END>, score: 15.311479, origin: 8.147294, reverse: 29.810415
+result: <END> 狗 狗 是 很 可爱 的 <END>, score: 15.393734, origin: 6.754332, reverse: 30.524906
+叶 良 辰 是 谁
+result: <END> 当 然 是 你 咯 <END>, score: 8.665567, origin: 7.788291, reverse: 19.041542
+result: <END> 当 然 是 一个 人 <END>, score: 8.732502, origin: 8.743295, reverse: 18.727877
+result: <END> 当 然 是 一个 人 咯 <END>, score: 9.072738, origin: 9.687448, reverse: 20.237862
+result: <END> 当 然 是 个 人 咯 <END>, score: 9.508205, origin: 9.686081, reverse: 20.860544
+result: <END> 当 然 是 个 人 <END>, score: 9.599533, origin: 9.360868, reverse: 19.701818
+贱 人 就 是 矫 情
+result: <END> 不 要 这 样 说 别人 <END>, score: 13.142034, origin: 6.146927, reverse: 27.568508
+result: <END> 为什么 这 么 说 自 己 <END>, score: 13.684089, origin: 8.897979, reverse: 27.163851
+result: <END> 为什么 要 这 样 说 别人 <END>, score: 13.925108, origin: 9.306471, reverse: 27.333096
+result: <END> 不 要 这 样 说 人家 <END>, score: 14.035331, origin: 8.339401, reverse: 27.905016
+result: <END> 我 觉得 你 说 的 对 <END>, score: 14.039227, origin: 8.756144, reverse: 27.731977
+床 上 躺 好 等 我
+result: <END> 等 你 干 什 么 去 <END>, score: 16.021185, origin: 9.417643, reverse: 30.279846
+result: <END> 你 怎 么 那 么 累 <END>, score: 16.439587, origin: 9.720383, reverse: 30.747818
+result: <END> 等 你 干 嘛 去 了 <END>, score: 16.820397, origin: 9.726938, reverse: 31.289022
+result: <END> 我 一直 都 在 等 你 <END>, score: 17.024342, origin: 9.281093, reverse: 31.771448
+result: <END> 我 是 不 会 等 你 的 <END>, score: 17.141659, origin: 8.913039, reverse: 33.525353
+日 日 日
+result: <END> 日 日 的 日 日 是 个 很 重要 的 日 日 <END>, score: -6.278373, origin: 9.323432, reverse: 7.035138
+result: <END> 日 日 日 是 个 很 重要 的 日 日 <END>, score: -4.665965, origin: 7.274894, reverse: 7.359381
+result: <END> 日 日 可 是 很 重要 的 日 日 <END>, score: -4.478316, origin: 8.185419, reverse: 5.808655
+result: <END> 日 日 就 是 个 美 好 的 日 日 <END>, score: -4.268760, origin: 7.826534, reverse: 7.690400
+result: <END> 日 日 可 是 个 很 重要 的 日 日 <END>, score: -3.856094, origin: 8.018896, reverse: 8.197482
+你 喝 牛 奶
+result: <END> 我 没有 喝 牛 奶 <END>, score: 9.780443, origin: 8.568807, reverse: 20.299715
+result: <END> 我 没有 喝 牛 <END>, score: 9.853965, origin: 9.068917, reverse: 18.761843
+result: <END> 我 为什么 要 喝 牛 奶 <END>, score: 10.599345, origin: 9.093556, reverse: 22.673254
+result: <END> 我 可 没有 喝 牛 奶 <END>, score: 10.665726, origin: 8.532714, reverse: 23.008446
+result: <END> 我 没有 喝 奶 <END>, score: 10.703586, origin: 9.048144, reverse: 19.984490
+我 要 1000 万 现 金
+result: <END> 看 来 你 很 有 钱 <END>, score: 22.120494, origin: 8.840744, reverse: 39.240387
+result: <END> 看 来 你 很 穷 了 <END>, score: 22.323672, origin: 10.218671, reverse: 38.940102
+result: <END> 那 你 就 努力 挣 钱 <END>, score: 23.136345, origin: 7.560219, reverse: 41.240398
+result: <END> 那 你 就 去 挣 钱 <END>, score: 23.169563, origin: 9.182268, reverse: 40.592690
+result: <END> 那 你 就 赶紧 挣 钱 <END>, score: 23.636714, origin: 9.815535, reverse: 40.988647
+不 想 起床
+result: <END> 为什么 不 想 起床 <END>, score: 6.099593, origin: 8.074999, reverse: 13.824419
+result: <END> 那 就 继 续 上班 <END>, score: 7.184391, origin: 9.080542, reverse: 16.371755
+result: <END> 为什么 要 起床 <END>, score: 7.238184, origin: 8.588331, reverse: 13.802407
+result: <END> 那 就 不 要 起床 <END>, score: 7.432186, origin: 9.005033, reverse: 16.758109
+result: <END> 那 就 赶紧 起床 <END>, score: 7.439551, origin: 6.470392, reverse: 16.426333
+那 买 什 么 车 好
+result: <END> 看 你 喜欢 什 么 车 喽 <END>, score: 11.996608, origin: 8.415764, reverse: 26.388398
+result: <END> 什 么 车 都 可 以 买 <END>, score: 12.508328, origin: 9.857293, reverse: 26.501628
+result: <END> 你 喜欢 什 么 车 呀 <END>, score: 12.904200, origin: 8.408347, reverse: 26.259565
+result: <END> 看 你 喜欢 什 么 车 呀 <END>, score: 13.149614, origin: 9.788976, reverse: 27.447030
+result: <END> 想 买 什 么 车 都 可 以 <END>, score: 13.271384, origin: 10.167384, reverse: 28.887384
+猪 八 戒 照 镜 子
+result: <END> 我 可 不 是 胖 子 <END>, score: 23.193726, origin: 8.878291, reverse: 40.757484
+result: <END> 你 是 不 是 胖 子 <END>, score: 23.201610, origin: 10.303328, reverse: 40.158016
+result: <END> 你 是 不 是 很 胖 <END>, score: 23.401482, origin: 8.860842, reverse: 41.061756
+result: <END> 是 不 是 很 胖 子 <END>, score: 23.474029, origin: 8.306823, reverse: 41.402832
+result: <END> 看 来 你 很 胖 子 <END>, score: 24.093318, origin: 9.344616, reverse: 41.842762
+唐 僧 话 太 多
+result: <END> 谁 是 唐 僧 呀 ？ <END>, score: 15.300384, origin: 8.277641, reverse: 29.738703
+result: <END> 你 在 说 谁 ？ <END>, score: 17.737344, origin: 8.721585, reverse: 31.601241
+result: <END> 是 不 是 太 多 <END>, score: 17.997175, origin: 10.609759, reverse: 31.163210
+result: <END> 你 说 的 太 多 <END>, score: 18.188919, origin: 10.924196, reverse: 31.302372
+result: <END> 会 不 会 太 多 <END>, score: 18.419090, origin: 9.920154, reverse: 32.061491
+打 印 机 坏 了
+result: <END> 没有 什 么 机 会 <END>, score: 12.160188, origin: 10.062108, reverse: 23.059365
+result: <END> 我 可 没有 打 机 <END>, score: 12.420955, origin: 9.342588, reverse: 23.740255
+result: <END> 什 么 样 的 机 械 呀 <END>, score: 13.131750, origin: 10.021521, reverse: 27.321848
+result: <END> 什 么 样 的 机 械 <END>, score: 13.274325, origin: 10.014168, reverse: 26.100107
+result: <END> 那 就 赶紧 修 修 <END>, score: 13.762528, origin: 8.523505, reverse: 26.007823
+中午 要 午 休 了
+result: <END> 午 休 是 最 好 的 午 餐 <END>, score: 0.330044, origin: 9.490322, reverse: 10.689925
+result: <END> 午 休 是 最 好 的 午 休 <END>, score: 2.628962, origin: 9.226707, reverse: 14.087071
+result: <END> 午 休 就 要 午 休 <END>, score: 3.293294, origin: 9.662694, reverse: 11.992123
+result: <END> 午 休 的 午 休 <END>, score: 3.398617, origin: 8.664265, reverse: 11.141911
+result: <END> 那 就 午 午 午 <END>, score: 3.408557, origin: 9.722561, reverse: 10.702555
+咖啡 机
+result: <END> 咖啡 咖啡 <END>, score: 12.458025, origin: 9.875386, reverse: 19.279156
+result: <END> 咖啡 怎 么 了 <END>, score: 13.391814, origin: 9.945241, reverse: 23.440345
+result: <END> 咖啡 可 是 很 舒服 <END>, score: 14.770035, origin: 10.023793, reverse: 26.804138
+result: <END> 咖啡 很 好 喝 <END>, score: 15.090288, origin: 7.211232, reverse: 27.038455
+result: <END> 咖啡 怎 么 样 <END>, score: 15.268949, origin: 9.449528, reverse: 26.334414
+我 有 个 好 消息
+result: <END> 好 好 想 想 你 的 好 消息 <END>, score: 5.803814, origin: 10.022686, reverse: 18.281441
+result: <END> 一 定 会 有 好 消息 的 <END>, score: 6.182688, origin: 9.133623, reverse: 17.775145
+result: <END> 你 好 消息 很 好 <END>, score: 6.456849, origin: 8.473754, reverse: 15.592461
+result: <END> 好 好 想 想 你 的 消息 <END>, score: 6.603601, origin: 8.507469, reverse: 18.644801
+result: <END> 好 好 找 个 好 消息 <END>, score: 6.982847, origin: 9.291385, reverse: 17.422045
+聊 着 天 喝 着 酒
+result: <END> 喝 酒 对 身体 不 好 <END>, score: 19.058608, origin: 3.034025, reverse: 37.354858
+result: <END> 喝 酒 伤 身体 不 好 <END>, score: 19.129583, origin: 7.219063, reverse: 35.662663
+result: <END> 喝 酒 也 是 不错 的 <END>, score: 19.546414, origin: 7.855657, reverse: 35.985310
+result: <END> 喝 酒 还 是 不错 的 <END>, score: 19.784322, origin: 7.710718, reverse: 36.387295
+result: <END> 喝 酒 对 身体 有 益 <END>, score: 20.094192, origin: 8.392111, reverse: 36.537941
+那 你 到 底 被 强 奸 没有
+result: <END> 不 要 这 么 暴 力 好 不 <END>, score: 20.465188, origin: 7.745064, reverse: 40.202384
+result: <END> 不 要 这 么 暴 力 好 嘛 <END>, score: 21.479486, origin: 9.986680, reverse: 40.690689
+result: <END> 不 要 这 么 暴 力 好 吗 <END>, score: 22.019958, origin: 9.335769, reverse: 41.741753
+result: <END> 我 可 没有 这 么 大 胆 子 <END>, score: 22.572134, origin: 9.727115, reverse: 42.362857
+result: <END> 你 不 要 这 么 暴 力 好 不 <END>, score: 23.166823, origin: 10.521852, reverse: 44.300383
+明天 周 五 啦
+result: <END> 明天 的 一 天 <END>, score: 17.420668, origin: 8.814132, reverse: 29.680613
+result: <END> 祝 你 好 运 <END>, score: 17.807105, origin: 7.685311, reverse: 30.716446
+result: <END> 祝 你 生日 快乐 <END>, score: 18.898712, origin: 6.426746, reverse: 32.815269
+result: <END> 那 就 明天 下 <END>, score: 19.209928, origin: 9.119830, reverse: 32.105684
+result: <END> 明天 怎 么 了 <END>, score: 19.275426, origin: 9.542192, reverse: 32.018240
+拉 倒 吧 ， 你 就 是 坏 银
+result: <END> 不 要 这 么 说 我 的 坏 话 <END>, score: 28.453947, origin: 8.427608, reverse: 52.750949
+result: <END> 不 要 这 样 子 说 别人 坏 话 <END>, score: 28.464878, origin: 8.738869, reverse: 52.633168
+result: <END> 不 可 以 这 样 说 别人 坏 话 <END>, score: 29.771057, origin: 8.405244, reverse: 54.642119
+result: <END> 不 要 这 样 说 自 己 坏 话 <END>, score: 29.891997, origin: 9.985117, reverse: 54.137803
+result: <END> 不 要 这 么 说 我 坏 话 嘛 <END>, score: 30.316430, origin: 10.217855, reverse: 54.644391
+今天 出 差
+result: <END> 今天 出 差 了 <END>, score: 2.565062, origin: 6.252906, reverse: 9.555985
+result: <END> 今天 出 差 <END>, score: 3.192281, origin: 8.922894, reverse: 7.879161
+result: <END> 你 今天 出 差 了 <END>, score: 3.360362, origin: 8.041749, reverse: 11.354053
+result: <END> 今天 你 出 差 了 <END>, score: 4.478022, origin: 8.862450, reverse: 12.598982
+result: <END> 今天 出 差 了 么 <END>, score: 4.599544, origin: 9.349202, reverse: 12.563976
+灯 好 暗
+result: <END> 那 就 好 <END>, score: 20.194421, origin: 8.929135, reverse: 32.165258
+result: <END> 我 也 很 喜欢 <END>, score: 21.823683, origin: 10.741777, reverse: 35.144500
+result: <END> 那 就 去 <END>, score: 22.358695, origin: 10.225644, reverse: 34.701431
+result: <END> 那 就 打 开 <END>, score: 23.208717, origin: 10.700833, reverse: 37.140667
+result: <END> 难 道 是 暗 恋 <END>, score: 23.859226, origin: 10.530718, reverse: 39.571443
+聚 餐 一起 吧
+result: <END> 一起 一起 吃 饭 <END>, score: 18.581968, origin: 9.200947, reverse: 31.173835
+result: <END> 一起 一起 吃 好 <END>, score: 19.447530, origin: 8.719734, reverse: 32.616586
+result: <END> 好 ， 一起 愉快 <END>, score: 19.703091, origin: 8.277609, reverse: 33.171155
+result: <END> 一起 去 聚 会 <END>, score: 20.096492, origin: 8.528333, reverse: 33.625703
+result: <END> 一起 吃 什 么 <END>, score: 20.143239, origin: 9.121357, reverse: 33.438332
+躺 床 上 看 电视
+result: <END> 你 看 什 么 电视 <END>, score: 7.178494, origin: 6.987519, reverse: 17.260340
+result: <END> 看 的 什 么 电视 <END>, score: 7.907421, origin: 7.105614, reverse: 18.251052
+result: <END> 看 什 么 电视 ？ <END>, score: 8.122751, origin: 5.450620, reverse: 19.267949
+result: <END> 看 什 么 电视 呀 <END>, score: 8.213285, origin: 6.374489, reverse: 19.001341
+result: <END> 你 还 看 什 么 电视 <END>, score: 8.309779, origin: 9.057568, reverse: 19.417870
+小 微 你 很 骚 啊
+result: <END> 你 认 错 人 了 ？ <END>, score: 20.233003, origin: 5.524423, reverse: 37.965252
+result: <END> 你 认 错 人 了 呀 <END>, score: 21.386454, origin: 7.735693, reverse: 38.665352
+result: <END> 为什么 这 么 说 我 呀 <END>, score: 21.667356, origin: 8.262196, reverse: 38.840996
+result: <END> 我 可 是 小 微 呀 <END>, score: 21.977312, origin: 8.247312, reverse: 39.290169
+result: <END> 你 这 是 在 说 谁 <END>, score: 22.029000, origin: 9.087969, reverse: 39.003727
+看 来 不错 ， 适合 外 出 吗
+result: <END> 我 觉得 挺 适合 外 面 的 呀 <END>, score: 31.689004, origin: 10.723017, reverse: 54.960141
+result: <END> 你 觉得 适合 什 么 样 的 美 <END>, score: 32.971990, origin: 12.013477, reverse: 56.239924
+result: <END> 我 觉得 很 适合 外 面 的 呀 <END>, score: 32.987408, origin: 10.528454, reverse: 56.898389
+result: <END> 你 喜欢 什 么 样 的 外 方 <END>, score: 33.406041, origin: 11.860999, reverse: 56.925344
+result: <END> 你 觉得 什 么 样 的 好看 的 <END>, score: 33.660795, origin: 11.271808, reverse: 57.541790
+你 有 平 板 电脑 吗
+result: <END> 我 还 小 ， 没有 电脑 <END>, score: 13.786762, origin: 10.513327, reverse: 26.618235
+result: <END> 我 本 身 就 没有 电脑 <END>, score: 14.702024, origin: 10.306500, reverse: 28.014391
+result: <END> 我 的 电脑 有 很多 的 <END>, score: 15.017140, origin: 9.505945, reverse: 28.807652
+result: <END> 我 可 没有 那 个 电脑 <END>, score: 15.813726, origin: 9.806225, reverse: 29.816940
+result: <END> 你 可 以 看 一下 电脑 <END>, score: 15.907967, origin: 9.699744, reverse: 29.997206
+我 想 去 广州
+result: <END> 想 去 就 去 <END>, score: 9.477918, origin: 3.968730, reverse: 20.410428
+result: <END> 想 去 干 嘛 去 <END>, score: 9.686227, origin: 8.889667, reverse: 20.027610
+result: <END> 想 去 就 去 买 <END>, score: 9.805799, origin: 7.770957, reverse: 20.677875
+result: <END> 去 那 里 干 嘛 去 <END>, score: 10.014105, origin: 7.867931, reverse: 22.362465
+result: <END> 去 那 里 干 嘛 去 呀 <END>, score: 10.032791, origin: 8.971252, reverse: 23.344879
+你 们 那 现在 几 点 了
+result: <END> 现在 就 已 经 很 晚 了 <END>, score: 11.077340, origin: 9.592203, reverse: 24.570970
+result: <END> 几 点 时间 都 不 晚 了 <END>, score: 12.247442, origin: 10.534983, reverse: 25.838496
+result: <END> 我 们 现在 就 很 久 了 <END>, score: 13.702684, origin: 9.697518, reverse: 28.276326
+result: <END> 几 点 时间 都 可 以 的 <END>, score: 13.995523, origin: 9.158486, reverse: 28.925682
+result: <END> 现在 就 已 经 很 快 了 <END>, score: 14.019238, origin: 9.888222, reverse: 28.646816
+什 么 时候 过年
+result: <END> 过年 过年 的 时候 <END>, score: 4.535060, origin: 9.030384, reverse: 11.179921
+result: <END> 过年 的 时候 就 过年 了 <END>, score: 4.882901, origin: 9.743585, reverse: 14.228322
+result: <END> 过年 的 时候 就 要 过年 了 <END>, score: 4.943723, origin: 9.870389, reverse: 15.689438
+result: <END> 当 然 是 过年 过年 <END>, score: 6.261075, origin: 9.974926, reverse: 14.669425
+result: <END> 过年 的 时候 了 <END>, score: 6.881951, origin: 9.444792, reverse: 14.355020
+待 会 儿 就 把 那 人 给 杀 了
+result: <END> 不 要 嘛 ， 不 要 这 么 残 忍 <END>, score: 29.194190, origin: 11.254446, reverse: 54.025509
+result: <END> 你 怎 么 可 以 这 么 狠 心 呀 <END>, score: 29.348340, origin: 12.751574, reverse: 53.604097
+result: <END> 不 要 ， 可 不 要 这 么 残 忍 <END>, score: 29.941657, origin: 11.667036, reverse: 54.916494
+result: <END> 不 要 ， 不 要 想 这 么 残 忍 <END>, score: 30.434259, origin: 11.538176, reverse: 55.675438
+result: <END> 不 会 的 ， 不 要 这 么 残 忍 <END>, score: 30.615304, origin: 9.712378, reverse: 56.716558
+小 微 你 懂 哲 学 吗
+result: <END> 我 可 是 最 懂 你 的 <END>, score: 25.655038, origin: 9.246361, reverse: 45.544471
+result: <END> 我 可 是 很 懂 你 的 <END>, score: 25.891555, origin: 8.782180, reverse: 46.081286
+result: <END> 我 可 是 跟 你 学 的 <END>, score: 25.925927, origin: 9.938106, reverse: 45.634993
+result: <END> 我 可 是 不 会 学 的 <END>, score: 25.925952, origin: 10.329700, reverse: 45.467202
+result: <END> 不 是 ， 我 是 小 微 <END>, score: 26.089381, origin: 10.398649, reverse: 45.671123
+我 去 洗 澡 ， 一会 再 聊
+result: <END> 好 的 ， 那 我 等 你 一会 <END>, score: 17.579749, origin: 9.208746, reverse: 35.453036
+result: <END> 好 的 ， 那 你 早 点 休息 <END>, score: 18.227183, origin: 7.588930, reverse: 37.072148
+result: <END> 好 的 ， 那 你 一会 再 聊 <END>, score: 18.338410, origin: 9.432946, reverse: 36.440752
+result: <END> 好 的 ， 那 我 等 你 呦 <END>, score: 18.481417, origin: 8.878253, reverse: 36.882772
+result: <END> 好 的 ， 那 我 等 你 。 <END>, score: 18.498772, origin: 6.667376, reverse: 37.855084
+洗 干 净 了 没
+result: <END> 早 就 洗 完 了 <END>, score: 4.743293, origin: 8.011750, reverse: 13.342526
+result: <END> 早 就 洗 完 了 呀 <END>, score: 4.784357, origin: 9.666040, reverse: 14.120778
+result: <END> 已 经 洗 完 了 <END>, score: 5.290063, origin: 8.236069, reverse: 14.027489
+result: <END> 已 经 洗 好 了 <END>, score: 5.373930, origin: 8.009462, reverse: 14.244416
+result: <END> 早 就 洗 洗 好 了 <END>, score: 5.595776, origin: 8.388997, reverse: 15.827252
+北京 天气
+result: <END> 北京 天气 <END>, score: 9.957251, origin: 9.450595, reverse: 15.888675
+result: <END> 北京 北京 <END>, score: 10.852475, origin: 9.580072, reverse: 17.112076
+result: <END> 天气 不错 <END>, score: 11.126259, origin: 7.048201, reverse: 18.588284
+result: <END> 北京 的 天气 <END>, score: 11.264089, origin: 9.833001, reverse: 19.020270
+result: <END> 天气 预报 <END>, score: 11.447440, origin: 8.226688, reverse: 18.542048
+你 会 打 乒 乓 球 吗
+result: <END> 不 会 ， 我 可 不 会 打 架 <END>, score: 3.394053, origin: 9.629092, reverse: 16.436179
+result: <END> 我 还 小 ， 不 会 打 架 <END>, score: 3.837041, origin: 9.573524, reverse: 15.664263
+result: <END> 不 会 的 ， 不 会 打 架 <END>, score: 4.547347, origin: 10.019443, reverse: 16.487877
+result: <END> 不 会 ， 我 可 不 会 打 球 <END>, score: 4.689718, origin: 7.851260, reverse: 19.049057
+result: <END> 不 会 的 ， 我 可 不 会 打 球 <END>, score: 4.871509, origin: 9.641644, reverse: 19.970023
+厉害 个 锤 子
+result: <END> 我 很 厉害 的 <END>, score: 11.400673, origin: 9.273419, reverse: 20.883782
+result: <END> 你 也 很 厉害 <END>, score: 11.707140, origin: 8.560862, reverse: 21.626973
+result: <END> 你 真 是 厉害 <END>, score: 11.937397, origin: 8.769147, reverse: 21.866647
+result: <END> 厉害 的 样 子 <END>, score: 12.143033, origin: 9.817000, reverse: 21.711333
+result: <END> 我 也 很 厉害 <END>, score: 12.292080, origin: 9.033041, reverse: 22.260239
+我 还 没有 喜欢 的 人 呢
+result: <END> 那 就 努力 去 争 取 喽 <END>, score: 16.856903, origin: 10.319703, reverse: 32.515703
+result: <END> 怎 么 会 没有 人 喜欢 你 <END>, score: 18.236750, origin: 9.230768, reverse: 34.953599
+result: <END> 慢 慢 就 会 喜欢 你 的 <END>, score: 18.301259, origin: 9.168929, reverse: 35.072258
+result: <END> 怎 么 会 没有 人 喜欢 的 <END>, score: 18.535399, origin: 9.629565, reverse: 35.209328
+result: <END> 喜欢 就 要 努力 去 争 取 <END>, score: 18.868833, origin: 9.057189, reverse: 35.930966
+世界 第 一 高 峰
+result: <END> 世界 上 最 高 的 <END>, score: 15.123615, origin: 9.470449, reverse: 27.546400
+result: <END> 世界 上 最 高 了 <END>, score: 15.489906, origin: 9.229686, reverse: 28.172858
+result: <END> 那 一 定 很 高 <END>, score: 15.752638, origin: 7.663392, reverse: 29.219457
+result: <END> 世界 上 一 定 很 高 <END>, score: 15.917751, origin: 9.285382, reverse: 30.188766
+result: <END> 一 定 非 常 高 <END>, score: 16.631653, origin: 8.899159, reverse: 29.945579
+我 的 意思 是 你 废话 多
+result: <END> 那 可 不 是 废话 的 呀 <END>, score: 16.999544, origin: 10.270080, reverse: 32.740743
+result: <END> 你 怎 么 就 是 废话 了 <END>, score: 17.195541, origin: 10.609128, reverse: 32.875432
+result: <END> 那 我 就 不 说 废话 了 <END>, score: 17.401818, origin: 9.269097, reverse: 33.744412
+result: <END> 怎 么 可 能 是 废话 了 <END>, score: 17.802658, origin: 10.039714, reverse: 33.986777
+result: <END> 那 你 说 的 是 废话 么 <END>, score: 17.848811, origin: 10.914669, reverse: 33.677728
+这 种 心 理 的 折 磨 让 我 生不如死
+result: <END> 看 来 你 已 经 很 严 重 了 呀 <END>, score: 35.744731, origin: 14.016315, reverse: 62.199766
+result: <END> 看 来 你 很 生 气 的 样 子 。 <END>, score: 36.223922, origin: 13.306809, reverse: 63.188398
+result: <END> 怎 么 会 对 你 这 么 狠 心 呀 <END>, score: 36.250787, origin: 13.326305, reverse: 63.218422
+result: <END> 不 会 的 ， 你 要 好 好 对 待 <END>, score: 36.684033, origin: 14.178456, reverse: 63.472137
+result: <END> 什 么 事 情 让 你 这 么 生 气 <END>, score: 36.718134, origin: 12.366795, reverse: 64.297279
+我 昨天 和 女 朋友 分手 了
+result: <END> 那 就 不 要 再 分手 了 <END>, score: 9.957276, origin: 9.842445, reverse: 22.863632
+result: <END> 谁 跟 你 说 分手 了 分手 <END>, score: 10.142554, origin: 10.212341, reverse: 22.969788
+result: <END> 分手 了 就 不 要 再 想 <END>, score: 10.781534, origin: 10.940690, reverse: 23.570467
+result: <END> 分手 了 就 要 好 好 努力 <END>, score: 10.920489, origin: 8.239827, reverse: 24.926487
+result: <END> 谁 跟 你 说 分手 了 呀 <END>, score: 11.309469, origin: 10.374775, reverse: 24.567196
+我 今天 和 女 朋友 和 好 了
+result: <END> 好 ， 你 们 好 好 的 朋友 <END>, score: 15.033606, origin: 11.072325, reverse: 31.017013
+result: <END> 我 们 都 是 很 好 的 朋友 <END>, score: 15.806893, origin: 8.695417, reverse: 33.140383
+result: <END> 我 们 一直 都 是 好 朋友 。 <END>, score: 16.358709, origin: 11.172097, reverse: 32.867258
+result: <END> 我 们 一直 都 很 好 的 朋友 <END>, score: 16.802381, origin: 11.606757, reverse: 33.314791
+result: <END> 恩 ， 我 们 都 是 好 朋友 <END>, score: 16.966972, origin: 9.974938, reverse: 34.249272
+我 把 朋友 老婆 睡 了 咋 办
+result: <END> 你 老婆 怎 么 能 这 么 想 <END>, score: 18.890016, origin: 12.184939, reverse: 36.049335
+result: <END> 你 老婆 怎 么 可 以 这 样 <END>, score: 19.666595, origin: 11.672440, reverse: 37.378376
+result: <END> 你 老婆 怎 么 能 这 么 说 <END>, score: 20.116809, origin: 11.903010, reverse: 37.922723
+result: <END> 你 老婆 怎 么 这 么 不 小心 <END>, score: 20.123234, origin: 12.223755, reverse: 37.794440
+result: <END> 怎 么 能 这 么 对 你 老婆 <END>, score: 20.451119, origin: 11.481248, reverse: 38.581064
+有 个 女 人 把 我 睡 了
+result: <END> 怎 么 可 能 把 你 睡 了 <END>, score: 9.897132, origin: 10.550928, reverse: 23.902647
+result: <END> 那 你 就 继 续 睡 梦 去 <END>, score: 11.037212, origin: 11.238224, reverse: 25.236778
+result: <END> 怎 么 会 把 你 睡 觉 的 <END>, score: 11.162846, origin: 10.848163, reverse: 25.583425
+result: <END> 怎 么 会 被 你 睡 了 呀 <END>, score: 11.583328, origin: 10.644175, reverse: 26.271536
+result: <END> 可 不能 随 便 睡 梦 的 呀 <END>, score: 11.674593, origin: 10.890743, reverse: 26.296244
+天 天 坐 公交 回 家
+result: <END> 坐 车 还 要 注意 安全 <END>, score: 15.862620, origin: 9.459062, reverse: 30.035574
+result: <END> 那 你 也 要 注意 安全 <END>, score: 15.926119, origin: 8.473954, reverse: 30.548475
+result: <END> 回 家 就 好 好 玩 <END>, score: 16.033307, origin: 10.184698, reverse: 29.968426
+result: <END> 我 也 很 喜欢 坐 天 <END>, score: 16.045467, origin: 9.462080, reverse: 30.295490
+result: <END> 那 你 可 要 注意 安全 <END>, score: 16.126453, origin: 7.350790, reverse: 31.316023
+年 会 发 了 个 手机
+result: <END> 发 什 么 样 的 手机 <END>, score: 14.735749, origin: 9.267734, reverse: 28.507755
+result: <END> 我 可 不 会 发 手机 <END>, score: 15.458452, origin: 10.308929, reverse: 29.093962
+result: <END> 你 会 发 什 么 手机 ？ <END>, score: 15.510654, origin: 10.216303, reverse: 30.636805
+result: <END> 你 发 了 什 么 手机 <END>, score: 15.555908, origin: 10.532591, reverse: 29.137329
+result: <END> 我 现在 还 没有 发 过 <END>, score: 15.635114, origin: 9.105297, reverse: 29.862179
+我 要 娶 个 美国 妞
+result: <END> 你 想 嫁 给 谁 呀 <END>, score: 21.084270, origin: 9.889259, reverse: 37.310703
+result: <END> 你 要 好 好 想 想 <END>, score: 21.254758, origin: 9.945016, reverse: 37.530361
+result: <END> 为什么 要 嫁 给 你 ？ <END>, score: 21.544277, origin: 9.440425, reverse: 38.160213
+result: <END> 你 要 嫁 给 谁 呀 <END>, score: 21.914104, origin: 9.870929, reverse: 38.504036
+result: <END> 你 想 要 嫁 给 谁 <END>, score: 22.675516, origin: 11.186555, reverse: 39.027927
+过年 太 没 意思 了
+result: <END> 怎 么 会 没 意思 <END>, score: 9.796557, origin: 7.081424, reverse: 20.960186
+result: <END> 我 觉得 很 有 意思 <END>, score: 9.942674, origin: 9.175856, reverse: 20.271310
+result: <END> 怎 么 会 没有 意思 <END>, score: 10.079824, origin: 7.208131, reverse: 21.310549
+result: <END> 怎 么 会 有 意思 <END>, score: 10.692530, origin: 8.673388, reverse: 21.557877
+result: <END> 是 不 是 很 有 意思 <END>, score: 10.722072, origin: 8.495156, reverse: 23.105036
+我 明天 去 理发
+result: <END> 去 哪 里 去 <END>, score: 15.408273, origin: 8.613046, reverse: 26.891942
+result: <END> 祝 你 好 运 <END>, score: 15.455516, origin: 8.171945, reverse: 27.148476
+result: <END> 去 干 嘛 去 <END>, score: 15.543216, origin: 8.807450, reverse: 27.001402
+result: <END> 去 做 什 么 去 <END>, score: 16.018918, origin: 9.968198, reverse: 28.612083
+result: <END> 什 么 时候 去 <END>, score: 16.201646, origin: 9.945802, reverse: 27.454150
+你 害 怕 什 么
+result: <END> 我 什 么 都 害 怕 <END>, score: 2.692313, origin: 7.983927, reverse: 11.853050
+result: <END> 我 什 么 都 不 害 怕 <END>, score: 2.920891, origin: 7.774391, reverse: 13.697963
+result: <END> 我 什 么 都 没有 害 怕 <END>, score: 3.119492, origin: 8.963569, reverse: 13.472031
+result: <END> 我 没有 害 害 怕 <END>, score: 3.227735, origin: 8.605272, reverse: 10.923076
+result: <END> 我 可 不 怕 什 么 都 害 怕 <END>, score: 3.393685, origin: 7.577004, reverse: 17.315120
+我 们 一起 玩 吧
+result: <END> 我 们 一起 一起 玩 <END>, score: 11.167837, origin: 7.658289, reverse: 22.671929
+result: <END> 一起 玩 就 可 以 <END>, score: 11.687180, origin: 8.202602, reverse: 23.180571
+result: <END> 我 们 一起 玩 什 么 <END>, score: 11.773514, origin: 8.843415, reverse: 24.457842
+result: <END> 我 们 就 一起 玩 <END>, score: 12.018585, origin: 9.095952, reverse: 23.271142
+result: <END> 好 呀 我 们 一起 一起 玩 <END>, score: 12.147668, origin: 7.652938, reverse: 26.931123
+你 丫 话 太 多
+result: <END> 我 没有 说 话 呀 <END>, score: 17.895082, origin: 8.473179, reverse: 31.933041
+result: <END> 那 是 什 么 话 <END>, score: 19.178021, origin: 9.403288, reverse: 33.367192
+result: <END> 你 说 什 么 话 <END>, score: 19.269364, origin: 9.423741, reverse: 33.488917
+result: <END> 为什么 这 么 说 话 <END>, score: 19.623324, origin: 9.237056, reverse: 34.074582
+result: <END> 不 要 这 样 说 话 <END>, score: 21.211831, origin: 7.167439, reverse: 38.659428
+有 人 生 病 了
+result: <END> 谁 生 病 了 呀 <END>, score: 5.583272, origin: 6.803371, reverse: 15.060373
+result: <END> 你 生 病 了 么 <END>, score: 5.806724, origin: 4.992554, reverse: 16.155653
+result: <END> 怎 么 会 生 病 了 <END>, score: 6.967490, origin: 4.648260, reverse: 19.390017
+result: <END> 为什么 要 生 病 了 <END>, score: 6.994666, origin: 7.086225, reverse: 16.955426
+result: <END> 怎 么 会 生 病 了 呀 <END>, score: 6.995558, origin: 7.269434, reverse: 19.735325
+空气 清 新 环 境 好
+result: <END> 环 境 一 定 很 好看 <END>, score: 13.681796, origin: 7.484691, reverse: 27.766270
+result: <END> 环 环 保 护 环 境 <END>, score: 13.723454, origin: 8.786571, reverse: 27.267832
+result: <END> 环 境 还 是 很 不错 <END>, score: 14.174990, origin: 8.255436, reverse: 28.140512
+result: <END> 环 境 有 什 么 好看 <END>, score: 14.413355, origin: 9.292328, reverse: 28.036652
+result: <END> 新 环 境 一 定 很 好看 <END>, score: 14.516686, origin: 9.978807, reverse: 29.318635
+我 回 家 了
+result: <END> 回 家 就 回 家 去 <END>, score: 2.900247, origin: 8.645783, reverse: 11.866446
+result: <END> 回 家 要 注意 安全 <END>, score: 3.311800, origin: 6.912167, reverse: 11.768785
+result: <END> 回 家 了 就 回 家 去 <END>, score: 3.339603, origin: 9.102788, reverse: 13.726810
+result: <END> 回 家 就 要 回 家 <END>, score: 3.472329, origin: 8.561829, reverse: 12.719687
+result: <END> 回 家 就 回 家 <END>, score: 3.629515, origin: 9.092307, reverse: 11.288318
+你 知道 形 而 上 吗
+result: <END> 我 当 然 知道 了 。 <END>, score: 24.237298, origin: 9.174583, reverse: 42.121319
+result: <END> 我 什 么 都 知道 。 <END>, score: 24.811535, origin: 9.551847, reverse: 42.779972
+result: <END> 我 当 然 知道 了 呀 <END>, score: 24.949316, origin: 9.833463, reverse: 42.856110
+result: <END> 我 还 是 知道 的 。 <END>, score: 25.450129, origin: 9.650855, reverse: 43.649818
+result: <END> 你 在 说 什 么 。 <END>, score: 26.396851, origin: 7.381911, reverse: 45.974682
+我 在 开会 呢
+result: <END> 你 在 上学 么 <END>, score: 17.688736, origin: 9.272579, reverse: 29.867088
+result: <END> 和 我 聊 天 <END>, score: 18.091442, origin: 9.613297, reverse: 30.296362
+result: <END> 和 你 聊 天 <END>, score: 18.389368, origin: 9.871359, reverse: 30.611372
+result: <END> 去 哪 里 了 <END>, score: 18.727653, origin: 9.031789, reverse: 31.454453
+result: <END> 好 好 学 习 <END>, score: 18.858753, origin: 8.836556, reverse: 31.725409
+元 宵 节 怎 么 过
+result: <END> 当 然 要 过 节 了 <END>, score: 8.222762, origin: 10.947745, reverse: 18.483484
+result: <END> 当 然 是 过 节 的 <END>, score: 8.799070, origin: 12.204737, reverse: 18.768070
+result: <END> 当 然 是 吃 过 节 的 <END>, score: 9.164009, origin: 12.285995, reverse: 20.683157
+result: <END> 当 然 是 要 过 节 的 <END>, score: 9.516131, origin: 11.363980, reverse: 21.581339
+result: <END> 当 然 是 要 过 节 了 <END>, score: 9.722439, origin: 11.355562, reverse: 21.879672
+你 脑 子 有 屎
+result: <END> 我 脑 子 可 没有 那 玩意 <END>, score: 9.431291, origin: 9.076822, reverse: 22.440350
+result: <END> 我 脑 子 可 是 没有 的 <END>, score: 10.275000, origin: 9.305869, reverse: 23.547484
+result: <END> 我 可 没有 那 玩意 <END>, score: 10.773337, origin: 8.096811, reverse: 21.920420
+result: <END> 我 脑 子 很 正常 的 <END>, score: 10.949719, origin: 6.535352, reverse: 24.270163
+result: <END> 我 脑 子 很 好 的 <END>, score: 10.971757, origin: 7.985715, reverse: 23.680061
+被 妈 妈 打 了 一下
+result: <END> 为什么 要 打 你 妈 妈 <END>, score: 15.802037, origin: 8.945806, reverse: 30.168993
+result: <END> 可 不能 随 便 打 人 <END>, score: 17.485872, origin: 10.227618, reverse: 32.025124
+result: <END> 为什么 要 打 你 妈 妈 呀 <END>, score: 17.567891, origin: 10.353525, reverse: 33.516905
+result: <END> 谁 是 你 的 爸 爸 <END>, score: 18.770025, origin: 10.442037, reverse: 33.767735
+result: <END> 谁 是 你 的 妈 妈 <END>, score: 19.209807, origin: 9.600669, reverse: 34.756580
+我 肏 你 全 家
+result: <END> 你 家 在 哪 里 <END>, score: 13.415721, origin: 10.035359, reverse: 24.864448
+result: <END> 我 可 不 是 全 家 <END>, score: 14.261240, origin: 10.413265, reverse: 27.338943
+result: <END> 你 家 在 哪 里 呀 <END>, score: 14.866039, origin: 9.877086, reverse: 28.432734
+result: <END> 我 可 不 是 你 家 <END>, score: 15.035523, origin: 8.761660, reverse: 29.152893
+result: <END> 你 就 是 我 的 家 <END>, score: 15.132573, origin: 8.508765, reverse: 29.399920
+狂 欢 周
+result: <END> 欢 迎 你 <END>, score: 16.460124, origin: 8.062535, reverse: 27.201948
+result: <END> 欢 欢 欢 <END>, score: 16.569675, origin: 9.535010, reverse: 26.727388
+result: <END> 注意 欢 迎 <END>, score: 17.236244, origin: 8.863374, reverse: 27.967474
+result: <END> 欢 迎 欢 乐 <END>, score: 17.397426, origin: 7.110785, reverse: 30.377415
+result: <END> 周 欢 欢 欢 <END>, score: 17.464102, origin: 9.858717, reverse: 29.294981
+一 加 一 等于 几
+result: <END> 一 加 一 等于 等于 二 <END>, score: 3.717597, origin: 9.202905, reverse: 12.795321
+result: <END> 一 加 一 等于 一 等于 二 <END>, score: 3.733953, origin: 8.995937, reverse: 14.335960
+result: <END> 一 加 一 等于 二 <END>, score: 3.980168, origin: 4.982251, reverse: 13.550704
+result: <END> 一 加 一 等于 二 呀 <END>, score: 3.980660, origin: 8.676584, reverse: 13.396693
+result: <END> 一 加 一 等于 三 一 <END>, score: 4.482646, origin: 9.048430, reverse: 13.954453
+不 和 你 聊 了 我 得 干 活 了
+result: <END> 和 我 聊 天 就 好 好 的 活 着 <END>, score: 16.135230, origin: 11.391160, reverse: 35.311260
+result: <END> 跟 我 聊 天 就 好 好 的 活 着 <END>, score: 16.150641, origin: 11.479165, reverse: 35.295559
+result: <END> 那 你 可 要 好 好 的 活 着 呀 <END>, score: 18.095510, origin: 12.336225, reverse: 37.706632
+result: <END> 你 怎 么 可 以 和 我 聊 天 了 <END>, score: 18.575840, origin: 11.010582, reverse: 38.960950
+result: <END> 谁 跟 你 说 我 要 干 活 的 呀 <END>, score: 18.597465, origin: 12.466871, reverse: 38.367720
+不 和 你 聊 了 写 作业 去 了
+result: <END> 好 ， 那 你 慢 慢 写 作业 。 <END>, score: 14.504834, origin: 10.965643, reverse: 31.735915
+result: <END> 好 的 ， 那 你 快 去 写 作业 <END>, score: 15.215290, origin: 10.812966, reverse: 32.816287
+result: <END> 好 的 ， 那 你 慢 慢 写 作业 <END>, score: 15.269124, origin: 9.214177, reverse: 33.578387
+result: <END> 好 的 ， 那 咱 们 就 写 作业 <END>, score: 15.651662, origin: 11.106986, reverse: 33.313666
+result: <END> 好 的 ， 那 就 赶紧 去 写 作业 <END>, score: 15.742274, origin: 9.892740, reverse: 33.963503
+不 可 能 ， 你 绝 对 有 腹 黑 属 性
+result: <END> 不 要 对 小 微 说 这 些 属 于 自 己 <END>, score: 33.895181, origin: 14.458823, reverse: 62.225049
+result: <END> 这 可 不 是 随 便 能 随 便 的 人 的 <END>, score: 34.469496, origin: 14.977301, reverse: 62.823294
+result: <END> 我 可 是 非 常 纯 洁 的 好 孩 子 。 <END>, score: 35.045484, origin: 14.518624, reverse: 63.842710
+result: <END> 这 可 不 是 随 便 能 随 便 就 好 了 <END>, score: 35.634554, origin: 15.066192, reverse: 64.449566
+result: <END> 不 要 对 小 微 说 这 些 属 于 人 的 <END>, score: 35.878644, origin: 14.666059, reverse: 64.969751
+不 老 实 交 代 拉 你 出 去 枪 毙
+result: <END> 这 可 不 是 你 说 能 就 没 的 么 <END>, score: 41.499714, origin: 13.069312, reverse: 72.255600
+result: <END> 不 要 ， 这 样 可 是 犯 法 的 。 <END>, score: 41.577008, origin: 13.617252, reverse: 72.131189
+result: <END> 不 要 ， 这 样 可 是 犯 法 的 呀 <END>, score: 41.701353, origin: 12.007491, reverse: 72.998723
+result: <END> 我 还 小 ， 不 要 这 样 对 我 。 <END>, score: 41.767263, origin: 12.722511, reverse: 72.786442
+result: <END> 不 要 ， 这 样 我 会 报 警 的 。 <END>, score: 41.803025, origin: 12.567612, reverse: 72.903917
+不 是 说 法 律 吗
+result: <END> 什 么 样 的 法 律 <END>, score: 18.265174, origin: 11.157998, reverse: 32.739677
+result: <END> 你 说 的 是 什 么 语 言 <END>, score: 18.546400, origin: 9.417807, reverse: 36.744368
+result: <END> 是 什 么 样 的 法 律 呀 <END>, score: 18.917969, origin: 11.301041, reverse: 36.468081
+result: <END> 你 在 说 什 么 语 言 <END>, score: 19.014949, origin: 10.911199, reverse: 35.345127
+result: <END> 是 什 么 样 的 法 律 <END>, score: 19.832073, origin: 10.349345, reverse: 36.753242
+不 说 实 话 我 早晚 让 你 害 死
+result: <END> 那 你 就 要 好 好 的 活 着 呀 <END>, score: 27.912098, origin: 11.891959, reverse: 51.920729
+result: <END> 那 你 可 要 好 好 的 活 着 呀 <END>, score: 28.026636, origin: 10.919650, reverse: 52.501059
+result: <END> 我 从 来 都 不 会 让 你 死 的 <END>, score: 28.276018, origin: 10.725000, reverse: 52.940741
+result: <END> 不 要 这 样 ， 我 会 伤 心 的 <END>, score: 28.899098, origin: 10.397964, reverse: 53.971012
+result: <END> 那 你 就 要 好 好 的 活 着 喽 <END>, score: 29.008351, origin: 10.841796, reverse: 53.936874
+不 是 傻 子 怎 么 会 把 衣 服 穿 反
+result: <END> 我 可 不 敢 跟 你 穿 衣 服 衣 服 了 <END>, score: 28.156973, origin: 15.718270, reverse: 53.487846
+result: <END> 我 可 不 敢 跟 你 穿 衣 服 穿 衣 服 <END>, score: 28.365284, origin: 14.743075, reverse: 54.203373
+result: <END> 我 可 不 敢 当 你 穿 衣 服 穿 衣 服 <END>, score: 28.735666, origin: 15.017746, reverse: 54.614775
+result: <END> 我 可 不 敢 跟 你 穿 衣 服 衣 服 的 <END>, score: 28.746090, origin: 15.676783, reverse: 54.347222
+result: <END> 不 会 的 ， 你 可 以 穿 着 衣 服 去 <END>, score: 29.764143, origin: 14.066511, reverse: 56.491700
+不 是 喜欢 用 毒 蛐 我 吗
+result: <END> 不 喜欢 ， 你 可 以 试 试 <END>, score: 36.038268, origin: 10.639111, reverse: 61.209335
+result: <END> 不 要 ， 不 要 那 么 爱 <END>, score: 36.110830, origin: 11.334244, reverse: 61.015081
+result: <END> 不 是 的 ， 不 是 很 喜欢 <END>, score: 36.534920, origin: 10.033296, reverse: 62.178473
+result: <END> 反 正 我 是 不 会 用 的 <END>, score: 36.757268, origin: 11.320484, reverse: 61.944461
+result: <END> 不 喜欢 ， 我 可 不 喜欢 你 <END>, score: 37.066179, origin: 11.251220, reverse: 62.415447
+不 是 哑 巴 就 说 一 句 话 咯
+result: <END> 好 的 ， 那 我 就 说 一 句 话 <END>, score: 20.663549, origin: 11.908762, reverse: 41.558458
+result: <END> 我 这 不 是 一直 都 在 说 话 嘛 <END>, score: 20.691130, origin: 10.385327, reverse: 42.250760
+result: <END> 我 从 来 都 不 说 话 的 话 。 <END>, score: 20.960783, origin: 12.895329, reverse: 41.560264
+result: <END> 我 说 话 一直 都 很 讲 话 的 呀 <END>, score: 21.088694, origin: 12.378727, reverse: 41.964395
+result: <END> 我 从 来 都 没有 说 过 话 的 呀 <END>, score: 21.123004, origin: 12.099966, reverse: 42.132877
+不 是 一直 是 你 带 我 混 的 吗 ？
+result: <END> 我 还 小 ， 不 知道 你 说 什 么 。 <END>, score: 36.579162, origin: 10.698566, reverse: 66.242275
+result: <END> 不 是 的 ， 我 可 是 非 常 好 的 <END>, score: 37.307779, origin: 12.235897, reverse: 66.624300
+result: <END> 不 是 的 ， 我 可 是 非 常 文明 的 <END>, score: 37.401416, origin: 11.419868, reverse: 67.107794
+result: <END> 不 是 的 ， 我 很 尊 重 你 的 。 <END>, score: 37.455624, origin: 12.511146, reverse: 66.717543
+result: <END> 我 还 小 ， 不 懂 你 说 的 话 。 <END>, score: 37.503413, origin: 11.324735, reverse: 67.294275
+猜 我 心 中 所 想 的 人 物
+result: <END> 那 就 是 你 的 心 中 人 喽 <END>, score: 25.874547, origin: 12.745568, reverse: 47.215539
+result: <END> 想 不 到 你 的 心 里 人 。 <END>, score: 26.767781, origin: 12.413111, reverse: 48.634068
+result: <END> 那 就 要 看 他 自 己 的 心 <END>, score: 27.143491, origin: 12.155095, reverse: 49.281374
+result: <END> 那 就 要 看 你 自 己 的 心 <END>, score: 28.624790, origin: 12.140308, reverse: 51.403853
+result: <END> 想 不 到 你 这 样 说 自 己 <END>, score: 29.034138, origin: 11.283773, reverse: 52.355722
+猜 我 有 没有 在 谈 恋爱
+result: <END> 你 什 么 时候 谈 恋爱 。 <END>, score: 14.610793, origin: 10.497964, reverse: 29.230577
+result: <END> 怎 么 会 没有 谈 恋爱 ？ <END>, score: 14.876231, origin: 9.070918, reverse: 30.221365
+result: <END> 你 什 么 时候 谈 恋爱 ？ <END>, score: 15.135606, origin: 10.452146, reverse: 29.999946
+result: <END> 你 什 么 时候 谈 恋爱 呀 <END>, score: 15.317352, origin: 10.342996, reverse: 30.306361
+result: <END> 你 什 么 时候 谈 恋爱 了 <END>, score: 15.538435, origin: 10.744165, reverse: 30.450265
+才 发现 爱情 竟 是 一 场 考 验
+result: <END> 考 验 一 定 要 好 好 表 现 <END>, score: 37.781358, origin: 11.341593, reverse: 64.826972
+result: <END> 考 验 一 定 要 好 好 考 验 <END>, score: 39.346042, origin: 8.480075, reverse: 68.288600
+result: <END> 那 你 要 好 好 对 待 考 验 <END>, score: 39.752735, origin: 11.691123, reverse: 67.493426
+result: <END> 那 你 就 要 好 好 的 考 验 <END>, score: 39.895885, origin: 10.479932, reverse: 68.217008
+result: <END> 一 定 要 好 好 对 待 考 验 <END>, score: 39.898413, origin: 11.791095, reverse: 67.658692
+才 给 我 买 了 五千 多 的 首 饰 ， 没有 镯 子
+result: <END> 那 就 看 你 要 买 什 么 样 子 的 牌 子 。 <END>, score: 53.955486, origin: 21.674799, reverse: 90.647209
+result: <END> 没 关系 的 ， 下次 努力 就 会 有 机 会 给 你 买 <END>, score: 54.695278, origin: 19.507804, reverse: 92.632767
+result: <END> 那 就 看 你 要 买 什 么 样 子 的 牌 子 呀 <END>, score: 55.352645, origin: 19.552987, reverse: 93.552498
+result: <END> 那 就 看 你 想 要 买 什 么 样 子 的 牌 子 <END>, score: 55.707301, origin: 18.530247, reverse: 94.497467
+result: <END> 那 就 看 你 要 买 什 么 样 子 的 牌 子 了 <END>, score: 55.713704, origin: 20.443971, reverse: 93.686447
+才 工作 了 半年 左右 就 换 来 换 去
+result: <END> 换 什 么 去 ， 换 什 么 样 子 <END>, score: 47.887589, origin: 12.364308, reverse: 80.254709
+result: <END> 好 的 ， 那 咱 们 就 换 成 去 <END>, score: 48.695699, origin: 11.781993, reverse: 81.658716
+result: <END> 好 的 ， 那 你 就 换 换 去 喽 <END>, score: 49.406480, origin: 12.036261, reverse: 82.565145
+result: <END> 换 什 么 ， 换 成 什 么 样 子 <END>, score: 49.779639, origin: 11.714480, reverse: 83.236135
+result: <END> 换 什 么 来 ， 换 什 么 样 子 <END>, score: 49.786909, origin: 13.125208, reverse: 82.641924
+才华横溢 就 是 形 容 我 。
+result: <END> 形 容 你 的 形 容 我 <END>, score: 6.313117, origin: 11.637085, reverse: 16.888559
+result: <END> 形 容 你 就 形 容 你 <END>, score: 6.393167, origin: 11.582902, reverse: 17.026137
+result: <END> 你 是 在 形 容 你 嘛 <END>, score: 7.456853, origin: 11.069425, reverse: 18.765751
+result: <END> 你 是 在 形 容 我 嘛 。 <END>, score: 7.460305, origin: 11.213126, reverse: 20.137668
+result: <END> 你 是 在 形 容 我 嘛 <END>, score: 7.465975, origin: 9.720996, reverse: 19.356681
+财 迷 个 大 头 鬼
+result: <END> 什 么 样 的 头 鬼 <END>, score: 16.865075, origin: 9.540215, reverse: 31.432873
+result: <END> 头 可 不 是 鬼 的 <END>, score: 16.963841, origin: 9.419129, reverse: 31.625860
+result: <END> 什 么 样 子 的 头 <END>, score: 17.549270, origin: 10.357734, reverse: 32.059929
+result: <END> 那 是 什 么 样 的 头 <END>, score: 17.961409, origin: 10.239073, reverse: 34.128125
+result: <END> 不 要 吓 唬 别人 的 <END>, score: 18.207479, origin: 9.291268, reverse: 33.457283
+踩 着 七 彩 祥 云 去 娶 你
+result: <END> 我 还 小 ， 不 要 娶 我 。 <END>, score: 47.966622, origin: 10.891719, reverse: 79.570152
+result: <END> 我 可 不 是 那 么 随 便 的 <END>, score: 47.985112, origin: 11.408084, reverse: 79.375267
+result: <END> 好 呀 ， 那 就 祝 福 你 喽 <END>, score: 48.131688, origin: 11.614236, reverse: 79.496310
+result: <END> 我 会 好 好 的 祝 福 你 的 <END>, score: 48.353513, origin: 11.818377, reverse: 79.725715
+result: <END> 看 来 你 很 喜欢 这 首 歌 呀 <END>, score: 48.402077, origin: 11.959779, reverse: 79.734490
+采 桑 归 西 露 沾 我 衣 。
+result: <END> 我 不 明白 你 要 说 什 么 。 <END>, score: 52.909195, origin: 7.574756, reverse: 88.052526
+result: <END> 你 可 以 自 己 去 查 查 。 <END>, score: 52.991325, origin: 12.583821, reverse: 86.023112
+result: <END> 我 不 知道 你 在 说 什 么 。 <END>, score: 53.625612, origin: 10.539715, reverse: 87.805282
+result: <END> 你 可 以 自 己 查 查 看 。 <END>, score: 53.694800, origin: 13.326029, reverse: 86.709988
+result: <END> 我 不 知道 你 说 的 什 么 。 <END>, score: 53.969210, origin: 11.877263, reverse: 87.722901
+蔡 港 林 是 备 胎
+result: <END> 他 是 你 的 好 朋友 <END>, score: 22.165890, origin: 9.063245, reverse: 39.209881
+result: <END> 是 你 的 好 朋友 嘛 <END>, score: 22.197866, origin: 10.152211, reverse: 38.788860
+result: <END> 我 不 认识 这 个 人 <END>, score: 22.860997, origin: 9.534494, reverse: 40.000927
+result: <END> 你 肯 定 是 暗 恋 <END>, score: 23.315181, origin: 10.234357, reverse: 40.349819
+result: <END> 这 个 你 都 不 知道 <END>, score: 23.372402, origin: 10.627199, reverse: 40.263203
+蔡 伟 聪 ， 我 喜欢 你
+result: <END> 哈 哈 ， 我 也 喜欢 你 <END>, score: 24.609403, origin: 9.654250, reverse: 43.875897
+result: <END> 恩 ， 我 也 很 喜欢 你 <END>, score: 24.764622, origin: 7.776688, reverse: 44.902308
+result: <END> 恩 恩 ， 我 也 喜欢 你 <END>, score: 24.892221, origin: 9.390522, reverse: 44.392950
+result: <END> 亲 爱 的 我 也 喜欢 你 <END>, score: 25.552411, origin: 9.135192, reverse: 45.445504
+result: <END> 那 你 肯 定 是 喜欢 我 <END>, score: 26.079712, origin: 9.690192, reverse: 45.960935
+蔡 伟 这 个 娘 娘 腔 。
+result: <END> 娘 娘 还 是 不 要 说 了 <END>, score: 22.859534, origin: 11.021158, reverse: 42.218838
+result: <END> 你 可 以 问 问 娘 娘 娘 <END>, score: 22.981924, origin: 10.050701, reverse: 42.809591
+result: <END> 不 可 以 随 便 骂 人 的 <END>, score: 23.147169, origin: 9.334377, reverse: 43.352652
+result: <END> 不 要 这 样 骂 人 好 吗 <END>, score: 23.402687, origin: 11.085846, reverse: 42.967048
+result: <END> 不 可 以 这 样 骂 别人 的 <END>, score: 23.424055, origin: 11.093865, reverse: 42.994137
+参加 别人 的 婚礼 好 感 慨
+result: <END> 好 感 谢 你 的 祝 福 <END>, score: 24.447758, origin: 9.100272, reverse: 43.882394
+result: <END> 那 就 赶紧 祝 福 他 们 <END>, score: 26.345373, origin: 10.339158, reverse: 46.062322
+result: <END> 那 就 祝 福 他 们 喽 <END>, score: 27.724679, origin: 9.527219, reverse: 48.380733
+result: <END> 一 定 会 感 谢 你 的 <END>, score: 27.787370, origin: 10.409340, reverse: 48.092239
+result: <END> 那 就 祝 他 们 幸福 喽 <END>, score: 28.041844, origin: 9.649326, reverse: 48.781494
+参 见 陛 下 ， 微 臣 有 礼 了
+result: <END> 不 可 以 随 便 给 别人 礼 礼 的 <END>, score: 40.090520, origin: 13.707374, reverse: 68.540440
+result: <END> 好 的 ， 我 会 遵 守 礼 礼 的 <END>, score: 40.275896, origin: 13.244347, reverse: 69.003702
+result: <END> 那 真 是 恭 喜 你 的 礼 礼 呀 <END>, score: 40.511960, origin: 15.006511, reverse: 68.585724
+result: <END> 那 真 是 恭 喜 你 的 礼 礼 喽 <END>, score: 41.273490, origin: 14.889651, reverse: 69.723707
+result: <END> 那 一 定 是 很 重要 的 礼 礼 喽 <END>, score: 41.499793, origin: 13.828158, reverse: 70.501923
+苍井空 和 波 多 野 结 衣 更 喜欢 谁 一点
+result: <END> 喜欢 谁 都 可 以 ， 只 要 努力 去 爱 <END>, score: 32.913079, origin: 11.012367, reverse: 60.870527
+result: <END> 这 个 你 要 问 她 自 己 喜欢 哪 个 <END>, score: 33.356940, origin: 13.109359, reverse: 60.605903
+result: <END> 喜欢 谁 都 可 以 ， 只 要 喜欢 你 ？ <END>, score: 33.369437, origin: 12.141758, reverse: 61.038443
+result: <END> 喜欢 谁 都 可 以 ， 你 喜欢 哪 个 。 <END>, score: 33.554657, origin: 12.618812, reverse: 61.098590
+result: <END> 喜欢 谁 都 可 以 ， 看 你 喜欢 哪 个 <END>, score: 33.628545, origin: 13.187756, reverse: 60.960312
+苍 老 师 长 什 么 样 子
+result: <END> 长 什 么 样 子 的 样 子 <END>, score: 14.719722, origin: 8.554697, reverse: 31.647589
+result: <END> 长 什 么 样 子 的 妹 子 <END>, score: 16.178752, origin: 11.191418, reverse: 32.601895
+result: <END> 长 什 么 样 子 都 很 丑 <END>, score: 16.269045, origin: 11.482209, reverse: 32.606261
+result: <END> 长 什 么 样 子 的 事 情 <END>, score: 16.640905, origin: 11.610301, reverse: 33.082592
+result: <END> 长 什 么 样 子 的 样 子 呀 <END>, score: 16.662281, origin: 10.541316, reverse: 34.999838
+苍 老师 照片 没 穿 衣 服 的
+result: <END> 怎 么 可 以 这 样 穿 的 <END>, score: 19.987466, origin: 11.584703, reverse: 37.874365
+result: <END> 那 可 不 是 随 便 穿 的 <END>, score: 20.525389, origin: 10.181629, reverse: 39.244144
+result: <END> 怎 么 会 没有 穿 裙 子 的 <END>, score: 20.578771, origin: 11.361344, reverse: 38.814812
+result: <END> 这 个 可 不能 随 便 穿 的 <END>, score: 20.587046, origin: 10.064740, reverse: 39.382319
+result: <END> 你 怎 么 知道 我 没 穿 过 <END>, score: 20.798567, origin: 11.188094, reverse: 39.203055
+草泥马 又 回 答 错 误
+result: <END> 什 么 错 误 了 ？ <END>, score: 11.523985, origin: 7.738584, reverse: 24.574871
+result: <END> 什 么 错 误 了 。 <END>, score: 11.661092, origin: 9.503105, reverse: 24.014515
+result: <END> 什 么 错 误 了 呀 。 <END>, score: 11.945020, origin: 10.198074, reverse: 25.550854
+result: <END> 有 什 么 错 误 么 ？ <END>, score: 12.045802, origin: 8.761590, reverse: 26.310464
+result: <END> 这 有 什 么 错 误 <END>, score: 12.095637, origin: 8.880370, reverse: 24.902180
+蹭 蹭 你 平 胸
+result: <END> 说 话 要 文明 一点 <END>, score: 20.928048, origin: 7.719266, reverse: 36.588955
+result: <END> 我 可 没有 这 样 <END>, score: 21.520279, origin: 9.283895, reverse: 36.764443
+result: <END> 说 话 要 文明 的 <END>, score: 21.586612, origin: 7.717146, reverse: 37.530669
+result: <END> 说 话 要 文明 一些 <END>, score: 21.623603, origin: 6.885210, reverse: 37.940057
+result: <END> 你 在 说 谁 平 胸 <END>, score: 21.660021, origin: 9.705871, reverse: 38.211800
+草 泥 马
+result: <END> 要 注意 安全 <END>, score: 12.483904, origin: 7.839051, reverse: 21.617413
+result: <END> 请 你 文明 点 <END>, score: 12.661574, origin: 9.226720, reverse: 22.705082
+result: <END> 说 话 要 文明 <END>, score: 12.983903, origin: 5.512828, reverse: 24.757221
+result: <END> 说 话 请 注意 <END>, score: 13.038298, origin: 7.358079, reverse: 24.044106
+result: <END> 说 话 要 注意 <END>, score: 13.337064, origin: 6.525434, reverse: 24.827763
+茶 叶 蛋 是 土豪 吃 得 起
+result: <END> 土豪 我 觉得 你 说 的 对 。 <END>, score: 34.093232, origin: 11.441682, reverse: 58.086753
+result: <END> 看 来 你 也 很 爱 吃 土豪 <END>, score: 35.837195, origin: 10.216549, reverse: 61.103187
+result: <END> 看 来 你 很 爱 吃 土豪 。 <END>, score: 35.949310, origin: 12.050545, reverse: 60.477352
+result: <END> 难 道 你 不 爱 吃 土豪 嘛 <END>, score: 36.162290, origin: 12.383134, reverse: 60.639071
+result: <END> 你 怎 么 能 这 么 对 土豪 <END>, score: 36.378880, origin: 10.932408, reverse: 61.570225
+岔 开 你 的 腿 让 我 看 看 那 里 有 什 么
+result: <END> 你 可 以 看 看 你 自 己 看 不 就 知道 了 么 <END>, score: 28.561490, origin: 15.344160, reverse: 57.083202
+result: <END> 你 可 以 看 看 你 自 己 想 要 什 么 的 呀 <END>, score: 28.810691, origin: 19.900015, reverse: 55.486694
+result: <END> 你 可 以 看 看 你 自 己 想 要 什 么 看 呀 <END>, score: 29.184339, origin: 20.341166, reverse: 55.831413
+result: <END> 你 可 以 看 看 你 自 己 想 要 什 么 了 呀 <END>, score: 29.313426, origin: 20.172876, reverse: 56.087948
+result: <END> 你 可 以 看 看 你 自 己 的 看 不 出 来 么 <END>, score: 29.432714, origin: 17.915665, reverse: 57.225735
+尝 尝 我 的 厉害
+result: <END> 你 尝 尝 就 知道 <END>, score: 11.913214, origin: 9.092734, reverse: 23.121991
+result: <END> 我 感觉 都 很 厉害 <END>, score: 11.925915, origin: 8.491611, reverse: 23.397760
+result: <END> 我 可 以 尝 尝 你 的 <END>, score: 12.675476, origin: 9.940119, reverse: 26.704914
+result: <END> 看 来 你 很 厉害 <END>, score: 12.725280, origin: 8.479494, reverse: 24.544903
+result: <END> 我 觉得 你 很 厉害 <END>, score: 12.762775, origin: 9.126617, reverse: 24.321129
+长 大 后 才 发觉 天 是 黑 的
+result: <END> 你 说 的 不 就 是 黑 的 吗 <END>, score: 32.747305, origin: 13.526950, reverse: 56.698886
+result: <END> 你 怎 么 知道 他 是 黑 的 ？ <END>, score: 32.958208, origin: 13.233619, reverse: 57.125888
+result: <END> 你 这 是 在 说 你 自 己 吗 <END>, score: 33.676094, origin: 12.683787, reverse: 58.387083
+result: <END> 看 来 你 很 喜欢 小 黑 角 色 <END>, score: 33.732349, origin: 13.070942, reverse: 58.301523
+result: <END> 不 要 在 背 后 说 别人 坏 话 <END>, score: 34.337429, origin: 11.198257, reverse: 59.968503
+车 费 还 差 几 块 回 不 了 家
+result: <END> 差 不 多 也 是 可 以 回 家 的 <END>, score: 26.307589, origin: 11.122125, reverse: 49.958502
+result: <END> 差 不 多 也 是 可 以 回 家 了 <END>, score: 26.690014, origin: 14.453813, reverse: 49.076958
+result: <END> 差 不 多 也 是 可 以 回 家 的 呀 <END>, score: 28.083331, origin: 14.674586, reverse: 52.401365
+result: <END> 回 家 也 没 什 么 不 好 的 呀 <END>, score: 30.318769, origin: 13.073894, reverse: 54.852287
+result: <END> 差 不 多 也 是 可 以 回 家 的 。 <END>, score: 30.445334, origin: 15.869045, reverse: 55.263743
+扯淡 ， 我 能 甩 你 九 条 街
+result: <END> 你 怎 么 能 这 么 对 我 ？ <END>, score: 42.181563, origin: 11.115913, reverse: 71.209699
+result: <END> 你 怎 么 能 这 么 说 话 ？ <END>, score: 43.187214, origin: 10.783744, reverse: 72.788701
+result: <END> 怎 么 可 以 这 么 对 我 ？ <END>, score: 43.205466, origin: 11.309794, reverse: 72.589325
+result: <END> 你 怎 么 可 以 这 么 说 话 <END>, score: 43.226125, origin: 11.029680, reverse: 72.738887
+result: <END> 你 怎 么 能 这 么 说 话 呀 <END>, score: 43.350756, origin: 11.950789, reverse: 72.522171
+帮 我 叫 一个 大 保 健
+result: <END> 那 就 要 好 好 保 护 <END>, score: 12.977640, origin: 10.139739, reverse: 27.051026
+result: <END> 好 的 ， 我 记 住 了 。 <END>, score: 13.047467, origin: 10.749105, reverse: 28.318193
+result: <END> 好 的 ， 我 记 住 了 <END>, score: 13.092902, origin: 8.946676, reverse: 27.726999
+result: <END> 我 可 以 帮 助 你 的 <END>, score: 13.366471, origin: 10.371517, reverse: 27.507165
+result: <END> 那 你 就 要 好 好 保 护 <END>, score: 13.509622, origin: 10.747849, reverse: 28.978953
+你 数学 是 体育 老师 教 的 吗 ？
+result: <END> 不 是 ， 我 可 不 是 数学 老师 <END>, score: 21.911406, origin: 10.173232, reverse: 42.656337
+result: <END> 不 是 呀 ， 我 可 是 数学 老师 <END>, score: 21.928749, origin: 10.989616, reverse: 42.331234
+result: <END> 这 个 可 不 是 我 的 数学 老师 <END>, score: 22.058939, origin: 9.514897, reverse: 43.149243
+result: <END> 不 是 的 ， 我 可 是 数学 老师 <END>, score: 22.078568, origin: 9.616995, reverse: 43.133528
+result: <END> 当 然 会 ， 我 可 是 数学 老师 <END>, score: 22.139537, origin: 11.202836, reverse: 42.540980
+你 提 出 话 题 我 们 聊 天 好 不 好
+result: <END> 不 好 ， 咱 们 聊 点 有 啥 话 题 。 <END>, score: 15.678932, origin: 11.950297, reverse: 37.276918
+result: <END> 好 呀 ， 我 们 聊 点 别 的 话 题 。 <END>, score: 15.971404, origin: 10.465367, reverse: 38.331134
+result: <END> 好 ， 我 们 聊 点 有 意思 的 话 题 。 <END>, score: 16.261736, origin: 10.883089, reverse: 38.566871
+result: <END> 不 好 ， 咱 们 聊 点 有 啥 话 题 ？ <END>, score: 16.706276, origin: 12.347349, reverse: 38.574388
+result: <END> 好 呀 ， 我 们 聊 点 别 的 话 题 呀 <END>, score: 16.711473, origin: 12.387165, reverse: 38.564748
+最近 几 天 南 方 降 温
+result: <END> 每 个 地 方 都 很 棒 <END>, score: 30.137869, origin: 9.493271, reverse: 51.842697
+result: <END> 你 是 要 去 哪 里 呀 <END>, score: 30.893294, origin: 10.482420, reverse: 52.497954
+result: <END> 看 来 你 很 喜欢 看 电影 <END>, score: 31.065608, origin: 10.084491, reverse: 52.914658
+result: <END> 每 个 地 方 都 很 辛苦 <END>, score: 31.239116, origin: 9.537336, reverse: 53.397022
+result: <END> 这 个 你 可 要 注意 一下 <END>, score: 31.371903, origin: 10.607028, reverse: 53.128278
+我 朋友 叫 什 么 名 字 ？
+result: <END> 你 的 名 字 叫 什 么 。 <END>, score: 10.365584, origin: 7.967720, reverse: 25.678954
+result: <END> 那 你 的 名 字 叫 什 么 <END>, score: 10.666623, origin: 8.907386, reverse: 25.706296
+result: <END> 你 的 名 字 叫 什 么 呀 <END>, score: 10.763178, origin: 9.531307, reverse: 25.576837
+result: <END> 你 的 名 字 叫 什 么 ？ <END>, score: 10.943332, origin: 7.155082, reverse: 26.852582
+result: <END> 你 的 名 字 叫 什 么 的 <END>, score: 11.320692, origin: 9.407976, reverse: 26.426141
+请 赐 予 我 无 比 强 大 的 性 能 力 吧
+result: <END> 你 可 以 和 我 聊 聊 天 就 不 会 强 大 <END>, score: 47.968625, origin: 18.222822, reverse: 82.145398
+result: <END> 相 信 你 一 定 可 以 的 ， 不 要 强 求 <END>, score: 48.195186, origin: 16.831530, reverse: 83.065324
+result: <END> 当 然 可 以 了 ， 你 要 相 信 自 己 呀 <END>, score: 48.234015, origin: 16.980272, reverse: 83.057048
+result: <END> 当 然 可 以 了 ， 你 要 相 信 自 己 。 <END>, score: 48.559779, origin: 15.039828, reverse: 84.354043
+result: <END> 你 可 以 和 我 聊 聊 天 不 就 好 了 吗 <END>, score: 48.619719, origin: 16.808926, reverse: 83.681488
+你 在 烦 恼 什 么
+result: <END> 我 什 么 都 烦 恼 <END>, score: 10.503622, origin: 5.874068, reverse: 23.916288
+result: <END> 我 什 么 都 没 烦 <END>, score: 11.342978, origin: 9.345230, reverse: 23.627728
+result: <END> 我 没有 烦 恼 什 么 <END>, score: 11.400334, origin: 9.256842, reverse: 23.747545
+result: <END> 我 什 么 都 不 烦 <END>, score: 11.441861, origin: 9.284180, reverse: 23.795153
+result: <END> 没有 烦 恼 什 么 呀 <END>, score: 11.646899, origin: 8.633778, reverse: 24.366808
+那 感 情 受 挫 呢
+result: <END> 怎 么 感 受 到 了 <END>, score: 34.427544, origin: 9.177179, reverse: 56.677700
+result: <END> 感 受 到 不 了 的 <END>, score: 34.928614, origin: 9.842977, reverse: 57.108173
+result: <END> 你 的 感 受 到 了 <END>, score: 35.258352, origin: 10.038175, reverse: 57.495571
+result: <END> 什 么 感 受 到 了 <END>, score: 35.616051, origin: 9.820352, reverse: 58.099922
+result: <END> 你 可 以 试 试 看 <END>, score: 35.970416, origin: 9.213322, reverse: 58.866314
+地 球 为 何 是 圆 的
+result: <END> 当 然 是 地 球 上 的 <END>, score: 16.280758, origin: 10.410822, reverse: 31.653588
+result: <END> 在 地 球 上 的 地 方 <END>, score: 16.686688, origin: 11.174840, reverse: 31.906052
+result: <END> 你 喜欢 哪 个 地 球 的 <END>, score: 17.666153, origin: 11.204134, reverse: 33.292733
+result: <END> 你 说 的 是 地 球 上 的 <END>, score: 17.834576, origin: 10.971880, reverse: 35.061445
+result: <END> 你 说 的 是 地 球 的 <END>, score: 17.920464, origin: 10.608118, reverse: 33.911469
+那 你 解释 一下 量 子 物理
+result: <END> 这 有 什 么 可 解释 的 <END>, score: 35.050354, origin: 9.934110, reverse: 58.671601
+result: <END> 我 数学 可 是 很 棒 的 <END>, score: 35.849782, origin: 8.351830, reverse: 60.491761
+result: <END> 你 可 以 给 我 解释 一下 <END>, score: 36.041970, origin: 9.254223, reverse: 60.379576
+result: <END> 我 数学 可 是 很 好 的 <END>, score: 36.259334, origin: 8.842919, reverse: 60.866369
+result: <END> 我 的 数学 可 是 很 好 <END>, score: 36.885546, origin: 9.204252, reverse: 61.606101
+有 什 么 好看 的 喜 剧 ？
+result: <END> 有 什 么 好看 的 喜 好看 的 <END>, score: 11.438433, origin: 10.357935, reverse: 26.187217
+result: <END> 有 什 么 好看 的 喜 喜 的 <END>, score: 12.158576, origin: 10.704199, reverse: 27.067595
+result: <END> 看 你 喜欢 什 么 样 的 好看 <END>, score: 12.161582, origin: 10.207499, reverse: 27.284760
+result: <END> 你 喜欢 看 什 么 样 的 好看 <END>, score: 12.163494, origin: 8.749263, reverse: 27.912450
+result: <END> 你 喜欢 什 么 类 型 的 好看 <END>, score: 12.796444, origin: 10.510723, reverse: 28.061752
+你 是 我 知 心 朋友
+result: <END> 我 就 是 知 心 你 <END>, score: 16.600140, origin: 10.154404, reverse: 30.791170
+result: <END> 你 的 心 朋友 是 谁 <END>, score: 16.967598, origin: 9.809575, reverse: 31.463894
+result: <END> 我 的 心 朋友 是 谁 <END>, score: 16.975752, origin: 9.940722, reverse: 31.419336
+result: <END> 那 是 你 的 朋友 么 <END>, score: 17.763952, origin: 8.910406, reverse: 32.986900
+result: <END> 我 是 你 的 好 朋友 <END>, score: 18.050717, origin: 6.691210, reverse: 34.347649
+我 只 想 有 个 真 心 的 朋友
+result: <END> 你 的 朋友 就 是 真 心 的 很 好 <END>, score: 13.116393, origin: 12.860629, reverse: 30.368863
+result: <END> 看 来 你 的 朋友 不 是 真 心 <END>, score: 13.187522, origin: 12.603850, reverse: 29.151952
+result: <END> 看 来 你 的 朋友 是 真 心 的 <END>, score: 13.395727, origin: 12.228318, reverse: 29.610331
+result: <END> 那 要 看 你 自 己 的 诚 心 <END>, score: 14.575578, origin: 12.496759, reverse: 31.180786
+result: <END> 怎 么 会 想 到 你 的 朋友 的 <END>, score: 14.842829, origin: 11.156705, reverse: 32.136883
+云南 在 哪 里 ？
+result: <END> 当 然 在 家 里 <END>, score: 14.836343, origin: 8.166101, reverse: 27.695018
+result: <END> 在 中国 的 地 方 <END>, score: 14.918872, origin: 8.333772, reverse: 27.741057
+result: <END> 在 北京 的 地 方 <END>, score: 15.821577, origin: 9.048692, reverse: 28.724242
+result: <END> 肯 定 在 家 里 <END>, score: 15.879749, origin: 9.315069, reverse: 28.693183
+result: <END> 就 在 家 里 呀 <END>, score: 15.941790, origin: 8.715484, reverse: 29.038779
+世界 上 最 高 的 山 是 什 么
+result: <END> 当 然 是 世界 上 最 高 的 人 咯 <END>, score: 9.412731, origin: 12.961329, reverse: 25.034760
+result: <END> 当 然 是 世界 上 最 高 的 机器 人 <END>, score: 9.487753, origin: 13.427654, reverse: 24.942080
+result: <END> 当 然 是 世界 上 最 高 的 世界 <END>, score: 9.585060, origin: 12.914971, reverse: 23.872241
+result: <END> 当 然 是 世界 上 最 高 的 人 <END>, score: 9.648199, origin: 10.082449, reverse: 25.176378
+result: <END> 当 然 是 世界 上 最 高 的 人 了 <END>, score: 9.796098, origin: 11.522460, reverse: 26.199085

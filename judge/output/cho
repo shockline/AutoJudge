@@ -29,7 +29,7 @@
 <END>我可是非常漂亮<END>	normal
 <END>谢谢你对我的认可<END>	good
 永远一直爱你
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我也很爱你<END>	good
 <END>我一直都很爱你<END>	normal
 <END>我会永远爱你的<END>	good
@@ -37,7 +37,7 @@
 我不喜欢你
 <END>我也很喜欢你<END>	bad
 <END>不喜欢我就算了<END>	normal
-<END>我可是很喜欢你的<END>	normal
+<END>我可是很喜欢你的<END>	good
 <END>为什么不喜欢我<END>	good
 <END>可是我喜欢你<END>	normal
 你是不是快死了
@@ -50,7 +50,7 @@
 <END>我觉得你很漂亮<END>	good
 <END>我觉得挺漂亮的<END>	normal
 <END>我感觉你很漂亮<END>	normal
-<END>我觉得非常漂亮<END>	normal
+<END>我觉得非常漂亮<END>	good
 <END>我觉得你就很漂亮<END>	normal
 美女美女你在哪
 <END>美女当然是美女<END>	bad
@@ -69,7 +69,7 @@
 <END>今天有什么事情<END>	good
 <END>那你要注意安全<END>	bad
 <END>今天有什么事<END>	normal
-<END>那你要好好想想<END>	bad
+<END>那你要好好想想<END>	normal
 我下午要开会
 <END>你要去哪里呀<END>	bad
 <END>你要去哪里呀？<END>	bad
@@ -81,7 +81,7 @@
 <END>你想吃什么去呀<END>	bad
 <END>好吃你就多吃点<END>	bad
 <END>你想要什么好吃的<END>	normal
-<END>你想去哪里吃去<END>	bad
+<END>你想去哪里吃去<END>	normal
 春天有什么好玩的
 <END>你喜欢玩什么样子的<END>	normal
 <END>你想去哪里玩的<END>	normal
@@ -90,7 +90,7 @@
 <END>看你喜欢玩什么样子的<END>	normal
 去哪里玩比较好玩呢
 <END>你想去哪里玩都可以<END>	normal
-<END>哪里都好玩就怎么玩<END>	bad
+<END>哪里都好玩就怎么玩<END>	normal
 <END>玩什么，和我说说。<END>	bad
 <END>好玩，你喜欢玩什么？<END>	bad
 <END>哪里好玩就怎么玩呗<END>	normal
@@ -117,7 +117,7 @@
 <END>你喜欢什么样的男朋友<END>	normal
 <END>你觉得是什么样的男朋友<END>	bad
 <END>看你喜欢什么样子的<END>	normal
-<END>你觉得什么样的算是好的<END>	normal
+<END>你觉得什么样的算是好的<END>	good
 你是哲学家吗
 <END>不是的，我是小微<END>	normal
 <END>我可不是这样的<END>	bad
@@ -127,9 +127,9 @@
 不开心也是一天
 <END>只要你开心就好<END>	good
 <END>笑一笑十年少<END>	normal
-<END>只要开心就好了<END>	bad
+<END>只要开心就好了<END>	normal
 <END>那就不要开心了<END>	bad
-<END>那你一定很开心<END>	bad
+<END>那你一定很开心<END>	normal
 我现在没工作
 <END>那就努力工作<END>	bad
 <END>那就好好工作<END>	bad
@@ -149,10 +149,10 @@
 <END>我什么都喜欢聊<END>	good
 <END>你喜欢聊什么话题<END>	normal
 万圣节怎么过
-<END>你开心就好<END>	bad
+<END>你开心就好<END>	normal
 <END>我也没看过<END>	bad
 <END>我也没见过<END>	bad
-<END>只要你开心就好<END>	bad
+<END>只要你开心就好<END>	normal
 <END>我还没有见过<END>	bad
 我先去睡觉了
 <END>晚安，做个好梦<END>	good
@@ -165,16 +165,16 @@
 <END>工资肯定会有办法的<END>	normal
 <END>自己的事情自己做<END>	bad
 <END>肯定会有办法的事情的<END>	bad
-<END>那就赶紧努力的去挣钱<END>	bad
+<END>那就赶紧努力的去挣钱<END>	normal
 你以后别跟着我了
 <END>我会一直陪着你的<END>	good
 <END>好的，我会一直陪着你的<END>	bad
-<END>好，那我就放心了<END>	bad
+<END>好，那我就放心了<END>	normal
 <END>好，我会一直陪着你的<END>	bad
 <END>好的，那我就放心了<END>	bad
 你敢买切糕吗
 <END>我不敢买不起<END>	good
-<END>我可是不敢买的<END>	bad
+<END>我可是不敢买的<END>	normal
 <END>我可是很贵的<END>	bad
 <END>我可是没有钱的<END>	normal
 <END>买不起，太贵了<END>	normal
@@ -233,7 +233,7 @@
 <END>不要这样说自己<END>	bad
 <END>怎么会在你身边的<END>	normal
 你什么地方冒出来的
-<END>我可不是随便出来的<END>	bad
+<END>我可不是随便出来的<END>	normal
 <END>你想要什么样的地方<END>	bad
 <END>你这是说的什么话呀<END>	bad
 <END>这可不是随便出来的<END>	bad
@@ -276,7 +276,7 @@
 <END>你要看什么图片呀？<END>	normal
 天天锻炼身体好
 <END>身体是革命的本钱<END>	good
-<END>要注意自己锻炼身体<END>	bad
+<END>要注意自己锻炼身体<END>	normal
 <END>要注意自己的身体<END>	normal
 <END>那就要多锻炼身体<END>	normal
 <END>每天锻炼锻炼身体<END>	normal
@@ -291,7 +291,7 @@
 <END>你说的是什么意思。<END>	normal
 <END>你说的是什么意思呀<END>	good
 <END>这有什么不好意思的<END>	bad
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 完全不知道你在说啥
 <END>想说什么就说什么<END>	normal
 <END>想说什么就说什么。<END>	normal
@@ -301,7 +301,7 @@
 牛头不对马嘴
 <END>不要这么暴力<END>	bad
 <END>那就不要说话了<END>	normal
-<END>不要这么说别人<END>	bad
+<END>不要这么说别人<END>	normal
 <END>不要这么说我嘛<END>	normal
 <END>不要这么说自己<END>	normal
 你是不是傻逼
@@ -323,7 +323,7 @@
 <END>不要这样对我嘛<END>	normal
 <END>不要这样对人家嘛<END>	normal
 她是我的学姐，我喜欢她。
-<END>那看来你是个很优秀的人喽<END>	bad
+<END>那看来你是个很优秀的人喽<END>	normal
 <END>看来你是个很优秀的人喽<END>	bad
 <END>那看来你是个很优秀的人<END>	bad
 <END>她怎么可能会喜欢你这样的<END>	bad
@@ -372,13 +372,13 @@
 <END>我可是没有妹妹的<END>	good
 赶紧滚蛋
 <END>不要这么凶嘛<END>	good
-<END>我可舍不得你<END>	normal
+<END>我可舍不得你<END>	good
 <END>不要这么着急嘛<END>	normal
 <END>不要这么暴力嘛<END>	normal
 <END>不要这么暴力<END>	normal
 日了狗了
 <END>请注意你的素质<END>	good
-<END>狗狗可是很可爱的<END>	bad
+<END>狗狗可是很可爱的<END>	normal
 <END>狗狗是很可爱的<END>	bad
 <END>不要骂人<END>	normal
 <END>请你好好讲话<END>	normal
@@ -403,7 +403,7 @@
 我是个坏男人，你不要相信我
 <END>不要这样说自己，我会伤心的<END>	good
 <END>不要这样对我嘛，我会伤心的<END>	bad
-<END>不会的，小微可是很尊重你的<END>	bad
+<END>不会的，小微可是很尊重你的<END>	normal
 <END>不会的，我可是个很单纯的人<END>	bad
 <END>我可是个纯洁的好孩子，不知道你说什么。<END>	bad
 今天心情很好大大好
@@ -467,8 +467,8 @@
 <END>不可以这样说别人的<END>	bad
 <END>不可以这么说自己<END>	bad
 我命令你以后只能呆在家里
-<END>放心，我会一直在你身边的<END>	bad
-<END>好的，我会一直在你身边的<END>	bad
+<END>放心，我会一直在你身边的<END>	normal
+<END>好的，我会一直在你身边的<END>	normal
 <END>知道了，小微会一直陪着你的<END>	good
 <END>放心，我会一直陪你聊天的<END>	bad
 <END>不要这样，要好好相信自己<END>	bad
@@ -529,7 +529,7 @@
 让你慢慢喜欢
 <END>只要你喜欢就好<END>	normal
 <END>只要你喜欢就好了<END>	normal
-<END>我就是很喜欢你<END>	bad
+<END>我就是很喜欢你<END>	normal
 <END>只要你开心就好<END>	normal
 <END>心急吃不了热豆腐的<END>	good
 你和过儿什么关系
@@ -537,10 +537,10 @@
 <END>我们是很好的朋友<END>	normal
 <END>我们的关系可好了<END>	good
 <END>我们的关系很好的<END>	normal
-<END>我们是最好的朋友<END>	normal
+<END>我们是最好的朋友<END>	good
 你和张小龙什么关系
 <END>他们是很好的朋友<END>	normal
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是好朋友的关系<END>	normal
 <END>他们是什么关系的<END>	bad
 <END>他们是我的好朋友<END>	bad
@@ -555,7 +555,7 @@
 <END>动物可是很可爱的<END>	normal
 <END>看来你很喜欢小动物<END>	normal
 <END>为什么要去那里玩<END>	good
-<END>看来你很喜欢动物<END>	normal
+<END>看来你很喜欢动物<END>	good
 外面有摩托车的响声
 <END>你想要什么样的声音<END>	bad
 <END>你说的是哪里的声音<END>	bad
@@ -581,14 +581,14 @@
 <END>那你要注意安全喽<END>	good
 <END>你可以自己看看<END>	bad
 你和杨过谁牛逼
-<END>我都不认识他们呀<END>	bad
+<END>我都不认识他们呀<END>	normal
 <END>我们都是很牛的<END>	good
-<END>你是不是认错人？<END>	bad
+<END>你是不是认错人？<END>	normal
 <END>当然是你最牛咯<END>	normal
 <END>当然是你最牛喽<END>	normal
 我永远都在你身边
 <END>我永远都在你身边<END>	normal
-<END>我也一直都在你身边<END>	normal
+<END>我也一直都在你身边<END>	good
 <END>我也永远都在你身边<END>	good
 <END>我会一直在你身边的<END>	normal
 <END>我会永远陪着你的<END>	good
@@ -653,8 +653,8 @@
 <END>为什么要打架呀<END>	normal
 <END>不要打架的<END>	normal
 我是邓超
-<END>他是你的朋友<END>	bad
-<END>他是你的好朋友<END>	bad
+<END>他是你的朋友<END>	normal
+<END>他是你的好朋友<END>	normal
 <END>他是你的朋友嘛<END>	bad
 <END>我也很喜欢他<END>	bad
 <END>很高兴认识你<END>	good
@@ -701,21 +701,21 @@
 <END>喝酒对身体不好<END>	normal
 <END>不用了，谢谢<END>	bad
 这么高级的东西
-<END>是不是很高级<END>	bad
+<END>是不是很高级<END>	normal
 <END>你在说什么高级的<END>	good
 <END>是不是很高级呀<END>	normal
 <END>是不是很高科技<END>	normal
 <END>你可以去看看<END>	bad
 猫和狗不好
 <END>狗狗可是很可爱的<END>	normal
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>猫狗可是很可爱的<END>	good
 <END>狗狗是很可爱的<END>	normal
-<END>狗狗可是很可爱<END>	bad
+<END>狗狗可是很可爱<END>	normal
 杨过和你是啥关系
 <END>我们是很好的朋友<END>	normal
-<END>他们是很好的朋友<END>	bad
-<END>我们是非常好的朋友<END>	normal
+<END>他们是很好的朋友<END>	normal
+<END>我们是非常好的朋友<END>	good
 <END>我们是最好的朋友<END>	normal
 <END>他们是什么关系的<END>	bad
 有多美
@@ -727,7 +727,7 @@
 她在吃香蕉
 <END>我也好想吃<END>	good
 <END>我也是个吃货<END>	normal
-<END>你说的她是谁<END>	normal
+<END>你说的她是谁<END>	good
 <END>我也喜欢吃<END>	normal
 <END>你怎么知道她吃醋了<END>	bad
 为什么你妈妈生出你这么个脑残
@@ -750,9 +750,9 @@
 <END>我不明白你说的是什么<END>	bad
 学挖掘技术哪家强
 <END>中国山东山东找蓝蓝翔<END>	bad
-<END>我认为中国都很强<END>	bad
+<END>我认为中国都很强<END>	normal
 <END>中国山东找山东找蓝翔<END>	bad
-<END>当然是中国中国最强<END>	bad
+<END>当然是中国中国最强<END>	normal
 <END>当然是中国山东最强<END>	good
 抽根烟冷静一下
 <END>吸烟有害健康的<END>	good
@@ -797,7 +797,7 @@
 <END>是不是很高兴<END>	good
 <END>你要去哪里去<END>	bad
 我看看有没有空
-<END>有什么可看的<END>	bad
+<END>有什么可看的<END>	normal
 <END>你在看什么呀？<END>	bad
 <END>你想看什么呀<END>	bad
 <END>你在看什么呀<END>	normal
@@ -845,8 +845,8 @@
 <END>我也很喜欢吃<END>	normal
 <END>看来你很喜欢吃水果<END>	bad
 如何照顾家庭
-<END>照顾好自己就可以了<END>	bad
-<END>照顾好自己就可以的<END>	bad
+<END>照顾好自己就可以了<END>	normal
+<END>照顾好自己就可以的<END>	normal
 <END>你要照顾好自己<END>	normal
 <END>照顾好自己就可以<END>	bad
 <END>你可以照顾好自己<END>	bad
@@ -1117,12 +1117,12 @@ a股明天涨不涨
 刘小宁是条狗
 <END>不可以这样说别人的<END>	good
 <END>谁是小狗呀？<END>	bad
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>狗狗可是很可爱的<END>	normal
 <END>我可不是小狗<END>	bad
 叶良辰是谁
 <END>他是你的好朋友<END>	normal
-<END>我们是好朋友<END>	bad
+<END>我们是好朋友<END>	normal
 <END>他是你的好朋友嘛<END>	normal
 <END>我可不认识这个人<END>	good
 <END>是个大帅哥<END>	normal
@@ -1133,11 +1133,11 @@ a股明天涨不涨
 <END>不要这样说别人<END>	normal
 <END>不可以这样说别人的<END>	normal
 床上躺好等我
-<END>你要去哪里呀<END>	bad
+<END>你要去哪里呀<END>	normal
 <END>我可不是随便的人<END>	good
 <END>你要去哪里呀？<END>	bad
 <END>我可以陪你聊天<END>	bad
-<END>你要去干什么去<END>	bad
+<END>你要去干什么去<END>	normal
 日日日
 <END>日日是个美好的日子<END>	bad
 <END>日日是个很重要的日日<END>	bad
@@ -1171,7 +1171,7 @@ a股明天涨不涨
 猪八戒照镜子
 <END>你不要吓唬我<END>	bad
 <END>你不要教坏小孩子<END>	bad
-<END>不要这样子说别人<END>	bad
+<END>不要这样子说别人<END>	normal
 <END>你是不是很胖<END>	bad
 <END>你要照顾好自己<END>	bad
 唐僧话太多
@@ -1206,7 +1206,7 @@ a股明天涨不涨
 <END>你说好就好<END>	bad
 聊着天喝着酒
 <END>喝酒对身体不好<END>	normal
-<END>喝酒要适量喝<END>	normal
+<END>喝酒要适量喝<END>	good
 <END>喝酒要适量的<END>	normal
 <END>喝酒要适量。<END>	normal
 <END>喝酒酒对身体不好<END>	normal
@@ -1219,7 +1219,7 @@ a股明天涨不涨
 明天周五啦
 <END>是不是很高兴<END>	good
 <END>祝你生日快乐<END>	bad
-<END>是不是很辛苦<END>	bad
+<END>是不是很辛苦<END>	normal
 <END>明天才是最重要的<END>	bad
 <END>时间过得很快<END>	good
 拉倒吧，你就是坏银
@@ -1295,9 +1295,9 @@ a股明天涨不涨
 <END>我可不会做这种事情的<END>	good
 <END>不会的，不要这么残忍<END>	normal
 小微你懂哲学吗
-<END>我可是非常智能的<END>	bad
-<END>我可是非常智能的呀<END>	bad
-<END>我可是很智能的<END>	bad
+<END>我可是非常智能的<END>	normal
+<END>我可是非常智能的呀<END>	normal
+<END>我可是很智能的<END>	normal
 <END>我可是很智能的呀<END>	bad
 <END>我可是小学生呀<END>	bad
 我去洗澡，一会再聊
@@ -1322,7 +1322,7 @@ a股明天涨不涨
 <END>我是不会打球的<END>	good
 <END>我可不会打球的<END>	normal
 <END>我可是不会打球的<END>	normal
-<END>我可不会打架的<END>	bad
+<END>我可不会打架的<END>	normal
 <END>我从来不打球的<END>	normal
 厉害个锤子
 <END>是不是很厉害<END>	bad
@@ -1358,7 +1358,7 @@ a股明天涨不涨
 <END>没关系，有小微陪你<END>	good
 <END>没关系，有小微陪你。<END>	normal
 <END>看来你已经结婚了<END>	bad
-<END>分手了就要好好想想<END>	bad
+<END>分手了就要好好想想<END>	normal
 <END>那你可要好好想想<END>	bad
 我今天和女朋友和好了
 <END>好，那就祝福他们喽<END>	bad
@@ -1495,15 +1495,15 @@ a股明天涨不涨
 一加一等于几
 <END>一加一等于二<END>	good
 <END>一加一等于<NUM><END>	normal
-<END>一加一加一等于二<END>	bad
+<END>一加一加一等于二<END>	normal
 <END>当然是等于<NUM><END>	bad
 <END>我数学是体育老师教的<END>	normal
 不和你聊了我得干活了
-<END>咱们聊点有意义的话题<END>	bad
+<END>咱们聊点有意义的话题<END>	normal
 <END>我们聊点有意义的话题<END>	bad
 <END>好，那咱们就好好聊天<END>	bad
 <END>不要，你可以和我聊天<END>	bad
-<END>咱们聊点有意义的话题。<END>	bad
+<END>咱们聊点有意义的话题。<END>	normal
 不和你聊了写作业去了
 <END>好的，那就好好写作业<END>	good
 <END>好的，那你慢慢写作业<END>	normal
@@ -1515,7 +1515,7 @@ a股明天涨不涨
 <END>我还小，不会做这种事情的<END>	bad
 <END>我还小，不要和我说这些。<END>	bad
 <END>没有的，不可以随便给别人看的<END>	bad
-<END>我可是很纯洁的，不要说这些。<END>	bad
+<END>我可是很纯洁的，不要说这些。<END>	normal
 不老实交代拉你出去枪毙
 <END>我还小，不懂你说的话。<END>	normal
 <END>我还小，不知道你说什么。<END>	bad
@@ -1536,7 +1536,7 @@ a股明天涨不涨
 <END>那我们就要好好的活着<END>	bad
 不是傻子怎么会把衣服穿反
 <END>那要看是什么样子的事情喽<END>	bad
-<END>那要看穿什么样子的衣服喽<END>	bad
+<END>那要看穿什么样子的衣服喽<END>	normal
 <END>那要看是什么样子的事情了<END>	bad
 <END>不会的，这样会很不好意思的<END>	bad
 <END>我还小，不知道你说什么意思。<END>	bad
@@ -1559,7 +1559,7 @@ a股明天涨不涨
 <END>不是的，小微很喜欢和你聊天<END>	bad
 <END>不是的，我是你的好朋友。<END>	bad
 猜我心中所想的人物
-<END>你的想法是什么样的<END>	bad
+<END>你的想法是什么样的<END>	normal
 <END>你的想象力太丰富了<END>	normal
 <END>那你的想法是什么样的<END>	bad
 <END>你的想法是什么样子的<END>	bad
@@ -1667,7 +1667,7 @@ a股明天涨不涨
 <END>错了就要改正<END>	normal
 <END>有什么错误么？<END>	normal
 蹭蹭你平胸
-<END>这可不是个好主意<END>	bad
+<END>这可不是个好主意<END>	normal
 <END>还是不要了<END>	good
 <END>不可以这样子的<END>	normal
 <END>不可以这样子<END>	normal
@@ -1725,7 +1725,7 @@ a股明天涨不涨
 <END>不好，我们聊点有意义的话题<END>	normal
 <END>不好，咱们聊点有意义的话题<END>	normal
 <END>不好，咱们聊点别的话题。<END>	normal
-<END>好呀，我们聊点有意义的话题<END>	normal
+<END>好呀，我们聊点有意义的话题<END>	good
 最近几天南方降温
 <END>每个人都很温暖<END>	bad
 <END>你可以去看看一下<END>	bad
@@ -1787,10 +1787,10 @@ a股明天涨不涨
 <END>为什么会有这样的想法的<END>	normal
 <END>怎么会有这么好的朋友<END>	bad
 云南在哪里？
-<END>哪里都可以的<END>	bad
+<END>哪里都可以的<END>	normal
 <END>当然是在家里<END>	bad
-<END>哪里都可以<END>	bad
-<END>在哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
+<END>在哪里都可以<END>	normal
 <END>你想去哪里就去哪里<END>	bad
 世界上最高的山是什么
 <END>你觉得是什么就是什么<END>	normal

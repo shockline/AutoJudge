@@ -120,7 +120,7 @@
 <END>你本来就很漂亮<END>	bad
 永远一直爱你
 <END>我也很爱你<END>	good
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我一直都很爱你<END>	normal
 <END>我会一直陪着你的<END>	good
 <END>难道你不爱小微嘛<END>	bad
@@ -377,7 +377,7 @@
 <END>会不会很伤心？<END>	bad
 <END>你会不会很伤心？<END>	bad
 我问的不是这个意思
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>你说的是什么意思。<END>	normal
 <END>那你说的是哪个意思<END>	normal
 <END>你说的是什么意思呀<END>	good
@@ -559,7 +559,7 @@
 我命令你以后只能呆在家里
 <END>放心，我会一直陪在你身边的<END>	normal
 <END>我一定会一直陪在你身边的<END>	normal
-<END>放心，我会一直在你身边的<END>	bad
+<END>放心，我会一直在你身边的<END>	normal
 <END>好，我会一直陪在你身边的<END>	normal
 <END>不要，我会一直陪在你身边的<END>	normal
 你等会我过会跟你说
@@ -629,7 +629,7 @@
 <END>我们没有任何的关系<END>	good
 <END>我们不是很好的朋友<END>	normal
 你和张小龙什么关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是很好的朋友<END>	normal
 <END>他们是最好的朋友<END>	normal
 <END>我们没有任何的关系<END>	good
@@ -739,7 +739,7 @@
 我是邓超
 <END>我也很喜欢他<END>	bad
 <END>他是你的什么人<END>	normal
-<END>他是你的好朋友<END>	bad
+<END>他是你的好朋友<END>	normal
 <END>你认错人了<END>	normal
 <END>他是你的粉丝么<END>	good
 最近股票大跌
@@ -791,7 +791,7 @@
 <END>什么是高级的<END>	normal
 <END>你在说什么呀？<END>	bad
 猫和狗不好
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 <END>谁是狗狗呀？<END>	bad
 <END>谁是猫狗呀？<END>	bad
 <END>狗狗一定很可爱<END>	normal
@@ -1200,7 +1200,7 @@ a股明天涨不涨
 <END>不要这样说话<END>	normal
 刘小宁是条狗
 <END>他们是很好的朋友<END>	normal
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>你说的他是谁呀<END>	normal
 <END>看来你很喜欢他<END>	normal
 <END>请你说话文明一些<END>	normal
@@ -1554,7 +1554,7 @@ a股明天涨不涨
 <END>看不出来<END>	bad
 一加一等于几
 <END>一加一等于二<END>	good
-<END>一加一加一等于二<END>	bad
+<END>一加一加一等于二<END>	normal
 <END>一加一等于<NUM><END>	normal
 <END>一加一一等于二<END>	bad
 <END>一加一加一一<END>	bad
@@ -1841,9 +1841,9 @@ a股明天涨不涨
 <END>那你的朋友是什么样的<END>	normal
 <END>那你觉得什么样的是真的<END>	normal
 云南在哪里？
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 <END>你说的是哪里<END>	bad
-<END>在哪里都可以<END>	bad
+<END>在哪里都可以<END>	normal
 <END>你说的是哪个城市<END>	normal
 <END>你说的是哪里的<END>	bad
 世界上最高的山是什么

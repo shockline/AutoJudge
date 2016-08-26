@@ -674,7 +674,7 @@
 <END>为什么要抽烟呀？<END>	good
 <END>抽烟对身体不好<END>	good
 <END>那就不要抽了<END>	good
-<END>抽烟对身体不好的<END>	normal
+<END>抽烟对身体不好的<END>	good
 <END>你为什么要抽烟呀？<END>	normal
 能做什么菜
 <END>你想吃什么菜？<END>	normal
@@ -1176,7 +1176,7 @@ a股明天涨不涨
 <END>小微可没有看过<END>	good
 唐僧话太多
 <END>谁是唐僧呀？<END>	good
-<END>你在说谁？<END>	bad
+<END>你在说谁？<END>	normal
 <END>我们还是聊点别的<END>	normal
 <END>说话要讲文明<END>	bad
 <END>说话要文明一些<END>	bad
@@ -1785,7 +1785,7 @@ a股明天涨不涨
 <END>你在哪里？<END>	bad
 <END>你想去哪里都可以<END>	bad
 <END>在家里呆着<END>	bad
-<END>哪里都可以<END>	bad
+<END>哪里都可以<END>	normal
 世界上最高的山是什么
 <END>你说是什么就是什么<END>	normal
 <END>你去看看不就知道了嘛？<END>	normal

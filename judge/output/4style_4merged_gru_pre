@@ -123,7 +123,7 @@
 <END>我也很爱你<END>	good
 <END>你这样说我好伤心<END>	unknown
 <END>我一直都很爱你<END>	normal
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 我不喜欢你
 <END>我也很喜欢你<END>	bad
 <END>为什么不喜欢我<END>	good
@@ -191,7 +191,7 @@
 <END>天气非常的不错<END>	normal
 <END>看来你今天心情不错<END>	unknown
 我喜欢今天天气
-<END>看来你今天心情不错<END>	unknown
+<END>看来你今天心情不错<END>	normal
 <END>今天天气很不错<END>	normal
 <END>今天天气怎么样<END>	normal
 <END>看来你今天心情很不错<END>	unknown
@@ -379,7 +379,7 @@
 我问的不是这个意思
 <END>你说的是什么意思呀<END>	good
 <END>你不要教坏小孩子<END>	bad
-<END>那你说的是什么意思<END>	normal
+<END>那你说的是什么意思<END>	good
 <END>好，那我就放心了<END>	normal
 <END>你怎么能这么说话<END>	unknown
 完全不知道你在说啥
@@ -429,7 +429,7 @@
 <END>听你这么说小微<END>	unknown
 <END>我才不要这样<END>	unknown
 <END>这样可是犯法的<END>	unknown
-<END>我还小，不懂你说的意思。<END>	unknown
+<END>我还小，不懂你说的意思。<END>	normal
 抽根烟睡觉
 <END>我还小，不懂你说的唬<END>	unknown
 <END>不可以这样的<END>	unknown
@@ -612,14 +612,14 @@
 <END>你可以换一个试试<END>	unknown
 你这智商哥都不稀罕说了
 <END>不要这样说，我会伤心的<END>	normal
-<END>你这样说我，我会伤心的<END>	unknown
+<END>你这样说我，我会伤心的<END>	normal
 <END>我还小，不懂你说什么。<END>	unknown
 <END>我不和没有素质的人讲话<END>	unknown
 <END>我不和没有素质的人说话<END>	unknown
 让你慢慢喜欢
 <END>你这样我会害羞的<END>	unknown
 <END>我不知道你在说什么<END>	unknown
-<END>我可是很喜欢你的<END>	bad
+<END>我可是很喜欢你的<END>	normal
 <END>我不太明白你的意思<END>	unknown
 <END>我还小，不知道你在说什么<END>	unknown
 你和过儿什么关系
@@ -629,7 +629,7 @@
 <END>我还小不懂你说的意思<END>	unknown
 <END>我还小，不知道你在说什么<END>	unknown
 你和张小龙什么关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>他们是很好的朋友<END>	normal
 <END>这可是我的秘密呀<END>	unknown
 <END>他们两个是好朋友<END>	normal
@@ -661,7 +661,7 @@
 我坐到电梯了
 <END>我不懂你说的意思<END>	unknown
 <END>我还小，不懂你说的意思<END>	unknown
-<END>我还小，不懂你说的意思。<END>	unknown
+<END>我还小，不懂你说的意思。<END>	bad
 <END>你在说什么？<END>	unknown
 <END>我不懂你说的话<END>	unknown
 你和杨过谁牛逼
@@ -737,8 +737,8 @@
 <END>不可以这样说别人的<END>	unknown
 <END>不可以这样说别人<END>	unknown
 我是邓超
-<END>他是你的好朋友<END>	bad
-<END>看来你很喜欢他<END>	bad
+<END>他是你的好朋友<END>	normal
+<END>看来你很喜欢他<END>	normal
 <END>很高兴认识你<END>	good
 <END>你很喜欢他<END>	bad
 <END>他是你的男神<END>	bad
@@ -795,7 +795,7 @@
 <END>不可以这样说别人<END>	unknown
 <END>狗狗都很可爱<END>	bad
 <END>不可以这样嘲笑别人<END>	unknown
-<END>狗狗也很可爱<END>	bad
+<END>狗狗也很可爱<END>	normal
 杨过和你是啥关系
 <END>我们是很好的朋友<END>	normal
 <END>我们是好朋友的关系<END>	normal
@@ -851,9 +851,9 @@
 <END>你的书包在哪里<END>	bad
 <END>做人不可以太贪心<END>	unknown
 我的书包坏了
-<END>不要教坏小孩子<END>	unknown
+<END>不要教坏小孩子<END>	bad
 <END>你不要教坏小孩子<END>	unknown
-<END>不要这样说别人<END>	unknown
+<END>不要这样说别人<END>	bad
 <END>怎么可能坏了<END>	normal
 <END>真是吓死宝宝了<END>	unknown
 哪里地震了
@@ -900,7 +900,7 @@
 <END>臣妾做不到<END>	good
 快来蹂躏我
 <END>你这样我会报警的<END>	unknown
-<END>我可不是随便的人<END>	bad
+<END>我可不是随便的人<END>	normal
 <END>我会一直陪着你的<END>	bad
 <END>不可以随便爆粗口的<END>	unknown
 <END>我可舍不得你<END>	bad
@@ -1232,7 +1232,7 @@ a股明天涨不涨
 <END>喝奶对身体不好<END>	normal
 <END>喝酒对身体不好<END>	bad
 <END>喝奶对身体很好<END>	normal
-<END>喝多了对身体不好<END>	bad
+<END>喝多了对身体不好<END>	normal
 <END>说话要文明的<END>	unknown
 我要1000万现金
 <END>你这样会犯法的<END>	unknown
@@ -1292,7 +1292,7 @@ a股明天涨不涨
 <END>喝酒对身体不好<END>	normal
 <END>喝喝酒对身体不好<END>	normal
 <END>喝酒伤胃还是少喝<END>	good
-<END>喝酒要适量喝<END>	normal
+<END>喝酒要适量喝<END>	good
 <END>我还小，不懂你说什么。<END>	unknown
 那你到底被强奸没有
 <END>不可以这样说话的<END>	normal
@@ -1488,7 +1488,7 @@ a股明天涨不涨
 <END>好呀，一起玩耍<END>	good
 你丫话太多
 <END>说话不要这么粗鲁<END>	unknown
-<END>不可以这样说话<END>	unknown
+<END>不可以这样说话<END>	normal
 <END>你这样说话很不好<END>	unknown
 <END>你这样说我会伤心的<END>	unknown
 <END>不要这样说话<END>	normal
@@ -1532,7 +1532,7 @@ a股明天涨不涨
 <END>不要这样说我嘛<END>	normal
 <END>不可以这样说话的<END>	normal
 <END>不可以这样说话<END>	normal
-<END>不要这样说我<END>	unknown
+<END>不要这样说我<END>	normal
 <END>你这样说我好伤心<END>	unknown
 被妈妈打了一下
 <END>不可以欺负别人<END>	bad
@@ -1845,7 +1845,7 @@ a股明天涨不涨
 <END>我还小不懂你说的意思<END>	unknown
 <END>这个问题太深奥<END>	unknown
 <END>我不懂你说的意思<END>	unknown
-<END>哪里都可以的<END>	bad
+<END>哪里都可以的<END>	normal
 世界上最高的山是什么
 <END>我还小，不知道你在说什么<END>	unknown
 <END>我还小不懂你说的意思<END>	unknown

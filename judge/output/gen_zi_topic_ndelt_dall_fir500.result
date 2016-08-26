@@ -259,7 +259,7 @@
 你以后别跟着我了
 <END>我会一直陪着你的<END>	good
 <END>不要这样子嘛<END>	good
-<END>好，那我就放心了<END>	bad
+<END>好，那我就放心了<END>	normal
 <END>以后不会这样了<END>	bad
 <END>我会好好跟着你的<END>	normal
 你敢买切糕吗
@@ -738,7 +738,7 @@
 <END>打架是犯法的<END>	normal
 <END>为什么不打架<END>	bad
 我是邓超
-<END>看来你很喜欢他<END>	bad
+<END>看来你很喜欢他<END>	normal
 <END>他是你的什么人。<END>	bad
 <END>我不认识他<END>	bad
 <END>我不认识。<END>	bad

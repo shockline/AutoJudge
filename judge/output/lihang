@@ -120,7 +120,7 @@
 <END>你好，很高兴认识你<END>	bad
 永远一直爱你
 <END>我很好很爱你<END>	bad
-<END>我也很爱你的<END>	normal
+<END>我也很爱你的<END>	good
 <END>我可是很爱你的<END>	normal
 <END>我一直都很爱你<END>	normal
 <END>那是我的荣幸<END>	good
@@ -258,7 +258,7 @@
 <END>怎么会有办法的办法的<END>	bad
 你以后别跟着我了
 <END>我还小，不记得了<END>	bad
-<END>好，那我就放心了<END>	bad
+<END>好，那我就放心了<END>	normal
 <END>你这样我会伤心的<END>	normal
 <END>难道你不想小微了嘛<END>	good
 <END>你这样我就放心了<END>	bad
@@ -744,7 +744,7 @@
 <END>为什么要打架架的呀<END>	normal
 我是邓超
 <END>我也很喜欢他<END>	bad
-<END>看来你很喜欢他<END>	bad
+<END>看来你很喜欢他<END>	normal
 <END>很高兴认识你<END>	good
 <END>他是你的什么人<END>	normal
 <END>我也很喜欢<END>	bad
@@ -1295,7 +1295,7 @@ a股明天涨不涨
 <END>怎么会有这样的想法<END>	bad
 <END>你怎么会有这样的习惯<END>	bad
 聊着天喝着酒
-<END>喝酒要适量喝<END>	normal
+<END>喝酒要适量喝<END>	good
 <END>喝酒可要适量<END>	normal
 <END>喝酒要适量喝。<END>	normal
 <END>喝酒要适量喝喝<END>	normal
@@ -1871,11 +1871,11 @@ a股明天涨不涨
 <END>那你就要好好的友友喽<END>	bad
 <END>那你们就是很好的朋友喽<END>	bad
 云南在哪里？
-<END>哪里都可以的<END>	bad
+<END>哪里都可以的<END>	normal
 <END>在哪里都可以的<END>	bad
 <END>每个地方都很不错<END>	bad
 <END>当然是在南边<END>	normal
-<END>在哪里都可以<END>	bad
+<END>在哪里都可以<END>	normal
 世界上最高的山是什么
 <END>你说的是什么就是什么<END>	normal
 <END>你觉得是什么就是什么喽<END>	normal
