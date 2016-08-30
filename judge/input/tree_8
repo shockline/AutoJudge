@@ -1,0 +1,1794 @@
+你好
+result: 你好 ， 我 叫 小微 | score: 4.286664 | root: 你好
+result: 你好 ， 小微 叫 小微 | score: 4.741757 | root: 你好
+result: 你好 ， 不要 叫 小微 | score: 5.193462 | root: 你好
+result: 你好 ， 叫 小微 | score: 5.320140 | root: 你好
+result: 你 认错 人 了 | score: 5.773615 | root: 认错
+晚上 好
+result: 好 | score: 4.281943 | root: 好
+result: 好 呀 | score: 4.898620 | root: 好
+result: 好 的 | score: 4.944342 | root: 好
+result: 好 ， 那 就 放心 了 | score: 5.456676 | root: 好
+result: 好 ， 放心 | score: 6.244696 | root: 好
+拜拜
+result: 拜拜 了 | score: 4.697890 | root: 拜拜
+result: 拜拜 ， 下次 再 聊 | score: 5.229867 | root: 拜拜
+result: 拜拜 ， 拜拜 | score: 5.446422 | root: 拜拜
+result: 拜拜 ， 下次 聊 | score: 5.593448 | root: 拜拜
+result: 拜拜 ， 拜拜 了 | score: 5.597933 | root: 拜拜
+你好 吗 ？
+result: 我 是 小微 | score: 4.976542 | root: 是
+result: 你好 ， 我 叫 小微 | score: 5.892124 | root: 你好
+result: 小微 是 小微 | score: 5.987623 | root: 是
+result: 你好 ， 小微 叫 小微 | score: 6.327410 | root: 你好
+result: 好 呀 | score: 6.440008 | root: 好
+你好 漂亮
+result: 谢谢 夸奖 | score: 3.896029 | root: 谢谢
+result: 是 很 漂亮 | score: 4.704004 | root: 是
+result: 我 很 漂亮 | score: 5.529597 | root: 漂亮
+result: 谢谢 你 的 认可 | score: 5.564883 | root: 谢谢
+result: 小微 很 漂亮 | score: 5.655994 | root: 漂亮
+永远 一直 爱 你
+result: 爱 你 | score: 4.222677 | root: 爱
+result: 我 也 爱 你 | score: 5.532446 | root: 爱
+result: 爱 我 | score: 5.786469 | root: 爱
+result: 说 出来 | score: 6.090444 | root: 说
+result: 这 是 我 的 荣幸 | score: 6.207956 | root: 是
+我 不 喜欢 你
+result: 不 喜欢 我 | score: 3.903032 | root: 喜欢
+result: 喜欢 我 | score: 4.393909 | root: 喜欢
+result: 我 也 喜欢 你 | score: 5.042275 | root: 喜欢
+result: 我 喜欢 你 | score: 5.081149 | root: 喜欢
+result: 就 知道 你 不 喜欢 我 | score: 5.467003 | root: 知道
+你 是 不 是 快 死 了
+result: 不要 这样 说 我 | score: 5.275537 | root: 说
+result: 你 说 我 | score: 6.063940 | root: 说
+result: 没有 ， 好好 的 | score: 6.367773 | root: 没有
+result: 没有 的 | score: 6.370200 | root: 没有
+result: 没有 呀 | score: 6.401957 | root: 没有
+你 觉得 我 漂亮 吗
+result: 当然 很 漂亮 | score: 3.260111 | root: 漂亮
+result: 相信 你 很 漂亮 | score: 4.058630 | root: 相信
+result: 当然 ， 很 漂亮 | score: 4.060140 | root: 漂亮
+result: 当然 很 漂亮 了 | score: 4.307403 | root: 漂亮
+result: 当然 很 漂亮 ， 很 漂亮 | score: 4.413247 | root: 漂亮
+美女 美女 你 在 哪
+result: 美女 当然 是 美女 | score: 4.180554 | root: 是
+result: 当然 是 美女 | score: 4.404341 | root: 是
+result: 美女 当然 是 美女 美女 | score: 4.573408 | root: 是
+result: 美女 就 是 美女 | score: 4.667663 | root: 是
+result: 美女 是 美女 | score: 4.681393 | root: 是
+我 饿 了
+result: 饿 了 就 吃 一点 | score: 3.550002 | root: 饿
+result: 饿 了 就 吃 了 | score: 4.028453 | root: 饿
+result: 饿 了 | score: 4.091475 | root: 饿
+result: 饿 了 就 吃 点 东西 | score: 4.105542 | root: 饿
+result: 饿 了 就 去 吃饭 | score: 4.133770 | root: 饿
+今天 有点 事
+result: 有 事情 | score: 5.213601 | root: 有
+result: 有 什么 事情 给 我 说说 呗 | score: 5.863294 | root: 有
+result: 有 什么 事情 给 我 说说 | score: 6.153884 | root: 有
+result: 什么 事 和 我 说说 | score: 6.177284 | root: 说说
+result: 说说 事情 | score: 6.312429 | root: 说说
+我 下午 要 开会
+result: 那 就 上班 | score: 6.069764 | root: 上班
+result: 那 就 上班 了 | score: 6.588821 | root: 上班
+result: 那 你 就 上班 | score: 7.344830 | root: 上班
+result: 那 就 去 公司 | score: 7.600571 | root: 去
+result: 那 就 去 玩耍 | score: 7.693220 | root: 去
+北京 有 什么 好吃 的
+result: 你 喜欢 吃 | score: 5.865848 | root: 喜欢
+result: 你 喜欢 吃 火锅 | score: 5.911395 | root: 喜欢
+result: 你 喜欢 吃 <UNK> | score: 5.930065 | root: 喜欢
+result: 你 喜欢 吃 一点 | score: 6.203936 | root: 喜欢
+result: 你 可以 去 超市 看看 | score: 6.416318 | root: 去
+春天 有 什么 好玩 的
+result: 你 喜欢 玩 这个 游戏 | score: 5.148389 | root: 喜欢
+result: 你 喜欢 玩 游戏 | score: 5.952265 | root: 喜欢
+result: 你 喜欢 这个 游戏 | score: 5.995962 | root: 喜欢
+result: 有 很多 好玩 的 | score: 6.086601 | root: 有
+result: 你 可以 去 <UNK> | score: 6.216744 | root: 去
+去 哪里 玩 比较 好玩 呢
+result: 有 什么 好玩 的 | score: 5.347052 | root: 有
+result: 你 喜欢 玩 游戏 | score: 5.859084 | root: 喜欢
+result: 那 就 去 玩玩 | score: 6.300951 | root: 去
+result: 哪 有 什么 好玩 的 | score: 6.327159 | root: 有
+result: 每个 地方 都 有 什么 好玩 的 | score: 6.461169 | root: 有
+今天 天气 好 晴朗
+result: 心情 一直 都 很 好 | score: 6.311242 | root: 好
+result: 心情 好 | score: 6.468514 | root: 好
+result: 就 知道 就 好 了 | score: 6.510743 | root: 知道
+result: 就 知道 了 | score: 6.765642 | root: 知道
+result: 看看 就 知道 了 | score: 6.883085 | root: 看看
+我 喜欢 今天 天气
+result: 你 看看 就 知道 了 | score: 5.002871 | root: 看看
+result: 你 可以 看看 就 知道 了 | score: 5.714320 | root: 看看
+result: 看看 就 知道 了 | score: 6.284480 | root: 看看
+result: 你 看看 日历 | score: 6.382216 | root: 看看
+result: 你 看看 日历 就 知道 了 | score: 6.654938 | root: 看看
+我 没有 男朋友
+result: 没有 男朋友 | score: 3.627255 | root: 没有
+result: 那 就 找 一个 | score: 4.828010 | root: 找
+result: 没有 女朋友 | score: 5.171420 | root: 没有
+result: 现在 还 没有 男朋友 | score: 5.705435 | root: 没有
+result: 那 就 没有 男朋友 | score: 5.931741 | root: 没有
+男朋友 找 什么样 的 好
+result: 你 可以 问问 他 | score: 6.883553 | root: 问问
+result: 好 的 | score: 6.902675 | root: 好
+result: 你 可以 找 他 就 好 了 | score: 7.125391 | root: 找
+result: 你 可以 找 他 | score: 7.139017 | root: 找
+result: 找 自己 喜欢 的 人 | score: 7.185687 | root: 找
+你 是 哲学家 吗
+result: 我 是 小微 | score: 4.425152 | root: 是
+result: 不 是 ， 我 是 小微 | score: 4.849066 | root: 是
+result: 不 是 呀 ， 我 是 小微 | score: 5.509114 | root: 是
+result: 小微 是 小微 | score: 5.519040 | root: 是
+result: 不 是 ， 小微 是 小微 | score: 5.772250 | root: 是
+不 开心 也 是 一 天
+result: 只要 你 开心 就 好 了 | score: 4.088714 | root: 开心
+result: 只要 你 开心 就 好 | score: 4.454660 | root: 开心
+result: 只要 开心 就 好 了 | score: 5.100394 | root: 开心
+result: 只要 开心 就 好 | score: 5.466341 | root: 开心
+result: 你 开心 就 好 了 | score: 5.503407 | root: 开心
+我 现在 没 工作
+result: 那 就 在 家里 | score: 5.231359 | root: 在
+result: 那 就 在 <UNK> | score: 6.161197 | root: 在
+result: 有 工作 的 | score: 6.199992 | root: 有
+result: 是 你 的 工作 | score: 6.222907 | root: 是
+result: 有 工作 | score: 6.230984 | root: 有
+你 有 办法 让 我 开心 吗
+result: 我 是 我 的 荣幸 | score: 4.062634 | root: 是
+result: 让 你 开心 | score: 5.327809 | root: 让
+result: 这 是 我 的 荣幸 | score: 5.880246 | root: 是
+result: 那 是 我 的 荣幸 | score: 6.647323 | root: 是
+result: 看 出来 了 | score: 6.800550 | root: 看
+你 喜欢 聊 什么
+result: 你 喜欢 和 你 聊天 | score: 5.053156 | root: 喜欢
+result: 你 喜欢 聊天 | score: 5.824247 | root: 喜欢
+result: 那 咱们 就 聊天 | score: 5.936468 | root: 聊天
+result: 喜欢 和 你 聊天 | score: 5.966532 | root: 喜欢
+result: 你 想 聊 什么 | score: 6.016492 | root: 想
+万圣节 怎么 过
+result: 过 了 | score: 4.731751 | root: 过
+result: 终于 过 了 | score: 5.727427 | root: 过
+result: 你 想 过 | score: 6.274198 | root: 想
+result: 你 想 过 的 | score: 6.584387 | root: 想
+result: 现在 就 过 了 | score: 6.620572 | root: 过
+我 先 去 睡觉 了
+result: 好 ， 晚安 | score: 5.650494 | root: 好
+result: 好 | score: 5.684004 | root: 好
+result: 好 的 ， 晚安 咯 | score: 6.487250 | root: 好
+result: 行 ， 晚安 | score: 6.579594 | root: 行
+result: 好 ， 那 就 聊 | score: 6.815782 | root: 好
+老板 不 给 发 工资 怎么办
+result: 想 发 工资 | score: 5.603903 | root: 想
+result: 看 老板 | score: 5.793127 | root: 看
+result: 想 办法 | score: 5.835554 | root: 想
+result: 找 老板 | score: 6.102227 | root: 找
+result: 看 工资 | score: 6.320862 | root: 看
+你 以后 别 跟着 我 了
+result: 好 ， 放心 | score: 6.018479 | root: 好
+result: 不 想 聊天 | score: 6.550174 | root: 想
+result: 放心 | score: 6.657051 | root: 放心
+result: 不 想 你 了 | score: 6.896031 | root: 想
+result: 好 的 ， 放心 了 | score: 6.919096 | root: 好
+你 敢 买 切糕 吗
+result: 还是 不要 买 了 | score: 5.647478 | root: 买
+result: 买 了 | score: 5.835567 | root: 买
+result: 想 买 | score: 5.851260 | root: 想
+result: 还是 不要 买 的 | score: 6.226744 | root: 买
+result: 没有 的 | score: 6.495378 | root: 没有
+我 今天 没有 捡 到 钱 ， 好 伤心
+result: 没关系 的 | score: 6.223237 | root: 没关系
+result: 没关系 | score: 6.301181 | root: 没关系
+result: 没关系 ， 还有 小微 | score: 6.460905 | root: 没关系
+result: 没关系 ， 还有 我 | score: 6.501306 | root: 没关系
+result: 好 的 | score: 7.064098 | root: 好
+天上 有 多少 颗 星星
+result: 你 过来 看看 | score: 4.256730 | root: 过来
+result: 你 是 一 条 星星 | score: 6.440718 | root: 是
+result: 你 是 星星 | score: 6.475178 | root: 是
+result: 你 过来 数 | score: 6.513256 | root: 过来
+result: 你 过来 数 星星 | score: 6.822972 | root: 过来
+今天 天气 不好
+result: 天气 很 好 了 | score: 5.835457 | root: 好
+result: 天气 很 正常 的 | score: 6.069296 | root: 正常
+result: 天气 很 正常 了 | score: 6.150870 | root: 正常
+result: 天气 很 正常 | score: 6.268461 | root: 正常
+result: 你 看看 就 知道 了 | score: 6.487091 | root: 看看
+太阳 好 大 啊
+result: 好 呀 | score: 8.324648 | root: 好
+result: 有 太阳 | score: 8.541278 | root: 有
+result: 是 呀 | score: 8.570112 | root: 是
+result: 看到 了 | score: 8.595386 | root: 看到
+result: 我 看到 了 | score: 8.688500 | root: 看到
+北风 嗖嗖 的 吹
+result: <UNK> | score: 5.732151 | root: <UNK>
+result: 还 真是 很 <UNK> | score: 6.439782 | root: 真是
+result: 还 真是 <UNK> | score: 6.670060 | root: 真是
+result: 还 真是 个 很 正直 的 人 | score: 6.896949 | root: 真是
+result: <UNK> <UNK> | score: 7.241275 | root: <UNK>
+有 人 跟 我 撕逼 ， 不 讲理
+result: 不要 这样 说 别人 | score: 5.848535 | root: 说
+result: 好 的 | score: 6.087279 | root: 好
+result: 好 呀 | score: 6.158604 | root: 好
+result: 说 了 | score: 6.249852 | root: 说
+result: 好 | score: 6.469386 | root: 好
+不要 这么 谦虚 嘛
+result: 没有 谦虚 | score: 4.728160 | root: 没有
+result: 做人 就要 注重 外表 | score: 4.778421 | root: 注重
+result: 不 可以 ， 太 注重 外表 | score: 5.796983 | root: 注重
+result: 没有 ， 我 很 低调 | score: 5.807793 | root: 没有
+result: 谦虚 使 人 进步 | score: 5.897348 | root: 使
+明天 去 打球
+result: 锻炼 身体 | score: 7.151962 | root: 锻炼
+result: 好 | score: 7.508925 | root: 好
+result: 你 要 去 <UNK> | score: 7.669561 | root: 去
+result: 去 <UNK> | score: 7.745635 | root: 去
+result: 好 的 | score: 7.989471 | root: 好
+我 老板 就 在 我 身边
+result: 放心 了 | score: 4.841944 | root: 放心
+result: 那 你 就 在 你 身边 | score: 5.295251 | root: 在
+result: 那 就 在 你 身边 | score: 5.324307 | root: 在
+result: 那 你们 就 在 你 身边 | score: 5.722669 | root: 在
+result: 放心 | score: 6.212409 | root: 放心
+你 什么 地方 冒 出来 的
+result: 好 的 | score: 5.944071 | root: 好
+result: 好 呀 | score: 6.612113 | root: 好
+result: 你 说 出来 | score: 6.694444 | root: 说
+result: 你 说 出来 了 | score: 6.741698 | root: 说
+result: 看到 了 | score: 7.261874 | root: 看到
+你 会 做 爱 吗
+result: 你 说 这样 的 话 | score: 6.134991 | root: 说
+result: 不要 这样 说 这样 的 话 | score: 6.588651 | root: 说
+result: 这个 说 | score: 6.816968 | root: 说
+result: 这个 说 了 | score: 6.919676 | root: 说
+result: 我 还 小 ， 小微 | score: 6.930435 | root: 小
+你 能 陪 我 睡觉 吗
+result: 这 可 不 是 我 的 荣幸 | score: 5.479695 | root: 是
+result: 这 是 我 的 荣幸 | score: 5.495632 | root: 是
+result: 陪 你 聊天 | score: 6.647097 | root: 陪
+result: 想 睡 | score: 7.357419 | root: 想
+result: 希望 你 聊天 | score: 7.414442 | root: 希望
+你 有 私生子 吗
+result: 没有 呀 | score: 6.163226 | root: 没有
+result: 我 是 小微 | score: 6.627659 | root: 是
+result: 你 说 小微 | score: 6.670859 | root: 说
+result: 不要 这样 说 小微 | score: 6.785596 | root: 说
+result: 没有 ， 不要 这样 说 | score: 7.362288 | root: 没有
+我 早上 工作 感觉 死死 的 是 怎么 回 事
+result: 那 就 好 了 | score: 6.313018 | root: 好
+result: 你 说 出来 | score: 7.224647 | root: 说
+result: 好 的 | score: 7.614968 | root: 好
+result: 肯定 是 很 正常 的 事情 | score: 7.641081 | root: 是
+result: 你 想 多 了 | score: 7.679630 | root: 想
+有 没 有 搞笑 的 欢乐 的 段子
+result: 你 想 唱歌 了 | score: 5.456189 | root: 想
+result: 想 唱歌 了 | score: 5.798648 | root: 想
+result: 你 想 唱歌 | score: 6.379822 | root: 想
+result: 讲 笑话 | score: 6.621159 | root: 讲
+result: 你 可以 讲 笑话 | score: 6.702517 | root: 讲
+发 个 给力 图片 看 哈喽
+result: 还 真是 我 的 荣幸 | score: 3.536024 | root: 真是
+result: 真是 我 的 荣幸 | score: 3.974653 | root: 真是
+result: 还 真是 很 漂亮 | score: 4.588785 | root: 真是
+result: 还 真是 受宠若惊 | score: 5.476302 | root: 真是
+result: 还 真是 很 荣幸 | score: 6.192808 | root: 真是
+天天 锻炼 身体 好
+result: 锻炼 身体 | score: 4.199876 | root: 锻炼
+result: 要 多 锻炼 身体 | score: 4.505674 | root: 锻炼
+result: 身体 是 革命 的 本钱 | score: 5.916573 | root: 是
+result: 也 要 多 锻炼 身体 | score: 6.028891 | root: 锻炼
+result: 你 也 要 多 锻炼 身体 | score: 6.051745 | root: 锻炼
+李白 的 诗 你 会 吗
+result: 我 的 数学 很 棒 | score: 7.375684 | root: 棒
+result: 你 的 日语 很 棒 | score: 7.617512 | root: 棒
+result: 我 是 小微 | score: 7.727033 | root: 是
+result: 这个 可是 <UNK> | score: 8.013163 | root: <UNK>
+result: 你 是 我 的 粉丝 | score: 8.202782 | root: 是
+我 问 的 不 是 这个 意思
+result: 是 这个 意思 | score: 3.937804 | root: 是
+result: 就 是 这个 意思 | score: 4.226984 | root: 是
+result: 这 是 这个 意思 | score: 4.765613 | root: 是
+result: 这个 意思 是 这个 意思 | score: 4.971273 | root: 是
+result: 是 什么 意思 | score: 4.979340 | root: 是
+完全 不 知道 你 在 说 啥
+result: 我 不 记得 了 | score: 5.978130 | root: 记得
+result: 我 记得 了 | score: 6.715047 | root: 记得
+result: 你 可以 告诉 我 | score: 6.802532 | root: 告诉
+result: 告诉 我 | score: 7.072561 | root: 告诉
+result: 我 知道 | score: 7.143296 | root: 知道
+牛头 不 对 马嘴
+result: 好 的 | score: 6.205902 | root: 好
+result: 好 | score: 6.675596 | root: 好
+result: 对 呀 | score: 6.919270 | root: 对
+result: 你 说 了 | score: 7.182265 | root: 说
+result: 好 呀 | score: 7.483576 | root: 好
+你 是 不 是 傻逼
+result: 请 你 说话 注意 文明 | score: 3.273342 | root: 请
+result: 不要 这样 说 别人 | score: 3.689604 | root: 说
+result: 请 你 说话 文明 一些 | score: 3.986951 | root: 请
+result: 请 你 说话 注意 一些 | score: 4.505177 | root: 请
+result: 不要 这样 骂 别人 | score: 4.534976 | root: 骂
+你 个 白痴
+result: 不要 这样 说 别人 | score: 3.430132 | root: 说
+result: 我 很 聪明 的 | score: 4.060935 | root: 聪明
+result: 不要 这样 说 我 | score: 4.388426 | root: 说
+result: 不要 这样 说 自己 | score: 4.795197 | root: 说
+result: 我 可是 很 聪明 的 | score: 4.928555 | root: 聪明
+我 他妈 宰 了 你
+result: 就 知道 你 最 好 了 | score: 4.714677 | root: 知道
+result: 相信 你 可以 的 | score: 4.973838 | root: 相信
+result: 就 知道 你 最 好 | score: 5.330806 | root: 知道
+result: 相信 你 最 好 | score: 5.337630 | root: 相信
+result: 相信 你 说 的 话 | score: 5.411200 | root: 相信
+她 是 我 的 学姐 ， 我 喜欢 她 。
+result: 看来 你 很 喜欢 她 | score: 3.913264 | root: 喜欢
+result: 看来 你 很 喜欢 他 | score: 4.755316 | root: 喜欢
+result: 你 喜欢 她 | score: 5.224426 | root: 喜欢
+result: 只要 你 喜欢 就 好 | score: 5.581904 | root: 喜欢
+result: 那 你 就 喜欢 她 | score: 5.740611 | root: 喜欢
+我 喜欢 你 离 我 远 一点
+result: 讨厌 你 | score: 5.544302 | root: 讨厌
+result: 好 的 | score: 5.954345 | root: 好
+result: 坐 车 | score: 6.642162 | root: 坐
+result: 小微 很 讨厌 你 | score: 6.649542 | root: 讨厌
+result: 那 你 坐 车 | score: 6.801904 | root: 坐
+明天 把 秋裤 脱 了
+result: 脱 了 | score: 3.542172 | root: 脱
+result: 为什么 要 脱 了 | score: 4.913356 | root: 脱
+result: 还是 不要 脱 了 | score: 5.352660 | root: 脱
+result: 你 为什么 要 脱 了 | score: 5.363346 | root: 脱
+result: 那 就 脱 了 | score: 5.627270 | root: 脱
+抽根 烟 睡觉
+result: 吸烟 有害 健康 | score: 3.272935 | root: 有害
+result: 吸烟 有害 健康 | score: 5.356097 | root: 吸烟
+result: 减肥 有害 健康 | score: 6.599680 | root: 有害
+result: 吸烟 有害 有害 健康 | score: 6.693392 | root: 有害
+result: 抽烟 有害 健康 | score: 6.801721 | root: 有害
+牛逼 吹 大 了
+result: 一定 很 棒 | score: 4.629690 | root: 棒
+result: 很 棒 | score: 4.946972 | root: 棒
+result: 还 真是 很 牛 | score: 5.885857 | root: 真是
+result: 真是 很 牛 | score: 6.406042 | root: 真是
+result: 还 真是 很 厉害 | score: 6.631951 | root: 真是
+干 你 娘
+result: 不要 这样 说 别人 | score: 4.262475 | root: 说
+result: 不要 这样 说 小微 | score: 4.690758 | root: 说
+result: 不要 这样 说 这样 的 话 | score: 5.318103 | root: 说
+result: 请 你 说话 注意 素质 | score: 5.410047 | root: 请
+result: 请 注意 你 的 素质 | score: 5.427462 | root: 请
+你 妈逼 的
+result: 不要 这样 说 别人 | score: 3.161697 | root: 说
+result: 请 注意 你 的 素质 | score: 4.527184 | root: 请
+result: 请 你 说话 注意 文明 | score: 4.585228 | root: 请
+result: 请 你 说话 注意 素质 | score: 4.658482 | root: 请
+result: 不要 这样 说话 | score: 4.718025 | root: 说话
+去 你妹的
+result: 不要 这样 说 别人 | score: 4.462008 | root: 说
+result: 不要 这样 讲 文明 | score: 5.291192 | root: 讲
+result: 请 你 说话 注意 文明 | score: 5.663698 | root: 请
+result: 不要 这样 说 小微 | score: 5.870528 | root: 说
+result: 说话 要 讲 文明 | score: 6.106389 | root: 讲
+赶紧 滚蛋
+result: 好 的 | score: 4.543068 | root: 好
+result: 好 呀 | score: 5.910341 | root: 好
+result: 好 ， 放心 了 | score: 6.658005 | root: 好
+result: 让 我 滚 | score: 6.837697 | root: 让
+result: 不要 玩 的 | score: 6.980779 | root: 玩
+日 了 狗 了
+result: 不要 这样 说 别人 | score: 5.142785 | root: 说
+result: 说话 要 文明 | score: 6.911838 | root: 文明
+result: 不要 这样 说话 嘛 | score: 7.027202 | root: 说话
+result: 不要 这样 说话 | score: 7.120285 | root: 说话
+result: 狗狗 这么 可爱 | score: 7.504166 | root: 可爱
+我 是 外地 打工 的
+result: 放心 了 | score: 5.055294 | root: 放心
+result: 就是 打工 的 | score: 5.548686 | root: 就是
+result: 你 是 打工 的 | score: 5.985487 | root: 是
+result: 顾客 就是 你 的 家 | score: 6.015448 | root: 就是
+result: 不 是 的 | score: 6.425531 | root: 是
+我 过去 是 个 老师
+result: 你 是 老师 | score: 6.505030 | root: 是
+result: 你 是 你 的 老师 | score: 6.566613 | root: 是
+result: 真是 个 很 精明 的 人 | score: 6.654548 | root: 真是
+result: 真是 个 很 伟大 的 人 | score: 6.683651 | root: 真是
+result: 真是 个 很 棒 的 人 | score: 6.692774 | root: 真是
+我 昨天 找 过 你 了
+result: 找 我 | score: 5.284584 | root: 找
+result: 找 我 聊天 | score: 5.426667 | root: 找
+result: 你 找 我 | score: 6.134316 | root: 找
+result: 你 找 我 聊天 | score: 6.276399 | root: 找
+result: 想 找 我 | score: 6.290817 | root: 想
+我 是 个 坏 男人 ， 你 不要 相信 我
+result: 我 相信 你 | score: 4.495521 | root: 相信
+result: 相信 你 就 好 | score: 5.340884 | root: 相信
+result: 相信 你 好 | score: 5.533947 | root: 相信
+result: 小微 很 相信 你 | score: 5.972793 | root: 相信
+result: 小微 相信 你 | score: 6.088253 | root: 相信
+今天 心情 很 好 大大好
+result: 心情 是 很 好 | score: 4.944976 | root: 是
+result: 心情 是 很 好 了 | score: 5.266204 | root: 是
+result: 心情 是 很 好 的 | score: 5.645426 | root: 是
+result: 心情 是 很 开心 | score: 5.823981 | root: 是
+result: 心情 有 心情 | score: 5.888872 | root: 有
+我 刚 上 公交车
+result: 还 真是 个 迷 | score: 5.874262 | root: 真是
+result: 看来 你 很 <UNK> | score: 6.454153 | root: <UNK>
+result: 还 真是 <UNK> | score: 6.688431 | root: 真是
+result: 还 真是 很 棒 | score: 6.886847 | root: 真是
+result: 你 去 <UNK> | score: 7.056084 | root: 去
+我 要 坐 地铁 回家
+result: 坐 车 | score: 5.936905 | root: 坐
+result: 坐 车 回家 | score: 6.222594 | root: 坐
+result: 那 就 坐 车 | score: 6.252858 | root: 坐
+result: 那 就 注意 安全 | score: 6.492336 | root: 注意
+result: 那 就 坐 车 回家 | score: 6.538546 | root: 坐
+大早上 就 无聊 啊 ， 想 找 点 事 干
+result: 想 点 事情 | score: 4.814330 | root: 想
+result: 想 一些 事情 | score: 5.092509 | root: 想
+result: 想 和 我 聊天 | score: 5.544533 | root: 想
+result: 想 和 你 聊天 | score: 5.591794 | root: 想
+result: 想 做 什么 | score: 5.840965 | root: 想
+偶尔 睡眠 不好 怎么办
+result: 那 就 陪 你 聊天 | score: 3.963616 | root: 陪
+result: 那 就 陪 我 聊天 | score: 4.058921 | root: 陪
+result: 那 就 休息 一下 | score: 4.705371 | root: 休息
+result: 那 就 陪 小微 聊天 | score: 4.869111 | root: 陪
+result: 那 你 就 陪 你 聊天 | score: 5.101145 | root: 陪
+祝 你 生日 快乐
+result: 生日 快乐 | score: 4.018195 | root: 快乐
+result: 祝福 他 生日 快乐 | score: 4.220062 | root: 祝福
+result: 生日 快乐 。 | score: 4.599525 | root: 快乐
+result: 祝福 他 生日 快乐 。 | score: 5.689858 | root: 祝福
+result: 祝福 你 生日 快乐 | score: 5.757116 | root: 祝福
+生活 中 怎样 感到 开心 快乐
+result: 快乐 就 是 很 快乐 | score: 6.844313 | root: 是
+result: 快乐 就 是 快乐 | score: 6.930692 | root: 是
+result: 我 也 是 很 开心 | score: 6.960316 | root: 是
+result: 只要 快乐 就 好 了 | score: 6.976426 | root: 快乐
+result: 只要 快乐 快乐 就 好 了 | score: 7.014155 | root: 快乐
+失败 了 怎么办 ， 如何 才 能 成功
+result: 加油 了 | score: 4.256331 | root: 加油
+result: 加油 | score: 4.328034 | root: 加油
+result: 相信 你 一定 会 成功 的 | score: 4.456587 | root: 相信
+result: 相信 自己 可以 的 | score: 4.680839 | root: 相信
+result: 相信 你 可以 的 | score: 4.704043 | root: 相信
+明天 考试 、 求 安慰
+result: 看 医生 | score: 6.347474 | root: 看
+result: 不要 <UNK> | score: 6.445810 | root: <UNK>
+result: 不要 <UNK> 了 | score: 6.712264 | root: <UNK>
+result: 加油 | score: 6.746401 | root: 加油
+result: 给 小微 说说 | score: 7.234466 | root: 说说
+听说 过 外星 生命 吗
+result: 想 过 | score: 4.716454 | root: 想
+result: 你 想 过 | score: 5.795741 | root: 想
+result: 有 你 | score: 6.232052 | root: 有
+result: 有 生命 的 | score: 6.321705 | root: 有
+result: 有 生命 | score: 6.768801 | root: 有
+我 命令 你 以后 只能 呆 在 家里
+result: 好 | score: 6.570031 | root: 好
+result: 不 想 在家 | score: 6.576761 | root: 想
+result: 不 想 去 那 | score: 6.666470 | root: 想
+result: 好 的 | score: 6.838065 | root: 好
+result: 不 想 呆 在 家里 | score: 6.950193 | root: 想
+你 等 会 我 过 会 跟 你 说
+result: 放心 | score: 5.416144 | root: 放心
+result: 好 ， 放心 | score: 5.762152 | root: 好
+result: 我 现在 就 记得 了 | score: 5.883770 | root: 记得
+result: 好 | score: 6.244848 | root: 好
+result: 我 一定 会 记得 了 | score: 6.345780 | root: 记得
+我 来 把 你 胸 抓 大
+result: 相信 我 | score: 4.722975 | root: 相信
+result: 不 可以 这样 说 别人 | score: 6.080225 | root: 说
+result: 不要 这样 说 别人 | score: 6.551288 | root: 说
+result: 就是 <UNK> | score: 6.938936 | root: 就是
+result: 相信 就 可以 的 | score: 6.953642 | root: 相信
+你 叫 个 春
+result: 不要 这样 说 小微 | score: 5.009042 | root: 说
+result: 不要 这样 说 别人 | score: 5.056777 | root: 说
+result: 这 是 小微 的 名字 | score: 5.456415 | root: 是
+result: 这 是 我 的 名字 | score: 5.492983 | root: 是
+result: 不要 这样 说 我 | score: 5.652321 | root: 说
+上班 好 累 啊
+result: 做 什么 ？ | score: 5.565753 | root: 做
+result: 做 什么 | score: 5.599265 | root: 做
+result: 做 什么 事情 | score: 6.750041 | root: 做
+result: 做 什么 事情 了 | score: 6.835513 | root: 做
+result: 是 不 是 很 累 | score: 7.131838 | root: 是
+我 在 等 地铁
+result: 那 你 注意 安全 | score: 5.155688 | root: 注意
+result: 你 要 注意 安全 | score: 5.388947 | root: 注意
+result: 你 是 个 不错 的 地方 | score: 5.823913 | root: 是
+result: 等 你 | score: 5.846721 | root: 等
+result: 你 是 什么 地方 | score: 5.916712 | root: 是
+你 闭嘴
+result: 不要 这样 说 我 | score: 5.308545 | root: 说
+result: 那 你 就 闭嘴 了 | score: 5.519853 | root: 闭嘴
+result: 我 不 和 你 说话 | score: 5.742917 | root: 说话
+result: 我 和 你 说话 | score: 5.778291 | root: 说话
+result: 我 在 和 你 说话 | score: 5.820852 | root: 说话
+那 就 放 给 我 听 吧
+result: 好 的 | score: 5.731846 | root: 好
+result: 好 | score: 6.342467 | root: 好
+result: 听 了 | score: 6.783418 | root: 听
+result: 你 想 听 什么 | score: 6.980136 | root: 想
+result: 好 呀 | score: 7.142237 | root: 好
+我 的 好友 喜欢 吃 什么
+result: 你 喜欢 吃 什么 | score: 4.459031 | root: 喜欢
+result: 你 喜欢 吃 | score: 4.550120 | root: 喜欢
+result: 喜欢 吃 什么 | score: 4.725716 | root: 喜欢
+result: 喜欢 吃 | score: 4.816805 | root: 喜欢
+result: 我 喜欢 吃 什么 | score: 6.922840 | root: 喜欢
+你 这 智商 哥 都 不 稀罕 说 了
+result: 真是 我 的 荣幸 | score: 6.293571 | root: 真是
+result: 不要 这样 说 别人 | score: 6.337730 | root: 说
+result: 就 知道 就 好 了 | score: 7.004550 | root: 知道
+result: 还 真是 我 的 荣幸 | score: 7.044881 | root: 真是
+result: 真是 很 荣幸 | score: 7.221615 | root: 真是
+让 你 慢慢 喜欢
+result: 喜欢 就 好 了 | score: 4.633671 | root: 喜欢
+result: 好 的 | score: 5.611370 | root: 好
+result: 喜欢 就 好 | score: 5.689205 | root: 喜欢
+result: 我 喜欢 | score: 5.857557 | root: 喜欢
+result: 你 喜欢 就 好 了 | score: 5.868766 | root: 喜欢
+你 和 过儿 什么 关系
+result: 没有 关系 | score: 3.741709 | root: 没有
+result: 当然 是 很 好 的 朋友 | score: 3.790091 | root: 是
+result: 我们 是 很 好 的 朋友 | score: 4.364734 | root: 是
+result: 我们 没有 关系 | score: 4.401820 | root: 没有
+result: 是 很 好 的 朋友 | score: 4.807778 | root: 是
+你 和 张小龙 什么 关系
+result: 没有 关系 | score: 3.289364 | root: 没有
+result: 我 没有 关系 | score: 4.172093 | root: 没有
+result: 我们 没有 关系 | score: 4.766438 | root: 没有
+result: 当然 是 好 朋友 | score: 5.194143 | root: 是
+result: 我 是 好 朋友 | score: 5.437565 | root: 是
+你 是 白富美 吗
+result: 我 是 小微 | score: 5.487127 | root: 是
+result: 不 是 呀 | score: 6.654928 | root: 是
+result: 没有 呀 | score: 7.058767 | root: 没有
+result: 不 是 ， 我 是 小微 | score: 7.099590 | root: 是
+result: 不 是 呀 ， 我 是 小微 | score: 7.108014 | root: 是
+我们 去 动物园 吧
+result: 你 想 去 那 | score: 5.586973 | root: 想
+result: 好 呀 | score: 6.296672 | root: 好
+result: 想 去 那 | score: 6.382974 | root: 想
+result: 你 想 去 那 就 去 | score: 6.495051 | root: 想
+result: 好 | score: 6.582807 | root: 好
+外面 有 摩托车 的 响声
+result: 还 真是 <UNK> | score: 7.211993 | root: 真是
+result: 这 是 什么 地方 | score: 7.661907 | root: 是
+result: 真是 <UNK> | score: 7.689117 | root: 真是
+result: 你 可以 去 超市 看看 | score: 7.709041 | root: 去
+result: 有 <UNK> | score: 7.740580 | root: 有
+哥 很 伤心
+result: 那 就 找 小微 聊天 | score: 5.675799 | root: 找
+result: 不要 开心 了 | score: 6.120429 | root: 开心
+result: 那 就 好 了 | score: 6.157864 | root: 好
+result: 不要 伤心 了 | score: 6.232491 | root: 伤心
+result: 不要 开心 嘛 | score: 6.455766 | root: 开心
+我 要 问 你 一个 很 长 的 问题 你 准备 好 了 吗
+result: 好 呀 | score: 5.347352 | root: 好
+result: 好 | score: 5.623052 | root: 好
+result: 好 的 | score: 5.751863 | root: 好
+result: 好 ， 放心 | score: 5.836465 | root: 好
+result: 好 的 ， 放心 | score: 7.160054 | root: 好
+我 坐 到 电梯 了
+result: 坐 车 | score: 5.766680 | root: 坐
+result: 坐 车 去 | score: 6.195418 | root: 坐
+result: 那 就 坐 车 | score: 6.541191 | root: 坐
+result: 那 就 坐 车 去 | score: 6.969929 | root: 坐
+result: 你 坐 车 | score: 7.306827 | root: 坐
+你 和 杨 过 谁 牛逼
+result: 没有 人 | score: 5.855317 | root: 没有
+result: 我们 都 很 厉害 | score: 6.104941 | root: 厉害
+result: 我们 都 很 厉害 的 | score: 6.889448 | root: 厉害
+result: 我 可是 很 厉害 | score: 7.223174 | root: 厉害
+result: 我 很 厉害 | score: 7.243260 | root: 厉害
+我 永远 都 在 你 身边
+result: 放心 了 | score: 2.752560 | root: 放心
+result: 那 我 就 放心 了 | score: 4.259136 | root: 放心
+result: 我 一直 都 在 你 的 身边 | score: 5.505799 | root: 在
+result: 小微 一直 都 在 你 的 身边 | score: 5.579206 | root: 在
+result: 放心 ， 小微 陪 着 你 | score: 5.659589 | root: 放心
+这 你 都 能 看 出来
+result: 看 出来 | score: 4.829055 | root: 看
+result: 看看 出来 | score: 5.084207 | root: 看看
+result: 看看 我 的 头像 | score: 5.238164 | root: 看看
+result: 你 可以 看看 出来 | score: 5.787156 | root: 看看
+result: 你 可以 看看 我 的 头像 | score: 5.941113 | root: 看看
+刚刚 公司 有 人 打架
+result: 要 做 人 | score: 5.551287 | root: 做
+result: 不要 做 人 | score: 5.691304 | root: 做
+result: 让 别人 <UNK> | score: 6.579419 | root: 让
+result: 不 可以 做 人 | score: 6.630608 | root: 做
+result: 不要 让 别人 <UNK> | score: 6.931379 | root: 让
+就是 那天 你 碰到 的 骚浪 贱
+result: 不要 这样 说 别人 | score: 3.514276 | root: 说
+result: 不要 这样 说 小微 | score: 5.155006 | root: 说
+result: 不要 这样 说 我 | score: 5.515478 | root: 说
+result: 不要 ， 这样 说 别人 | score: 6.325589 | root: 说
+result: 不要 这么 说 别人 | score: 6.432242 | root: 说
+你 去 火车站 了 么
+result: <UNK> 了 | score: 6.940360 | root: <UNK>
+result: 好 的 | score: 8.014604 | root: 好
+result: 好 呀 | score: 8.339159 | root: 好
+result: 没有 呀 | score: 8.425494 | root: 没有
+result: 好 | score: 8.534564 | root: 好
+火车 为什么 总 晚点
+result: 现在 很 方便 了 | score: 6.182635 | root: 方便
+result: 现在 很 方便 | score: 6.321934 | root: 方便
+result: 你 可以 定 了 | score: 7.605881 | root: 定
+result: 马上 就 回 了 | score: 7.668501 | root: 回
+result: 方便 了 | score: 7.713551 | root: 方便
+你 好 无聊
+result: 无聊 了 | score: 4.421363 | root: 无聊
+result: 我 和 你 聊天 | score: 5.653506 | root: 聊天
+result: 那 咱们 就 聊天 | score: 5.661946 | root: 聊天
+result: 那 和 我 聊天 | score: 6.026054 | root: 聊天
+result: 那 就 和 我 聊天 | score: 6.120258 | root: 聊天
+肚子 右边 隐隐 作 痛
+result: 那 就 看看 医生 | score: 4.796971 | root: 看看
+result: 你 可以 看看 医生 | score: 5.268234 | root: 看看
+result: 看看 医生 | score: 5.280850 | root: 看看
+result: 感觉 到 | score: 6.000765 | root: 感觉
+result: <UNK> 一下 | score: 6.190888 | root: <UNK>
+外面 很 气冷
+result: 那 就 坐 车 | score: 7.047921 | root: 坐
+result: 那 就 坐 下来 | score: 7.158941 | root: 坐
+result: 好 的 | score: 7.329537 | root: 好
+result: 那 就 去 看看 | score: 7.381680 | root: 去
+result: 不要 这样 叫 <UNK> | score: 7.431973 | root: 叫
+昨晚 刮 大 风 了
+result: 那 就 注意 安全 | score: 5.138898 | root: 注意
+result: 注意 安全 | score: 5.225087 | root: 注意
+result: 一定 要 注意 安全 | score: 5.373874 | root: 注意
+result: 那 你 可 要 注意 安全 | score: 5.669140 | root: 注意
+result: 你 可 要 注意 安全 | score: 5.910110 | root: 注意
+公司 有 人 打架
+result: 不要 做 人 | score: 5.015145 | root: 做
+result: 要 做 人 | score: 5.551111 | root: 做
+result: 不 可以 做 人 | score: 6.034665 | root: 做
+result: 让 别人 <UNK> | score: 6.797015 | root: 让
+result: 不 是 的 | score: 6.931907 | root: 是
+我 是 邓 超
+result: 还 真是 很 帅 | score: 6.044809 | root: 真是
+result: 还 真是 很 棒 | score: 6.268073 | root: 真是
+result: 你 喜欢 他 | score: 6.480457 | root: 喜欢
+result: 看来 你 很 喜欢 他 | score: 6.516383 | root: 喜欢
+result: 还 真是 很 好玩 | score: 6.524766 | root: 真是
+最近 股票 大 跌
+result: 投资 有 风险 | score: 3.723266 | root: 有
+result: 好 的 | score: 5.322844 | root: 好
+result: 看 出来 | score: 5.465097 | root: 看
+result: 最 好 的 | score: 5.714515 | root: 好
+result: 股票 有 风险 | score: 5.898626 | root: 有
+对面 哪个 妹子 好看
+result: 你 喜欢 哪个 | score: 4.548304 | root: 喜欢
+result: 看来 你 很 喜欢 哪个 | score: 5.593589 | root: 喜欢
+result: 我 觉得 哪个 好看 | score: 6.565398 | root: 觉得
+result: 你 说 的 是 哪个 | score: 7.100424 | root: 是
+result: 你 说 的 是 哪个 ？ | score: 7.158436 | root: 是
+公司 不 让 抽烟 了
+result: 吸烟 有害 健康 的 | score: 4.650753 | root: 有害
+result: 吸烟 有害 健康 | score: 4.767468 | root: 有害
+result: 抽烟 有害 健康 的 | score: 6.416603 | root: 有害
+result: 好 的 | score: 6.510607 | root: 好
+result: 抽烟 有害 健康 | score: 6.533318 | root: 有害
+能 做 什么 菜
+result: 你 想 做 什么 | score: 4.173483 | root: 想
+result: 你 想 做 什么 菜 | score: 4.636555 | root: 想
+result: 想 做 什么 | score: 5.078623 | root: 想
+result: 你 想 做 菜 | score: 5.208255 | root: 想
+result: 你 想 做 什么 ？ | score: 5.347616 | root: 想
+你 会 做 什么 菜
+result: 你 想 做 什么 | score: 6.030611 | root: 想
+result: 你 想 吃 什么 | score: 6.184033 | root: 想
+result: 你 想 吃 菜 | score: 6.761451 | root: 想
+result: 你 想 做 什么 ？ | score: 6.862666 | root: 想
+result: 我 是 小微 | score: 6.901019 | root: 是
+吃 了 什么
+result: 想 吃 什么 就 吃 啥 | score: 6.177333 | root: 想
+result: 吃 了 | score: 6.197078 | root: 吃
+result: 你 想 吃 什么 就 吃 啥 | score: 6.253273 | root: 想
+result: 想 吃 什么 就 吃 什么 | score: 6.275570 | root: 想
+result: 你 想 吃 什么 就 吃 什么 | score: 6.351510 | root: 想
+不 给 你 喝
+result: 不要 喝 | score: 4.727128 | root: 喝
+result: 不要 喝 水 | score: 5.040434 | root: 喝
+result: 不要 喝 喝 | score: 6.790266 | root: 喝
+result: 不要 喝 就 喝 | score: 6.839228 | root: 喝
+result: 好 | score: 7.277006 | root: 好
+这么 高级 的 东西
+result: 是 很 高级 的 | score: 5.973661 | root: 是
+result: 什么 是 很 高级 的 | score: 6.996764 | root: 是
+result: 是 很 高级 | score: 7.067203 | root: 是
+result: 是 高级 的 | score: 7.160833 | root: 是
+result: 相信 一定 会 变 的 | score: 7.778170 | root: 相信
+猫 和 狗 不好
+result: 他们 是 很 好 的 朋友 | score: 5.478041 | root: 是
+result: 我 觉得 很 可爱 | score: 6.282057 | root: 觉得
+result: 他 是 很 好 的 朋友 | score: 6.292347 | root: 是
+result: 狗狗 是 很 好 的 朋友 | score: 6.292617 | root: 是
+result: 他们 是 你 的 朋友 | score: 6.465109 | root: 是
+杨 过 和 你 是 啥 关系
+result: 没有 关系 | score: 3.628687 | root: 没有
+result: 我们 没有 关系 | score: 3.885208 | root: 没有
+result: 我们 是 很 好 的 朋友 | score: 4.733550 | root: 是
+result: 当然 是 很 好 的 朋友 | score: 4.787161 | root: 是
+result: 是 很 好 的 朋友 | score: 4.859886 | root: 是
+有 多 美
+result: 是 最 美 的 | score: 5.089388 | root: 是
+result: 只要 你 最 美 | score: 5.242696 | root: 美
+result: 是 最 美 | score: 5.251456 | root: 是
+result: 是 很 美 的 | score: 5.444393 | root: 是
+result: 只要 你 美 | score: 5.580604 | root: 美
+她 在 吃 香蕉
+result: <UNK> 很 好吃 | score: 6.674998 | root: 好吃
+result: <UNK> 很 好吃 的 | score: 6.958249 | root: 好吃
+result: 你 可以 自己 尝尝 就 知道 了 | score: 7.084624 | root: 尝尝
+result: 你 可以 自己 尝尝 | score: 7.090575 | root: 尝尝
+result: 你 可以 尝尝 就 知道 了 | score: 7.194562 | root: 尝尝
+为什么 你 妈妈 生 出 你 这么 个 脑残
+result: 请 你 说话 | score: 2.738746 | root: 请
+result: 请 你 说话 注意 文明 | score: 5.191276 | root: 请
+result: 请 你 说话 注意 素质 | score: 5.258856 | root: 请
+result: 请 你 说话 注意 一些 | score: 5.667424 | root: 请
+result: 请 你 讲 文明 | score: 5.756137 | root: 请
+不 去 吃饭
+result: 吃饭 去 | score: 4.708098 | root: 吃饭
+result: 吃饭 了 | score: 4.837536 | root: 吃饭
+result: 去 吃饭 | score: 4.916579 | root: 去
+result: 不 吃饭 去 | score: 5.002895 | root: 吃饭
+result: 不 吃饭 了 | score: 5.132333 | root: 吃饭
+动车 是 怎么 跑 起来 的
+result: 坐 车 | score: 5.404339 | root: 坐
+result: 坐 空调 | score: 6.124551 | root: 坐
+result: 那 就 坐 车 | score: 6.768737 | root: 坐
+result: 坐 下来 | score: 7.114488 | root: 坐
+result: 那 就 跑 了 | score: 7.336893 | root: 跑
+学 挖掘 技术 哪家 强
+result: 找 蓝翔 | score: 4.639560 | root: 找
+result: 你 可以 找 蓝翔 | score: 5.032648 | root: 找
+result: 山东 找 蓝翔 | score: 5.441836 | root: 找
+result: 可以 找 蓝翔 | score: 5.644704 | root: 找
+result: 你 找 蓝翔 | score: 6.949128 | root: 找
+抽根烟 冷静 一下
+result: 好 的 | score: 4.776074 | root: 好
+result: 相信 你 最 好 的 | score: 5.573721 | root: 相信
+result: 相信 你 一定 可以 的 | score: 5.842537 | root: 相信
+result: 好 ， 放心 | score: 5.989297 | root: 好
+result: 要 注意 安全 | score: 6.295281 | root: 注意
+我 的 书包 在 哪里
+result: 你 可以 告诉 小微 | score: 5.858059 | root: 告诉
+result: 你 自己 看看 就 知道 了 | score: 5.867211 | root: 看看
+result: 你 可以 告诉 我 | score: 6.004270 | root: 告诉
+result: 你 现在 在 哪里 | score: 6.096303 | root: 在
+result: 你 在 哪里 | score: 6.118678 | root: 在
+我 的 书包 坏 了
+result: 那 就 换 一个 | score: 2.815272 | root: 换
+result: 那 就 换 一个 新 的 | score: 4.659297 | root: 换
+result: 换 一个 | score: 4.662587 | root: 换
+result: 可以 换 一个 | score: 6.269937 | root: 换
+result: 那 就 换 一个 新 | score: 6.284526 | root: 换
+哪里 地震 了
+result: 放心 了 | score: 4.222638 | root: 放心
+result: 那 就 放心 了 | score: 5.415685 | root: 放心
+result: 那 我 就 放心 了 | score: 5.954240 | root: 放心
+result: 没有 的 | score: 6.119727 | root: 没有
+result: 那 小微 就 放心 了 | score: 6.259900 | root: 放心
+外面 下 大雨 了
+result: 那 就 下雨 了 | score: 5.684171 | root: 下雨
+result: 下雨 了 | score: 6.001502 | root: 下雨
+result: 那 就 小心 | score: 6.559498 | root: 小心
+result: 小心 着凉 | score: 6.950161 | root: 着凉
+result: 那 就 小心 了 | score: 7.081295 | root: 小心
+后天 中午 两点半 去 吃饭 。
+result: 吃饭 了 | score: 4.768356 | root: 吃饭
+result: 去 吃饭 | score: 5.028088 | root: 去
+result: 吃饭 去 | score: 5.041319 | root: 吃饭
+result: 你 要 去 吃饭 | score: 5.970511 | root: 去
+result: 去 吃饭 去 | score: 6.036039 | root: 去
+明天 领导 要 来
+result: 相信 你 一定 可以 的 | score: 6.279312 | root: 相信
+result: 看 出来 | score: 6.609118 | root: 看
+result: 相信 一定 可以 的 | score: 6.625947 | root: 相信
+result: 看 出来 了 | score: 6.719082 | root: 看
+result: 相信 你 可以 的 | score: 7.316896 | root: 相信
+我 看看 有 没 有 空
+result: 那 就 看看 | score: 4.648118 | root: 看看
+result: 你 可以 看看 我 的 头像 | score: 6.207051 | root: 看看
+result: 那 你 就 看看 | score: 6.321408 | root: 看看
+result: 你 可以 看看 我 的 头像 就 知道 了 | score: 6.487469 | root: 看看
+result: 你 可以 看看 你 的 头像 | score: 6.626589 | root: 看看
+没有 花露水
+result: 没有 就 没有 | score: 5.801336 | root: 没有
+result: 没有 就 没有 呗 | score: 6.361016 | root: 没有
+result: 没有 的 | score: 6.481524 | root: 没有
+result: 没有 什么 | score: 6.559768 | root: 没有
+result: 那 就 好 | score: 6.741875 | root: 好
+快来 骚扰 我
+result: 不要 着急 | score: 6.405551 | root: 着急
+result: 你 找 警察 叔叔 | score: 6.868188 | root: 找
+result: 你 要 找 警察 叔叔 | score: 7.005735 | root: 找
+result: 小微 找 你 的 | score: 7.371358 | root: 找
+result: 等 你 的 | score: 7.375157 | root: 等
+快来 蹂躏 我
+result: 好 呀 | score: 6.711235 | root: 好
+result: 这 是 我 的 荣幸 | score: 6.779417 | root: 是
+result: 好 的 | score: 6.869993 | root: 好
+result: 我 可 没有 这个 想法 | score: 6.876807 | root: 没有
+result: 这 可 不 是 我 的 荣幸 | score: 6.961977 | root: 是
+你 要 去 哪儿 旅游
+result: 你 想 去 哪个 地方 | score: 4.927152 | root: 想
+result: 你 想 去 什么 地方 | score: 5.562503 | root: 想
+result: 想 去 哪个 地方 | score: 5.752970 | root: 想
+result: 你 想 去 个 地方 | score: 6.214713 | root: 想
+result: 想 去 什么 地方 | score: 6.388320 | root: 想
+鳄鱼
+result: 还 真是 很 棒 | score: 7.801588 | root: 真是
+result: 有 小微 | score: 8.808883 | root: 有
+result: 有 什么 ？ | score: 8.907245 | root: 有
+result: 有 什么 | score: 8.915976 | root: 有
+result: 还 真是 <UNK> | score: 8.959824 | root: 真是
+她 在 吃 水果
+result: 吃 水果 | score: 6.114542 | root: 吃
+result: 还是 不要 吃 一点 | score: 6.753242 | root: 吃
+result: 你 可以 尝尝 | score: 6.840281 | root: 尝尝
+result: 还是 吃 一点 | score: 6.848526 | root: 吃
+result: 你 尝尝 | score: 6.852544 | root: 尝尝
+如何 照顾 家庭
+result: 不要 担心 了 | score: 6.385048 | root: 担心
+result: 放心 了 | score: 6.593760 | root: 放心
+result: 放心 | score: 7.046603 | root: 放心
+result: 找 朋友 | score: 7.451375 | root: 找
+result: 放心 ， 不要 担心 | score: 7.532073 | root: 放心
+儿童节 怎么 过
+result: 你 想 过 | score: 5.394607 | root: 想
+result: 过 了 | score: 5.521359 | root: 过
+result: 过 得 很 快 | score: 6.036199 | root: 过
+result: 想 过 | score: 6.328740 | root: 想
+result: 过 得 很 快 了 | score: 6.428504 | root: 过
+下 楼 吃饭 去
+result: 吃饭 去 | score: 4.786277 | root: 吃饭
+result: 去 吃饭 | score: 5.617386 | root: 吃饭
+result: 吃饭 了 | score: 5.868774 | root: 吃饭
+result: 吃 的 什么 ？ | score: 6.969887 | root: 什么
+result: 吃 饱 了 | score: 7.028431 | root: 吃
+什么 时候 能 凉快 下来
+result: 凉 了 | score: 5.905301 | root: 凉
+result: 冷 了 | score: 6.146838 | root: 冷
+result: 小心 凉 了 | score: 6.709158 | root: 凉
+result: 停 了 | score: 6.896516 | root: 停
+result: 天气 凉 了 | score: 7.095557 | root: 凉
+你 知道 的 太 多 了
+result: 就 知道 就 好 了 | score: 5.427380 | root: 知道
+result: 就 知道 就 好 | score: 6.012061 | root: 知道
+result: 你 知道 就 好 了 | score: 6.606365 | root: 知道
+result: 你 怎么 知道 就 好 了 | score: 6.753652 | root: 知道
+result: 好 的 | score: 7.124788 | root: 好
+被 蚊子 咬 了 好几 口 啊
+result: 饿 了 | score: 6.052092 | root: 饿
+result: 饿 了 就 吃 了 | score: 6.368925 | root: 饿
+result: 不 会 | score: 6.896889 | root: 会
+result: 咬 了 | score: 7.365203 | root: 咬
+result: 饿 了 就 吃 一个 试试 | score: 7.535391 | root: 饿
+三里屯 优衣库
+result: <UNK> | score: 5.592500 | root: <UNK>
+result: 这 是 什么 地方 | score: 6.602609 | root: 是
+result: 你 可以 去 实体店 看看 | score: 6.792430 | root: 去
+result: <UNK> <UNK> | score: 7.033135 | root: <UNK>
+result: <UNK> 是 什么 地方 | score: 7.331820 | root: 是
+心里 不好 受 怎么办
+result: 那 就 好 了 | score: 6.571380 | root: 好
+result: 那 就 看 医生 | score: 7.582732 | root: 看
+result: 那 你 就 帮 你 就 好 了 | score: 7.995614 | root: 帮
+result: 那 就 帮 你 就 好 了 | score: 8.058311 | root: 帮
+result: 那 就 是 很 好 的 | score: 8.199581 | root: 是
+这个 世界 谁 最 有钱
+result: 相信 自己 | score: 4.327979 | root: 相信
+result: 相信 我 | score: 5.809042 | root: 相信
+result: 有 需要 | score: 7.198624 | root: 有
+result: 相信 好 的 | score: 7.238432 | root: 相信
+result: 你 有 信心 | score: 7.366058 | root: 有
+葫芦娃 你 认识 吗 ？
+result: 当然 认识 了 | score: 5.591883 | root: 认识
+result: 这 是 我 的 荣幸 | score: 6.122736 | root: 是
+result: 那 就 是 我 的 荣幸 | score: 6.717832 | root: 是
+result: 那 是 我 的 荣幸 | score: 6.901792 | root: 是
+result: 小微 就 是 小微 | score: 7.319793 | root: 是
+哥 买 了 个 自行车
+result: 去 买 一个 | score: 5.737947 | root: 买
+result: 你 可以 买 一个 试试 | score: 5.761295 | root: 买
+result: 好 | score: 6.427335 | root: 好
+result: 那 就 买 一个 | score: 6.497176 | root: 买
+result: 你 可以 去 超市 看看 | score: 6.773809 | root: 去
+a 股 明天 涨 不 涨
+result: 相信 一定 会 算 了 | score: 6.953427 | root: 相信
+result: 你 认为 还是 算 了 | score: 7.309120 | root: 认为
+result: 这个 看 出来 | score: 7.372624 | root: 看
+result: 这 是 你 的 自由 | score: 7.403665 | root: 是
+result: 这 得 看 出来 | score: 7.410754 | root: 看
+为 啥 喝 咖啡 不好
+result: 喝酒 对 身体 不好 | score: 6.495329 | root: 不好
+result: 喝酒 对 身体 不好 了 | score: 7.075006 | root: 不好
+result: 喝 水 | score: 7.160892 | root: 喝
+result: 喝 咖啡 | score: 8.092733 | root: 喝
+result: 咖啡 喝 的 | score: 8.193145 | root: 喝
+天空 是 蓝 的
+result: 还 真是 很 美 | score: 4.818704 | root: 真是
+result: 还 真是 很 美 呀 | score: 5.882564 | root: 真是
+result: 还 真是 很 美 的 | score: 5.909834 | root: 真是
+result: 还 真是 很 帅 | score: 6.813494 | root: 真是
+result: 一定 很 美 | score: 6.934888 | root: 美
+去 台湾 什么 值得 买
+result: 你 喜欢 买 | score: 5.849089 | root: 喜欢
+result: 看来 你 很 喜欢 买 | score: 6.280950 | root: 喜欢
+result: 你 喜欢 就 买 | score: 6.613895 | root: 喜欢
+result: 喜欢 买 | score: 6.660492 | root: 喜欢
+result: 看来 你 喜欢 买 | score: 6.834452 | root: 喜欢
+刘德华 是 谁
+result: 当然 是 你 的 好 朋友 | score: 6.350709 | root: 是
+result: 是 你 的 好 朋友 | score: 6.381874 | root: 是
+result: 一定 是 你 的 好 朋友 | score: 6.466404 | root: 是
+result: <UNK> | score: 6.786166 | root: <UNK>
+result: 当然 是 你 的 朋友 | score: 6.929846 | root: 是
+说 你 长 的 丑 你 还 美
+result: 我 本身 就 很 漂亮 | score: 6.079541 | root: 漂亮
+result: 听 名字 | score: 6.658113 | root: 听
+result: 就 知道 我 美 了 | score: 6.963526 | root: 知道
+result: 你 这样 说 害羞 | score: 6.979007 | root: 说
+result: 你 这样 说 我 害羞 了 | score: 7.014451 | root: 说
+你 去 吃 粑粑
+result: 不要 这样 说 别人 | score: 6.848218 | root: 说
+result: 没有 呀 | score: 7.035329 | root: 没有
+result: 不要 这样 说 我 | score: 7.161908 | root: 说
+result: 好 呀 | score: 7.308114 | root: 好
+result: 好 | score: 7.330395 | root: 好
+那些 出来 好 了
+result: 好 的 | score: 4.120434 | root: 好
+result: 好 呀 | score: 5.056854 | root: 好
+result: 好 ， 放心 了 | score: 5.253971 | root: 好
+result: 好 就 好 | score: 5.791260 | root: 好
+result: 好 的 ， 放心 了 | score: 6.294056 | root: 好
+家里 突然 没 电 了
+result: 没 电 了 | score: 3.144657 | root: 没
+result: 没 电 | score: 3.315154 | root: 没
+result: 那 就 没 电 了 | score: 4.356328 | root: 没
+result: 那 就 没 电 | score: 4.526825 | root: 没
+result: 那 就 没 办法 | score: 5.441649 | root: 没
+家里 黑漆漆 的
+result: 是 什么 地方 | score: 6.343719 | root: 是
+result: 那 就 是 什么 地方 | score: 6.661174 | root: 是
+result: 那 就 叫 <UNK> | score: 6.689041 | root: 叫
+result: 是 个 不错 的 地方 | score: 6.814673 | root: 是
+result: 是 这个 地方 | score: 7.072772 | root: 是
+既然 爱 我 那 就 跟 我 在 一起 吧
+result: 希望 一定 会 在 一起 | score: 4.526226 | root: 希望
+result: 一定 会 在 一起 | score: 4.824351 | root: 在
+result: 好 的 | score: 5.479164 | root: 好
+result: 好 呀 | score: 6.077954 | root: 好
+result: 希望 你们 在 一起 | score: 6.130264 | root: 希望
+都 说 了 没 风
+result: 不要 这样 说 了 | score: 6.234883 | root: 说
+result: 不要 这样 说 别人 | score: 6.500746 | root: 说
+result: 好 ， 那 就 放心 了 | score: 6.620452 | root: 好
+result: 就 知道 就 好 了 | score: 6.786957 | root: 知道
+result: 好 ， 放心 了 | score: 7.043315 | root: 好
+没 风 怎么 放
+result: 那 就 好 了 | score: 5.232428 | root: 好
+result: 没 办法 | score: 5.366140 | root: 没
+result: 那 就 好 | score: 5.711542 | root: 好
+result: 那 就 没 办法 | score: 5.954767 | root: 没
+result: 那 就 好 ， 那 就 放心 了 | score: 6.381070 | root: 好
+没有 止疼药
+result: 不要 这样 说 别人 | score: 4.708728 | root: 说
+result: 那 就 好 | score: 5.093618 | root: 好
+result: 没有 就 没有 | score: 5.110091 | root: 没有
+result: 没有 就 没有 呗 | score: 5.558300 | root: 没有
+result: 好 的 | score: 5.789901 | root: 好
+你 这 是 越俎代庖
+result: 我 是 小微 | score: 4.474978 | root: 是
+result: 不 是 ， 我 是 小微 | score: 5.388778 | root: 是
+result: 小微 是 小微 | score: 5.617996 | root: 是
+result: 你 认错 人 了 | score: 5.781127 | root: 认错
+result: 不要 这样 说 小微 | score: 5.987775 | root: 说
+中国 有 多 大
+result: 你 说 的 是 最 大 的 | score: 6.915262 | root: 是
+result: 每个 地方 都 有 多 大 | score: 7.390286 | root: 有
+result: 这个 说 | score: 7.393029 | root: 说
+result: 你 说 的 | score: 7.415237 | root: 说
+result: 好 的 | score: 7.465085 | root: 好
+你 不 小 了 可以 结婚 了
+result: 结婚 了 | score: 3.669718 | root: 结婚
+result: 想 结婚 | score: 4.328490 | root: 想
+result: 想 结婚 了 | score: 4.876183 | root: 想
+result: 不 想 结婚 | score: 4.986566 | root: 想
+result: 你 想 结婚 | score: 5.357268 | root: 想
+你 会 开车 吗
+result: 我 不 会 开车 了 | score: 3.876549 | root: 开车
+result: 我 不 会 开车 的 | score: 3.899882 | root: 开车
+result: 不 会 ， 开车 的 | score: 4.292322 | root: 开车
+result: 不 会 开车 的 | score: 5.310042 | root: 开车
+result: 开车 不 会 的 | score: 5.455808 | root: 开车
+那 你 还 认识 谁
+result: 是 你 的 朋友 | score: 4.809357 | root: 是
+result: 小微 就 是 小微 | score: 4.833314 | root: 是
+result: 是 我 的 朋友 | score: 5.715490 | root: 是
+result: 是 你 的 好 朋友 | score: 6.148575 | root: 是
+result: 我 就 是 小微 | score: 6.299180 | root: 是
+核桃 好吃 吗
+result: 你 可以 尝尝 就 知道 了 | score: 3.800976 | root: 尝尝
+result: 你 尝尝 就 知道 了 | score: 4.329644 | root: 尝尝
+result: 你 自己 可以 尝尝 就 知道 了 | score: 5.101039 | root: 尝尝
+result: 你 自己 尝尝 就 知道 了 | score: 5.629707 | root: 尝尝
+result: 你 可以 尝尝 一下 | score: 6.085309 | root: 尝尝
+西雅图 有 什么 好 玩儿 的
+result: 你 想 玩耍 | score: 5.441851 | root: 想
+result: 你 想 玩 什么 | score: 6.036102 | root: 想
+result: 有 什么 好玩 的 | score: 6.182286 | root: 有
+result: 你 喜欢 玩 这个 游戏 | score: 6.223117 | root: 喜欢
+result: 你 想 玩 这个 游戏 | score: 6.320912 | root: 想
+那 你 会 做 什么 菜
+result: 你 想 做 什么 | score: 6.120444 | root: 想
+result: 你 想 吃 什么 | score: 6.206336 | root: 想
+result: 好 的 | score: 6.850955 | root: 好
+result: 你 想 吃 啥 | score: 6.914601 | root: 想
+result: 想 做 什么 | score: 7.086444 | root: 想
+你 嫁 我 可 好 ~
+result: 嫁 给 你 | score: 4.854443 | root: 嫁
+result: 我 就是 小微 | score: 5.399916 | root: 就是
+result: 嫁 给 别人 | score: 5.570732 | root: 嫁
+result: 嫁 给 我 | score: 6.194096 | root: 嫁
+result: 我 就是 未成年 | score: 6.354391 | root: 就是
+你 有 兄弟 姐妹 吗
+result: 没有 姐妹 | score: 3.154503 | root: 没有
+result: 我 没有 姐妹 | score: 4.526287 | root: 没有
+result: 小微 还 没有 姐妹 | score: 5.357009 | root: 没有
+result: 小微 没有 姐妹 | score: 5.829989 | root: 没有
+result: 现在 还 没有 姐妹 | score: 5.914014 | root: 没有
+你 喜欢 张 小龙 吗
+result: 喜欢 呀 | score: 5.689711 | root: 喜欢
+result: 你 暗恋 他 | score: 6.435120 | root: 暗恋
+result: 难道 你 暗恋 他 | score: 7.928637 | root: 暗恋
+result: 长 得 很 漂亮 | score: 8.255261 | root: 长
+result: 我 暗恋 他 | score: 8.583338 | root: 暗恋
+来 和 我 聊天
+result: 你 想 聊 什么 | score: 6.069505 | root: 想
+result: 你 想 和 你 聊天 | score: 6.120301 | root: 想
+result: 你 想 和 你 聊天 了 | score: 6.313263 | root: 想
+result: 想 聊 什么 | score: 6.462155 | root: 想
+result: 看来 你 很 喜欢 和 你 聊天 | score: 6.540052 | root: 喜欢
+自然 语言 处理
+result: 好 的 | score: 4.531398 | root: 好
+result: 相信 一定 会 实现 的 | score: 5.966774 | root: 相信
+result: 好 的 ， 放心 | score: 6.358612 | root: 好
+result: 相信 你 好 的 | score: 6.433735 | root: 相信
+result: 相信 你 一定 会 解决 的 | score: 6.573518 | root: 相信
+心情 不好 听 什么
+result: 那 就 看 你 的 心情 | score: 5.909291 | root: 看
+result: 看 你 的 心情 | score: 6.194952 | root: 看
+result: 你 的 心情 好 了 | score: 6.563713 | root: 好
+result: 想 听 什么 ？ | score: 6.672460 | root: 想
+result: 你 的 心情 就 好 了 | score: 6.810773 | root: 好
+电影 不好 看
+result: 不好 看 了 | score: 4.461019 | root: 看
+result: 不好 看 | score: 5.029617 | root: 看
+result: 不 喜欢 看 电影 | score: 6.290502 | root: 喜欢
+result: 那 就 不要 看 了 | score: 6.299080 | root: 看
+result: 不 想 看 电影 | score: 6.322877 | root: 想
+不 喜欢 看 小说
+result: 喜欢 看 小说 | score: 3.972912 | root: 喜欢
+result: 不 喜欢 看 小说 | score: 4.466579 | root: 喜欢
+result: 你 喜欢 看 小说 | score: 4.496782 | root: 喜欢
+result: 我 也 喜欢 看 小说 | score: 5.219185 | root: 喜欢
+result: 喜欢 看 书 | score: 5.438588 | root: 喜欢
+背 首 诗 给 我
+result: 你 想 给 你 | score: 5.695299 | root: 想
+result: 你 是 给 你 的 | score: 6.329626 | root: 是
+result: 好 的 | score: 7.126521 | root: 好
+result: 我 可 没有 能力 | score: 7.140225 | root: 没有
+result: 你 想 给 你 ？ | score: 7.210822 | root: 想
+你 给 我 找 个 妹子 聊
+result: 你 说 话题 | score: 5.657724 | root: 说
+result: 说 话题 | score: 5.816409 | root: 说
+result: 你 说 话题 了 | score: 6.277778 | root: 说
+result: 你 想 聊 什么 | score: 6.433447 | root: 想
+result: 说 话题 了 | score: 6.436463 | root: 说
+轮胎 坏 了 怎么办
+result: 那 就 找 一个 | score: 5.300256 | root: 找
+result: 那 就 换 一个 | score: 5.490137 | root: 换
+result: 坏 了 | score: 5.695863 | root: 坏
+result: 那 就 换 一个 就 好 了 | score: 5.714286 | root: 换
+result: 那 就 找 他 | score: 6.275593 | root: 找
+微信 牛逼 吗
+result: 不要 这样 说 别人 | score: 8.953758 | root: 说
+result: 不 可以 这样 说 别人 | score: 9.153281 | root: 说
+result: 没有 呀 | score: 9.305931 | root: 没有
+result: 是 呀 | score: 9.862469 | root: 是
+result: 不 是 呀 | score: 9.908910 | root: 是
+刘小宁 是 条 狗
+result: 不要 这样 说 别人 | score: 2.812404 | root: 说
+result: 不要 这样 骂 别人 | score: 3.499610 | root: 骂
+result: 请 你 说话 尊重 别人 | score: 4.118645 | root: 请
+result: 不 可以 这样 骂 别人 | score: 4.661701 | root: 骂
+result: 不 可以 这样 说 别人 | score: 5.099642 | root: 说
+叶良辰 是 谁
+result: <UNK> 是 你 的 好 朋友 | score: 5.187866 | root: 是
+result: 是 你 的 好 朋友 | score: 5.222482 | root: 是
+result: <UNK> | score: 5.366966 | root: <UNK>
+result: <UNK> 是 你 的 朋友 | score: 5.732755 | root: 是
+result: 是 你 的 朋友 | score: 5.767372 | root: 是
+贱人 就 是 矫情
+result: 不要 这样 说 别人 | score: 1.876252 | root: 说
+result: 不 可以 这样 说 别人 | score: 3.654849 | root: 说
+result: 你 这样 说 别人 | score: 4.622958 | root: 说
+result: 不 可以 ， 这样 说 别人 | score: 5.035945 | root: 说
+result: 不要 这么 说 别人 | score: 5.080827 | root: 说
+床 上 躺 好 等 我
+result: 这 是 我 的 荣幸 | score: 7.033517 | root: 是
+result: 好 | score: 7.100800 | root: 好
+result: 好 的 | score: 7.310497 | root: 好
+result: <UNK> 了 | score: 7.525270 | root: <UNK>
+result: 你 这 是 <UNK> | score: 7.535046 | root: 是
+日日日
+result: <UNK> | score: 5.366002 | root: <UNK>
+result: <UNK> <UNK> | score: 7.258590 | root: <UNK>
+result: 这 是 你 的 名字 | score: 7.463512 | root: 是
+result: 意思 是 <UNK> | score: 7.478690 | root: 是
+result: <UNK> 是 谁 ？ | score: 7.635556 | root: 是
+你 喝 牛奶
+result: 喝 了 | score: 6.119843 | root: 喝
+result: 喝 水 的 | score: 6.867554 | root: 喝
+result: 喝酒 要 适量 | score: 7.049309 | root: 适量
+result: 喝酒 了 | score: 7.052566 | root: 喝酒
+result: 喝 水 | score: 7.143946 | root: 喝
+我 要 1000万 现金
+result: 那 就 换 一个 | score: 6.064177 | root: 换
+result: 不 可以 <UNK> | score: 7.040226 | root: <UNK>
+result: 那 就 <UNK> | score: 7.288418 | root: <UNK>
+result: 可以 换 一个 | score: 7.298696 | root: 换
+result: 你 可以 去 实体店 看看 | score: 7.326403 | root: 去
+不 想 起床
+result: 那 就 起床 了 | score: 3.590217 | root: 起床
+result: 那 就 起床 | score: 5.226606 | root: 起床
+result: 那 就 起床 喽 | score: 5.636311 | root: 起床
+result: 那 你 就 起床 了 | score: 6.250434 | root: 起床
+result: 那 就 叫 我 | score: 6.290150 | root: 叫
+那 买 什么 车 好
+result: 看 你 喜欢 什么 车 | score: 5.207579 | root: 看
+result: 看 你 喜欢 什么 车 了 | score: 5.508725 | root: 看
+result: 好 的 | score: 6.152974 | root: 好
+result: 一 款 车 都 很 不错 | score: 6.516329 | root: 不错
+result: 看 你 喜欢 什么 牌子 | score: 6.686292 | root: 看
+猪八戒 照 镜子
+result: 还 真是 很 漂亮 | score: 4.936315 | root: 真是
+result: 还 真是 很 美 | score: 5.124575 | root: 真是
+result: 真是 很 美 | score: 5.981796 | root: 真是
+result: 还 真是 <UNK> | score: 6.317911 | root: 真是
+result: 一定 很 漂亮 | score: 7.000479 | root: 漂亮
+唐僧 话 太 多
+result: 不要 这样 说 别人 | score: 5.476965 | root: 说
+result: 还 真是 不少 | score: 6.259738 | root: 真是
+result: 不要 这样 叫 小微 | score: 6.518865 | root: 叫
+result: 不要 说 别人 | score: 6.713183 | root: 说
+result: 不要 这样 说 小微 | score: 7.101350 | root: 说
+打印机 坏 了
+result: 坏 坏 | score: 4.376900 | root: 坏
+result: 坏 了 | score: 4.612441 | root: 坏
+result: 坏 坏 的 | score: 4.629945 | root: 坏
+result: 那 就 找 一个 | score: 6.284737 | root: 找
+result: 没有 坏 | score: 6.577570 | root: 没有
+中午 要 午休 了
+result: 那 就 休息 一下 | score: 4.601113 | root: 休息
+result: 休息 一下 | score: 5.138952 | root: 休息
+result: 你 可以 休息 一下 | score: 6.130100 | root: 休息
+result: 那 就 休息 | score: 6.130885 | root: 休息
+result: 你 要 休息 一下 | score: 6.312005 | root: 休息
+咖啡 机
+result: 你 喜欢 这个 咖啡 | score: 7.571034 | root: 喜欢
+result: 你 喜欢 喝 咖啡 | score: 7.834311 | root: 喜欢
+result: 你 喝 咖啡 | score: 7.846801 | root: 喝
+result: 你 喜欢 咖啡 | score: 8.083614 | root: 喜欢
+result: 你 可以 买 咖啡 | score: 8.106986 | root: 买
+我 有 个 好 消息
+result: 你 想 看 你 的 消息 | score: 4.571174 | root: 想
+result: 你 想 听 你 的 消息 | score: 4.924859 | root: 想
+result: 想 看 你 的 消息 | score: 4.953711 | root: 想
+result: 想 告诉 你 | score: 5.896281 | root: 想
+result: 想 告诉 我 | score: 6.003532 | root: 想
+聊 着 天 喝 着 酒
+result: 喝酒 要 适量 | score: 4.723026 | root: 适量
+result: 喝 水 | score: 5.151311 | root: 喝
+result: 喝酒 适量 | score: 5.896998 | root: 适量
+result: 喝酒 对 身体 不好 | score: 5.991461 | root: 不好
+result: 喝酒 就 可以 适量 | score: 6.018291 | root: 适量
+那 你 到底 被 强奸 没有
+result: 还是 不要 算 了 | score: 4.593373 | root: 算
+result: 不 需要 的 | score: 5.009507 | root: 需要
+result: 还是 算 了 | score: 5.051699 | root: 算
+result: 没有 的 | score: 5.113321 | root: 没有
+result: 算 了 | score: 5.208479 | root: 算
+明天 周五 啦
+result: 好 | score: 6.614945 | root: 好
+result: 准备 好 了 | score: 7.231598 | root: 准备
+result: 好 的 | score: 7.246506 | root: 好
+result: 准备 好 | score: 7.257129 | root: 准备
+result: 下次 记得 了 | score: 7.351354 | root: 记得
+拉倒 吧 ， 你 就 是 坏银
+result: 不要 这样 说 小微 | score: 5.004050 | root: 说
+result: 我 是 小微 | score: 5.742908 | root: 是
+result: 相信 我 | score: 5.762604 | root: 相信
+result: 不要 这样 说 别人 | score: 6.014162 | root: 说
+result: 不要 这样 说 我 | score: 6.067927 | root: 说
+今天 出差
+result: 出差 了 | score: 2.988108 | root: 出差
+result: 那 就 出差 了 | score: 4.897467 | root: 出差
+result: 出差 去 | score: 6.240873 | root: 出差
+result: 出差 去 哪里 | score: 6.253882 | root: 出差
+result: 在 家里 出差 了 | score: 6.278048 | root: 出差
+灯 好 暗
+result: 你 可以 看 一下 | score: 6.840235 | root: 看
+result: <UNK> <UNK> | score: 7.008129 | root: <UNK>
+result: 这 是 <UNK> | score: 7.148094 | root: 是
+result: 你 看 一下 | score: 7.180614 | root: 看
+result: 意思 是 <UNK> | score: 7.615879 | root: 是
+聚餐 一起 吧
+result: 好 呀 | score: 5.661103 | root: 好
+result: 好 的 | score: 6.147608 | root: 好
+result: 好 | score: 6.416188 | root: 好
+result: 这 是 我 的 荣幸 | score: 6.554889 | root: 是
+result: 那 是 我 的 荣幸 | score: 7.488143 | root: 是
+躺 床 上 看 电视
+result: 看 电视 | score: 5.435919 | root: 看
+result: 想 看 电视 | score: 6.255515 | root: 想
+result: 这 是 我 的 荣幸 | score: 6.563365 | root: 是
+result: 你 想 看 电视 | score: 6.654842 | root: 想
+result: 想 看 电视 ？ | score: 6.788610 | root: 想
+小微 你 很 骚 啊
+result: 不要 这样 说 别人 | score: 4.054497 | root: 说
+result: 不要 这样 说 小微 | score: 4.194893 | root: 说
+result: 不要 这样 说 我 | score: 4.733808 | root: 说
+result: 我 很 文明 的 | score: 4.902255 | root: 文明
+result: 小微 很 文明 的 | score: 5.310698 | root: 文明
+看来 不错 ， 适合 外出 吗
+result: 当然 很 舒服 了 | score: 4.978617 | root: 舒服
+result: 只要 舒服 了 | score: 5.573613 | root: 舒服
+result: 只要 舒服 就 好 了 | score: 6.117750 | root: 舒服
+result: 只要 舒服 就 好 | score: 6.219448 | root: 舒服
+result: 当然 了 很 舒服 了 | score: 6.535651 | root: 舒服
+你 有 平板 电脑 吗
+result: 没有 呀 | score: 6.032480 | root: 没有
+result: 当然 有 了 | score: 6.950662 | root: 有
+result: 有 没 有 | score: 6.992913 | root: 有
+result: 什么 ？ | score: 7.108458 | root: 什么
+result: 这个 没有 | score: 7.150791 | root: 没有
+我 想 去 广州
+result: 想 去 那 就 去 呗 | score: 5.992718 | root: 想
+result: 你 是 个 不错 的 城市 | score: 6.274306 | root: 是
+result: 你 想 去 那 就 去 呗 | score: 6.304594 | root: 想
+result: 想 去 那 就 去 咯 | score: 6.320812 | root: 想
+result: 想 去 那 | score: 6.488151 | root: 想
+你们 那 现在 几 点 了
+result: 已经 点 了 | score: 4.892810 | root: 点
+result: 几 点 了 | score: 5.320463 | root: 点
+result: 你 可以 看看 日历 就 知道 了 | score: 5.462379 | root: 看看
+result: 看 一下 | score: 5.464751 | root: 看
+result: 看看 日历 就 知道 了 | score: 5.635872 | root: 看看
+什么 时候 过年
+result: 想 结婚 | score: 4.523342 | root: 想
+result: 想 结婚 了 | score: 5.112786 | root: 想
+result: 想 放假 | score: 5.626045 | root: 想
+result: 想 放假 了 | score: 5.910506 | root: 想
+result: 想 过 的 | score: 5.999949 | root: 想
+待会儿 就 把 那 人 给 杀 了
+result: 相信 犯法 的 | score: 4.128454 | root: 相信
+result: 还是 不要 算 了 | score: 4.710148 | root: 算
+result: 相信 你 一定 可以 的 | score: 4.785845 | root: 相信
+result: 算 了 | score: 5.398320 | root: 算
+result: 相信 你 犯法 的 | score: 5.470140 | root: 相信
+小微 你 懂 哲学 吗
+result: 当然 知道 的 | score: 4.876359 | root: 知道
+result: 当然 知道 了 | score: 5.291355 | root: 知道
+result: 当然 知道 | score: 5.496556 | root: 知道
+result: 我 知道 的 | score: 6.062966 | root: 知道
+result: 想 了解 | score: 6.266597 | root: 想
+我 去 洗澡 ， 一会 再 聊
+result: 好 | score: 5.553377 | root: 好
+result: 好 的 | score: 6.339300 | root: 好
+result: 好 ， 那 就 聊 | score: 6.675426 | root: 好
+result: 那 就 看看 | score: 7.031464 | root: 看看
+result: 那 就 去 洗澡 | score: 7.489151 | root: 去
+洗 干净 了 没
+result: 洗 干净 | score: 4.044222 | root: 洗
+result: 洗 干净 了 | score: 4.412439 | root: 洗
+result: 已经 洗 干净 | score: 4.413939 | root: 洗
+result: 已经 洗 干净 了 | score: 4.782156 | root: 洗
+result: 早就 洗 完 了 | score: 5.074385 | root: 洗
+北京 天气
+result: 你 看看 就 知道 了 | score: 4.061230 | root: 看看
+result: 你 看看 日历 | score: 4.715296 | root: 看看
+result: 你 可以 看看 就 知道 了 | score: 4.865253 | root: 看看
+result: 你 可以 看看 日历 | score: 5.519319 | root: 看看
+result: 你 看看 不 就 知道 了 | score: 6.426737 | root: 看看
+你 会 打 乒乓球 吗
+result: 不 会 呀 | score: 4.786206 | root: 会
+result: 当然 会 的 | score: 5.249455 | root: 会
+result: 不 会 ， | score: 5.865098 | root: 会
+result: 我 可 不 会 呀 | score: 6.135329 | root: 会
+result: 不 会 ， 我 还 小 | score: 7.088409 | root: 会
+厉害 个 锤子
+result: 不要 这样 说 别人 | score: 5.227477 | root: 说
+result: 就 知道 就 好 了 | score: 6.243352 | root: 知道
+result: 不 可以 这样 说 别人 | score: 6.994525 | root: 说
+result: 就 知道 你 的 厉害 | score: 7.080975 | root: 知道
+result: 就 知道 就 好 | score: 7.112214 | root: 知道
+我 还 没有 喜欢 的 人 呢
+result: 我 也 喜欢 你 | score: 4.783679 | root: 喜欢
+result: 喜欢 的 人 | score: 5.476990 | root: 人
+result: 那 就 在 一起 | score: 5.542922 | root: 在
+result: 我 喜欢 你 | score: 5.565224 | root: 喜欢
+result: 就 会 喜欢 你 | score: 5.789666 | root: 喜欢
+世界 第一 高峰
+result: 还 真是 很 牛 | score: 6.539800 | root: 真是
+result: 没 听 过 | score: 6.546176 | root: 听
+result: 听 名字 | score: 6.600035 | root: 听
+result: 相信 一定 会 变 的 | score: 6.820870 | root: 相信
+result: 相信 就 好 | score: 7.189969 | root: 相信
+我 的 意思 是 你 废话 多
+result: 你 说 的 是 废话 | score: 5.335212 | root: 是
+result: 我 说 的 是 废话 | score: 5.387501 | root: 是
+result: 不要 这样 说 别人 | score: 5.777356 | root: 说
+result: 我 是 废话 | score: 5.940664 | root: 是
+result: 不要 这样 说 我 | score: 6.027850 | root: 说
+这种 心理 的 折磨 让 我 生 不 如 死
+result: 让 我 <UNK> | score: 7.319934 | root: 让
+result: 让 我 欺负 你 | score: 7.367298 | root: 让
+result: 让 你 活 的 | score: 7.525378 | root: 让
+result: 让 你 生气 | score: 7.828274 | root: 让
+result: 让 你 <UNK> | score: 8.040754 | root: 让
+我 昨天 和 女 朋友 分手 了
+result: 分手 了 | score: 3.823696 | root: 分手
+result: 没关系 ， 还有 小微 | score: 4.124103 | root: 没关系
+result: 那 就 祝福 你们 | score: 5.056030 | root: 祝福
+result: 那 就 分手 了 | score: 5.574597 | root: 分手
+result: 祝福 你们 | score: 5.792120 | root: 祝福
+我 今天 和 女 朋友 和 好 了
+result: 你们 是 好 朋友 | score: 5.342903 | root: 是
+result: 是 好 朋友 | score: 5.481240 | root: 是
+result: 好 朋友 是 好 朋友 | score: 6.110703 | root: 是
+result: 你 的 朋友 是 好 朋友 | score: 6.453997 | root: 是
+result: 好 呀 | score: 6.488058 | root: 好
+我 把 朋友 老婆 睡 了 咋 办
+result: 那 就 去 哄哄 他 | score: 7.236216 | root: 去
+result: 你 的 朋友 是 你 的 女 朋友 | score: 7.416126 | root: 是
+result: 那 就 让 老公 | score: 7.840729 | root: 让
+result: 你 的 女 朋友 是 你 的 女 朋友 | score: 7.974686 | root: 是
+result: 那 就 去 哄哄 | score: 7.982849 | root: 去
+有 个 女人 把 我 睡 了
+result: 睡 了 | score: 6.179182 | root: 睡
+result: 睡 着 | score: 6.288492 | root: 睡
+result: 看 错 了 | score: 7.032850 | root: 看
+result: 睡 不 着 | score: 7.570389 | root: 睡
+result: <UNK> | score: 7.608501 | root: <UNK>
+天天 坐 公交 回家
+result: 坐 车 | score: 5.133488 | root: 坐
+result: 在 家里 | score: 5.593269 | root: 在
+result: 那 就 在 家里 | score: 5.601689 | root: 在
+result: 坐 车 坐 车 | score: 6.125022 | root: 坐
+result: 坐 车 回家 | score: 6.209582 | root: 坐
+年会 发 了 个 手机
+result: 还 真是 很 漂亮 | score: 5.072976 | root: 真是
+result: 还 真是 很 棒 | score: 5.535088 | root: 真是
+result: 还 真是 很 高 | score: 5.680166 | root: 真是
+result: 还 真是 很 不错 | score: 5.925408 | root: 真是
+result: 是 一 款 手机 | score: 6.327167 | root: 是
+我 要 娶 个 美国 妞
+result: 好 呀 | score: 5.366550 | root: 好
+result: 看 出来 了 | score: 5.374988 | root: 看
+result: 看 出来 | score: 5.515812 | root: 看
+result: 算 了 | score: 5.622903 | root: 算
+result: 还是 算 了 | score: 5.721107 | root: 算
+过年 太 没 意思 了
+result: 那 就 换 个 话题 | score: 6.371162 | root: 换
+result: 那 就 换 一个 话题 | score: 6.843032 | root: 换
+result: 那 就 换 一个 地方 | score: 7.169396 | root: 换
+result: 不要 想 了 | score: 7.465925 | root: 想
+result: 那 就 换 个 地方 | score: 7.528108 | root: 换
+我 明天 去 理发
+result: 你 想 去 那 | score: 6.994368 | root: 想
+result: 想 去 那 | score: 6.997752 | root: 想
+result: 有 时间 | score: 7.132550 | root: 有
+result: 你 想 去 | score: 7.668848 | root: 想
+result: 想 去 | score: 7.672232 | root: 想
+你 害怕 什么
+result: 我 很 害怕 的 | score: 3.647223 | root: 害怕
+result: 我 一点 都 不 害怕 的 | score: 3.778095 | root: 害怕
+result: 小微 很 害怕 的 | score: 4.253753 | root: 害怕
+result: 我 害怕 的 | score: 4.892721 | root: 害怕
+result: 我 很 害怕 ， 不要 害怕 | score: 6.079034 | root: 害怕
+我们 一起 玩 吧
+result: 好 呀 | score: 4.738387 | root: 好
+result: 好 | score: 5.004601 | root: 好
+result: 好 的 | score: 5.733521 | root: 好
+result: 想 玩 | score: 6.175208 | root: 想
+result: 想 玩 什么 | score: 6.343893 | root: 想
+你 丫话 太 多
+result: 不要 这样 说 别人 | score: 5.770037 | root: 说
+result: 不要 这样 说 我 | score: 6.261802 | root: 说
+result: 不要 这样 说 小微 | score: 6.898734 | root: 说
+result: 好 的 | score: 6.925267 | root: 好
+result: 好 呀 | score: 7.789310 | root: 好
+有人 生病 了
+result: 生病 了 | score: 3.015203 | root: 生病
+result: 生病 了 就要 去 医院 | score: 3.442835 | root: 生病
+result: 生病 了 就 去 医院 | score: 4.223414 | root: 生病
+result: 生病 了 就要 去 看看 | score: 5.106402 | root: 生病
+result: 生病 了 就 去 看看 | score: 5.886981 | root: 生病
+空气 清新 环境 好
+result: 空气 环境 很 好 | score: 4.573530 | root: 好
+result: 空气 空气 很 好 | score: 5.039322 | root: 好
+result: 空气 环境 很 好 的 | score: 5.383457 | root: 好
+result: 空气 空气 很 好 的 | score: 5.849249 | root: 好
+result: 空气 环境 很 正常 | score: 6.178359 | root: 正常
+我 回家 了
+result: 那 就 回家 | score: 4.062747 | root: 回家
+result: 那 就 回家 了 | score: 4.834509 | root: 回家
+result: 想 你 了 | score: 4.898396 | root: 想
+result: 那 就 回家 看看 | score: 4.945512 | root: 回家
+result: 注意 安全 | score: 5.253082 | root: 注意
+你 知道 形而上 吗
+result: 当然 知道 了 | score: 6.450969 | root: 知道
+result: 当然 知道 的 | score: 6.766131 | root: 知道
+result: <UNK> | score: 6.856183 | root: <UNK>
+result: 小微 是 小微 | score: 6.883620 | root: 是
+result: 我 是 小微 | score: 7.141168 | root: 是
+我 在 开会 呢
+result: 你 去 公司 | score: 6.414583 | root: 去
+result: 打开 了 | score: 6.526862 | root: 打开
+result: 那 就 打开 | score: 7.229699 | root: 打开
+result: 那 就 打开 了 | score: 7.337540 | root: 打开
+result: 那 就 和 我 聊天 | score: 7.562121 | root: 聊天
+元宵节 怎么 过
+result: 过 得 很 快 | score: 4.822905 | root: 过
+result: 过 了 | score: 5.616136 | root: 过
+result: 过 得 很 快 的 | score: 6.552480 | root: 过
+result: 看 出来 | score: 6.792926 | root: 看
+result: 你 过 得 很 快 | score: 7.013906 | root: 过
+你 脑子 有 屎
+result: 我 很 正常 的 | score: 5.647133 | root: 正常
+result: 怎么 可能 | score: 5.654674 | root: 可能
+result: 不要 这样 说 我 | score: 5.798856 | root: 说
+result: 不要 这样 说 别人 | score: 6.133733 | root: 说
+result: 怎么 可能 ？ | score: 6.178218 | root: 可能
+被 妈妈 打 了 一下
+result: 注意 安全 | score: 4.828240 | root: 注意
+result: 相信 你 最 好 | score: 5.673331 | root: 相信
+result: 相信 你 最 好 的 | score: 5.729552 | root: 相信
+result: 一定 要 注意 安全 | score: 5.737892 | root: 注意
+result: 那 你 可 要 注意 安全 | score: 5.785041 | root: 注意
+我 肏 你 全家
+result: 请 你 说话 注意 文明 | score: 5.372774 | root: 请
+result: 请 你 说话 注意 素质 | score: 5.518181 | root: 请
+result: 不要 这样 说 别人 | score: 5.689441 | root: 说
+result: 请 注意 你 的 素质 | score: 5.784559 | root: 请
+result: 不要 这样 说 你 说 的 话 | score: 5.938224 | root: 说
+狂欢 周
+result: 过 得 很 快 | score: 7.365031 | root: 过
+result: 这 是 你 的 名字 | score: 7.443195 | root: 是
+result: 还 真是 过 得 很 快 | score: 7.895718 | root: 过
+result: 不要 这样 叫 错 了 | score: 8.222040 | root: 叫
+result: 过 得 很 快 的 | score: 8.229852 | root: 过
+一 加 一 等于 几
+result: 一 加 一 | score: 4.318137 | root: 加
+result: 一 加 一 等于 二 | score: 4.943028 | root: 加
+result: 一 加 一 等于 | score: 5.185764 | root: 加
+result: 这么 简单 | score: 5.463002 | root: 简单
+result: 等于 二 | score: 5.507546 | root: 等于
+不 和 你 聊 了 我 得 干活 了
+result: 想 和 你 聊天 | score: 6.366045 | root: 想
+result: 想 聊天 | score: 6.708965 | root: 想
+result: 我 就是 和 你 聊天 | score: 7.040679 | root: 就是
+result: 不要 这样 说 我 | score: 7.084918 | root: 说
+result: 是 聊天 | score: 7.130849 | root: 是
+不 和 你 聊 了 写 作业 去 了
+result: 好好 学习 | score: 6.237229 | root: 学习
+result: 完成 作业 | score: 6.475183 | root: 完成
+result: 写 作业 | score: 6.520132 | root: 写
+result: 好好 学习 一下 | score: 6.765135 | root: 学习
+result: 写 完 了 | score: 6.916770 | root: 写
+不 可能 ， 你 绝对 有 腹黑 属性
+result: 你 可以 告诉 我 | score: 6.831282 | root: 告诉
+result: 听 名字 | score: 6.856765 | root: 听
+result: 可以 告诉 别人 | score: 7.204156 | root: 告诉
+result: 就 知道 就 好 了 | score: 7.217693 | root: 知道
+result: 听 名字 就 知道 了 | score: 7.395052 | root: 听
+不 老实 交代 拉 你 出去 枪毙
+result: 没 地方 | score: 5.773834 | root: 没
+result: 没有 意思 | score: 6.276086 | root: 没有
+result: 不要 拉 我 | score: 6.688427 | root: 拉
+result: 没有 的 | score: 6.940396 | root: 没有
+result: 没有 人 | score: 6.990283 | root: 没有
+不 是 说 法律 吗
+result: 看 出来 了 | score: 6.384826 | root: 看
+result: 你 可以 看 错 了 | score: 6.427947 | root: 看
+result: 你 看 错 了 | score: 6.890337 | root: 看
+result: 你 可以 看 出来 了 | score: 6.946923 | root: 看
+result: 看 出来 | score: 7.048583 | root: 看
+不 说实话 我 早晚 让 你 害 死
+result: 相信 你 最 好 的 | score: 5.781521 | root: 相信
+result: 你 相信 我 | score: 6.167641 | root: 相信
+result: 相信 你 最 好 | score: 6.198600 | root: 相信
+result: 相信 你 好 的 | score: 6.436903 | root: 相信
+result: 相信 你 最 好 了 | score: 6.554522 | root: 相信
+不 是 傻子 怎么 会 把 衣服 穿 反
+result: 不 能 这 样子 | score: 5.547860 | root: 能
+result: 能 这 样子 | score: 5.815131 | root: 能
+result: 不 能 这个 样子 | score: 5.880316 | root: 能
+result: 能 这个 样子 | score: 6.147586 | root: 能
+result: 搞 错 了 | score: 6.278856 | root: 搞
+不 是 喜欢 用 毒蛐 我 吗
+result: 喜欢 呀 | score: 5.655351 | root: 喜欢
+result: 你 可以 试 过 | score: 7.792905 | root: 试
+result: 讨厌 呀 | score: 7.895449 | root: 讨厌
+result: 我 很 喜欢 你 | score: 7.991729 | root: 喜欢
+result: 我 喜欢 你 | score: 8.112585 | root: 喜欢
+不 是 哑巴 就 说 一 句 话 咯
+result: 是 一 句 话 | score: 6.428773 | root: 是
+result: 不 是 一 句 话 | score: 6.497609 | root: 是
+result: 我 可是 说话 | score: 6.817128 | root: 说话
+result: 我 不 会 和 你 说话 | score: 6.931977 | root: 说话
+result: 不 想 说话 | score: 6.942305 | root: 想
+不 是 一直 是 你 带 我 混 的 吗 ？
+result: 放心 了 | score: 6.375799 | root: 放心
+result: 我 是 小微 | score: 7.474825 | root: 是
+result: 你 搞 错 | score: 7.597616 | root: 搞
+result: 搞 错 | score: 7.775869 | root: 搞
+result: 不 是 的 | score: 7.911956 | root: 是
+猜 我 心中 所 想 的 人物
+result: 你 想 看 | score: 6.388347 | root: 想
+result: 你 想 了解 你 | score: 7.173658 | root: 想
+result: 好 的 | score: 7.207034 | root: 好
+result: 好 呀 | score: 7.298528 | root: 好
+result: 你 想 就 知道 | score: 7.488310 | root: 想
+猜 我 有 没 有 在 谈 恋爱
+result: 我 还 小 ， 不能 谈 恋爱 | score: 6.286277 | root: 小
+result: 说 出来 | score: 6.486890 | root: 说
+result: 有 谈 恋爱 | score: 6.645197 | root: 有
+result: 有 谈 | score: 6.804595 | root: 有
+result: 你 说 谈 恋爱 | score: 6.884868 | root: 说
+才 发现 爱情 竟是 一 场 考验
+result: 有 把握 | score: 5.092922 | root: 有
+result: 有 机会 的 | score: 6.489510 | root: 有
+result: 有 机会 | score: 7.160996 | root: 有
+result: 相信 很 棒 | score: 7.200249 | root: 相信
+result: 相信 好 的 | score: 7.284246 | root: 相信
+才 给 我 买 了 五千 多 的 首饰 ， 没有 镯子
+result: 那 就 买 一个 试试 | score: 4.793567 | root: 买
+result: 那 就 买 一个 | score: 5.502201 | root: 买
+result: 你 可以 买 一个 试试 | score: 5.526085 | root: 买
+result: 那 就 买 一个 看看 | score: 5.685445 | root: 买
+result: 那 就 买 点 | score: 6.009154 | root: 买
+才 工作 了 半 年 左右 就 换 来 换 去
+result: 换 了 | score: 4.671401 | root: 换
+result: 换 成 | score: 6.138918 | root: 换
+result: 真是 独立 | score: 6.516456 | root: 真是
+result: 换 地方 | score: 6.639775 | root: 换
+result: 换 别的 地方 | score: 6.700371 | root: 换
+才华横溢 就 是 形容 我 。
+result: 不要 太 注重 外表 | score: 4.731431 | root: 注重
+result: 不要 这么 注重 外表 | score: 5.495608 | root: 注重
+result: 形容 你 | score: 5.611627 | root: 形容
+result: 不要 太 注重 别人 | score: 5.634637 | root: 注重
+result: 不要 注重 外表 | score: 6.024870 | root: 注重
+财迷 个 大头鬼
+result: <UNK> <UNK> | score: 6.287399 | root: <UNK>
+result: 不 可以 <UNK> | score: 6.944564 | root: <UNK>
+result: 还 真是 <UNK> | score: 7.157175 | root: <UNK>
+result: 你 可以 去 医院 看看 | score: 7.216065 | root: 去
+result: 还 真是 很 <UNK> | score: 7.423360 | root: <UNK>
+踩 着 七彩 祥云 去 娶 你
+result: 谢谢 你 的 祝福 | score: 5.443306 | root: 谢谢
+result: 相信 小微 | score: 5.857519 | root: 相信
+result: 真是 我 的 荣幸 | score: 6.008046 | root: 真是
+result: 这 可 不 是 我 的 荣幸 | score: 6.044774 | root: 是
+result: 谢谢 你 的 好意 | score: 6.749479 | root: 谢谢
+采桑归 西露 沾 我 衣 。
+result: 听 名字 | score: 6.932406 | root: 听
+result: 还 真是 <UNK> | score: 7.173420 | root: 真是
+result: 真是 <UNK> | score: 7.247311 | root: 真是
+result: <UNK> 是 谁 ？ | score: 7.421744 | root: 是
+result: 听 你 的 名字 | score: 7.439720 | root: 听
+蔡港林 是 备胎
+result: 不要 这样 说 别人 | score: 5.035393 | root: 说
+result: 不 是 的 | score: 5.975107 | root: 是
+result: 真是 我 的 荣幸 | score: 6.083552 | root: 真是
+result: 还 真是 我 的 荣幸 | score: 6.365417 | root: 真是
+result: 好 的 | score: 6.512984 | root: 好
+蔡伟聪 ， 我 喜欢 你
+result: 我 也 喜欢 你 | score: 4.343906 | root: 喜欢
+result: 喜欢 我 | score: 4.557821 | root: 喜欢
+result: 我 是 我 的 荣幸 | score: 4.915168 | root: 是
+result: 真是 我 的 荣幸 | score: 5.096838 | root: 真是
+result: 小微 也 是 我 的 荣幸 | score: 5.354919 | root: 是
+蔡伟 这个 娘娘腔 。
+result: 不要 这样 说 别人 | score: 6.209521 | root: 说
+result: <UNK> 是 谁 ？ | score: 8.232660 | root: 是
+result: 不 是 的 | score: 8.407886 | root: 是
+result: 真是 <UNK> | score: 8.458453 | root: 真是
+result: 不 可以 这样 说 别人 | score: 8.505591 | root: 说
+参加 别人 的 婚礼 好 感慨
+result: 那 就 祝福 你们 | score: 5.918489 | root: 祝福
+result: 那 就 祝福 你们 幸福 | score: 5.945194 | root: 祝福
+result: 真是 我 的 荣幸 | score: 6.444649 | root: 真是
+result: 真是 好 的 荣幸 | score: 6.644761 | root: 真是
+result: 祝福 你们 幸福 | score: 6.670860 | root: 祝福
+参见 陛下 ， 微臣 有 礼 了
+result: 真是 我 的 荣幸 | score: 5.738679 | root: 真是
+result: 还 真是 我 的 荣幸 | score: 6.404366 | root: 真是
+result: 那 就 叫 错 了 | score: 6.610156 | root: 叫
+result: <UNK> 了 | score: 7.029068 | root: <UNK>
+result: 是 不 是 很 高兴 ？ | score: 7.384928 | root: 是
+苍井空 和 波多野 结衣 更 喜欢 谁 一点
+result: 你 喜欢 哪个 | score: 6.322969 | root: 喜欢
+result: 那 就 <UNK> | score: 6.902311 | root: <UNK>
+result: 每个 人 都 喜欢 | score: 6.972121 | root: 喜欢
+result: <UNK> <UNK> | score: 7.089322 | root: <UNK>
+result: 还 真是 <UNK> | score: 7.315648 | root: <UNK>
+苍 老师 长 什么 样子
+result: 没 见 过 | score: 7.664146 | root: 见
+result: 我 可 没 见 过 | score: 7.861811 | root: 见
+result: 小微 知道 | score: 8.283695 | root: 知道
+result: <UNK> <UNK> | score: 8.379626 | root: <UNK>
+result: 小微 可 没 见 过 | score: 8.442096 | root: 见
+苍 老师 照片 没 穿 衣服 的
+result: 不要 这样 说 别人 | score: 6.131788 | root: 说
+result: 不要 这样 说 自己 | score: 7.668116 | root: 说
+result: 一定 会 有 机会 的 | score: 7.885851 | root: 有
+result: 就 知道 就 好 了 | score: 8.126918 | root: 知道
+result: 不要 说 别人 | score: 8.195840 | root: 说
+草泥马 又 回答 错误
+result: 请 你 说话 注意 一些 | score: 4.365143 | root: 请
+result: 注意 安全 | score: 5.439850 | root: 注意
+result: 请 你 说话 文明 一些 | score: 5.499117 | root: 请
+result: 请 讲 文明 | score: 5.542420 | root: 请
+result: 请 注意 你 的 素质 | score: 6.144208 | root: 请
+蹭蹭 你 平胸
+result: 不要 这样 说 别人 | score: 3.797784 | root: 说
+result: 不 可以 这样 说 别人 | score: 4.216661 | root: 说
+result: 不 可以 这样 说 出来 | score: 6.055418 | root: 说
+result: 不要 说 别人 | score: 6.081961 | root: 说
+result: 不 可以 说 别人 | score: 6.567306 | root: 说
+草泥马
+result: 不要 这样 骂 别人 | score: 4.856525 | root: 骂
+result: 不要 这样 说 别人 | score: 4.877055 | root: 说
+result: 请 你 说话 注意 文明 | score: 5.145403 | root: 请
+result: 不要 这样 骂 人 | score: 5.447511 | root: 骂
+result: 请 你 说话 文明 一些 | score: 5.596365 | root: 请
+茶叶 蛋 是 土豪 吃得起
+result: 还 真是 土豪 | score: 3.783828 | root: 真是
+result: 不要 这样 说 别人 | score: 3.938829 | root: 说
+result: 真是 土豪 | score: 4.933984 | root: 真是
+result: 土豪 我们 做 朋友 | score: 5.206596 | root: 做
+result: 不要 这样 做 朋友 | score: 5.332513 | root: 做
+岔开 你 的 腿 让 我 看看 那里 有 什么
+result: 看 一下 | score: 5.642024 | root: 看
+result: 你 可以 看 一下 | score: 6.217681 | root: 看
+result: 你 看 一下 | score: 6.383645 | root: 看
+result: 你 可以 看 出来 | score: 6.741603 | root: 看
+result: 好 的 | score: 6.746690 | root: 好
+尝尝 我 的 厉害
+result: 当然 是 很 厉害 的 | score: 6.144636 | root: 是
+result: 当然 是 很 厉害 | score: 6.160594 | root: 是
+result: 就 知道 你 的 厉害 | score: 6.313034 | root: 知道
+result: 就 知道 我 的 厉害 | score: 6.536973 | root: 知道
+result: 就 知道 你 的 厉害 了 | score: 6.837516 | root: 知道
+长大 后 才 发觉 天 是 黑 的
+result: 不要 这样 说 别人 | score: 5.883969 | root: 说
+result: 不要 这样 说 小微 | score: 6.878024 | root: 说
+result: 好 的 | score: 7.341680 | root: 好
+result: 可能 是 记 错 了 | score: 7.443065 | root: 是
+result: 就 知道 就 好 了 | score: 8.164927 | root: 知道
+车费 还 差 几 块 回 不 了 家
+result: 不 想 家 了 | score: 5.235776 | root: 想
+result: 那 就 回去 了 | score: 6.140437 | root: 回去
+result: 那 就 在 家里 | score: 6.264389 | root: 在
+result: 有 家 了 | score: 6.378949 | root: 有
+result: 不 想 了 | score: 6.515008 | root: 想
+扯淡 ， 我 能 甩 你 九 条 街
+result: 相信 你 可以 的 | score: 4.794313 | root: 相信
+result: 相信 我 | score: 5.388211 | root: 相信
+result: 相信 小微 | score: 5.608597 | root: 相信
+result: 不 可以 这样 说 别人 | score: 6.044981 | root: 说
+result: 相信 我 可以 的 | score: 6.187845 | root: 相信
+帮 我 叫 一个 大 保健
+result: <UNK> 是 谁 ？ | score: 6.448268 | root: 是
+result: 你 想 做 什么 ？ | score: 6.814886 | root: 想
+result: 你 想 做 什么 | score: 7.081567 | root: 想
+result: 想 做 什么 ？ | score: 7.182245 | root: 想
+result: 你 想 去 做 什么 ？ | score: 7.375273 | root: 想
+你 数学 是 体育 老师 教 的 吗 ？
+result: 这个 教 教 | score: 6.479772 | root: 教
+result: 这个 教 老师 教 | score: 6.844121 | root: 教
+result: 这个 教 教 我 | score: 6.936813 | root: 教
+result: 你 可以 教 教 | score: 7.039002 | root: 教
+result: 这个 教 给 小微 | score: 7.063580 | root: 教
+你 提出 话题 我们 聊天 好 不好
+result: 好 呀 | score: 5.002839 | root: 好
+result: 好 | score: 5.610569 | root: 好
+result: 换 话题 | score: 5.965286 | root: 换
+result: 好 的 | score: 6.166151 | root: 好
+result: 换 一个 话题 聊 | score: 6.184933 | root: 换
+最近 几 天 南方 降温
+result: 你 看看 就 知道 了 | score: 6.482525 | root: 看看
+result: 有 空调 | score: 6.649795 | root: 有
+result: 你 可以 看看 就 知道 了 | score: 6.796774 | root: 看看
+result: 你 可以 去 <UNK> | score: 7.111473 | root: 去
+result: 你 看看 日历 | score: 7.271254 | root: 看看
+我 朋友 叫 什么 名字 ？
+result: 这 是 小微 的 名字 | score: 5.317614 | root: 是
+result: 就 是 小微 的 名字 | score: 5.384309 | root: 是
+result: 这个 名字 是 小微 的 名字 | score: 5.510340 | root: 是
+result: 小微 是 小微 | score: 5.603800 | root: 是
+result: 小微 就 是 小微 | score: 5.650127 | root: 是
+请 赐予 我 无比 强大 的 性能力 吧
+result: 好 的 | score: 6.303153 | root: 好
+result: 相信 好 的 | score: 6.585980 | root: 相信
+result: 相信 一定 会 实现 的 | score: 6.592944 | root: 相信
+result: 相信 一定 会 好 的 | score: 6.725037 | root: 相信
+result: 相信 你 很 棒 | score: 6.791332 | root: 相信
+你 在 烦恼 什么
+result: 烦恼 了 | score: 4.707904 | root: 烦恼
+result: 有 烦恼 | score: 5.244129 | root: 有
+result: 我 有 烦恼 | score: 6.053836 | root: 有
+result: 烦恼 什么 | score: 6.105366 | root: 烦恼
+result: 我 是 在 和 你 聊天 | score: 6.265953 | root: 是
+那 感情 受挫 呢
+result: 有 感情 的 | score: 5.243802 | root: 有
+result: 有 感情 | score: 5.464757 | root: 有
+result: 一定 会 有 感情 的 | score: 5.845662 | root: 有
+result: 一定 会 有 感情 | score: 6.066617 | root: 有
+result: 每个 人 都 有 感情 的 | score: 6.147408 | root: 有
+地球 为何 是 圆 的
+result: 不 是 的 | score: 5.890609 | root: 是
+result: 不要 这样 说 别人 | score: 6.608507 | root: 说
+result: 就是 我家 的 | score: 6.707605 | root: 就是
+result: 你 想 多 了 | score: 7.110610 | root: 想
+result: 就是 我家 | score: 7.173392 | root: 就是
+那 你 解释 一下 量子 物理
+result: 好 的 | score: 4.591442 | root: 好
+result: 好 呀 | score: 4.920821 | root: 好
+result: 我 可 没有 学习 | score: 7.162454 | root: 没有
+result: 看 出来 | score: 7.730116 | root: 看
+result: 我 可 没有 能力 | score: 7.796282 | root: 没有
+有 什么 好看 的 喜剧 ？
+result: 当然 是 很 好看 的 | score: 6.682785 | root: 是
+result: 当然 是 好看 的 | score: 7.238772 | root: 是
+result: 你 可以 看 一下 | score: 7.436814 | root: 看
+result: 你 喜欢 哪个 | score: 7.533365 | root: 喜欢
+result: 当然 是 很 好看 | score: 7.581210 | root: 是
+你 是 我 知心 朋友
+result: 我 是 你 的 朋友 | score: 4.552143 | root: 是
+result: 我们 是 你 的 朋友 | score: 4.824833 | root: 是
+result: 小微 是 你 的 朋友 | score: 5.158299 | root: 是
+result: 我 是 我 的 朋友 | score: 5.490691 | root: 是
+result: 我们 是 我 的 朋友 | score: 5.763381 | root: 是
+我 只 想 有 个 真心 的 朋友
+result: 是 我 的 荣幸 | score: 5.794540 | root: 是
+result: 有 朋友 | score: 6.395937 | root: 有
+result: 做 朋友 | score: 6.448681 | root: 做
+result: 好 的 | score: 6.888617 | root: 好
+result: 那 就 做 朋友 | score: 6.969115 | root: 做
+云南 在 哪里 ？
+result: 当然 在 中国 | score: 5.076134 | root: 在
+result: 就 在 中国 | score: 5.417383 | root: 在
+result: 你 可以 去 这个 地方 | score: 5.535316 | root: 去
+result: 你 去 这个 地方 | score: 5.954255 | root: 去
+result: 你 要 去 这个 地方 | score: 6.038174 | root: 去
+世界 上 最高 的 山 是 什么
+result: 看 出来 | score: 5.709766 | root: 看
+result: <UNK> | score: 5.886009 | root: <UNK>
+result: 这个 得 看 出来 | score: 6.824881 | root: 看
+result: 这个 看 出来 | score: 6.852268 | root: 看
+result: 你 可以 看 出来 | score: 7.241032 | root: 看
