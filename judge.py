@@ -54,7 +54,7 @@ for basename in file_list:
                     line = line.strip().replace(' ', '')
                     if len(line) == 0:
                         continue
-                    if not '<END>' in line and not '<START>' in line:
+                    if not '<END>' in line and not '<START>' in line and not 'result' in line:
                         if '\t' in line:
                             tt = line.find('\t')
                             key = line[:tt]
@@ -70,9 +70,12 @@ for basename in file_list:
                         if '<START>' in line:
                             start_index = line.find('<START>') + len('<START>')
                             end_index = line.rfind('<EOF>')
-                        else:
+                        elif '<END>' in line:
                             start_index = line.find('<END>') + len('<END>')
                             end_index = line.rfind('<END>')
+                        else:
+                            start_index = line.find('result: ') + len('result: ')
+                            end_index = line.find('|')                            
                         v = line[start_index:end_index].strip()
                         if (key, v) in d:
                             label = d[(key, v)]
@@ -106,9 +109,10 @@ for basename in file_list:
         print '%s\t%d' % (k, v)
     for i, (acc, error) in enumerate(zip(top_acc, top_error)):
         print 'top %d acc: %f' % (i, acc / 1.0 / (acc + error))
-    print 'Error Rate:\t%f' % (count_dict['bad'] / 1.0 / total_data_count)
+    print 'Bad Rate:\t%f' % (count_dict['bad'] / 1.0 / total_data_count)
+    print 'Normal Rate:\t%f' % (count_dict['normal'] / 1.0 / total_data_count)
     print 'Good Rate:\t%f' % (count_dict['good'] / 1.0 / total_data_count)
-    print 'Not bad Rate:\t%f' % (not_bad_group_count / 1.0 / group_count)
+    print 'Not bad group Rate:\t%f' % (not_bad_group_count / 1.0 / group_count)
     print
 print 'All finished!'                   
                     

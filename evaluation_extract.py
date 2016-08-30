@@ -7,13 +7,13 @@ from collections import defaultdict
 
 import xlrd
 
-input_dir = 'xlsx/input/'
+input_dir = 'C:\\Users\\zgb\\git\\AutoJudge\\xlsx'
 
 query_answers = defaultdict(list)
 querys = set()
 files = os.listdir(input_dir)
 for f in files:
-    if os.path.isfile(input_dir + '/' + f):
+    if os.path.isfile(input_dir + '/' + f) and 'xls' in f:
         data = xlrd.open_workbook(input_dir + '/' + f)
         sheets_len = len(data.sheets())
         print f
@@ -26,14 +26,17 @@ for f in files:
                 query = table.cell(j, 0).value
                 query = query.strip()
                 label = str(table.cell(j, 1).value)
-                if ('<END>' in query or '<START>' in query) and len(question) > 0:
+                if ('<END>' in query or '<START>' in query or 'result:' in query) and len(question) > 0:
                     if label == 'normal' or label == 'good' or label == 'bad':
                         if '<START>' in query:
                             start_index = query.find('<START>') + len('<START>')
                             end_index = query.rfind('<EOF>')
-                        else:
+                        elif '<END>' in query:
                             start_index = query.find('<END>') + len('<END>')
                             end_index = query.rfind('<END>')
+                        else:
+                            start_index = query.find('result: ') + len('result: ')
+                            end_index = query.find('|')
                         query = query[start_index:end_index].strip()
                         query_answers[label + '_case'].append(question + '\t' + query)
                         querys.add(question)
