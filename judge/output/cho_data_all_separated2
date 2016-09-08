@@ -365,7 +365,7 @@
 <END>你喜欢看什么类型的<END>	normal
 <END>你是男的还是女的!<END>	bad
 天天锻炼身体好
-<END>天天锻炼身体好<END>	bad
+<END>天天锻炼身体好<END>	normal
 <END>锻炼身体锻炼身体<END>	normal
 <END>早睡早起身体好<END>	bad
 <END>天天锻炼身体!<END>	bad
@@ -531,7 +531,7 @@
 <END>平平淡淡才是真<END>	bad
 <END>祝我生日快乐<END>	normal
 <END>祝他生日快乐<END>	bad
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 生活中怎样感到开心快乐
 <END>和自己喜欢的人在一起!<END>	good
 <END>和自己喜欢的人在一起。<END>	normal
@@ -769,7 +769,7 @@
 能做什么菜
 <END>做自己喜欢的<END>	normal
 <END>做自己喜欢做的事<END>	bad
-<END>什么都可以做<END>	normal
+<END>什么都可以做<END>	good
 <END>做自己想做的<END>	normal
 <END>做有意义的事<END>	bad
 你会做什么菜
@@ -1283,7 +1283,7 @@ a股明天涨不涨
 <END>当然要休息啦<END>	normal
 <END>当然是午休啦<END>	normal
 咖啡机
-<END>咖啡咖啡<END>	bad
+<END>咖啡咖啡<END>	normal
 <END>美国咖啡<END>	bad
 <END>有咖啡因<END>	bad
 <END>咖啡和咖啡<END>	bad

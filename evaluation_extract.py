@@ -7,7 +7,7 @@ from collections import defaultdict
 
 import xlrd
 
-input_dir = 'C:\\Users\\zgb\\git\\AutoJudge\\xlsx'
+input_dir = 'xlsx/input'
 
 query_answers = defaultdict(list)
 querys = set()

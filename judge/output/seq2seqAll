@@ -191,7 +191,7 @@
 <END>天上有多少颗星星<END>	bad
 <END>无数颗数不清<END>	normal
 今天天气不好
-<END>今天天气不好<END>	bad
+<END>今天天气不好<END>	normal
 <END>今天天气怎么样<END>	bad
 <END>今天天气很好啊<END>	normal
 <END>今天天气怎么样啊？<END>	bad
@@ -275,7 +275,7 @@
 <END>我给你发给你看看吧<END>	normal
 <END>为什么要给我发图片？<END>	bad
 天天锻炼身体好
-<END>锻炼身体<END>	bad
+<END>锻炼身体<END>	normal
 <END>早点休息<END>	bad
 <END>好好锻炼<END>	normal
 <END>天天锻炼身体<END>	normal
@@ -289,7 +289,7 @@
 我问的不是这个意思
 <END>我不明白你要说什么。<END>	normal
 <END>什么意思<END>	normal
-<END>就是这个意思<END>	normal
+<END>就是这个意思<END>	good
 <END>为什么这么说<END>	bad
 <END>不是这个意思吗<END>	normal
 完全不知道你在说啥
@@ -441,7 +441,7 @@
 <END>谢谢你的祝福<END>	good
 <END>谢谢<END>	normal
 <END>谢谢你的祝福呀呵呵<END>	normal
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 生活中怎样感到开心快乐
 <END>做自己想做的事<END>	normal
 <END>知足者常乐<END>	normal
@@ -740,7 +740,7 @@
 <END>/饭<END>	bad
 <END>/饭/饭<END>	bad
 <END>不吃<END>	bad
-<END>吃饭了<END>	bad
+<END>吃饭了<END>	normal
 <END>/饭/啤酒<END>	bad
 动车是怎么跑起来的
 <END>跑的最快<END>	bad
@@ -1014,7 +1014,7 @@ a股明天涨不涨
 <END>为什么不能结婚<END>	bad
 你会开车吗
 <END>不会<END>	normal
-<END>我不会开车的<END>	normal
+<END>我不会开车的<END>	good
 <END>当然会啦。<END>	normal
 <END>我不会开车啊。<END>	good
 <END>我不会开车的哦。<END>	normal
@@ -1619,7 +1619,7 @@ a股明天涨不涨
 <END>原来是备胎<END>	normal
 <END>不是备胎<END>	good
 蔡伟聪，我喜欢你
-<END>我也喜欢你<END>	bad
+<END>我也喜欢你<END>	good
 <END>我也很喜欢你呢<END>	bad
 <END>你喜欢我什么呀？<END>	bad
 <END>你觉得我聪明么？<END>	bad

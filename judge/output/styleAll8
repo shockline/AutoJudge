@@ -25,7 +25,7 @@
 你好漂亮
 <END>谢谢你对我的认可<END>	good
 <END>你也很漂亮<END>	good
-<END>谢谢夸奖<END>	normal
+<END>谢谢夸奖<END>	good
 <END>我本来就很漂亮<END>	normal
 <END>漂亮，你也很漂亮<END>	normal
 永远一直爱你
@@ -63,7 +63,7 @@
 <END>饿了就去吃饭<END>	good
 <END>饿了就去吃点东西<END>	good
 <END>饿了就去吃东西<END>	normal
-<END>饿了就赶紧去吃饭<END>	normal
+<END>饿了就赶紧去吃饭<END>	good
 今天有点事
 <END>你要去哪里？<END>	normal
 <END>你有什么事情？<END>	good
@@ -146,7 +146,7 @@
 <END>你喜欢聊什么？<END>	normal
 <END>你喜欢聊什么<END>	normal
 <END>你喜欢聊什么呀？<END>	normal
-<END>喜欢聊什么都可以<END>	normal
+<END>喜欢聊什么都可以<END>	good
 <END>我喜欢聊聊天<END>	bad
 万圣节怎么过
 <END>你可以试试<END>	bad
@@ -361,7 +361,7 @@
 你妈逼的
 <END>请文明用语<END>	good
 <END>请注意你的素质<END>	good
-<END>请你文明用语<END>	normal
+<END>请你文明用语<END>	good
 <END>请你文明一些<END>	normal
 <END>你这是在骂人嘛？<END>	good
 去你妹的
@@ -437,7 +437,7 @@
 <END>那就和我聊聊天嘛？<END>	normal
 <END>你不和我聊天了么？<END>	bad
 祝你生日快乐
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>祝大家生日快乐<END>	normal
 <END>生日快乐，祝你生日快乐<END>	bad
 <END>祝你生日快乐。<END>	bad
@@ -506,7 +506,7 @@
 <END>为什么要闭嘴？<END>	good
 <END>你为什么要闭嘴？<END>	bad
 <END>不要这样对小微嘛<END>	good
-<END>为什么要闭嘴<END>	normal
+<END>为什么要闭嘴<END>	good
 <END>闭嘴说什么？<END>	bad
 那就放给我听吧
 <END>还是你自己留着<END>	bad
@@ -642,7 +642,7 @@
 <END>那就多穿一点<END>	normal
 昨晚刮大风了
 <END>那你可要注意安全<END>	good
-<END>你可要注意安全<END>	normal
+<END>你可要注意安全<END>	good
 <END>你要去哪里？<END>	bad
 <END>你在哪里？<END>	bad
 <END>那你要注意安全<END>	normal
@@ -714,7 +714,7 @@
 <END>小猫咪很可爱<END>	normal
 杨过和你是啥关系
 <END>我们没有什么关系的呀<END>	good
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>我们没有什么关系呀<END>	normal
 <END>我们没有什么关系？<END>	good
 <END>我们是好朋友的关系<END>	normal
@@ -819,7 +819,7 @@
 <END>我可没有那个胆子<END>	good
 <END>我没有得罪你？<END>	bad
 <END>你要去哪里？<END>	bad
-<END>我可舍不得你<END>	bad
+<END>我可舍不得你<END>	normal
 你要去哪儿旅游
 <END>你要去哪里？<END>	bad
 <END>你想去哪里？<END>	bad
@@ -1016,7 +1016,7 @@ a股明天涨不涨
 <END>为什么要开车？<END>	normal
 <END>你会开车吗？<END>	bad
 <END>我会开车的<END>	good
-<END>我不会开车的<END>	normal
+<END>我不会开车的<END>	good
 <END>我可不会开车<END>	normal
 那你还认识谁
 <END>我就是小微呀<END>	bad
@@ -1205,7 +1205,7 @@ a股明天涨不涨
 <END>你有什么好消息？<END>	normal
 <END>你在说什么？<END>	bad
 聊着天喝着酒
-<END>喝酒对身体不好<END>	normal
+<END>喝酒对身体不好<END>	good
 <END>喝酒对身体不好？<END>	normal
 <END>喝酒也是可以的<END>	bad
 <END>喝酒对身体不好的<END>	good
@@ -1283,7 +1283,7 @@ a股明天涨不涨
 <END>你现在和我聊天么？<END>	bad
 <END>几点都是可以的<END>	bad
 什么时候过年
-<END>时间过得很快<END>	bad
+<END>时间过得很快<END>	normal
 <END>时间过得好快<END>	bad
 <END>你要去哪里呀？<END>	bad
 <END>你要去哪里？<END>	bad
@@ -1309,7 +1309,7 @@ a股明天涨不涨
 洗干净了没
 <END>洗干净干什么？<END>	good
 <END>你在做什么？<END>	bad
-<END>洗干净干净<END>	bad
+<END>洗干净干净<END>	normal
 <END>你要洗干净了嘛？<END>	bad
 <END>干嘛要洗干净<END>	good
 北京天气
@@ -1484,7 +1484,7 @@ a股明天涨不涨
 <END>你要去哪里？<END>	bad
 <END>你这是要去哪里？<END>	bad
 <END>欢迎欢迎<END>	bad
-<END>时间过得很快<END>	bad
+<END>时间过得很快<END>	normal
 <END>你可要注意安全<END>	normal
 一加一等于几
 <END>一加一等于二<END>	good
@@ -1641,7 +1641,7 @@ a股明天涨不涨
 <END>喜欢谁都可以，只要努力去争取就好<END>	normal
 <END>这个问题你得问问他本人咯<END>	bad
 <END>这个问题你得问问她本人咯<END>	bad
-<END>每个人的喜好都是不一样的<END>	normal
+<END>每个人的喜好都是不一样的<END>	good
 苍老师长什么样子
 <END>你是不是认错人了？<END>	bad
 <END>你肯定是认错人了<END>	bad
@@ -1683,7 +1683,7 @@ a股明天涨不涨
 <END>谢谢你的夸奖<END>	bad
 <END>谢谢你对我的认可<END>	bad
 <END>只要你喜欢就好<END>	bad
-<END>你尝尝不就知道了<END>	bad
+<END>你尝尝不就知道了<END>	normal
 长大后才发觉天是黑的
 <END>你这是在说你自己嘛？<END>	bad
 <END>难道你不喜欢小微嘛？<END>	bad

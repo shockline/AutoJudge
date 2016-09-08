@@ -104,7 +104,7 @@
 <END>当然我会一直陪着你的<END>	bad
 <END>我会一直陪着你聊天的<END>	bad
 <END>有什么事情和我说说。<END>	bad
-<END>我会一直陪你聊天的<END>	bad
+<END>我会一直陪你聊天的<END>	normal
 <END>你有什么想法了么<END>	bad
 你喜欢聊什么
 <END>你想聊什么就聊什么<END>	good
@@ -121,7 +121,7 @@
 我先去睡觉了
 <END>去睡觉，做个好梦<END>	good
 <END>好，那你睡觉去<END>	normal
-<END>好的，早点休息<END>	normal
+<END>好的，早点休息<END>	good
 <END>好的，那你睡觉去<END>	normal
 <END>好，那你睡觉<END>	normal
 老板不给发工资怎么办
@@ -278,7 +278,7 @@
 <END>不要这么说我<END>	good
 <END>不要这么说我嘛<END>	normal
 <END>我可是很聪明的<END>	good
-<END>我很聪明的<END>	normal
+<END>我很聪明的<END>	good
 <END>不要这么说我呀<END>	normal
 我他妈宰了你
 <END>不要对我这么粗鲁<END>	good
@@ -326,7 +326,7 @@
 <END>请注意你的素质<END>	good
 <END>请文明用语<END>	good
 <END>请你说话注意素质<END>	good
-<END>请你文明用语<END>	normal
+<END>请你文明用语<END>	good
 <END>要做个讲文明的好公民<END>	normal
 去你妹的
 <END>我没有妹妹的<END>	good
@@ -357,7 +357,7 @@
 <END>祝你考个好成绩<END>	bad
 <END>老师是个不错的职业<END>	bad
 <END>老师是个好学生<END>	good
-<END>老师是个不错的老师<END>	bad
+<END>老师是个不错的老师<END>	normal
 我昨天找过你了
 <END>我做错了什么呀？<END>	bad
 <END>好的，记得找我<END>	bad
@@ -389,7 +389,7 @@
 <END>那你要注意安全。<END>	good
 <END>那你要注意安全咯<END>	normal
 大早上就无聊啊，想找点事干
-<END>那就找点有意义的事情做<END>	normal
+<END>那就找点有意义的事情做<END>	good
 <END>那就找点有意义的事情做呗<END>	normal
 <END>那就找点有意义的事情来做<END>	normal
 <END>那就找点有意义的事情呗<END>	normal
@@ -402,7 +402,7 @@
 <END>睡不着就跟我聊天喽<END>	normal
 祝你生日快乐
 <END>祝我生日快乐<END>	normal
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>祝你生日快乐。<END>	bad
 <END>祝我生日快乐。<END>	normal
 <END>你也祝我生日快乐<END>	bad
@@ -552,7 +552,7 @@
 <END>我没有过过，不要这么说<END>	bad
 我永远都在你身边
 <END>我一直都在你身边。<END>	normal
-<END>我会一直在你身边的<END>	normal
+<END>我会一直在你身边的<END>	good
 <END>我会永远陪着你的<END>	good
 <END>我一直都在你身边呀<END>	normal
 <END>可是我会一直陪着你的<END>	bad
@@ -590,7 +590,7 @@
 <END>无聊就来找我聊天<END>	bad
 <END>和我聊天就不无聊了<END>	normal
 <END>那我陪你聊天<END>	bad
-<END>我可以陪你聊天的<END>	bad
+<END>我可以陪你聊天的<END>	normal
 <END>怎么会无聊了<END>	normal
 肚子右边隐隐作痛
 <END>那就慢慢摸就好了<END>	bad
@@ -601,7 +601,7 @@
 外面很气冷
 <END>那就多穿点<END>	normal
 <END>那就多穿点衣服<END>	good
-<END>冷就多穿点衣服<END>	normal
+<END>冷就多穿点衣服<END>	good
 <END>冷就多穿一点<END>	good
 <END>冷就多穿点<END>	good
 昨晚刮大风了
@@ -655,11 +655,11 @@
 吃了什么
 <END>想吃什么就吃什么<END>	normal
 <END>你想吃什么就吃什么<END>	normal
-<END>想吃什么就吃什么呗<END>	bad
-<END>你想吃什么都可以<END>	bad
+<END>想吃什么就吃什么呗<END>	normal
+<END>你想吃什么都可以<END>	normal
 <END>想吃什么你就吃什么<END>	bad
 不给你喝
-<END>我不会喝酒的<END>	normal
+<END>我不会喝酒的<END>	good
 <END>喝酒对身体不好<END>	normal
 <END>不喝那就不要喝了<END>	good
 <END>我可是不会喝酒的<END>	normal
@@ -713,10 +713,10 @@
 <END>跑起来也不是很快的<END>	bad
 <END>我从来不玩这个游戏。<END>	bad
 学挖掘技术哪家强
-<END>中国山东找山东找蓝翔<END>	bad
-<END>中国山东找山东找蓝翔<END>	bad
+<END>中国山东找山东找蓝翔<END>	normal
+<END>中国山东找山东找蓝翔<END>	normal
 <END>挖掘机就找蓝翔<END>	good
-<END>中国山东找山东找蓝翔<END>	bad
+<END>中国山东找山东找蓝翔<END>	normal
 <END>我不知道你学学。<END>	bad
 抽根烟冷静一下
 <END>吸烟有害健康的<END>	good
@@ -1049,7 +1049,7 @@ a股明天涨不涨
 <END>我觉得挺好看的呀<END>	good
 <END>我觉得挺好看的<END>	normal
 不喜欢看小说
-<END>我也很喜欢看小说<END>	bad
+<END>我也很喜欢看小说<END>	normal
 <END>我也喜欢看小说<END>	bad
 <END>我还没有看过<END>	normal
 <END>我都没有看过<END>	normal
@@ -1153,7 +1153,7 @@ a股明天涨不涨
 中午要午休了
 <END>午休要好好休息<END>	normal
 <END>那就好好的休息<END>	good
-<END>那就好好休息<END>	normal
+<END>那就好好休息<END>	good
 <END>午午午好好休息<END>	bad
 <END>午休要好好休息<END>	normal
 咖啡机
@@ -1247,8 +1247,8 @@ a股明天涨不涨
 <END>我一定会准时的<END>	bad
 <END>时间过的很快的呀<END>	bad
 什么时候过年
-<END>时间过得很快<END>	bad
-<END>时间过的很快<END>	bad
+<END>时间过得很快<END>	normal
+<END>时间过的很快<END>	normal
 <END>时间过的可真快<END>	bad
 <END>国庆节快乐。<END>	bad
 <END>时间过得很快的<END>	bad
@@ -1373,8 +1373,8 @@ a股明天涨不涨
 <END>祝福你好运<END>	bad
 <END>那就好好的休息<END>	bad
 你害怕什么
-<END>我胆子很小的<END>	bad
-<END>我胆子很小的<END>	bad
+<END>我胆子很小的<END>	normal
+<END>我胆子很小的<END>	normal
 <END>我可是很坚强的<END>	bad
 <END>我很坚强的<END>	normal
 <END>我可是无所不能的<END>	bad
@@ -1566,7 +1566,7 @@ a股明天涨不涨
 <END>我真的好想见到你。<END>	bad
 采桑归西露沾我衣。
 <END>我不明白你要说什么。<END>	normal
-<END>我不知道你在说什么。<END>	bad
+<END>我不知道你在说什么。<END>	normal
 <END>我不懂你在说什么。<END>	bad
 <END>我还小，不懂你说的意思。<END>	normal
 <END>你是不是认错人了？<END>	bad
@@ -1646,7 +1646,7 @@ a股明天涨不涨
 <END>你的口味好重<END>	bad
 <END>你的口味可真重<END>	bad
 <END>你的口味好重呀<END>	bad
-<END>你尝尝不就知道了<END>	bad
+<END>你尝尝不就知道了<END>	normal
 <END>好吃就多吃点<END>	bad
 长大后才发觉天是黑的
 <END>你怎么能这么说呀？<END>	bad
@@ -1722,7 +1722,7 @@ a股明天涨不涨
 <END>你是在说自己吗<END>	bad
 那你解释一下量子物理
 <END>我一定会好好研究的<END>	bad
-<END>我一定会好好学习的<END>	bad
+<END>我一定会好好学习的<END>	normal
 <END>我一定会好好改正的<END>	bad
 <END>我一定会好好研究的。<END>	bad
 <END>我一定会好好学习的。<END>	bad
