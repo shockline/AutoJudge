@@ -128,7 +128,7 @@
 <END>喜欢就喜欢<END>	bad
 <END>我不喜欢你<END>	normal
 <END>不喜欢就不喜欢<END>	normal
-<END>我很喜欢你<END>	normal
+<END>我很喜欢你<END>	good
 <END>一切皆有可能<END>	unknown
 你是不是快死了
 <END>快死了就是死了<END>	bad
@@ -1277,7 +1277,7 @@ a股明天涨不涨
 <END>应该是休息吧<END>	unknown
 <END>晚上早点休息<END>	unknown
 咖啡机
-<END>咖啡咖啡<END>	bad
+<END>咖啡咖啡<END>	normal
 <END>没听说过<END>	bad
 <END>做梦的时候<END>	bad
 <END>咖啡+咖啡<END>	unknown
@@ -1741,7 +1741,7 @@ a股明天涨不涨
 尝尝我的厉害
 <END>一切皆有可能<END>	bad
 <END>我觉得很厉害<END>	bad
-<END>我认为很厉害<END>	unknown
+<END>我认为很厉害<END>	bad
 <END>当然是姚明了<END>	unknown
 <END>你说的是什么<END>	unknown
 长大后才发觉天是黑的

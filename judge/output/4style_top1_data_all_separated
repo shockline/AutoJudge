@@ -128,7 +128,7 @@
 <END>喜欢就喜欢<END>	bad
 <END>我不喜欢你<END>	normal
 <END>不喜欢就不喜欢<END>	normal
-<END>我很喜欢你<END>	normal
+<END>我很喜欢你<END>	good
 <END>他不喜欢你<END>	bad
 你是不是快死了
 <END>快死了就是死了<END>	bad
@@ -967,7 +967,7 @@
 三里屯优衣库
 <END>科比布莱恩特<END>	bad
 <END>中华人民共和国<END>	bad
-<END>你可以去看看<END>	unknown
+<END>你可以去看看<END>	normal
 <END>戴尔布莱恩特<END>	unknown
 <END>去当地派出所<END>	unknown
 心里不好受怎么办
@@ -1277,7 +1277,7 @@ a股明天涨不涨
 <END>一定要休息了<END>	unknown
 <END>当然是休息了<END>	normal
 咖啡机
-<END>咖啡咖啡<END>	bad
+<END>咖啡咖啡<END>	normal
 <END>没听说过<END>	bad
 <END>咖啡+咖啡<END>	unknown
 <END>没问题的<END>	unknown
@@ -1741,7 +1741,7 @@ a股明天涨不涨
 尝尝我的厉害
 <END>一切皆有可能<END>	bad
 <END>我觉得很厉害<END>	bad
-<END>我认为很厉害<END>	unknown
+<END>我认为很厉害<END>	bad
 <END>当然是姚明了<END>	unknown
 <END>当然是厉害了<END>	unknown
 长大后才发觉天是黑的

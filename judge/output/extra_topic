@@ -21,7 +21,7 @@
 <END>谢谢夸奖呵呵<END>	normal
 <END>多谢夸奖。<END>	good
 <END>谢谢主人的夸奖呵呵<END>	good
-<END>谢谢夸奖<END>	normal
+<END>谢谢夸奖<END>	good
 永远一直爱你
 <END>我也爱你。<END>	good
 <END>谢谢你的爱呵呵<END>	normal
@@ -197,7 +197,7 @@
 <END>天气晴朗。<END>	normal
 <END>嗯，好的，我知道了。<END>	normal
 北风嗖嗖的吹
-<END>我不明白你要说什么。<END>	bad
+<END>我不明白你要说什么。<END>	normal
 <END>主人，快从火星上回来吧。<END>	bad
 <END>哦，我知道了。<END>	good
 <END>听不懂你在说什么。<END>	bad

@@ -129,7 +129,7 @@
 <END>我不喜欢你<END>	normal
 <END>当然喜欢啊<END>	bad
 <END>不喜欢就不喜欢<END>	normal
-<END>我很喜欢你<END>	normal
+<END>我很喜欢你<END>	good
 你是不是快死了
 <END>快死了就是死了<END>	bad
 <END>死了就是快死了<END>	normal
@@ -1278,7 +1278,7 @@ a股明天涨不涨
 <END>吃了休息休息<END>	bad
 咖啡机
 <END>一切皆有可能<END>	bad
-<END>咖啡咖啡<END>	bad
+<END>咖啡咖啡<END>	normal
 <END>放松心情<END>	bad
 <END>没听说过<END>	bad
 <END>做梦的时候<END>	bad

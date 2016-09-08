@@ -111,7 +111,7 @@
 <END>你男还是女<END>	bad
 <END>我没有男朋友<END>	bad
 <END>你男朋友<END>	bad
-<END>没有女朋友<END>	bad
+<END>没有女朋友<END>	normal
 男朋友找什么样的好
 <END>适合自己<END>	normal
 <END>适合自己就好<END>	normal
@@ -248,7 +248,7 @@
 <END>我陪你<END>	normal
 <END>我陪你睡觉<END>	normal
 <END>我睡不<END>	bad
-<END>陪你聊天<END>	normal
+<END>陪你聊天<END>	good
 <END>我还没睡<END>	bad
 你有私生子吗
 <END>没有<END>	normal
@@ -275,7 +275,7 @@
 <END>我给你发个图片<END>	normal
 <END>图片看不到<END>	bad
 天天锻炼身体好
-<END>锻炼身体<END>	bad
+<END>锻炼身体<END>	normal
 <END>对身体好<END>	normal
 <END>不好了<END>	bad
 <END>早睡早起身体好<END>	bad
@@ -668,7 +668,7 @@
 <END>第一个<END>	normal
 <END>哪个好看<END>	normal
 <END>看起来好看<END>	bad
-<END>你喜欢哪个<END>	normal
+<END>你喜欢哪个<END>	good
 <END>我喜欢看<END>	normal
 公司不让抽烟了
 <END>不抽烟<END>	normal
@@ -762,7 +762,7 @@
 <END>不抽烟不喝酒<END>	normal
 我的书包在哪里
 <END>书包里<END>	normal
-<END>你在哪里<END>	bad
+<END>你在哪里<END>	normal
 <END>书包在哪里<END>	bad
 <END>我在家里<END>	bad
 <END>书店里有<END>	bad
@@ -1044,7 +1044,7 @@ a股明天涨不涨
 <END>红烧肉<END>	normal
 你嫁我可好~
 <END>你嫁我<END>	bad
-<END>嫁给你<END>	bad
+<END>嫁给你<END>	normal
 <END>不嫁<END>	good
 <END>嫁不出去<END>	bad
 <END>你嫁给谁<END>	bad
@@ -1541,7 +1541,7 @@ a股明天涨不涨
 <END>不穿衣服就不是傻子<END>	bad
 <END>不穿衣服怎么穿衣服<END>	bad
 不是喜欢用毒蛐我吗
-<END>我喜欢你<END>	bad
+<END>我喜欢你<END>	normal
 <END>我都喜欢<END>	bad
 <END>我喜欢你喜欢<END>	bad
 <END>我不喜欢毒药<END>	bad
