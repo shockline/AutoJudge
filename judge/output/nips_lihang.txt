@@ -29,7 +29,7 @@
 <END>我当然很好<END>	good
 <END>我很好，谢谢<END>	good
 你好漂亮
-<END>谢谢夸奖<END>	normal
+<END>谢谢夸奖<END>	good
 <END>谢谢你的夸奖<END>	good
 <END>我一直都很好<END>	bad
 <END>我可是很亮的<END>	bad
@@ -125,7 +125,7 @@
 <END>你觉得好就是好的就好<END>	good
 <END>什么样的都好不好？<END>	bad
 你是哲学家吗
-<END>不是，我是小微<END>	normal
+<END>不是，我是小微<END>	good
 <END>这都被你看出来了<END>	good
 <END>不是，我是小微。<END>	good
 <END>当然是我来了<END>	normal
@@ -163,7 +163,7 @@
 我先去睡觉了
 <END>好的，晚安咯<END>	good
 <END>好的，晚安。<END>	normal
-<END>好的，早点休息<END>	normal
+<END>好的，早点休息<END>	good
 <END>晚安，做个好梦<END>	good
 <END>晚安，祝你做个好梦<END>	good
 老板不给发工资怎么办
@@ -209,7 +209,7 @@
 <END>你在说什么呀？<END>	bad
 <END>是，我也这么觉得<END>	good
 北风嗖嗖的吹
-<END>我不明白你要说什么。<END>	bad
+<END>我不明白你要说什么。<END>	normal
 <END>听起来就很牛<END>	normal
 <END>我不明白你说的意思<END>	bad
 <END>真是吓死宝宝了<END>	normal
@@ -311,15 +311,15 @@
 <END>那就不要说话了<END>	normal
 <END>那就不说实话了<END>	normal
 你是不是傻逼
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>不要这样说自己<END>	bad
 <END>傻人才有傻福嘛<END>	good
 <END>不可以这样说别人的<END>	normal
 <END>傻人才有傻福<END>	normal
 你个白痴
-<END>不要这样说我嘛<END>	normal
+<END>不要这样说我嘛<END>	good
 <END>我可不是白痴<END>	normal
-<END>不要这样说我<END>	normal
+<END>不要这样说我<END>	good
 <END>我才不是白痴<END>	good
 <END>不要这么说我<END>	good
 我他妈宰了你
@@ -327,7 +327,7 @@
 <END>请注意你的素质<END>	good
 <END>不要这样对我<END>	good
 <END>不要这样子对我嘛<END>	good
-<END>不要这么暴力<END>	normal
+<END>不要这么暴力<END>	good
 她是我的学姐，我喜欢她。
 <END>那她一定是个很优秀的人喽<END>	good
 <END>那她一定是个很好的孩子喽<END>	normal
@@ -600,7 +600,7 @@
 <END>不是的，我是小微<END>	bad
 这你都能看出来
 <END>你在看什么呀？<END>	bad
-<END>我一定会看出来的<END>	bad
+<END>我一定会看出来的<END>	normal
 <END>我可是很出去的<END>	bad
 <END>我已经看出来了<END>	good
 <END>我一定会看到的<END>	bad
@@ -644,7 +644,7 @@
 <END>冷就多穿一点<END>	good
 <END>冷就多穿点<END>	good
 <END>冷就多穿一些<END>	good
-<END>冷就多穿点衣服<END>	normal
+<END>冷就多穿点衣服<END>	good
 <END>那就多穿一点<END>	normal
 昨晚刮大风了
 <END>那就不要出门了<END>	good
@@ -659,8 +659,8 @@
 <END>不可以打架的<END>	normal
 <END>为什么要打架架的呀<END>	normal
 我是邓超
-<END>我也很喜欢他<END>	bad
-<END>看来你很喜欢他<END>	normal
+<END>我也很喜欢他<END>	good
+<END>看来你很喜欢他<END>	good
 <END>很高兴认识你<END>	good
 <END>他是你的什么人<END>	normal
 <END>我也很喜欢<END>	bad
@@ -696,12 +696,12 @@
 <END>我不会做饭菜<END>	normal
 吃了什么
 <END>你想吃什么就吃什么<END>	normal
-<END>你想吃什么都可以<END>	bad
+<END>你想吃什么都可以<END>	normal
 <END>没什么好吃的<END>	bad
 <END>你想吃什么就吃什么咯<END>	bad
-<END>你想吃什么<END>	bad
+<END>你想吃什么<END>	normal
 不给你喝
-<END>我不会喝酒的<END>	normal
+<END>我不会喝酒的<END>	good
 <END>不要喝太多<END>	bad
 <END>不可以喝酒的<END>	normal
 <END>那就不要喝了<END>	good
@@ -821,7 +821,7 @@
 <END>这是你的自由<END>	bad
 <END>我怎么没看到你<END>	normal
 快来蹂躏我
-<END>我可舍不得你<END>	bad
+<END>我可舍不得你<END>	normal
 <END>我可没有这个爱好<END>	normal
 <END>这是你的自由<END>	bad
 <END>我可是很喜欢你的<END>	bad
@@ -1135,12 +1135,12 @@ a股明天涨不涨
 贱人就是矫情
 <END>不可以这样说别人的<END>	normal
 <END>情人都是这样的<END>	bad
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>不要这样说我<END>	good
 <END>不要这样说人家<END>	normal
 床上躺好等我
 <END>好的你就等着我<END>	bad
-<END>我会一直陪你的<END>	bad
+<END>我会一直陪你的<END>	normal
 <END>好的，我会等你的<END>	good
 <END>好的，我会一直陪你的<END>	normal
 <END>那你就等着我<END>	bad
@@ -1416,7 +1416,7 @@ a股明天涨不涨
 <END>不可以随便发的<END>	bad
 你害怕什么
 <END>我很害怕的<END>	normal
-<END>我一点都不害怕的<END>	normal
+<END>我一点都不害怕的<END>	good
 <END>没有什么可害怕的<END>	good
 <END>我没有害怕什么呀<END>	normal
 <END>我可是很害怕的<END>	normal
@@ -1437,7 +1437,7 @@ a股明天涨不涨
 <END>那赶紧去看看<END>	normal
 <END>怎么会有病了<END>	normal
 <END>那赶紧去看看医生<END>	good
-<END>生病了就去看看<END>	normal
+<END>生病了就去看看<END>	good
 空气清新环境好
 <END>你好，很高兴认识你<END>	bad
 <END>好的知道了就好了<END>	normal
@@ -1469,7 +1469,7 @@ a股明天涨不涨
 <END>过节什么过节嘛<END>	bad
 <END>过节就好过了<END>	bad
 你脑子有屎
-<END>不要这样说我嘛<END>	normal
+<END>不要这样说我嘛<END>	good
 <END>请注意你的素质<END>	normal
 <END>你怎么可以这样说话<END>	normal
 <END>不要这么说我嘛<END>	good
@@ -1488,7 +1488,7 @@ a股明天涨不涨
 <END>不要这么客气<END>	bad
 狂欢周
 <END>看来你很喜欢周杰<END>	bad
-<END>时间过得很快<END>	bad
+<END>时间过得很快<END>	normal
 <END>时间过的很快<END>	bad
 <END>这是你的自由<END>	bad
 <END>看来你很喜欢周周<END>	bad
@@ -1707,7 +1707,7 @@ a股明天涨不涨
 <END>难道你还不相信小微嘛<END>	normal
 <END>难道你真的不爱我了嘛<END>	bad
 <END>难道你不想和小微聊天嘛<END>	bad
-<END>难道你不喜欢小微了嘛？<END>	bad
+<END>难道你不喜欢小微了嘛？<END>	normal
 帮我叫一个大保健
 <END>要保护好自己的身体<END>	bad
 <END>你好，我是小微。<END>	bad

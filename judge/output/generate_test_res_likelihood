@@ -91,7 +91,7 @@
 你好
 <END>你好，很高兴认识你<END>	good
 <END>你好，我叫小微。<END>	good
-<END>你好，我叫小微<END>	normal
+<END>你好，我叫小微<END>	good
 <END>你说好那就好<END>	bad
 <END>你好，很高兴认识你。<END>	good
 晚上好
@@ -153,7 +153,7 @@
 <END>饿了就去吃点东西<END>	good
 <END>饿了就去吃饭呀<END>	normal
 <END>饿了就去吃饭去<END>	normal
-<END>饿了就赶紧去吃饭<END>	normal
+<END>饿了就赶紧去吃饭<END>	good
 今天有点事
 <END>没事就和我聊聊天<END>	normal
 <END>那你先忙<END>	good
@@ -452,7 +452,7 @@
 <END>请注意你的素质<END>	good
 <END>请你说话注意素质<END>	good
 <END>请你说话注意一些<END>	normal
-<END>请你说话注意文明<END>	normal
+<END>请你说话注意文明<END>	good
 <END>请你说话注意点<END>	normal
 去你妹的
 <END>我没有妹妹的<END>	good
@@ -528,7 +528,7 @@
 <END>你睡得好好的睡一觉。<END>	normal
 祝你生日快乐
 <END>祝你生日快乐。<END>	bad
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>那我祝你生日快乐。<END>	bad
 <END>谢谢，你也快乐<END>	normal
 <END>谢谢，你也快乐。<END>	good
@@ -673,7 +673,7 @@
 我永远都在你身边
 <END>我一直都在你身边的<END>	good
 <END>我也会一直陪着你的<END>	good
-<END>我会一直在你身边的<END>	normal
+<END>我会一直在你身边的<END>	good
 <END>我一直都在你身边。<END>	normal
 <END>我会一直陪在你身边的<END>	good
 这你都能看出来
@@ -721,7 +721,7 @@
 外面很气冷
 <END>那就多穿点<END>	normal
 <END>冷就多穿点<END>	good
-<END>冷就多穿点衣服<END>	normal
+<END>冷就多穿点衣服<END>	good
 <END>那就多穿点衣服<END>	good
 <END>多穿点衣服<END>	normal
 昨晚刮大风了
@@ -735,7 +735,7 @@
 <END>为什么要打架架的呀<END>	normal
 <END>你要打招干嘛呀<END>	bad
 <END>为什么要打架呀？<END>	good
-<END>为什么要打架呀<END>	normal
+<END>为什么要打架呀<END>	good
 我是邓超
 <END>祝你们幸福<END>	bad
 <END>你说的是什么意思。<END>	normal
@@ -775,12 +775,12 @@
 吃了什么
 <END>想吃什么就吃什么<END>	normal
 <END>你想吃什么就吃什么<END>	normal
-<END>你想吃什么<END>	bad
-<END>你想吃什么呀<END>	bad
+<END>你想吃什么<END>	normal
+<END>你想吃什么呀<END>	normal
 <END>你想吃什么？<END>	bad
 不给你喝
 <END>我不会喝酒<END>	good
-<END>我不会喝酒的<END>	normal
+<END>我不会喝酒的<END>	good
 <END>我不喝酒的<END>	normal
 <END>不要喝太多喝酒<END>	normal
 <END>不要喝了<END>	bad
@@ -1129,7 +1129,7 @@ a股明天涨不涨
 你嫁我可好~
 <END>我为什么要嫁你？<END>	good
 <END>我可不是同性恋<END>	normal
-<END>我是不会嫁人的<END>	normal
+<END>我是不会嫁人的<END>	good
 <END>我还未成年，不能结婚。<END>	normal
 <END>我可是很喜欢你的<END>	bad
 你有兄弟姐妹吗
@@ -1172,7 +1172,7 @@ a股明天涨不涨
 <END>我也很喜欢看小说的<END>	bad
 <END>不喜欢看那就不要看了<END>	good
 <END>那我们一起看<END>	bad
-<END>我也很喜欢看小说<END>	bad
+<END>我也很喜欢看小说<END>	normal
 <END>我也喜欢看小说<END>	bad
 背首诗给我
 <END>这首歌很好听<END>	bad
@@ -1212,7 +1212,7 @@ a股明天涨不涨
 <END>良辰良辰是谁。<END>	bad
 贱人就是矫情
 <END>贱人就是矫情<END>	bad
-<END>不要这么说别人<END>	normal
+<END>不要这么说别人<END>	good
 <END>不要这么说别人的<END>	normal
 <END>不要这么说别人嘛<END>	good
 <END>不要这么说我<END>	bad
@@ -1273,7 +1273,7 @@ a股明天涨不涨
 中午要午休了
 <END>午休了就好好休息<END>	good
 <END>那你就好好休息<END>	normal
-<END>那就好好休息<END>	normal
+<END>那就好好休息<END>	good
 <END>休息了就好好休息<END>	normal
 <END>午休了该好好休息<END>	good
 咖啡机
@@ -1290,7 +1290,7 @@ a股明天涨不涨
 <END>好，我真的好高兴。<END>	bad
 聊着天喝着酒
 <END>喝酒伤胃对身体不好。<END>	good
-<END>喝酒对身体不好<END>	normal
+<END>喝酒对身体不好<END>	good
 <END>喝酒伤胃对身体不好<END>	normal
 <END>喝酒对身体不好。<END>	good
 <END>喝酒不要喝太多<END>	normal
@@ -1505,7 +1505,7 @@ a股明天涨不涨
 <END>环境环境是很环境<END>	bad
 <END>环境环境多美<END>	normal
 我回家了
-<END>路上注意安全<END>	normal
+<END>路上注意安全<END>	good
 <END>那你要注意安全<END>	normal
 <END>那你要注意安全喽<END>	normal
 <END>好，那你要注意安全<END>	normal

@@ -109,7 +109,7 @@
 <END>永远爱你一生一世<END>	unknown
 我不喜欢你
 <END>我不喜欢你<END>	normal
-<END>我很喜欢你<END>	normal
+<END>我很喜欢你<END>	good
 <END>我很喜欢他<END>	unknown
 <END>不喜欢不喜欢<END>	bad
 <END>他不喜欢你<END>	bad
@@ -477,7 +477,7 @@
 祝你生日快乐
 <END>祝他生日快乐<END>	bad
 <END>祝我生日快乐<END>	normal
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>生日快乐啊!<END>	bad
 <END>祝他生日快乐!<END>	unknown
 生活中怎样感到开心快乐
@@ -963,7 +963,7 @@ a股明天涨不涨
 你不小了可以结婚了
 <END>结婚了就可以结婚了<END>	bad
 你会开车吗
-<END>不会开车的<END>	normal
+<END>不会开车的<END>	good
 <END>当然不会了<END>	good
 <END>当然会了!<END>	unknown
 <END>当然会了。<END>	normal
@@ -1131,7 +1131,7 @@ a股明天涨不涨
 <END>当然是午休了<END>	unknown
 <END>当然是午休啊<END>	unknown
 咖啡机
-<END>咖啡咖啡<END>	bad
+<END>咖啡咖啡<END>	normal
 <END>当然是咖啡<END>	unknown
 <END>泡沫之夏<END>	unknown
 <END>当然是咖啡了<END>	bad

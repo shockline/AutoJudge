@@ -108,7 +108,7 @@ for basename in file_list:
     for k, v in count_dict.items():
         print '%s\t%d' % (k, v)
     for i, (acc, error) in enumerate(zip(top_acc, top_error)):
-        print 'top %d acc: %f' % (i, acc / 1.0 / (acc + error))
+        print 'top %d acc: \t%f' % (i, acc / 1.0 / (acc + error))
     print 'Bad Rate:\t%f' % (count_dict['bad'] / 1.0 / total_data_count)
     print 'Normal Rate:\t%f' % (count_dict['normal'] / 1.0 / total_data_count)
     print 'Good Rate:\t%f' % (count_dict['good'] / 1.0 / total_data_count)

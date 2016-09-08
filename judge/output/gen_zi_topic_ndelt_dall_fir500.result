@@ -152,7 +152,7 @@
 <END>饿了就去吃饭<END>	good
 <END>那就赶紧去吃饭<END>	normal
 <END>赶紧去吃饭<END>	good
-<END>饿了就赶紧去吃饭<END>	normal
+<END>饿了就赶紧去吃饭<END>	good
 <END>你饿了么？<END>	normal
 今天有点事
 <END>发生什么事情了<END>	normal
@@ -215,9 +215,9 @@
 <END>当然不是我<END>	normal
 <END>不是呀，我是小微。<END>	good
 不开心也是一天
-<END>你开心就好了<END>	normal
+<END>你开心就好了<END>	good
 <END>你开心我就开心了<END>	normal
-<END>只要你开心就好了<END>	bad
+<END>只要你开心就好了<END>	good
 <END>是不是很开心<END>	bad
 <END>每天都很开心<END>	bad
 我现在没工作
@@ -235,8 +235,8 @@
 你喜欢聊什么
 <END>你喜欢聊什么呀？<END>	normal
 <END>什么都可以<END>	normal
-<END>喜欢聊什么都可以<END>	normal
-<END>聊什么都可以<END>	normal
+<END>喜欢聊什么都可以<END>	good
+<END>聊什么都可以<END>	good
 <END>我什么都不喜欢<END>	normal
 万圣节怎么过
 <END>当然知道<END>	bad
@@ -282,7 +282,7 @@
 <END>你说什么星星？<END>	bad
 今天天气不好
 <END>天气很好<END>	good
-<END>今天天气不好<END>	bad
+<END>今天天气不好<END>	normal
 <END>天气不好<END>	normal
 <END>心情好不好<END>	bad
 <END>怎么会心情不好<END>	bad
@@ -453,7 +453,7 @@
 <END>请你好好说话<END>	good
 <END>请不要讲脏话<END>	good
 <END>不能说脏话<END>	normal
-<END>请你文明用语<END>	normal
+<END>请你文明用语<END>	good
 去你妹的
 <END>你妹妹是谁呀？<END>	bad
 <END>可是我没有妹妹<END>	normal
@@ -528,7 +528,7 @@
 <END>不要睡觉，和我聊天。<END>	bad
 祝你生日快乐
 <END>谢谢你的祝福<END>	good
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>多谢你的祝福<END>	good
 <END>我祝福你节日快乐<END>	bad
 <END>你也祝福我<END>	normal
@@ -589,7 +589,7 @@
 我在等地铁
 <END>等等我<END>	bad
 <END>在等等我<END>	bad
-<END>那就在等等<END>	bad
+<END>那就在等等<END>	normal
 <END>你在等谁呀？<END>	bad
 <END>那等等我<END>	bad
 你闭嘴
@@ -738,7 +738,7 @@
 <END>打架是犯法的<END>	normal
 <END>为什么不打架<END>	bad
 我是邓超
-<END>看来你很喜欢他<END>	normal
+<END>看来你很喜欢他<END>	good
 <END>他是你的什么人。<END>	bad
 <END>我不认识他<END>	bad
 <END>我不认识。<END>	bad
@@ -769,7 +769,7 @@
 <END>你喜欢做什么菜？<END>	normal
 你会做什么菜
 <END>我什么都会做菜呀<END>	good
-<END>我什么都会做菜<END>	bad
+<END>我什么都会做菜<END>	normal
 <END>什么菜都会做的<END>	good
 <END>你想吃什么菜<END>	good
 <END>什么菜都会做<END>	normal
@@ -892,7 +892,7 @@
 <END>真是太漂亮了<END>	bad
 <END>还真是不少<END>	bad
 <END>那就太好了<END>	bad
-<END>那就好<END>	bad
+<END>那就好<END>	normal
 快来骚扰我
 <END>为什么要骚扰你？<END>	good
 <END>我可不敢<END>	normal
@@ -978,7 +978,7 @@
 <END>慢慢都会好起来的<END>	normal
 <END>那你想怎么办？<END>	normal
 这个世界谁最有钱
-<END>反正不是我的<END>	bad
+<END>反正不是我的<END>	normal
 <END>当然是最帅的<END>	normal
 <END>最爱的就是我<END>	bad
 <END>当然是我最爱的人<END>	bad
@@ -996,14 +996,14 @@
 <END>还是自己买的<END>	bad
 <END>那是个什么样的车<END>	normal
 a股明天涨不涨
-<END>怎么会涨涨<END>	bad
+<END>怎么会涨涨<END>	normal
 <END>涨涨就好了<END>	bad
 <END>我怎么会知道<END>	good
 <END>涨涨很高<END>	bad
 <END>你怎么会涨？<END>	bad
 为啥喝咖啡不好
 <END>不喜欢喝咖啡。<END>	bad
-<END>喝咖啡对身体好<END>	bad
+<END>喝咖啡对身体好<END>	normal
 <END>我不喜欢喝咖啡。<END>	bad
 <END>咖啡咖啡对身体好<END>	bad
 <END>你喜欢喝咖啡嘛。<END>	normal
@@ -1081,7 +1081,7 @@ a股明天涨不涨
 <END>什么病？<END>	good
 你这是越俎代庖
 <END>这是我的名字<END>	bad
-<END>我是小微呀<END>	bad
+<END>我是小微呀<END>	normal
 <END>我是机器人<END>	bad
 <END>这是什么呀？<END>	bad
 <END>我是小微。<END>	bad
@@ -1213,7 +1213,7 @@ a股明天涨不涨
 <END>我不认识呀<END>	normal
 贱人就是矫情
 <END>矫情就是矫情<END>	bad
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>贱贱惹人爱<END>	bad
 <END>人贱人爱。<END>	bad
 <END>才不是这样的人<END>	good
@@ -1291,7 +1291,7 @@ a股明天涨不涨
 <END>真是个好消息<END>	bad
 聊着天喝着酒
 <END>喝酒对身体好<END>	normal
-<END>喝酒对身体不好<END>	normal
+<END>喝酒对身体不好<END>	good
 <END>喝酒要适量<END>	good
 <END>多喝酒对身体好<END>	good
 <END>为什么要喝酒？<END>	normal
@@ -1312,7 +1312,7 @@ a股明天涨不涨
 <END>谁跟你说我是坏人<END>	good
 <END>怎么可以这么说我<END>	normal
 <END>坏坏的还是不要了<END>	bad
-<END>不要这样说我，我会很伤心的<END>	normal
+<END>不要这样说我，我会很伤心的<END>	good
 今天出差
 <END>要注意安全<END>	good
 <END>今天休息<END>	normal
@@ -1460,7 +1460,7 @@ a股明天涨不涨
 <END>那祝你们幸福<END>	normal
 <END>真是太幸福了<END>	normal
 <END>陪我聊聊天<END>	bad
-<END>那真是太幸福了<END>	normal
+<END>那真是太幸福了<END>	good
 过年太没意思了
 <END>怎么会没有钱？<END>	bad
 <END>没什么不好意思的<END>	bad
@@ -1655,7 +1655,7 @@ a股明天涨不涨
 <END>哪里有鬼？<END>	bad
 <END>那你是什么鬼？<END>	good
 踩着七彩祥云去娶你
-<END>这可不是我的荣幸<END>	bad
+<END>这可不是我的荣幸<END>	normal
 <END>你是不是暗恋她？<END>	bad
 <END>那真是恭喜你了呀<END>	bad
 <END>祝福我们好好的祝福<END>	bad
@@ -1809,7 +1809,7 @@ a股明天涨不涨
 <END>你感到什么？<END>	bad
 <END>什么都受不了<END>	bad
 <END>感情是很强大的<END>	bad
-<END>感情是很重要的<END>	bad
+<END>感情是很重要的<END>	normal
 地球为何是圆的
 <END>地球是哪里？<END>	bad
 <END>当然是中国的咯<END>	bad

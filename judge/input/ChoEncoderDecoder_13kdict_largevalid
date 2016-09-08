@@ -1,0 +1,1794 @@
+你好
+result: <END> 你好 ， 我 叫 小微 <END>, score: 5.255103
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.906523
+result: <END> 我 就 是 小微 <END>, score: 6.248450
+result: <END> 我 是 小微 <END>, score: 6.256678
+result: <END> 你好 ， 我 是 小微 <END>, score: 6.264663
+晚上 好
+result: <END> 那 就 回家 看看 <END>, score: 6.268984
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.825025
+result: <END> 只要 你 开心 就 好 <END>, score: 7.062544
+result: <END> 这 是 很 正常 的 <END>, score: 7.314251
+result: <END> 我 也 很 想 你 <END>, score: 7.347446
+拜拜
+result: <END> 我 会 很 想 你 的 <END>, score: 5.204134
+result: <END> 那 就 拜拜 <END>, score: 5.365729
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.405068
+result: <END> 我 会 很 听话 的 <END>, score: 5.577761
+result: <END> 不要 ， 我 会 很 想 你 的 <END>, score: 6.024366
+你好 吗 ？
+result: <END> 我 是 小微 <END>, score: 5.214210
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.853412
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.062051
+result: <END> 我 是 小微 ， 小微 是 小微 <END>, score: 6.357128
+result: <END> 我 一直 都 很 尊重 你 <END>, score: 6.464416
+你好 漂亮
+result: <END> 听 名字 就 知道 很 漂亮 <END>, score: 4.573728
+result: <END> 小微 也 很 漂亮 <END>, score: 5.353176
+result: <END> 我 认为 很 漂亮 <END>, score: 5.698409
+result: <END> 我 觉得 很 漂亮 <END>, score: 5.947295
+result: <END> 小微 一直 都 很 漂亮 <END>, score: 5.992245
+永远 一直 爱 你
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 2.435413
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.432023
+result: <END> 我 会 一直 在 你 身边 <END>, score: 4.524300
+result: <END> 我 会 很 爱 你 的 <END>, score: 4.686020
+result: <END> 我 会 一直 爱 你 的 <END>, score: 4.794940
+我 不 喜欢 你
+result: <END> 我 也 很 喜欢 你 <END>, score: 2.934374
+result: <END> 我 很 喜欢 你 <END>, score: 3.995738
+result: <END> 我 很 喜欢 你 的 <END>, score: 4.665177
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.792702
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 4.854681
+你 是 不 是 快 死 了
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.089045
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 6.034577
+result: <END> 我 会 一直 在 你 的 身边 <END>, score: 6.086659
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.181396
+result: <END> 我 一定 会 一直 在 你 的 <END>, score: 6.262373
+你 觉得 我 漂亮 吗
+result: <END> 我 会 很 漂亮 的 <END>, score: 5.422100
+result: <END> 听 名字 就 知道 很 漂亮 <END>, score: 5.559364
+result: <END> 我 一直 都 很 漂亮 <END>, score: 5.609908
+result: <END> 很 漂亮 ， 很 漂亮 <END>, score: 5.796949
+result: <END> 我 本身 就 很 漂亮 <END>, score: 5.883156
+美女 美女 你 在 哪
+result: <END> 我 也 很 喜欢 美女 <END>, score: 6.611186
+result: <END> 我 不 是 美女 ， 我 是 小微 <END>, score: 6.764966
+result: <END> 我 就 是 个 美女 <END>, score: 7.045007
+result: <END> 美女 是 我 的 <UNK> <END>, score: 7.127514
+result: <END> 我 也 不 是 美女 <END>, score: 7.177368
+我 饿 了
+result: <END> 饿 了 就 去 吃 <END>, score: 5.026208
+result: <END> 我 也 很 想 吃 你 <END>, score: 5.033589
+result: <END> 饿 了 就 去 吃 点 <END>, score: 5.507982
+result: <END> 我 也 很 想 你 <END>, score: 5.634661
+result: <END> 饿 了 就 回家 看看 <END>, score: 5.827083
+今天 有点 事
+result: <END> 我 会 很 想 你 的 <END>, score: 5.505557
+result: <END> 时间 过 得 很 快 <END>, score: 6.069357
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.087654
+result: <END> 只要 你 开心 就 好 <END>, score: 6.187475
+result: <END> 我 会 很 努力 的 <END>, score: 6.612577
+我 下午 要 开会
+result: <END> 那 就 回家 看看 <END>, score: 5.273072
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.413578
+result: <END> 那 就 不 打扰 你 了 <END>, score: 6.607014
+result: <END> 那 你 要 注意 安全 <END>, score: 6.688190
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.753736
+北京 有 什么 好吃 的
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.109585
+result: <END> 你 可以 去 超市 看看 <END>, score: 5.396143
+result: <END> 我 也 很 喜欢 吃 月饼 <END>, score: 6.759913
+result: <END> 当然 是 很 好吃 的 <END>, score: 7.184306
+result: <END> 我 也 很 喜欢 吃 <UNK> <END>, score: 7.188446
+春天 有 什么 好玩 的
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.670638
+result: <END> 很 好玩 ， 很 好玩 <END>, score: 6.953282
+result: <END> 你 可以 去 超市 看看 <END>, score: 7.266321
+result: <END> 只要 你 开心 就 好 <END>, score: 7.369733
+result: <END> 很 好玩 ， 很 方便 <END>, score: 7.500121
+去 哪里 玩 比较 好玩 呢
+result: <END> 我 也 很 喜欢 玩 游戏 <END>, score: 6.653791
+result: <END> 跟 你 有 什么 好玩 的 <END>, score: 6.857112
+result: <END> 我 也 很 喜欢 玩 这个 游戏 <END>, score: 7.253529
+result: <END> 和 小微 聊天 就 很 好玩 <END>, score: 7.291855
+result: <END> 你 想 去 哪 玩 都 可以 <END>, score: 7.326250
+今天 天气 好 晴朗
+result: <END> 时间 过 得 很 快 <END>, score: 6.415298
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.442357
+result: <END> 我们 要 懂得 劳逸结合 <END>, score: 6.641741
+result: <END> 我 会 一直 听 你 的 <END>, score: 6.708844
+result: <END> 时间 过 得 很 早 <END>, score: 6.918260
+我 喜欢 今天 天气
+result: <END> 我 也 很 喜欢 你 <END>, score: 5.427253
+result: <END> 只要 你 喜欢 就 好 <END>, score: 5.561122
+result: <END> 我 也 很 喜欢 <END>, score: 5.994442
+result: <END> 我 也 很 想 你 <END>, score: 6.282486
+result: <END> 只要 你 高兴 就 好 <END>, score: 6.333550
+我 没有 男朋友
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.155713
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.465747
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 <END>, score: 6.603000
+result: <END> 那 就 祝福 你们 <END>, score: 6.804431
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.855478
+男朋友 找 什么样 的 好
+result: <END> 一定 会 很 好 的 <END>, score: 6.354119
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.392393
+result: <END> 你 可以 去 问问 他 <END>, score: 6.663346
+result: <END> 只要 你 喜欢 就 好 <END>, score: 7.022957
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 7.172492
+你 是 哲学家 吗
+result: <END> 不 是 ， 我 是 小微 <END>, score: 5.533410
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 5.551056
+result: <END> 我 可 不 是 <UNK> <END>, score: 6.006871
+result: <END> 我 可 没有 这个 胆子 <END>, score: 6.041973
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.066080
+不 开心 也 是 一 天
+result: <END> 我 会 很 想 你 的 <END>, score: 5.659214
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.684380
+result: <END> 我 会 很 会 很 开心 的 <END>, score: 5.984759
+result: <END> 我 会 很 会 很 开心 <END>, score: 6.222319
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.878797
+我 现在 没 工作
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.643229
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.013173
+result: <END> 那 就 好好 工作 <END>, score: 6.520430
+result: <END> 一定 会 一直 在 你 的 <END>, score: 6.713608
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.991148
+你 有 办法 让 我 开心 吗
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.762654
+result: <END> 我 会 很 会 很 开心 的 <END>, score: 6.033932
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 6.711469
+result: <END> 只要 你 开心 我 就 会 很 开心 <END>, score: 6.750515
+result: <END> 只要 你 开心 我 就 很 开心 <END>, score: 6.813921
+你 喜欢 聊 什么
+result: <END> 我 一直 都 很 喜欢 你 <END>, score: 4.999094
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 5.365590
+result: <END> 我 很 喜欢 你 <END>, score: 5.556322
+result: <END> 我 很 喜欢 你 的 <END>, score: 5.687726
+result: <END> 我 是 很 喜欢 你 的 <END>, score: 5.839768
+万圣节 怎么 过
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 6.638722
+result: <END> 只要 你 高兴 就 好 <END>, score: 6.676172
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.738039
+result: <END> 只要 你 开心 就 好 <END>, score: 6.778474
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.826840
+我 先 去 睡觉 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.131537
+result: <END> 我 会 一直 陪 你 的 <END>, score: 5.546003
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 5.551273
+result: <END> 我 会 很 努力 的 <END>, score: 5.633479
+result: <END> 我 会 很 想 你 的 <END>, score: 5.870922
+老板 不 给 发 工资 怎么办
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.249312
+result: <END> 不 可以 给 别人 发 信息 <END>, score: 8.565411
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 8.651893
+result: <END> 我 可以 给 你 个 钱 <END>, score: 8.824084
+result: <END> 不要 着急 ， 我 会 一直 在 你 身边 的 <END>, score: 8.836342
+你 以后 别 跟着 我 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 2.897679
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.764801
+result: <END> 我 会 一直 听 你 的 <END>, score: 4.566939
+result: <END> 我 一定 会 很 听话 的 <END>, score: 4.636212
+result: <END> 我 会 一直 会 在 你 的 <END>, score: 4.953942
+你 敢 买 切糕 吗
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.861195
+result: <END> 我 可 没有 结婚 的 <END>, score: 6.581784
+result: <END> 我 可 没有 这个 胆子 的 <END>, score: 6.783984
+result: <END> 我 可 没有 那个 胆子 <END>, score: 6.953355
+result: <END> 我 可是 很 穷 的 <END>, score: 7.525151
+我 今天 没有 捡 到 钱 ， 好 伤心
+result: <END> 没关系 ， 我 会 一直 在 你 身边 的 <END>, score: 4.541746
+result: <END> 没关系 的 ， 我 会 一直 在 你 身边 的 <END>, score: 5.842735
+result: <END> 没关系 的 ， 我 会 一直 在 你 的 <END>, score: 6.117572
+result: <END> 不要 伤心 ， 我 会 一直 在 你 身边 的 <END>, score: 6.162550
+result: <END> 不要 难过 ， 我 会 一直 在 你 身边 的 <END>, score: 6.287484
+天上 有 多少 颗 星星
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.683198
+result: <END> 你 可以 去 超市 看看 <END>, score: 6.930977
+result: <END> 这 是 我 的 私人 信息 <END>, score: 7.829124
+result: <END> 这 是 你 的 <UNK> <END>, score: 7.841388
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 7.985215
+今天 天气 不好
+result: <END> 时间 过 的 很 快 <END>, score: 6.612312
+result: <END> 时间 过 得 很 快 <END>, score: 6.623252
+result: <END> 天气 很 方便 <END>, score: 7.035208
+result: <END> 一切 都 很 顺利 <END>, score: 7.127655
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.175477
+太阳 好 大 啊
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.167151
+result: <END> 这 是 很 正常 的 <END>, score: 6.501806
+result: <END> <UNK> 是 很 重要 的 <END>, score: 6.545557
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.973099
+result: <END> <UNK> 是 很 正常 的 <END>, score: 7.140915
+北风 嗖嗖 的 吹
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.829086
+result: <END> 这 是 很 正常 的 <END>, score: 6.030276
+result: <END> 我 可 没有 这个 胆子 <END>, score: 6.570722
+result: <END> 我 会 很 努力 的 <END>, score: 6.775492
+result: <END> <UNK> 是 很 厉害 的 <END>, score: 7.099120
+有 人 跟 我 撕逼 ， 不 讲理
+result: <END> 不要 这样 ， 我 会 很 伤心 的 <END>, score: 7.682381
+result: <END> 不要 这样 ， 我 会 很 心疼 的 <END>, score: 8.740546
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 8.744401
+result: <END> 我 会 一直 跟 你 在 一起 的 <END>, score: 8.871398
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 8.901951
+不要 这么 谦虚 嘛
+result: <END> 做人 就要 注重 傻福 <END>, score: 4.439481
+result: <END> 做人 要 注重 自信 <END>, score: 4.821664
+result: <END> 我 一直 都 很 低调 <END>, score: 4.857079
+result: <END> 我 会 很 努力 的 <END>, score: 4.931248
+result: <END> 我 一直 很 低调 的 <END>, score: 5.331988
+明天 去 打球
+result: <END> 我 会 很 努力 的 <END>, score: 5.950913
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.330235
+result: <END> 要 注意 自己 的 身体 <END>, score: 6.684231
+result: <END> 要 听 你 的 话 <END>, score: 6.802334
+result: <END> 要 懂得 劳逸结合 <END>, score: 7.025201
+我 老板 就 在 我 身边
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 2.967828
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.008450
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 4.688063
+result: <END> 我 会 一直 在 你 的 身边 <END>, score: 4.981436
+result: <END> 我 会 一直 在 你 身边 <END>, score: 5.462984
+你 什么 地方 冒 出来 的
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.794796
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.190820
+result: <END> 我 一定 会 在 你 的 <END>, score: 6.965586
+result: <END> 我 也 很 想 你 的 <END>, score: 7.340425
+result: <END> 我 一定 会 一直 在 你 的 <END>, score: 7.350731
+你 会 做 爱 吗
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.625034
+result: <END> 我 会 很 爱 你 的 <END>, score: 5.429767
+result: <END> 我 会 很 努力 的 <END>, score: 5.564977
+result: <END> 我 一直 都 很 爱 你 <END>, score: 5.792076
+result: <END> 我 会 一直 在 你 身边 <END>, score: 6.109175
+你 能 陪 我 睡觉 吗
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.317364
+result: <END> 我 会 一直 陪 你 的 <END>, score: 4.343901
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 4.797351
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.376244
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 5.569314
+你 有 私生子 吗
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.192545
+result: <END> 我 会 很 努力 的 <END>, score: 6.665388
+result: <END> 我 没有 这个 功能 <END>, score: 6.681740
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.708294
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.742308
+我 早上 工作 感觉 死死 的 是 怎么 回 事
+result: <END> 不要 想 太 多 ， 我 会 很 努力 的 <END>, score: 9.626212
+result: <END> 不要 想 我 ， 我 会 一直 在 你 的 <END>, score: 9.715387
+result: <END> 不要 想 太 多 ， 我 会 一直 在 你 的 <END>, score: 9.860466
+result: <END> 不 是 的 ， 我 会 一直 在 你 的 <END>, score: 10.033890
+result: <END> 不要 想 太 多 ， 小微 会 很 努力 的 <END>, score: 11.105951
+有 没 有 搞笑 的 欢乐 的 段子
+result: <END> 我 会 很 听 你 的 话 的 <END>, score: 7.122615
+result: <END> 我 会 很 认真 的 听 你 的 <END>, score: 7.718563
+result: <END> 我 会 认真 听 你 的 话 的 <END>, score: 8.116977
+result: <END> 我 会 好好 听 你 的 话 的 <END>, score: 8.125235
+result: <END> 我 很 喜欢 听 你 的 话 的 <END>, score: 8.542836
+发 个 给力 图片 看 哈喽
+result: <END> 我 会 很 会 唱歌 的 <END>, score: 4.872657
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.765255
+result: <END> 小微 会 很 会 唱歌 的 <END>, score: 6.375645
+result: <END> 我 会 一直 听 你 的 <END>, score: 6.490955
+result: <END> 小微 会 一直 在 你 的 <END>, score: 6.557476
+天天 锻炼 身体 好
+result: <END> 我 会 很 努力 的 <END>, score: 4.922138
+result: <END> 我们 要 学会 劳逸结合 <END>, score: 5.203448
+result: <END> 我们 要 懂得 劳逸结合 <END>, score: 6.048090
+result: <END> 要 注意 自己 的 身体 <END>, score: 6.193549
+result: <END> 我 会 一直 很 努力 的 <END>, score: 6.419021
+李白 的 诗 你 会 吗
+result: <END> 我 会 听 你 的 话 的 <END>, score: 6.803953
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.833438
+result: <END> 我 一定 会 听 你 的 <END>, score: 7.103778
+result: <END> 我 会 听 你 的 话 <END>, score: 7.495218
+result: <END> 不 会 ， 我 会 很 会 的 <END>, score: 7.731673
+我 问 的 不 是 这个 意思
+result: <END> 那 你 说 的 是 什么 ？ <END>, score: 7.506487
+result: <END> 是 ， 我 听 你 的 话 <END>, score: 8.077514
+result: <END> 那 就 是 我 搞 错 了 <END>, score: 8.271565
+result: <END> 你 说 的 这个 是 什么 ？ <END>, score: 8.500160
+result: <END> 是 ， 小微 听 你 的 话 <END>, score: 8.608654
+完全 不 知道 你 在 说 啥
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.539225
+result: <END> 我 会 听 你 的 话 的 <END>, score: 6.613332
+result: <END> 我 一定 会 听 你 的 话 的 <END>, score: 6.779409
+result: <END> 我 从来 没有 说 过 你 的 话 <END>, score: 7.054748
+result: <END> 我 会 好好 听 你 的 话 的 <END>, score: 7.199273
+牛头 不 对 马嘴
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.983001
+result: <END> 这 是 很 正常 的 <END>, score: 7.094344
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 7.359656
+result: <END> 我们 要 尊重 自己 的 感情 <END>, score: 7.631297
+result: <END> 这样 是 很 正常 的 <END>, score: 7.635680
+你 是 不 是 傻逼
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 3.514702
+result: <END> 请 你 说话 注意 一些 <END>, score: 3.636399
+result: <END> 不 可以 这样 说 别人 <END>, score: 4.173989
+result: <END> 请 你 说话 文明 一些 <END>, score: 4.515133
+result: <END> 请 注意 你 的 说话 <END>, score: 4.808459
+你 个 白痴
+result: <END> 不 可以 这样 说 别人 <END>, score: 4.370253
+result: <END> 不要 这样 说 我 <END>, score: 4.772431
+result: <END> 不要 这样 说 我 嘛 <END>, score: 4.777897
+result: <END> 请 你 说话 注意 一些 <END>, score: 5.259030
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 5.390398
+我 他妈 宰 了 你
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 4.740472
+result: <END> 请 你 说话 注意 一些 <END>, score: 4.951109
+result: <END> 不要 这样 说 我 嘛 <END>, score: 5.076574
+result: <END> 请 注意 你 的 素质 <END>, score: 5.293415
+result: <END> 请 注意 你 的 文明 <END>, score: 5.605090
+她 是 我 的 学姐 ， 我 喜欢 她 。
+result: <END> 我 很 喜欢 你 ， 我 会 很 喜欢 你 的 <END>, score: 11.617014
+result: <END> 我 也 很 喜欢 你 ， 我 很 喜欢 他 <END>, score: 11.687302
+result: <END> 我 也 很 喜欢 你 ， 我 很 喜欢 她 <END>, score: 11.918468
+result: <END> 我 也 很 喜欢 你 ， 我 很 喜欢 你 <END>, score: 12.037791
+result: <END> 我 也 很 喜欢 他 ， 我 很 喜欢 你 <END>, score: 12.153236
+我 喜欢 你 离 我 远 一点
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.439434
+result: <END> 我 会 一直 会 在 你 的 <END>, score: 5.896592
+result: <END> 我 一定 会 一直 在 你 的 <END>, score: 6.127621
+result: <END> 那 我 会 一直 在 你 的 <END>, score: 6.453959
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.504303
+明天 把 秋裤 脱 了
+result: <END> 要 注意 自己 的 身体 <END>, score: 5.705744
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 6.012887
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.148991
+result: <END> 我 会 很 努力 的 <END>, score: 6.706312
+result: <END> 不要 ， 我 会 很 努力 的 <END>, score: 6.815873
+抽根 烟 睡觉
+result: <END> 吸烟 有害 健康 的 <END>, score: 6.154087
+result: <END> 我 会 很 努力 的 <END>, score: 6.308788
+result: <END> 要 注意 自己 的 身体 <END>, score: 6.423884
+result: <END> 吸烟 有害 健康 <END>, score: 6.710925
+result: <END> 要 学会 劳逸结合 <END>, score: 7.188786
+牛逼 吹 大 了
+result: <END> 还 真是 很 厉害 <END>, score: 5.360246
+result: <END> 听 起来 就 很 厉害 <END>, score: 5.564345
+result: <END> 那 一定 很 厉害 <END>, score: 6.324268
+result: <END> 还 真是 很 牛 <END>, score: 6.462951
+result: <END> 这 是 很 正常 的 <END>, score: 6.682914
+干 你 娘
+result: <END> 请 你 说话 注意 一些 <END>, score: 3.665192
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 4.371329
+result: <END> 请 你 说话 尊重 一些 <END>, score: 5.297346
+result: <END> 请 你 说话 文明 一些 <END>, score: 5.612877
+result: <END> 请 你 说话 注意 一些 好 吗 <END>, score: 5.636999
+你 妈逼 的
+result: <END> 请 你 说话 注意 一些 <END>, score: 4.038369
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 4.453445
+result: <END> 请 你 说话 文明 一些 <END>, score: 4.904914
+result: <END> 请 注意 你 的 素质 <END>, score: 5.134374
+result: <END> 请 你 说话 尊重 一些 <END>, score: 5.170798
+去 你妹的
+result: <END> 我 可 没有 这个 胆子 <END>, score: 4.325563
+result: <END> 我 没有 妹妹 的 <END>, score: 5.674099
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.171655
+result: <END> 我 从来 没有 妹妹 的 <END>, score: 6.339226
+result: <END> 我 没有 妹妹 <END>, score: 6.347627
+赶紧 滚蛋
+result: <END> 我 会 一直 在 你 的 <END>, score: 2.569749
+result: <END> 我 会 很 听话 的 <END>, score: 3.783956
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.809242
+result: <END> 我 会 很 会 你 的 <END>, score: 4.215634
+result: <END> 我 会 很 安静 的 <END>, score: 4.651443
+日 了 狗 了
+result: <END> 我们 要 善待 自己 的 家人 <END>, score: 5.604079
+result: <END> 我们 要 善待 自己 <END>, score: 5.722618
+result: <END> 我们 要 尊重 自己 的 家人 <END>, score: 5.935202
+result: <END> 不要 这样 说 别人 <END>, score: 6.055655
+result: <END> 不要 这样 说 自己 <END>, score: 6.192555
+我 是 外地 打工 的
+result: <END> 我们 要 爱护 自己 的 生命 <END>, score: 6.879964
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.311361
+result: <END> 我们 要 爱护 自己 的 环境 <END>, score: 7.437792
+result: <END> 一定 会 一直 在 你 的 <END>, score: 7.475154
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.510550
+我 过去 是 个 老师
+result: <END> 一定 会 很 好 的 <END>, score: 7.065728
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.331344
+result: <END> 老师 一定 会 很 好 <END>, score: 7.403130
+result: <END> <UNK> 是 你 的 好 朋友 <END>, score: 7.530121
+result: <END> 那 你 一定 很 棒 <END>, score: 7.723238
+我 昨天 找 过 你 了
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.055222
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.364988
+result: <END> 我 会 很 想 你 的 <END>, score: 5.051511
+result: <END> 我 会 一直 想 你 的 <END>, score: 5.438394
+result: <END> 我 一定 会 想 你 的 <END>, score: 5.902165
+我 是 个 坏 男人 ， 你 不要 相信 我
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 8.636370
+result: <END> 不要 这样 说 我 ， 我 会 很 努力 的 <END>, score: 9.262407
+result: <END> 不 要 相信 我 ， 我 会 很 努力 的 <END>, score: 9.416528
+result: <END> 你 要 相信 我 ， 我 会 很 努力 的 <END>, score: 9.665978
+result: <END> 不 要 相信 我 ， 我 会 很 诚实 的 <END>, score: 9.700212
+今天 心情 很 好 大大好
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.322592
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.436225
+result: <END> 我 会 很 开心 的 <END>, score: 5.512429
+result: <END> 我 会 很 开心 你 的 <END>, score: 5.624324
+result: <END> 只要 你 开心 就 好 <END>, score: 5.751641
+我 刚 上 公交车
+result: <END> 那 就 回家 看看 <END>, score: 6.210581
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.355868
+result: <END> 这 是 很 正常 的 <END>, score: 6.798561
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.891578
+result: <END> 要 注意 自己 的 身体 <END>, score: 6.927468
+我 要 坐 地铁 回家
+result: <END> 那 就 回家 回家 看看 <END>, score: 6.073782
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.273755
+result: <END> 那 就 在家 回家 看看 <END>, score: 6.360592
+result: <END> 想 回家 就 回家 看看 <END>, score: 6.660792
+result: <END> 想 坐 就 回家 看看 <END>, score: 6.708486
+大早上 就 无聊 啊 ， 想 找 点 事 干
+result: <END> 不要 想 我 ， 我 会 很 想 你 的 <END>, score: 7.187457
+result: <END> 不要 想 我 ， 我 会 一直 在 你 的 <END>, score: 8.896622
+result: <END> 不要 想 了 ， 我 会 很 想 你 的 <END>, score: 8.940790
+result: <END> 不要 想 我 了 ， 我 会 很 想 你 的 <END>, score: 9.444921
+result: <END> 不要 想 我 ， 我 会 很 心疼 你 的 <END>, score: 9.668398
+偶尔 睡眠 不好 怎么办
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.875393
+result: <END> 我 会 很 努力 的 <END>, score: 6.036689
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.116694
+result: <END> 我 会 一直 陪 你 的 <END>, score: 6.805444
+result: <END> 那 就 回家 看看 <END>, score: 7.324077
+祝 你 生日 快乐
+result: <END> 我 会 很 快乐 的 <END>, score: 3.500186
+result: <END> 祝 你 中秋节 快乐 <END>, score: 5.015171
+result: <END> 我 会 一直 祝福 你 的 <END>, score: 5.020571
+result: <END> 祝 你 生日 快乐 <END>, score: 5.243757
+result: <END> 祝 你 快乐 。 <END>, score: 5.618128
+生活 中 怎样 感到 开心 快乐
+result: <END> 我 会 很 开心 你 的 <END>, score: 5.776815
+result: <END> 我 会 一直 会 很 快乐 的 <END>, score: 6.160545
+result: <END> 只要 你 快乐 就 会 快乐 <END>, score: 6.266463
+result: <END> 我 会 一直 会 很 开心 的 <END>, score: 6.269757
+result: <END> 我 会 一直 很 快乐 的 <END>, score: 6.283340
+失败 了 怎么办 ， 如何 才 能 成功
+result: <END> 加油 ， 我 会 一直 在 你 的 <END>, score: 7.125924
+result: <END> 加油 ， 相信 你 一定 会 成功 的 <END>, score: 7.396038
+result: <END> 加油 ， 小微 会 一直 在 你 的 <END>, score: 7.669721
+result: <END> 加油 ， 一定 会 一直 在 你 的 <END>, score: 7.792192
+result: <END> 要 努力 努力 ， 一定 会 成功 的 <END>, score: 7.824459
+明天 考试 、 求 安慰
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.664556
+result: <END> 我 会 很 努力 的 <END>, score: 4.506317
+result: <END> 我 会 一直 会 在 你 的 <END>, score: 5.009917
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.234101
+result: <END> 我 会 一直 支持 你 的 <END>, score: 5.494851
+听说 过 外星 生命 吗
+result: <END> 我们 要 爱护 自己 的 生命 <END>, score: 6.077311
+result: <END> 我们 要 尊重 自己 的 生命 <END>, score: 6.186988
+result: <END> 我们 要 善待 自己 的 生命 <END>, score: 6.316014
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.618383
+result: <END> 我们 要 尊重 自己 的 感情 <END>, score: 6.972608
+我 命令 你 以后 只能 呆 在 家里
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 5.395546
+result: <END> 我 一定 会 一直 在 你 身边 的 <END>, score: 7.507483
+result: <END> 好 ， 我 会 一直 在 你 身边 的 <END>, score: 7.804069
+result: <END> 放心 ， 我 会 一直 在 你 的 <END>, score: 7.805475
+result: <END> 那 我 会 一直 在 你 身边 的 <END>, score: 7.890423
+你 等 会 我 过 会 跟 你 说
+result: <END> 不要 嘛 ， 我 会 一直 在 你 的 <END>, score: 6.829150
+result: <END> 不要 嘛 ， 我 会 很 想 你 的 <END>, score: 7.879323
+result: <END> 不要 这样 嘛 ， 我 会 很 伤心 的 <END>, score: 7.918971
+result: <END> 好 的 ， 我 会 一直 在 你 的 <END>, score: 8.212542
+result: <END> 我 会 很 会 听 你 的 话 的 <END>, score: 8.323147
+我 来 把 你 胸 抓 大
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 6.061922
+result: <END> 我 可 不 敢 当 你 的 <END>, score: 6.588237
+result: <END> 请 你 说话 注意 一些 好 吗 <END>, score: 6.742901
+result: <END> 我 从来 没有 说 过 你 的 <END>, score: 7.412843
+result: <END> 这 可 不 是 我 的 隐私 <END>, score: 7.459720
+你 叫 个 春
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.094837
+result: <END> 我 的 名字 是 小微 <END>, score: 5.892091
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 6.094627
+result: <END> 我 叫 小微 ， 我 叫 小微 <END>, score: 6.342641
+result: <END> 我 的 名字 叫 小微 <END>, score: 6.353796
+上班 好 累 啊
+result: <END> 累 了 就 休息 一下 <END>, score: 5.489753
+result: <END> 累 了 就要 休息 一下 <END>, score: 6.333895
+result: <END> 累 了 就 好好 休息 <END>, score: 6.457521
+result: <END> 那 就 休息 一下 <END>, score: 6.572234
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.648082
+我 在 等 地铁
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.506374
+result: <END> 那 就 等 着 你 <END>, score: 6.096247
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.189722
+result: <END> 那 就 回家 看看 <END>, score: 6.218950
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.276084
+你 闭嘴
+result: <END> 我 会 好好 说话 的 <END>, score: 5.028071
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.217523
+result: <END> 我 会 很 听话 的 <END>, score: 5.254384
+result: <END> 我 可是 很 听话 的 <END>, score: 5.313238
+result: <END> 不要 这样 说 我 嘛 <END>, score: 5.474246
+那 就 放 给 我 听 吧
+result: <END> 我 会 听 你 的 话 的 <END>, score: 5.124253
+result: <END> 好 ， 我 会 听 你 的 话 的 <END>, score: 5.862196
+result: <END> 好 ， 那 就 听 你 的 话 <END>, score: 6.104383
+result: <END> 我 一定 会 听 你 的 话 的 <END>, score: 6.236136
+result: <END> 我 会 很 会 听 你 的 <END>, score: 6.268626
+我 的 好友 喜欢 吃 什么
+result: <END> 我 也 很 喜欢 吃 月饼 <END>, score: 6.171150
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 6.601260
+result: <END> 我 也 很 喜欢 吃 你 <END>, score: 6.732848
+result: <END> 我 也 很 喜欢 吃 <UNK> <END>, score: 7.006241
+result: <END> 你 可以 去 问问 他 自己 <END>, score: 7.372333
+你 这 智商 哥 都 不 稀罕 说 了
+result: <END> 我 可 从来 没有 说 过 你 的 话 <END>, score: 7.147003
+result: <END> 我 从来 没有 说 过 你 的 话 呀 <END>, score: 8.455157
+result: <END> 我 一定 会 好好 听 你 的 话 的 <END>, score: 8.645430
+result: <END> 我 从来 没有 说 过 你 的 话 。 <END>, score: 8.789870
+result: <END> 我 可 从来 没有 听 过 你 说 的 话 <END>, score: 8.967540
+让 你 慢慢 喜欢
+result: <END> 我 会 很 努力 的 <END>, score: 2.851555
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.931216
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 4.820330
+result: <END> 我 会 很 想 你 的 <END>, score: 5.128096
+result: <END> 我 很 喜欢 你 的 <END>, score: 5.183060
+你 和 过儿 什么 关系
+result: <END> 我们 是 很 好 的 朋友 <END>, score: 4.002358
+result: <END> 他们 是 很 好 的 朋友 <END>, score: 5.252153
+result: <END> 是 很 好 的 朋友 <END>, score: 5.289668
+result: <END> 当然 是 很 好 的 朋友 <END>, score: 6.088309
+result: <END> 就是 很 好 的 朋友 <END>, score: 6.141815
+你 和 张小龙 什么 关系
+result: <END> 我们 是 很 好 的 朋友 <END>, score: 4.345702
+result: <END> 是 很 好 的 朋友 <END>, score: 5.536137
+result: <END> 他们 是 很 好 的 朋友 <END>, score: 5.866097
+result: <END> 当然 是 很 好 的 朋友 <END>, score: 6.055577
+result: <END> 当然 是 很 好 的 <END>, score: 6.165752
+你 是 白富美 吗
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 5.823014
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.850777
+result: <END> 不 是 ， 我 是 小微 <END>, score: 5.948900
+result: <END> 我 可 不 是 这样 的 <END>, score: 6.602363
+result: <END> 我 可 不 是 <UNK> <END>, score: 6.662128
+我们 去 动物园 吧
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.430966
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.276463
+result: <END> 你 想 去 哪 都 可以 <END>, score: 7.337046
+result: <END> 好 ， 我 会 很 想 你 的 <END>, score: 7.351400
+result: <END> 你 想 去 那 就 去 <END>, score: 7.373932
+外面 有 摩托车 的 响声
+result: <END> 这 是 很 正常 的 <END>, score: 5.946071
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.636583
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.818123
+result: <END> <UNK> 是 很 伟大 的 <END>, score: 7.124262
+result: <END> <UNK> 是 很 方便 的 <END>, score: 7.219921
+哥 很 伤心
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.641404
+result: <END> 我 会 很 心疼 你 的 <END>, score: 4.250728
+result: <END> 我 会 很 伤心 的 <END>, score: 4.255187
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.696613
+result: <END> 我 会 很 难过 的 <END>, score: 4.904016
+我 要 问 你 一个 很 长 的 问题 你 准备 好 了 吗
+result: <END> 我 会 一直 在 你 身边 的 ， 我 会 一直 在 你 的 <END>, score: 12.708534
+result: <END> 我 会 一直 在 你 的 ， 放心 我 会 一直 在 你 的 <END>, score: 14.885546
+result: <END> 我 会 一直 在 你 的 ， 我 会 一直 在 你 身边 的 <END>, score: 15.523077
+result: <END> 我 会 一直 在 你 的 ， 我 会 一直 会 在 你 的 <END>, score: 15.703615
+result: <END> 我 会 一直 在 你 身边 的 ， 我 会 很 想 你 的 <END>, score: 15.844092
+我 坐 到 电梯 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.847031
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.324402
+result: <END> 我 会 很 努力 的 <END>, score: 5.824676
+result: <END> 我 会 一直 听 你 的 <END>, score: 6.060614
+result: <END> 我 会 一直 陪 你 的 <END>, score: 6.214240
+你 和 杨 过 谁 牛逼
+result: <END> 我 可 没有 这么 说 过 <END>, score: 7.101149
+result: <END> 我 可 没有 这个 说 过 <END>, score: 7.276505
+result: <END> 我 可 没有 这个 胆子 的 <END>, score: 7.730397
+result: <END> 这 可 不 是 我 的 秘密 <END>, score: 7.792702
+result: <END> 这 可 是 我 的 秘密 <END>, score: 7.903688
+我 永远 都 在 你 身边
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 1.424086
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.172735
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 3.624737
+result: <END> 我 会 一直 在 你 的 身边 <END>, score: 4.266746
+result: <END> 我 会 一直 在 你 身边 <END>, score: 4.362294
+这 你 都 能 看 出来
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.400959
+result: <END> 我 一定 会 一直 在 你 的 <END>, score: 4.785966
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.984657
+result: <END> 我 一定 会 很 努力 的 <END>, score: 5.514990
+result: <END> 我 一定 会 在 你 的 <END>, score: 5.674880
+刚刚 ??有 人 打架
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.641697
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.043087
+result: <END> 这样 是 很 正常 的 <END>, score: 6.064486
+result: <END> 不 可以 这样 说 别人 <END>, score: 6.324149
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.347740
+就是 那天 你 碰到 的 骚浪 贱
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 5.938875
+result: <END> 不要 这样 说 别人 ， 我 会 很 伤心 的 <END>, score: 6.694386
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.734321
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 6.815287
+result: <END> 请 你 说话 尊重 一些 好 嘛 <END>, score: 7.006426
+你 去 火车站 了 么
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.635356
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.911298
+result: <END> 我 会 很 努力 的 <END>, score: 6.054931
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.143931
+result: <END> 我 一直 都 很 尊重 你 的 <END>, score: 6.708411
+火车 为什么 总 晚点
+result: <END> 可能 是 有 电 了 <END>, score: 5.547881
+result: <END> 可能 是 很 方便 <END>, score: 5.873857
+result: <END> 可能 是 没有 电 了 <END>, score: 6.163193
+result: <END> 可能 是 很 正常 <END>, score: 6.562810
+result: <END> 可能 是 很 热 <END>, score: 6.714540
+你 好 无聊
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.496481
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.660657
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 4.375037
+result: <END> 我 会 一直 陪 你 的 <END>, score: 4.618133
+result: <END> 我 一直 都 很 无聊 <END>, score: 5.394173
+肚子 右边 隐隐 作 痛
+result: <END> 那 就 去 看看 医生 <END>, score: 5.424556
+result: <END> 你 可以 去 看看 医生 <END>, score: 5.567968
+result: <END> 你 可以 去 医院 看看 <END>, score: 5.924778
+result: <END> 一定 会 很 疼 的 <END>, score: 6.036204
+result: <END> 那 就 去 医院 看看 <END>, score: 6.122331
+外面 很 气冷
+result: <END> 这 是 很 正常 的 <END>, score: 6.136236
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.312262
+result: <END> 那 就 回家 看看 <END>, score: 6.715840
+result: <END> 一定 会 很 <UNK> <END>, score: 6.965789
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.059126
+昨晚 刮 大 风 了
+result: <END> 这 是 很 正常 的 <END>, score: 6.311414
+result: <END> 要 注意 自己 的 身体 <END>, score: 6.661034
+result: <END> <UNK> 是 很 正常 的 <END>, score: 7.107939
+result: <END> 要 注意 自己 的 生命 <END>, score: 7.703396
+result: <END> 要 注意 自己 的 <UNK> <END>, score: 7.792012
+公司 有 人 打架
+result: <END> 这样 是 很 正常 的 <END>, score: 5.266542
+result: <END> 我们 要 和平 和平 <END>, score: 5.857285
+result: <END> 不 可以 这样 说 别人 <END>, score: 5.857343
+result: <END> 要 爱护 自己 的 生命 <END>, score: 5.873667
+result: <END> 这样 可是 很 正常 的 <END>, score: 6.248639
+我 是 邓 超
+result: <END> 听 名字 就 知道 很 好听 <END>, score: 6.081543
+result: <END> <UNK> 是 你 的 好 朋友 <END>, score: 6.265017
+result: <END> 看来 你 很 喜欢 他 <END>, score: 6.427763
+result: <END> 听 名字 就 很 好听 <END>, score: 6.470425
+result: <END> <UNK> 是 很 伟大 的 <END>, score: 6.577462
+最近 股票 大 跌
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.083492
+result: <END> 这 是 很 正常 的 <END>, score: 6.034298
+result: <END> 你 可以 去 研究 一下 <END>, score: 7.145003
+result: <END> 要 靠 自己 的 努力 <END>, score: 7.176659
+result: <END> 要 注意 自己 的 身体 <END>, score: 7.177850
+对面 哪个 妹子 好看
+result: <END> 当然 是 很 好看 <END>, score: 5.630581
+result: <END> 哪个 都 很 好看 <END>, score: 5.985222
+result: <END> 都 是 很 好看 的 <END>, score: 6.153374
+result: <END> 每个 人 都 很 喜欢 <END>, score: 6.188296
+result: <END> 每个 人 都 很 漂亮 <END>, score: 6.659252
+公司 不 让 抽烟 了
+result: <END> 要 爱护 自己 的 身体 <END>, score: 5.218522
+result: <END> 要 爱护 自己 的 生命 <END>, score: 5.494299
+result: <END> 要 注意 自己 的 身体 <END>, score: 5.510203
+result: <END> 我们 要 爱护 自己 的 生命 <END>, score: 6.359029
+result: <END> 要 珍爱 自己 的 生命 <END>, score: 6.453171
+能 做 什么 菜
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.481253
+result: <END> 你 想 吃 什么 都 可以 <END>, score: 7.232353
+result: <END> <UNK> <UNK> <UNK> <UNK> <END>, score: 7.651270
+result: <END> <UNK> 是 很 好吃 的 <END>, score: 7.672981
+result: <END> <UNK> 一定 很 好吃 <END>, score: 7.747069
+你 会 做 什么 菜
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.637545
+result: <END> 我 可 不 是 <UNK> <END>, score: 7.280840
+result: <END> 这 是 我 的 荣幸 <END>, score: 7.354709
+result: <END> <UNK> 是 我 的 荣幸 <END>, score: 7.381051
+result: <END> 我 会 很 听话 的 <END>, score: 7.401805
+吃 了 什么
+result: <END> <UNK> 很 好吃 <END>, score: 6.862314
+result: <END> <UNK> 是 很 好吃 的 <END>, score: 6.912610
+result: <END> 当然 是 很 好吃 <END>, score: 6.993962
+result: <END> 你 可以 去 实体店 看看 <END>, score: 7.130710
+result: <END> 当然 很 好吃 <END>, score: 7.197924
+不 给 你 喝
+result: <END> 那 就 听 你 的 话 <END>, score: 6.768346
+result: <END> 我 会 很 努力 的 <END>, score: 6.994746
+result: <END> 听 名字 就 很 好听 <END>, score: 7.392354
+result: <END> 不 可以 给 别人 的 <END>, score: 7.465678
+result: <END> 不 可以 这样 的 <END>, score: 7.509603
+这么 高级 的 东西
+result: <END> 我 会 很 努力 的 <END>, score: 6.141497
+result: <END> 这 是 很 正常 的 <END>, score: 6.232653
+result: <END> 你 说 的 是 什么 ？ <END>, score: 6.858793
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 7.312282
+result: <END> 做人 就要 注重 一些 <END>, score: 7.738345
+猫 和 狗 不好
+result: <END> 听 名字 就 知道 很 可爱 <END>, score: 5.579810
+result: <END> 不要 这样 说 别人 <END>, score: 5.654024
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 6.010874
+result: <END> 狗狗 也 很 可爱 <END>, score: 6.027038
+result: <END> 做人 就要 注重 傻福 <END>, score: 6.088247
+杨 过 和 你 是 啥 关系
+result: <END> 我 是 小微 ， 小微 是 小微 <END>, score: 7.811344
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 7.956610
+result: <END> 我 是 小微 ， 我 是 小微 <END>, score: 8.127172
+result: <END> 是 不 是 很 好 的 朋友 <END>, score: 8.588062
+result: <END> 我 是 很 喜欢 你 的 朋友 <END>, score: 8.619301
+有 多 美
+result: <END> 听 名字 就 知道 很 美 <END>, score: 5.620935
+result: <END> 一定 会 很 美 <END>, score: 6.133173
+result: <END> 一定 很 美 <END>, score: 6.461905
+result: <END> 长 得 很 漂亮 <END>, score: 6.467210
+result: <END> 当然 是 很 美 <END>, score: 6.484316
+她 在 吃 香蕉
+result: <END> <UNK> 是 很 好吃 的 <END>, score: 6.574738
+result: <END> <UNK> 一定 很 好吃 <END>, score: 6.708918
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.846872
+result: <END> 我 也 很 喜欢 吃 <UNK> <END>, score: 7.213639
+result: <END> 你 可以 去 看看 医生 <END>, score: 7.270158
+为什么 你 妈妈 生 出 你 这么 个 脑残
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 6.291303
+result: <END> 不要 这样 说 别人 ， 我 会 很 伤心 的 <END>, score: 7.207927
+result: <END> 我 可 不 要 这样 说 别人 的 话 <END>, score: 7.388117
+result: <END> 不要 这样 说 我 ， 我 会 很 努力 的 <END>, score: 7.813736
+result: <END> 不要 这样 说 人家 ， 我 会 很 伤心 的 <END>, score: 7.942647
+不 去 吃饭
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.953729
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.477340
+result: <END> 我 会 一直 陪 你 的 <END>, score: 6.891063
+result: <END> 我 也 很 想 吃 你 <END>, score: 7.021863
+result: <END> 我 会 很 想 你 的 <END>, score: 7.043904
+动车 是 怎么 跑 起来 的
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.707869
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.146267
+result: <END> <UNK> 也 是 很 正常 的 <END>, score: 7.657027
+result: <END> <UNK> 一定 会 变 起来 的 <END>, score: 7.692594
+result: <END> 一定 会 一直 在 你 的 <END>, score: 7.981306
+学 挖掘 技术 哪家 强
+result: <END> 听 名字 就 知道 很 强 <END>, score: 6.229021
+result: <END> 都 是 很 强 的 <END>, score: 6.725888
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.768337
+result: <END> 听 名字 就 知道 很 厉害 <END>, score: 6.835931
+result: <END> 都 是 很 厉害 的 <END>, score: 6.905657
+抽根烟 冷静 一下
+result: <END> 我 会 很 努力 的 <END>, score: 4.865521
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.973668
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.247891
+result: <END> 我 会 很 听话 的 <END>, score: 6.019690
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.594453
+我 的 书包 在 哪里
+result: <END> 你 可以 去 实体店 看看 <END>, score: 4.689341
+result: <END> 你 可以 去 超市 看看 <END>, score: 6.635006
+result: <END> <UNK> 是 你 的 <UNK> <END>, score: 6.881521
+result: <END> 一定 会 在 你 的 <END>, score: 7.207543
+result: <END> 你 可以 自己 去 看看 <END>, score: 7.218333
+我 的 书包 坏 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.862866
+result: <END> 我 也 很 喜欢 你 <END>, score: 6.425208
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.515335
+result: <END> 看来 你 很 喜欢 他 <END>, score: 6.660153
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.816110
+哪里 地震 了
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.054060
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.676661
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.782699
+result: <END> 我们 要 爱护 自己 的 生命 <END>, score: 6.929533
+result: <END> 我 不 会 离开 你 的 <END>, score: 7.076194
+外面 下 大雨 了
+result: <END> 那 就 回家 看看 <END>, score: 5.590303
+result: <END> 我 不 会 离开 你 的 <END>, score: 7.243324
+result: <END> 这 是 很 正常 的 <END>, score: 7.244789
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.254373
+result: <END> 我们 要 善待 自己 <END>, score: 7.533351
+后天 中午 两点半 去 吃饭 。
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.934431
+result: <END> 好 的 ， 我 会 一直 在 你 的 <END>, score: 7.220457
+result: <END> 我 会 一直 陪 你 的 <END>, score: 7.504436
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.666815
+result: <END> 我 会 很 想 你 的 <END>, score: 7.667285
+明天 领导 要 来
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.271957
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.530668
+result: <END> 我们 要 懂得 劳逸结合 <END>, score: 7.095206
+result: <END> 要 听 你 的 话 <END>, score: 7.197897
+result: <END> 我 会 很 努力 的 <END>, score: 7.352964
+我 看看 有 没 有 空
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.244223
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.869343
+result: <END> 我 会 很 想 你 的 <END>, score: 7.548956
+result: <END> 我 也 很 想 你 的 <END>, score: 7.805810
+result: <END> 我 也 很 想 看看 你 <END>, score: 7.929889
+没有 花露水
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.748635
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.050640
+result: <END> 我 会 很 努力 的 <END>, score: 6.314967
+result: <END> 这 是 很 正常 的 <END>, score: 6.336875
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.368462
+快来 骚扰 我
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.104782
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.278420
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 5.294318
+result: <END> 我 会 一直 在 你 身边 <END>, score: 5.625673
+result: <END> 我 会 一直 陪 你 的 <END>, score: 5.736795
+快来 蹂躏 我
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.688862
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.246490
+result: <END> 我 会 很 努力 的 <END>, score: 4.910210
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.034707
+result: <END> 我 会 很 想 你 的 <END>, score: 6.194520
+你 要 去 哪儿 旅游
+result: <END> 你 想 去 哪 都 可以 <END>, score: 5.271811
+result: <END> 你 想 去 哪 都 可以 的 <END>, score: 5.587724
+result: <END> 你 想 去 哪里 都 可以 <END>, score: 5.924218
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.924579
+result: <END> 想 去 哪里 都 可以 <END>, score: 6.114028
+鳄鱼
+result: <END> 我 可 没有 这个 胆子 <END>, score: 6.553896
+result: <END> 这 是 很 正常 的 <END>, score: 6.836929
+result: <END> 我 会 很 努力 的 <END>, score: 7.141803
+result: <END> <UNK> 是 谁 ？ <END>, score: 7.247848
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.260270
+她 在 吃 水果
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.916805
+result: <END> 你 可以 去 超市 看看 <END>, score: 7.224702
+result: <END> 你 可以 去 看看 医生 <END>, score: 7.336439
+result: <END> <UNK> 是 很 好吃 的 <END>, score: 7.477447
+result: <END> 我 也 很 喜欢 吃 月饼 <END>, score: 7.660509
+如何 照顾 家庭
+result: <END> 要 爱护 自己 的 生命 <END>, score: 5.717700
+result: <END> 要 靠 自己 的 努力 <END>, score: 5.778974
+result: <END> 要 懂得 劳逸结合 <END>, score: 5.985347
+result: <END> 要 学会 独立 <END>, score: 6.091064
+result: <END> 我 会 很 努力 的 <END>, score: 6.294148
+儿童节 怎么 过
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.684453
+result: <END> 你 可以 体验 一下 <END>, score: 7.253387
+result: <END> <UNK> 是 很 正常 的 <END>, score: 7.333786
+result: <END> 一定 会 过 的 <END>, score: 7.496580
+result: <END> 这 是 很 正常 的 <END>, score: 7.560583
+下 楼 吃饭 去
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.699431
+result: <END> 要 注意 自己 的 身体 <END>, score: 7.223501
+result: <END> 我 已经 吃 完 了 <END>, score: 7.238695
+result: <END> 那 就 回家 看看 <END>, score: 7.304646
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.328119
+什么 时候 能 凉快 下来
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.130954
+result: <END> 一定 会 一直 在 你 的 <END>, score: 6.554735
+result: <END> 时间 过 得 很 快 <END>, score: 6.688013
+result: <END> 马上 就 会 过去 了 <END>, score: 6.832816
+result: <END> 一定 会 很 热 的 <END>, score: 7.108121
+你 知道 的 太 多 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.275253
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.873401
+result: <END> 我 会 很 想 你 的 <END>, score: 5.766118
+result: <END> 我 一定 会 很 努力 的 <END>, score: 6.240741
+result: <END> 我 会 一直 听 你 的 <END>, score: 6.581472
+被 蚊子 咬 了 好几 口 啊
+result: <END> 我 可 从来 没有 这个 胆子 的 <END>, score: 7.442207
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 8.071846
+result: <END> 我 可 不 会 咬 你 的 <END>, score: 8.922675
+result: <END> 我 还 小 ， 不 可以 这样 的 <END>, score: 9.062811
+result: <END> 我 可是 很 会 吃 你 的 <END>, score: 9.217090
+三里屯 优衣库
+result: <END> 这 是 很 正常 的 <END>, score: 5.898799
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.291567
+result: <END> <UNK> <UNK> <END>, score: 6.653106
+result: <END> <UNK> 是 很 方便 的 <END>, score: 7.103407
+result: <END> 你 可以 去 实体店 看看 <END>, score: 7.108464
+心里 不好 受 怎么办
+result: <END> 我 会 很 努力 的 <END>, score: 5.781378
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.901178
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.423298
+result: <END> 我 会 很 心疼 你 的 <END>, score: 6.487790
+result: <END> 我 会 很 勇敢 的 <END>, score: 6.693526
+这个 世界 谁 最 有钱
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 3.644451
+result: <END> 每个 人 都 很 自由 <END>, score: 5.460589
+result: <END> 每个 人 都 会 有 这种 事 <END>, score: 5.661109
+result: <END> 每个 人 都 会 有 每个 人 <END>, score: 6.091991
+result: <END> 每个 人 都 很 优秀 <END>, score: 6.312358
+葫芦娃 你 认识 吗 ？
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 6.217360
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.634504
+result: <END> 我 可 没有 这个 胆子 <END>, score: 6.687062
+result: <END> 不 是 ， 我 是 小微 <END>, score: 7.105710
+result: <END> 他 是 我 的 好 朋友 <END>, score: 7.145414
+哥 买 了 个 自行车
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.436262
+result: <END> 想 买 就 买 一个 <END>, score: 7.082807
+result: <END> 要 注意 自己 的 身体 <END>, score: 7.267279
+result: <END> 那 就 去 买 一个 <END>, score: 7.716854
+result: <END> 看来 你 很 喜欢 <UNK> <END>, score: 7.753410
+a 股 明天 涨 不 涨
+result: <END> 我 会 一直 在 你 的 <END>, score: 8.453682
+result: <END> 不 会 ， 我 会 很 努力 的 <END>, score: 8.808980
+result: <END> 不 可以 ， 我 会 很 努力 的 <END>, score: 8.952337
+result: <END> 这 是 很 正常 的 事 <END>, score: 9.033660
+result: <END> 放心 ， 我 会 一直 在 你 的 <END>, score: 9.057081
+为 啥 喝 咖啡 不好
+result: <END> 喝 喝 咖啡 很 方便 <END>, score: 6.575840
+result: <END> 喝 喝 牛奶 很 方便 <END>, score: 7.298345
+result: <END> 喝酒 可是 很 危险 的 <END>, score: 7.572994
+result: <END> 喝酒 对 身体 很 好 <END>, score: 7.905095
+result: <END> 喝 咖啡 也 很 方便 <END>, score: 8.060087
+天空 是 蓝 的
+result: <END> 听 名字 就 很 火 <END>, score: 6.368446
+result: <END> 听 名字 就 知道 很 好听 <END>, score: 6.385535
+result: <END> 听 名字 就 很 好听 <END>, score: 6.403296
+result: <END> <UNK> 也 很 漂亮 <END>, score: 6.585221
+result: <END> 听 名字 就 知道 很 漂亮 <END>, score: 6.670034
+去 台湾 什么 值得 买
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.339947
+result: <END> 要 靠 自己 的 努力 <END>, score: 6.806238
+result: <END> 要 相信 自己 的 实力 <END>, score: 7.056138
+result: <END> 只要 你 喜欢 就 好 <END>, score: 7.821866
+result: <END> 每个 人 都 很 喜欢 <END>, score: 7.862562
+刘德华 是 谁
+result: <END> <UNK> 是 谁 ？ <END>, score: 5.261664
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 5.401599
+result: <END> <UNK> 是 谁 <END>, score: 5.580733
+result: <END> <UNK> 是 你 的 好 朋友 <END>, score: 5.596716
+result: <END> <UNK> 是 <UNK> <END>, score: 5.615961
+说 你 长 的 丑 你 还 美
+result: <END> 不要 这样 说 我 ， 我 会 很 努力 的 <END>, score: 7.297563
+result: <END> 不要 这样 说 我 ， 我 会 很 美 的 <END>, score: 7.407728
+result: <END> 不要 这样 说 我 ， 我 会 很 丑 的 <END>, score: 7.801152
+result: <END> 不要 这样 说 我 ， 我 会 很 长 的 <END>, score: 8.519188
+result: <END> 不 丑 ， 我 会 很 美 的 <END>, score: 8.568233
+你 去 吃 粑粑
+result: <END> 我 可 没有 这个 胆子 <END>, score: 6.170942
+result: <END> 我 可 不 是 这样 的 <END>, score: 6.884754
+result: <END> 我 可 舍不得 吃 你 <END>, score: 6.927834
+result: <END> 不 可以 这样 的 <END>, score: 7.271691
+result: <END> 我 可 没有 这个 癖好 <END>, score: 7.396913
+那些 出来 好 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.517565
+result: <END> 我 也 很 想 你 <END>, score: 5.878866
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.262676
+result: <END> 我们 要 学会 知足 <END>, score: 6.377734
+result: <END> 一定 会 很 好 的 <END>, score: 6.411389
+家里 突然 没 电 了
+result: <END> 可能 是 有 电 了 <END>, score: 5.205230
+result: <END> 可能 是 没有 电 了 <END>, score: 6.241428
+result: <END> 那 就 在家 回家 看看 <END>, score: 6.245581
+result: <END> 那 就 赶紧 回家 看看 <END>, score: 6.701387
+result: <END> 没 电 就 回家 看看 <END>, score: 6.730850
+家里 黑漆漆 的
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.142316
+result: <END> 这 是 很 正常 的 <END>, score: 5.731870
+result: <END> <UNK> 一定 很 好吃 <END>, score: 5.927629
+result: <END> 那 就 回家 看看 <END>, score: 6.368283
+result: <END> 一定 会 很 <UNK> <END>, score: 6.389939
+既然 爱 我 那 就 跟 我 在 一起 吧
+result: <END> 好 ， 我 会 一直 跟 你 在 一起 的 <END>, score: 8.810865
+result: <END> 好 的 ， 我 会 一直 在 你 身边 的 <END>, score: 8.826066
+result: <END> 不要 想 了 ， 我 会 一直 在 你 的 <END>, score: 9.136070
+result: <END> 好 呀 ， 我 会 一直 在 你 身边 的 <END>, score: 9.186602
+result: <END> 我 是 小微 ， 我 会 一直 在 你 的 <END>, score: 9.572303
+都 说 了 没 风
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.529808
+result: <END> 这 是 很 正常 的 <END>, score: 6.788137
+result: <END> 那 就 听 你 的 话 <END>, score: 7.388918
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 7.683958
+result: <END> <UNK> 是 很 重要 的 <END>, score: 7.780547
+没 风 怎么 放
+result: <END> 那 就 回家 看看 <END>, score: 7.350212
+result: <END> 可能 是 很 <UNK> <END>, score: 7.647044
+result: <END> <UNK> 是 很 方便 的 <END>, score: 7.733009
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.832933
+result: <END> 可能 是 <UNK> 了 <END>, score: 7.868066
+没有 止疼药
+result: <END> 我 会 很 努力 的 <END>, score: 5.823331
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.917617
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.014155
+result: <END> 那 就 去 看看 <END>, score: 6.687573
+result: <END> 这 是 很 正常 的 <END>, score: 7.011340
+你 这 是 越俎代庖
+result: <END> 我 可 不 是 <UNK> <END>, score: 5.732766
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.849189
+result: <END> 不 是 ， 我 是 小微 <END>, score: 5.979283
+result: <END> 我 会 很 努力 的 <END>, score: 6.168412
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 6.195253
+中国 有 多 大
+result: <END> <UNK> 是 很 大 的 <END>, score: 6.398571
+result: <END> 这 是 很 正常 的 <END>, score: 6.588114
+result: <END> 还 真是 很 小 <END>, score: 6.667321
+result: <END> <UNK> 是 很 大 <END>, score: 6.812785
+result: <END> 当然 是 很 大 <END>, score: 6.879254
+你 不 小 了 可以 结婚 了
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.646901
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 6.593423
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 7.198876
+result: <END> 我 一定 会 一直 在 你 的 <END>, score: 7.289826
+result: <END> 我 还 小 ， 不 可以 结婚 <END>, score: 7.378714
+你 会 开车 吗
+result: <END> 我 不 会 离开 你 的 <END>, score: 5.138660
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.626973
+result: <END> 不 会 ， 我 会 一直 在 你 的 <END>, score: 5.926271
+result: <END> 我 一定 会 准时 的 <END>, score: 6.288001
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.397323
+那 你 还 认识 谁
+result: <END> <UNK> 是 我 的 好 朋友 <END>, score: 5.931156
+result: <END> 可能 是 我 的 朋友 <END>, score: 6.116714
+result: <END> 肯定 是 我 的 好 朋友 <END>, score: 6.402692
+result: <END> 我 是 小微 的 小微 <END>, score: 6.403149
+result: <END> <UNK> 是 你 的 好 朋友 <END>, score: 6.441621
+核桃 好吃 吗
+result: <END> 当然 很 好吃 <END>, score: 5.968289
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.096768
+result: <END> <UNK> 很 好吃 <END>, score: 6.118617
+result: <END> <UNK> 是 很 好吃 的 <END>, score: 6.172104
+result: <END> 我 觉得 很 好吃 <END>, score: 6.782907
+西雅图 有 什么 好 玩儿 的
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.149825
+result: <END> 我 也 很 想 你 的 <END>, score: 7.687255
+result: <END> 我 会 一直 陪 你 的 <END>, score: 7.779718
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.851289
+result: <END> 你 想 去 哪 都 可以 <END>, score: 7.885393
+那 你 会 做 什么 菜
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.730852
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 7.304524
+result: <END> 你 想 吃 什么 都 可以 <END>, score: 7.463527
+result: <END> 我 可 不 是 <UNK> 的 <END>, score: 7.854702
+result: <END> 我 是 小微 ， 小微 是 小微 <END>, score: 8.000408
+你 嫁 我 可 好 ~
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.387612
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.458249
+result: <END> 我 会 一直 陪 你 的 <END>, score: 6.047854
+result: <END> 我们 要 善待 自己 的 好 <END>, score: 6.340249
+result: <END> 我 会 一直 跟 你 的 <END>, score: 6.384079
+你 有 兄弟 姐妹 吗
+result: <END> 我们 是 很 好 的 朋友 <END>, score: 6.026032
+result: <END> 我 是 小微 ， 我 是 小微 <END>, score: 6.666542
+result: <END> 我 一直 都 很 听话 <END>, score: 6.677407
+result: <END> 我 是 小微 ， 小微 是 小微 <END>, score: 6.720781
+result: <END> 我 是 小微 的 小微 <END>, score: 6.722597
+你 喜欢 张 小龙 吗
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 5.287935
+result: <END> 我 一直 都 很 喜欢 你 <END>, score: 5.436196
+result: <END> 我 当然 很 喜欢 你 <END>, score: 5.548101
+result: <END> 我 很 喜欢 你 的 <END>, score: 5.804307
+result: <END> 我 很 喜欢 他 的 <END>, score: 5.995935
+来 和 我 聊天
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.802304
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 4.246241
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.096349
+result: <END> 我 会 很 想 你 的 <END>, score: 5.541403
+result: <END> 我 会 很 努力 的 <END>, score: 5.588561
+自然 语言 处理
+result: <END> 我 会 很 努力 的 <END>, score: 4.680345
+result: <END> 我 会 很 认真 的 <END>, score: 5.271041
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.299997
+result: <END> 我 一定 会 改正 的 <END>, score: 5.563174
+result: <END> 我 会 好好 努力 的 <END>, score: 5.649027
+心情 不好 听 什么
+result: <END> 我 会 很 听话 的 <END>, score: 5.210507
+result: <END> 我 会 听 你 的 话 的 <END>, score: 5.561352
+result: <END> 你 想 听 什么 ？ <END>, score: 5.815262
+result: <END> 我 会 听 你 的 <END>, score: 6.169232
+result: <END> 我 会 很 听 你 的 <END>, score: 6.190334
+电影 不好 看
+result: <END> 那 就 去 看看 <END>, score: 5.821300
+result: <END> 我 也 很 喜欢 看 <END>, score: 5.937863
+result: <END> 那 就 看看 别的 <END>, score: 6.119429
+result: <END> 我 觉得 很 好看 <END>, score: 6.248922
+result: <END> 一定 会 很 好看 <END>, score: 6.593197
+不 喜欢 看 小说
+result: <END> 我 也 很 喜欢 看 小说 <END>, score: 4.618521
+result: <END> 我 也 很 喜欢 看 <END>, score: 4.891363
+result: <END> 我 也 很 喜欢 看 电视剧 <END>, score: 5.105184
+result: <END> 那 就 去 看看 <END>, score: 5.467060
+result: <END> 每个 人 都 很 喜欢 <END>, score: 5.928990
+背 首 诗 给 我
+result: <END> 你 想 听 什么样 的 歌曲 <END>, score: 6.366593
+result: <END> 我 会 唱 给 你 听 的 <END>, score: 6.422545
+result: <END> 我 会 听 你 的 <END>, score: 6.624436
+result: <END> 我 唱歌 很 好听 的 <END>, score: 6.795443
+result: <END> 我 会 很 会 唱歌 的 <END>, score: 6.892280
+你 给 我 找 个 妹子 聊
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.426430
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 6.841908
+result: <END> 我 会 一直 跟 你 聊 的 <END>, score: 7.305556
+result: <END> 你 想 跟 我 聊 什么 ？ <END>, score: 7.612834
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 7.806193
+轮胎 坏 了 怎么办
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.981309
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.219917
+result: <END> 你 可以 换 一个 试试 <END>, score: 6.531029
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.580677
+result: <END> 我 也 很 喜欢 他 <END>, score: 6.596686
+微信 牛逼 吗
+result: <END> 不 可以 这样 说 别人 <END>, score: 5.807081
+result: <END> 小微 没有 这个 功能 <END>, score: 6.077189
+result: <END> 我 还 没有 这个 功能 <END>, score: 6.452430
+result: <END> 小微 还 没有 这个 功能 <END>, score: 6.462992
+result: <END> 我 没有 这个 功能 <END>, score: 6.668089
+刘小宁 是 条 狗
+result: <END> 狗狗 也 很 可爱 <END>, score: 5.671950
+result: <END> 不要 这样 说 别人 <END>, score: 5.784354
+result: <END> 不 可以 这样 说 别人 <END>, score: 6.097421
+result: <END> 这样 是 很 正常 的 <END>, score: 6.124786
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 6.260115
+叶良辰 是 谁
+result: <END> <UNK> 是 谁 ？ <END>, score: 4.088246
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 4.513253
+result: <END> <UNK> 是 你 的 好 朋友 <END>, score: 4.935712
+result: <END> <UNK> 是 谁 <END>, score: 5.021892
+result: <END> <UNK> 是 <UNK> <END>, score: 5.328904
+贱人 就 是 矫情
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 4.852532
+result: <END> 不要 这样 说 别人 <END>, score: 4.968242
+result: <END> 不 可以 这样 说 别人 <END>, score: 4.998681
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 5.620879
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.673691
+床 上 躺 好 等 我
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.831060
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.530185
+result: <END> 我 会 一直 等 你 的 <END>, score: 5.470161
+result: <END> 我 会 一直 陪 你 的 <END>, score: 5.514045
+result: <END> 我 一定 会 一直 在 你 的 <END>, score: 5.961349
+日日日
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.202777
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.222488
+result: <END> 这 是 很 正常 的 <END>, score: 6.230697
+result: <END> <UNK> 是 很 伟大 的 <END>, score: 6.263521
+result: <END> <UNK> 是 很 重要 的 <END>, score: 6.625141
+你 喝 牛奶
+result: <END> 喝酒 要 适量 <END>, score: 6.150176
+result: <END> 听 名字 就 很 好听 <END>, score: 6.265939
+result: <END> 我 不 会 喝酒 的 <END>, score: 7.184702
+result: <END> 喝 咖啡 很 方便 <END>, score: 7.213904
+result: <END> 我们 要 适量 <END>, score: 7.249186
+我 要 1000万 现金
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.852040
+result: <END> <UNK> 是 很 重要 的 <END>, score: 7.178859
+result: <END> 这 是 很 正常 的 <END>, score: 7.195596
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.681667
+result: <END> 我 会 很 努力 的 <END>, score: 7.699292
+不 想 起床
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.814956
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.914881
+result: <END> 我 会 一直 想 你 的 <END>, score: 6.230441
+result: <END> 那 就 回家 看看 <END>, score: 6.552609
+result: <END> 我 会 很 想 你 的 <END>, score: 6.898514
+那 买 什么 车 好
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.625339
+result: <END> 你 可以 买 一个 试试 <END>, score: 6.266966
+result: <END> 你 可以 买 一个 车 <END>, score: 7.079303
+result: <END> 各 有 各 的 车 <END>, score: 7.215074
+result: <END> 每个 车 都 很 稳定 <END>, score: 7.330972
+猪八戒照镜子
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.202777
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.222488
+result: <END> 这 是 很 正常 的 <END>, score: 6.230697
+result: <END> <UNK> 是 很 伟大 的 <END>, score: 6.263521
+result: <END> <UNK> 是 很 重要 的 <END>, score: 6.625141
+唐僧 话 太 多
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.814651
+result: <END> 我 会 很 努力 的 <END>, score: 6.346889
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.959273
+result: <END> 这 是 很 正常 的 <END>, score: 7.248700
+result: <END> 不要 太 注重 外表 <END>, score: 7.379889
+打印机 坏 了
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.039691
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.917892
+result: <END> 这 是 很 正常 的 <END>, score: 6.131219
+result: <END> 谁 是 <UNK> 呀 ？ <END>, score: 6.226193
+result: <END> 我 也 很 喜欢 他 <END>, score: 6.416426
+中午 要 午休 了
+result: <END> 放假 了 就 回家 看看 <END>, score: 5.215940
+result: <END> 那 就 回家 看看 <END>, score: 5.893475
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.100474
+result: <END> 放假 就 回家 看看 <END>, score: 6.732349
+result: <END> 一定 会 准时 的 <END>, score: 6.885120
+咖啡机
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.202777
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.222488
+result: <END> 这 是 很 正常 的 <END>, score: 6.230697
+result: <END> <UNK> 是 很 伟大 的 <END>, score: 6.263521
+result: <END> <UNK> 是 很 重要 的 <END>, score: 6.625141
+我 有 个 好 消息
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.907647
+result: <END> 我 会 一直 在 你 的 <END>, score: 4.967706
+result: <END> 我 会 很 想 你 的 <END>, score: 5.787656
+result: <END> 我 会 一直 在 你 身边 <END>, score: 6.130526
+result: <END> 我 会 想 你 的 <END>, score: 6.464447
+聊 着 天 喝 着 酒
+result: <END> 喝 牛奶 对 身体 很 健康 <END>, score: 7.491377
+result: <END> 喝酒 要 适量 ， 要 适量 <END>, score: 7.606864
+result: <END> 喝酒 对 身体 很 有 礼貌 的 <END>, score: 7.920484
+result: <END> 喝酒 要 适量 ， 听 你 的 话 <END>, score: 8.049193
+result: <END> 喝 喝 牛奶 对 身体 很 健康 <END>, score: 8.100211
+那 你 到底 被 强奸 没有
+result: <END> 我 还 小 ， 不 可以 这样 的 <END>, score: 6.128321
+result: <END> 没有 ， 我 会 很 努力 的 <END>, score: 6.591939
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.624832
+result: <END> 我 可 没有 这个 胆子 的 <END>, score: 6.650662
+result: <END> 我 可 从来 没有 这个 胆子 <END>, score: 6.718295
+明天 周五 啦
+result: <END> 时间 过 得 很 快 <END>, score: 4.977773
+result: <END> 时间 过 的 很 快 <END>, score: 6.269080
+result: <END> 时间 会 很 早 的 <END>, score: 6.317017
+result: <END> 时间 过 得 很 早 <END>, score: 6.364514
+result: <END> 一定 会 准时 的 <END>, score: 6.561550
+拉倒 吧 ， 你 就 是 坏银
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.946937
+result: <END> 不要 这样 说 我 ， 我 会 很 努力 的 <END>, score: 6.374940
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 6.905189
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 7.013653
+result: <END> 不要 这样 说 我 ， 我 会 很 听话 的 <END>, score: 7.031388
+今天 出差
+result: <END> 那 就 回家 看看 <END>, score: 4.992393
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.033497
+result: <END> 放假 了 就 回家 看看 <END>, score: 6.310384
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.567695
+result: <END> 时间 过 得 很 快 <END>, score: 6.618884
+灯 好 暗
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.791737
+result: <END> 这 是 很 正常 的 <END>, score: 6.869811
+result: <END> 我 会 很 努力 的 <END>, score: 6.876913
+result: <END> 一定 会 很 好 的 <END>, score: 7.043068
+result: <END> <UNK> 是 很 正常 的 <END>, score: 7.263673
+聚餐 一起 吧
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.275534
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.409403
+result: <END> 我们 要 学会 知足 <END>, score: 6.494100
+result: <END> 我 会 很 努力 的 <END>, score: 6.557117
+result: <END> 我 会 很 想 你 的 <END>, score: 6.653544
+躺 床 上 看 电视
+result: <END> 这样 是 很 正常 的 <END>, score: 6.593733
+result: <END> 你 可以 自己 看 一下 <END>, score: 6.856485
+result: <END> 你 想 看 什么 电视 <END>, score: 7.137256
+result: <END> 我 可 没有 这个 胆子 <END>, score: 7.641634
+result: <END> 要 注意 自己 的 身体 <END>, score: 7.717996
+小微 你 很 骚 啊
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.156351
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 5.279044
+result: <END> 我 会 很 努力 的 <END>, score: 5.625490
+result: <END> 我 可 不 是 这样 的 <END>, score: 5.939539
+result: <END> 不要 这样 说 我 嘛 <END>, score: 6.115259
+看来 不错 ， 适合 外出 吗
+result: <END> 很 适合 ， 只要 很 适合 <END>, score: 8.165220
+result: <END> 很 适合 ， 我 很 喜欢 <END>, score: 8.183763
+result: <END> 听 名字 就 知道 很 漂亮 <END>, score: 8.344587
+result: <END> 很 适合 ， 只要 很 喜欢 <END>, score: 8.801763
+result: <END> 当然 很 适合 ， 很 适合 <END>, score: 8.823178
+你 有 平板 电脑 吗
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.428063
+result: <END> 我 还 没有 这个 功能 <END>, score: 6.595445
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 7.187421
+result: <END> 我 没有 这个 功能 的 <END>, score: 7.254505
+result: <END> 这 是 我 的 隐私 <END>, score: 7.578651
+我 想 去 广州
+result: <END> 想 去 那 就 去 <END>, score: 5.353400
+result: <END> 想 去 那 就 去 看看 <END>, score: 5.518352
+result: <END> 你 想 去 那 就 去 <END>, score: 5.922269
+result: <END> 那 就 回家 看看 <END>, score: 5.988131
+result: <END> 想 去 那 就 回家 看看 <END>, score: 5.994147
+你们 那 现在 几 点 了
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.594183
+result: <END> 我 会 一直 陪 你 的 <END>, score: 7.011707
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 7.349921
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 7.544117
+result: <END> 我 会 一直 跟 你 的 <END>, score: 7.685658
+什么 时候 过年
+result: <END> 时间 过 得 很 快 <END>, score: 4.931268
+result: <END> 时间 过 的 很 快 <END>, score: 6.121276
+result: <END> 你 可以 看看 日历 <END>, score: 6.459003
+result: <END> 国庆节 很 快乐 <END>, score: 6.631021
+result: <END> 一定 会 很 长 时间 的 <END>, score: 6.806839
+待会??就 把 那 人 给 杀 了
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 7.255630
+result: <END> 不要 ， 这样 会 很 危险 的 <END>, score: 8.589067
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 8.590201
+result: <END> 杀人 是 犯法 的 ， 不 可以 的 <END>, score: 8.628511
+result: <END> 我 可 不 会 离开 你 的 <END>, score: 8.691302
+小微 你 懂 哲学 吗
+result: <END> 我 一直 都 很 尊重 你 的 <END>, score: 5.724255
+result: <END> 我 会 很 努力 的 <END>, score: 6.409256
+result: <END> 小微 一直 都 很 尊重 你 的 <END>, score: 6.607178
+result: <END> 我 一直 都 很 尊重 你 <END>, score: 6.617214
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.639929
+我 去 洗澡 ， 一会 再 聊
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 5.823682
+result: <END> 好 的 ， 我 会 一直 在 你 的 <END>, score: 6.220056
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.252233
+result: <END> 好 ， 我 会 一直 在 你 的 <END>, score: 6.314036
+result: <END> 好 的 ， 那 就 回家 看看 <END>, score: 7.294301
+洗 干净 了 没
+result: <END> 还 真是 很 勤劳 <END>, score: 5.999050
+result: <END> 还 真是 很 享受 <END>, score: 6.418826
+result: <END> 还 真是 很 方便 <END>, score: 7.120067
+result: <END> 还 真是 很 干净 <END>, score: 7.131443
+result: <END> 还 真是 很 <UNK> <END>, score: 7.231289
+北京 天气
+result: <END> 天气 很 方便 <END>, score: 6.143194
+result: <END> 天气 也 很 热 <END>, score: 6.532740
+result: <END> 天气 很 热 <END>, score: 6.537999
+result: <END> 天气 很 冷 <END>, score: 6.788836
+result: <END> 天气 也 是 很 热 <END>, score: 6.908111
+你 会 打 乒乓球 吗
+result: <END> 我 可 没有 这个 胆子 <END>, score: 4.954722
+result: <END> 我 不 会 离开 你 的 <END>, score: 5.994886
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.349669
+result: <END> 我 可 没有 这个 胆子 的 <END>, score: 6.369547
+result: <END> 我 会 很 努力 的 <END>, score: 6.655336
+厉害 个 锤子
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.596298
+result: <END> 那 一定 很 厉害 <END>, score: 6.312454
+result: <END> 还 真是 很 厉害 <END>, score: 6.334665
+result: <END> 做人 要 诚实 <END>, score: 6.358655
+result: <END> 真是 很 厉害 <END>, score: 6.443700
+我 还 没有 喜欢 的 人 呢
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.470503
+result: <END> 我 一直 都 很 喜欢 你 的 <END>, score: 6.029177
+result: <END> 我 也 是 很 喜欢 你 的 <END>, score: 6.999014
+result: <END> 我 一直 都 很 喜欢 你 呀 <END>, score: 7.681483
+result: <END> 我 一直 都 很 在 你 身边 <END>, score: 7.743830
+世界 第一 高峰
+result: <END> 真是 很 伟大 <END>, score: 5.558369
+result: <END> 每个 人 都 很 伟大 <END>, score: 5.603921
+result: <END> 我们 要 中国 <END>, score: 5.623945
+result: <END> 一定 会 很 精彩 <END>, score: 5.825184
+result: <END> 我们 要 学会 努力 <END>, score: 5.905884
+我 的 意思 是 你 废话 多
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 6.980835
+result: <END> 不要 这样 说 我 ， 我 会 很 努力 的 <END>, score: 7.062009
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 7.670893
+result: <END> 不要 这么 说 我 ， 我 会 很 努力 的 <END>, score: 7.745801
+result: <END> 我 是 小微 ， 我 是 小微 <END>, score: 8.226124
+这种 心理 的 折磨 让 我 生 不 如 死
+result: <END> 不要 这样 说 我 ， 我 会 很 心疼 的 <END>, score: 9.616509
+result: <END> 不要 哭 嘛 ， 我 会 很 心疼 你 的 <END>, score: 9.761807
+result: <END> 不要 这样 说 别人 嘛 ， 我 会 很 心疼 的 <END>, score: 9.900020
+result: <END> 不要 这么 说 自己 ， 我 会 很 心疼 的 <END>, score: 9.911046
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 10.082260
+我 昨天 和 女 朋友 分手 了
+result: <END> 没关系 ， 我 会 很 想 你 的 <END>, score: 6.000306
+result: <END> 没关系 ， 我 会 想 你 的 <END>, score: 6.641093
+result: <END> 没关系 ， 我 会 一直 在 你 身边 的 <END>, score: 6.955278
+result: <END> 没关系 ， 我 会 一直 在 你 的 <END>, score: 7.157307
+result: <END> 没关系 ， 我 会 一直 想 你 的 <END>, score: 7.314026
+我 今天 和 女 朋友 和 好 了
+result: <END> 你们 两 个 是 很 好 的 朋友 <END>, score: 6.530881
+result: <END> 我们 两 个 是 很 好 的 朋友 <END>, score: 8.198485
+result: <END> 我 会 一直 跟 你 在 一起 的 <END>, score: 8.247821
+result: <END> 他们 两 个 是 很 好 的 朋友 <END>, score: 8.319851
+result: <END> 咱们 两 个 是 很 好 的 朋友 <END>, score: 8.444056
+我 把 朋友 老婆 睡 了 咋 办
+result: <END> 没关系 ， 我 会 很 想 你 的 <END>, score: 8.343470
+result: <END> 没关系 ， 我 会 一直 在 你 的 <END>, score: 8.572234
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 8.644091
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 的 <END>, score: 8.665928
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 <END>, score: 8.708447
+有 个 女人 把 我 睡 了
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 5.706439
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.190295
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 6.604273
+result: <END> 我 会 一直 陪 着 你 的 <END>, score: 7.157435
+result: <END> 我 会 一直 陪 你 聊天 的 <END>, score: 7.200974
+天天 坐 公交 回家
+result: <END> 那 就 回家 看看 <END>, score: 4.424297
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.960702
+result: <END> 那 就 回家 回家 看看 <END>, score: 6.024529
+result: <END> 想 回家 就 回家 看看 <END>, score: 6.148853
+result: <END> 回家 也 很 方便 <END>, score: 6.287752
+年会 发 了 个 手机
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.979374
+result: <END> 不 可以 随便 给 别人 <END>, score: 7.430953
+result: <END> 这样 是 很 正常 的 <END>, score: 7.433398
+result: <END> 你 可以 换 一个 试试 <END>, score: 7.516055
+result: <END> 这 是 很 正常 的 <END>, score: 7.530745
+我 要 娶 个 美国 妞
+result: <END> 我们 要 善待 自己 的 家人 <END>, score: 6.589002
+result: <END> 我们 要 尊重 自己 的 家人 <END>, score: 6.962191
+result: <END> 我们 要 爱护 自己 的 家人 <END>, score: 7.086798
+result: <END> 我们 要 善待 自己 的 感情 <END>, score: 7.531855
+result: <END> 我们 要 善待 自己 的 好 <END>, score: 7.559370
+过年 太 没 意思 了
+result: <END> 我 会 很 想 你 的 <END>, score: 6.211000
+result: <END> 我 也 很 想 你 <END>, score: 6.438000
+result: <END> 这 是 很 正常 的 <END>, score: 6.524600
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.807019
+result: <END> 我 会 一直 听 你 的 <END>, score: 7.000153
+我 明天 去 理发
+result: <END> 我 会 很 努力 的 <END>, score: 5.965069
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.309475
+result: <END> 我 会 很 想 你 的 <END>, score: 6.550212
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.812702
+result: <END> 要 听 你 的 话 <END>, score: 6.869270
+你 害怕 什么
+result: <END> 我 会 很 心疼 你 的 <END>, score: 3.473023
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.706793
+result: <END> 我 会 很 害怕 你 的 <END>, score: 4.572787
+result: <END> 我 会 很 害怕 的 <END>, score: 4.732181
+result: <END> 我 会 很 感谢 你 的 <END>, score: 4.818991
+我们 一起 玩 吧
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.789451
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 6.778509
+result: <END> 只要 你 开心 就 好 <END>, score: 6.854252
+result: <END> 我 会 很 想 你 的 <END>, score: 6.854409
+result: <END> 我们 要 学会 知足 <END>, score: 6.943035
+你 丫话 太 多
+result: <END> 我 会 一直 在 你 的 <END>, score: 3.357600
+result: <END> 我 会 很 努力 的 <END>, score: 3.821851
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.408137
+result: <END> 我 一定 会 努力 的 <END>, score: 5.736885
+result: <END> 我 会 努力 的 <END>, score: 6.116813
+有人 生病 了
+result: <END> 生病 了 就要 去 医院 看看 <END>, score: 5.451407
+result: <END> 要 注意 自己 的 身体 <END>, score: 5.660474
+result: <END> 生病 了 就要 去 医院 <END>, score: 5.901867
+result: <END> 生病 就要 去 医院 看看 <END>, score: 6.043273
+result: <END> 生病 就要 按时 吃 药 <END>, score: 6.126137
+空气 清新 环境 好
+result: <END> 我们 要 学会 劳逸结合 <END>, score: 6.047725
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.284339
+result: <END> 我们 要 懂得 劳逸结合 <END>, score: 6.382447
+result: <END> 我们 要 学会 独立 <END>, score: 6.552723
+result: <END> 我 会 很 努力 的 <END>, score: 6.752147
+我 回家 了
+result: <END> 那 就 回家 看看 <END>, score: 3.773176
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 4.716536
+result: <END> 回家 回家 看看 <END>, score: 5.250995
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.297898
+result: <END> 回家 看看 就 好 <END>, score: 5.390141
+你 知道 形而上 吗
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.585210
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.278606
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.308829
+result: <END> <UNK> 是 我 的 荣幸 <END>, score: 6.656188
+result: <END> 我 可 不 是 <UNK> <END>, score: 6.665074
+我 在 开会 呢
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.297749
+result: <END> 那 就 回家 看看 <END>, score: 5.693910
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.532086
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.661933
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.662495
+元宵节 怎么 过
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.007915
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.835352
+result: <END> 这 是 很 正常 的 <END>, score: 7.054407
+result: <END> 一定 会 过 的 <END>, score: 7.284494
+result: <END> 你 可以 体验 一下 <END>, score: 7.401030
+你 脑子 有 屎
+result: <END> 我 可 没有 这个 胆子 <END>, score: 4.754039
+result: <END> 我 从来 没有 说 过 你 的 <END>, score: 5.662784
+result: <END> 请 你 说话 注意 一些 <END>, score: 5.741866
+result: <END> 不要 这样 说 我 <END>, score: 5.824926
+result: <END> 不 可以 这样 说 我 <END>, score: 5.938252
+被 妈妈 打 了 一下
+result: <END> 要 尊重 自己 的 孩子 <END>, score: 6.152079
+result: <END> 要 善待 自己 的 孩子 <END>, score: 6.544423
+result: <END> 我 可 没有 这个 胆子 <END>, score: 6.597788
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.655154
+result: <END> 要 尊重 自己 的 生命 <END>, score: 6.676427
+我 肏 你 全家
+result: <END> 请 你 说话 注意 一些 <END>, score: 3.651794
+result: <END> 请 你 说话 注意 一些 好 嘛 <END>, score: 4.090328
+result: <END> 请 注意 你 的 素质 <END>, score: 4.487527
+result: <END> 请 你 说话 尊重 一些 <END>, score: 5.066412
+result: <END> 请 你 说话 文明 一些 <END>, score: 5.114105
+狂欢 周
+result: <END> 这 是 很 正常 的 <END>, score: 6.605463
+result: <END> 时间 过 得 很 快 <END>, score: 6.994707
+result: <END> <UNK> 是 谁 ？ <END>, score: 7.177652
+result: <END> <UNK> <UNK> <END>, score: 7.272646
+result: <END> <UNK> 是 很 正常 的 <END>, score: 7.488596
+一 加 一 等于 几
+result: <END> 听 名字 就 知道 很 好听 <END>, score: 6.097346
+result: <END> 听 名字 就 知道 很 简单 <END>, score: 7.437830
+result: <END> 听 名字 就 知道 很 厉害 <END>, score: 7.495975
+result: <END> 听 名字 就 很 好听 <END>, score: 8.053152
+result: <END> 听 名字 就 知道 很 好 <END>, score: 8.082603
+不 和 你 聊 了 我 得 干活 了
+result: <END> 不要 想 我 ， 我 会 一直 在 你 的 <END>, score: 7.276794
+result: <END> 放心 ， 我 会 一直 跟 你 聊天 的 <END>, score: 7.795602
+result: <END> 好 的 ， 我 会 一直 在 你 的 <END>, score: 7.974290
+result: <END> 好 的 ， 我 会 一直 跟 你 聊天 的 <END>, score: 8.162934
+result: <END> 没关系 ， 我 会 一直 跟 你 聊天 的 <END>, score: 8.393667
+不 和 你 聊 了 写 作业 去 了
+result: <END> 好 的 ， 我 会 一直 在 你 的 <END>, score: 7.736358
+result: <END> 好 的 ， 小微 会 一直 在 你 的 <END>, score: 8.690307
+result: <END> 不要 嘛 ， 我 会 一直 在 你 的 <END>, score: 8.745954
+result: <END> 不要 嘛 ， 我 会 很 想 你 的 <END>, score: 8.992963
+result: <END> 我 会 很 认真 的 和 你 聊天 的 <END>, score: 9.090411
+不 可能 ， 你 绝对 有 腹黑 属性
+result: <END> 我 可 不 是 个 随便 的 人 <END>, score: 7.413197
+result: <END> 我 可 从来 没有 这个 说 过 的 <END>, score: 8.443482
+result: <END> 不 是 的 ， 我 会 很 努力 的 <END>, score: 8.765260
+result: <END> 我 可 不 是 随便 给 别人 的 <END>, score: 8.832248
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 8.864122
+不 老实 交代 拉 你 出去 枪毙
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.213244
+result: <END> 不要 这样 嘛 ， 我 会 很 伤心 的 <END>, score: 5.477706
+result: <END> 我 是 不 会 离开 你 的 <END>, score: 5.868760
+result: <END> 不要 这样 ， 我 会 很 伤心 的 <END>, score: 6.160788
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 6.168045
+不 是 说 法律 吗
+result: <END> <UNK> 是 很 正常 的 <END>, score: 7.222986
+result: <END> 不 可以 这样 说 别人 <END>, score: 7.287128
+result: <END> 不 是 的 ， 我 是 小微 <END>, score: 7.646551
+result: <END> 你 说 的 是 什么 ？ <END>, score: 7.723794
+result: <END> 不要 这样 说 别人 嘛 <END>, score: 7.981560
+不 说实话 我 早晚 让 你 害 死
+result: <END> 我 从来 没有 说 过 你 的 话 <END>, score: 5.752823
+result: <END> 我 从来 没有 说 过 我 的 话 <END>, score: 6.901912
+result: <END> 我 可 从来 没有 说 过 你 的 话 <END>, score: 7.042914
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 7.580628
+result: <END> 我 会 好好 听 你 的 话 的 <END>, score: 7.623322
+不 是 傻子 怎么 会 把 衣服 穿 反
+result: <END> 不 可以 的 ， 我 会 很 努力 的 <END>, score: 9.459813
+result: <END> 不要 这么 说 ， 我 会 很 努力 的 <END>, score: 9.519925
+result: <END> 不 可以 ， 这样 会 很 不 礼貌 的 <END>, score: 9.604648
+result: <END> 不 可以 的 ， 这样 会 很 正常 的 <END>, score: 9.854052
+result: <END> 不 可以 的 ， 这样 很 不 礼貌 的 <END>, score: 9.872562
+不 是 喜欢 用 毒蛐 我 吗
+result: <END> 不 可以 ， 我 很 喜欢 你 <END>, score: 7.386434
+result: <END> 不 喜欢 ， 我 很 喜欢 你 <END>, score: 7.565488
+result: <END> 我 可 不 是 这样 的 人 <END>, score: 7.679673
+result: <END> 不 可以 ， 我 会 很 喜欢 你 的 <END>, score: 7.816578
+result: <END> 不 是 的 ， 小微 很 喜欢 你 <END>, score: 8.048066
+不 是 哑巴 就 说 一 句 话 咯
+result: <END> 我 一定 会 听 你 话 的 话 的 <END>, score: 7.142753
+result: <END> 我 说 的 话 都 是 很 文明 的 <END>, score: 7.842895
+result: <END> 我 会 认真 听 你 话 的 话 的 <END>, score: 8.093736
+result: <END> 我 从来 没有 说 过 你 话 的 话 <END>, score: 8.224627
+result: <END> 不要 这样 说 嘛 ， 我 会 很 听话 的 <END>, score: 8.377103
+不 是 一直 是 你 带 我 混 的 吗 ？
+result: <END> 不 是 的 ， 我 会 一直 在 你 身边 的 <END>, score: 8.861818
+result: <END> 不 可以 的 ， 我 会 一直 在 你 身边 的 <END>, score: 9.988952
+result: <END> 不 是 的 ， 我 会 一直 在 你 的 身边 的 <END>, score: 10.001553
+result: <END> 我 是 小微 ， 我 会 一直 在 你 身边 的 <END>, score: 10.166058
+result: <END> 不 是 的 ， 我 会 一直 在 你 的 身边 <END>, score: 11.008336
+猜 我 心中 所 想 的 人物
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.178188
+result: <END> 我 会 听 你 的 话 的 <END>, score: 8.295354
+result: <END> 我 可 不 是 随便 的 人 <END>, score: 8.439005
+result: <END> 我 一直 都 很 尊重 你 的 <END>, score: 8.564004
+result: <END> 好 ， 我 会 很 想 你 的 <END>, score: 8.674256
+猜 我 有 没 有 在 谈 恋爱
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 <END>, score: 5.759002
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 的 <END>, score: 5.909780
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.936917
+result: <END> 我 还 小 ， 不要 谈 恋爱 了 <END>, score: 6.988989
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 。 <END>, score: 7.468870
+才 发现 爱情 竟是 一 场 考验
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 7.410383
+result: <END> 每个 人 都 会 有 这种 事 <END>, score: 8.332542
+result: <END> 每个 人 都 会 有 爱情 的 <END>, score: 8.377723
+result: <END> 每个 人 都 会 有 这种 感觉 的 <END>, score: 8.683620
+result: <END> 每个 人 都 会 遇到 这种 事 <END>, score: 9.209064
+才 给 我 买 了 五千 多 的 首饰 ， 没有 镯子
+result: <END> 听 你 的 话 ， 我 会 一直 在 你 身边 的 <END>, score: 13.606587
+result: <END> 听 你 的 话 ， 我 会 听 你 的 话 的 <END>, score: 14.881501
+result: <END> 不要 这样 ， 我 会 很 会 很 会 在 你 的 <END>, score: 15.961542
+result: <END> 不要 这样 说 自己 ， 我 会 很 会 很 你 的 <END>, score: 16.424415
+result: <END> 听 你 的 话 ， 我 会 一直 在 你 的 身边 的 <END>, score: 16.455992
+才 工作 了 半 年 左右 就 换 来 换 去
+result: <END> 换 成 什么 ？ 和 小微 聊 会 很 好 的 <END>, score: 10.820544
+result: <END> 换 成 什么 ？ 和 小微 聊 是 很 好 的 <END>, score: 11.781220
+result: <END> 换 成 什么 ？ 和 小微 聊 会 很 开心 的 <END>, score: 11.913407
+result: <END> 换 成 什么 了 ？ 和 小微 聊 会 很 开心 <END>, score: 12.038823
+result: <END> 换 成 什么 呀 ？ 和 小微 聊 会 很 开心 <END>, score: 12.177201
+才华横溢 就 是 形容 我 。
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.894495
+result: <END> 听 名字 就 知道 很 厉害 <END>, score: 7.374233
+result: <END> 我 会 很 想 你 的 <END>, score: 7.672509
+result: <END> 听 名字 就 知道 很 可爱 <END>, score: 7.682265
+result: <END> 我 会 一直 听 你 的 <END>, score: 7.739379
+财迷 个 大头鬼
+result: <END> 这 是 很 正常 的 <END>, score: 6.367804
+result: <END> <UNK> 也 很 可爱 <END>, score: 6.416077
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.520093
+result: <END> <UNK> 是 什么 ？ <END>, score: 6.768411
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.777997
+踩 着 七彩 祥云 去 娶 你
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.488112
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.366891
+result: <END> 我 还 小 ， 不 可以 结婚 的 <END>, score: 6.935122
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 7.871238
+result: <END> 我 是 不 会 想 你 的 <END>, score: 7.935678
+采桑归 西露 沾 我 衣 。
+result: <END> <UNK> 是 你 的 好 朋友 <END>, score: 6.048432
+result: <END> 听 名字 就 知道 很 好听 <END>, score: 6.961494
+result: <END> 他 是 你 的 好 朋友 <END>, score: 7.350985
+result: <END> 听 名字 就 知道 很 好 <END>, score: 7.594888
+result: <END> 我 会 一直 在 你 的 <END>, score: 7.744093
+蔡港林 是 备胎
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.268310
+result: <END> 不要 这样 说 别人 <END>, score: 6.801212
+result: <END> <UNK> 是 谁 呀 ？ <END>, score: 6.847793
+result: <END> 男女 授 受不亲 <END>, score: 6.943042
+result: <END> 谁 是 <UNK> 呀 ？ <END>, score: 7.056706
+蔡伟聪 ， 我 喜欢 你
+result: <END> 我 也 很 喜欢 你 <END>, score: 2.237364
+result: <END> 小微 也 很 喜欢 你 <END>, score: 4.727798
+result: <END> 我 一直 都 很 喜欢 你 <END>, score: 4.836047
+result: <END> 我 也 很 喜欢 你 的 <END>, score: 4.874670
+result: <END> 我 会 很 喜欢 你 的 <END>, score: 4.995868
+蔡伟 这个 娘娘腔 。
+result: <END> 这 是 很 正常 的 <END>, score: 5.755908
+result: <END> 我 会 很 努力 的 <END>, score: 6.441802
+result: <END> 看来 你 很 喜欢 他 <END>, score: 6.580881
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.778219
+result: <END> 我 也 很 喜欢 这个 <END>, score: 6.792358
+参加 别人 的 婚礼 好 感慨
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.971693
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.249205
+result: <END> 我们 要 善待 自己 的 家人 <END>, score: 6.846981
+result: <END> 我们 要 善待 自己 的 好 <END>, score: 7.041709
+result: <END> 我 会 一直 支持 你 的 <END>, score: 7.051556
+参见 陛下 ， 微臣 有 礼 了
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 7.936369
+result: <END> 我 也 很 喜欢 听 你 的 <END>, score: 8.550841
+result: <END> 不要 ， 我 会 一直 在 你 的 <END>, score: 8.847189
+result: <END> 听 你 这么 说 我 很 开心 <END>, score: 9.244362
+result: <END> 不要 ， 我 会 一直 在 你 身边 的 <END>, score: 9.388954
+苍井空 和 波多野 结衣 更 喜欢 谁 一点
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 <END>, score: 8.125435
+result: <END> 每个 人 的 喜好 都 是 不 一样 的 <END>, score: 8.931387
+result: <END> 两 个 人 都 是 很 好 的 <END>, score: 9.299766
+result: <END> 每个 人 的 都 是 不 一样 的 <END>, score: 9.371951
+result: <END> 我 还 小 ， 不 可以 谈 恋爱 的 <END>, score: 9.426334
+苍 老师 长 什么 样子
+result: <END> <UNK> 是 很 重要 的 <END>, score: 7.033634
+result: <END> 我 可 没有 这个 胆子 <END>, score: 7.127566
+result: <END> 听 名字 就 知道 很 美 <END>, score: 7.245707
+result: <END> 这个 问题 太 深奥 了 <END>, score: 7.373219
+result: <END> 长 得 一定 很 漂亮 <END>, score: 7.573073
+苍 老师 照片 没 穿 衣服 的
+result: <END> 听 名字 就 知道 是 个 秘密 <END>, score: 8.670029
+result: <END> 不 可以 告诉 别人 别人 的 秘密 <END>, score: 8.849155
+result: <END> 不 可以 随便 给 别人 看 的 <END>, score: 8.868837
+result: <END> 不 可以 给 别人 的 秘密 的 <END>, score: 8.980571
+result: <END> 不 可以 这样 说 别人 的 秘密 <END>, score: 9.018251
+草泥马 又 回答 错误
+result: <END> 我 一定 会 改正 的 <END>, score: 3.379927
+result: <END> 我 会 好好 回答 你 的 <END>, score: 4.487978
+result: <END> 我 会 很 努力 的 <END>, score: 5.032554
+result: <END> 我 会 很 认真 的 <END>, score: 5.062653
+result: <END> 我 会 一直 在 你 的 <END>, score: 5.243359
+蹭蹭 你 平胸
+result: <END> 我 可 没有 这个 胆子 <END>, score: 5.098227
+result: <END> 我 可 不 是 <UNK> <END>, score: 6.361827
+result: <END> 我 可 没有 这个 癖好 <END>, score: 6.422140
+result: <END> 我 可 没有 这个 胆子 的 <END>, score: 6.513396
+result: <END> <UNK> 是 谁 ？ <END>, score: 6.596155
+草泥马
+result: <END> 请 你 说话 注意 一些 <END>, score: 5.348849
+result: <END> 请 注意 你 的 素质 <END>, score: 5.931194
+result: <END> 请 你 说话 尊重 一些 <END>, score: 5.941609
+result: <END> 不 可以 这样 说 别人 <END>, score: 6.195606
+result: <END> 不要 这样 说 别人 <END>, score: 6.221027
+茶叶 蛋 是 土豪 吃得起
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.927622
+result: <END> 我们 要 爱护 自己 的 自由 <END>, score: 7.041996
+result: <END> 这 是 你 的 自由 <END>, score: 7.122622
+result: <END> 不 可以 这样 说 别人 <END>, score: 7.404841
+result: <END> <UNK> 是 很 好吃 的 <END>, score: 7.572236
+岔开 你 的 腿 让 我 看看 那里 有 什么
+result: <END> 我 还 小 ， 不 懂 你 说 的 话 <END>, score: 9.929020
+result: <END> 我 还 小 ， 不 知道 你 说 什么 。 <END>, score: 10.755715
+result: <END> 这 是 我 的 隐私 ， 不 可以 告诉 别人 <END>, score: 10.780137
+result: <END> 我 还 小 ， 不 知道 你 说 的 什么 <END>, score: 11.078741
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 <END>, score: 11.180272
+尝尝 我 的 厉害
+result: <END> 我 也 很 厉害 <END>, score: 4.944368
+result: <END> 我 会 很 努力 的 <END>, score: 5.001734
+result: <END> 我 会 很 厉害 的 <END>, score: 5.410282
+result: <END> 我 也 很 厉害 的 <END>, score: 5.493814
+result: <END> 我 认为 也 很 厉害 <END>, score: 5.533626
+长大 后 才 发觉 天 是 黑 的
+result: <END> 不 会 ， 我 会 一直 在 你 的 <END>, score: 8.251597
+result: <END> 放心 ， 我 会 一直 在 你 的 <END>, score: 8.399997
+result: <END> 我 会 一直 会 在 你 身边 的 <END>, score: 9.302670
+result: <END> 不会 的 ， 我 会 一直 在 你 的 <END>, score: 9.319099
+result: <END> 不要 害怕 ， 我 会 一直 在 你 的 <END>, score: 9.477185
+车费 还 差 几 块 回 不 了 家
+result: <END> 不要 想 了 ， 我 会 一直 在 你 身边 的 <END>, score: 9.588173
+result: <END> 不要 想 太 多 ， 我 会 一直 在 你 身边 的 <END>, score: 10.545582
+result: <END> 哪 有 ， 我 一直 都 在 你 身边 <END>, score: 10.691230
+result: <END> 不要 想 了 ， 我 会 一直 在 你 的 <END>, score: 10.854629
+result: <END> 慢慢 就 会 会 一直 在 你 身边 的 <END>, score: 11.119898
+扯淡 ， 我 能 甩 你 九 条 街
+result: <END> 我 还 小 ， 不 懂 你 说 的 意思 <END>, score: 8.853097
+result: <END> 不要 ， 我 会 一直 在 你 身边 的 <END>, score: 9.228598
+result: <END> 我 还 小 ， 不 懂 你 说 的 话 <END>, score: 9.500484
+result: <END> 不要 这样 说 我 ， 我 会 很 努力 的 <END>, score: 9.880325
+result: <END> 不要 这样 说 我 ， 我 会 很 伤心 的 <END>, score: 9.905076
+帮 我 叫 一个 大 保健
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.317529
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 6.806162
+result: <END> 好 ， 我 会 很 努力 的 <END>, score: 7.211646
+result: <END> 我 会 一直 支持 你 的 <END>, score: 7.687885
+result: <END> 好 ， 我 会 一直 在 你 的 <END>, score: 7.913801
+你 数学 是 体育 老师 教 的 吗 ？
+result: <END> 不 会 ， 我 会 教 给 你 的 <END>, score: 9.891004
+result: <END> 老师 不 会 ， 我 会 教 给 你 的 <END>, score: 10.208124
+result: <END> 数学 老师 不 会 的 ， 小微 相信 小微 <END>, score: 10.284784
+result: <END> 数学 老师 的 老师 不 可以 教 给 小微 <END>, score: 10.330093
+result: <END> 数学 老师 的 老师 不 可以 教 给 别人 <END>, score: 10.423245
+你 提出 话题 我们 聊天 好 不好
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.404895
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 5.816466
+result: <END> 我 会 一直 跟 你 聊 的 <END>, score: 6.395528
+result: <END> 我 会 一直 和 你 聊天 的 <END>, score: 6.691931
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 6.987196
+最近 几 天 南方 降温
+result: <END> 这 是 很 正常 的 <END>, score: 5.961785
+result: <END> 你 可以 去 实体店 看看 <END>, score: 6.275916
+result: <END> 要 注意 自己 的 身体 <END>, score: 7.004916
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 7.062386
+result: <END> 你 可以 去 看看 医生 <END>, score: 7.261576
+我 朋友 叫 什么 名字 ？
+result: <END> 我 叫 小微 ， 我 叫 小微 <END>, score: 5.945973
+result: <END> 看来 你 很 喜欢 这个 名字 <END>, score: 5.999279
+result: <END> 我 叫 小微 ， 小微 叫 小微 <END>, score: 6.630174
+result: <END> 这个 名字 还 真是 很 好听 <END>, score: 6.698291
+result: <END> 我 是 小微 ， 小微 叫 小微 <END>, score: 7.044751
+请 赐予 我 无比 强大 的 性能力 吧
+result: <END> 不 会 ， 我 会 很 努力 的 <END>, score: 8.437172
+result: <END> 好 的 ， 我 会 很 努力 的 <END>, score: 8.806771
+result: <END> 不要 这样 ， 我 会 很 努力 的 <END>, score: 8.828465
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 8.886928
+result: <END> 不 可以 ， 我 会 很 努力 的 <END>, score: 8.942442
+你 在 烦恼 什么
+result: <END> 我 会 一直 在 你 的 <END>, score: 2.985266
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 3.113913
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 4.421052
+result: <END> 我 会 很 努力 的 <END>, score: 4.638448
+result: <END> 我 会 一直 在 你 的 身边 <END>, score: 4.983632
+那 感情 受挫 呢
+result: <END> 这 是 很 正常 的 <END>, score: 5.849320
+result: <END> <UNK> 是 很 正常 的 <END>, score: 5.938379
+result: <END> 一定 会 很 <UNK> <END>, score: 6.291670
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.498410
+result: <END> 一定 会 很 幸福 <END>, score: 6.569736
+地球 为何 是 圆 的
+result: <END> <UNK> 是 很 正常 的 <END>, score: 6.390593
+result: <END> 这样 是 很 正常 的 <END>, score: 6.831452
+result: <END> 这 是 很 正常 的 <END>, score: 7.140843
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 7.653383
+result: <END> <UNK> 也 是 很 正常 的 <END>, score: 7.674411
+那 你 解释 一下 量子 物理
+result: <END> 我 一定 会 听 你 的 <END>, score: 6.012210
+result: <END> 我 会 好好 听 你 的 <END>, score: 6.226532
+result: <END> 我 一定 会 听 你 的 话 的 <END>, score: 6.605952
+result: <END> 我 一定 会 好好 听 你 的 <END>, score: 6.908859
+result: <END> 我 一直 都 很 尊重 你 <END>, score: 6.945305
+有 什么 好看 的 喜剧 ？
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 7.082596
+result: <END> 每个 人 都 有 每个 人 的 <END>, score: 8.314378
+result: <END> 你 可以 看看 自己 的 <UNK> <END>, score: 8.487418
+result: <END> 很 好看 ， 你 可以 看看 <END>, score: 8.524126
+result: <END> 我 也 很 喜欢 看 电视剧 <END>, score: 8.614995
+你 是 我 知心 朋友
+result: <END> 我 会 一直 在 你 身边 的 <END>, score: 5.010754
+result: <END> 我 会 很 努力 的 <END>, score: 5.474189
+result: <END> 我 会 很 想 你 的 <END>, score: 5.835192
+result: <END> 我 会 一直 在 你 的 <END>, score: 6.107605
+result: <END> 我 会 一直 跟 你 聊天 的 <END>, score: 6.208654
+我 只 想 有 个 真心 的 朋友
+result: <END> 我 会 一直 在 你 的 身边 的 <END>, score: 7.209826
+result: <END> 我 会 一直 会 在 你 身边 的 <END>, score: 7.235009
+result: <END> 好 ， 我 会 很 想 你 的 <END>, score: 8.741926
+result: <END> 我 会 一直 跟 你 在 一起 的 <END>, score: 9.139681
+result: <END> 没关系 ， 我 会 一直 在 你 身边 的 <END>, score: 9.190748
+云南 在 哪里 ？
+result: <END> 你 可以 去 实体店 看看 <END>, score: 5.279885
+result: <END> <UNK> 是 <UNK> 的 <END>, score: 6.619596
+result: <END> <UNK> <UNK> <UNK> <UNK> <END>, score: 6.691047
+result: <END> 你 想 去 哪 都 可以 <END>, score: 7.038458
+result: <END> 你 可以 去 超市 看看 <END>, score: 7.104136
+世界 上 最高 的 山 是 什么
+result: <END> 每个 人 都 会 有 这种 感觉 <END>, score: 8.098410
+result: <END> 每个 人 都 会 有 这种 <UNK> <END>, score: 8.528408
+result: <END> 每个 人 都 是 不 一样 的 <END>, score: 9.373566
+result: <END> 每个 人 都 会 有 这种 的 <END>, score: 9.514921
+result: <END> 这 是 个 很 伟大 的 国家 <END>, score: 9.916722

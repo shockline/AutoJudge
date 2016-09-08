@@ -128,7 +128,7 @@
 <END>我不喜欢你<END>	normal
 <END>喜欢你的人<END>	unknown
 <END>喜欢就喜欢<END>	bad
-<END>我很喜欢你<END>	normal
+<END>我很喜欢你<END>	good
 <END>因为喜欢你<END>	unknown
 你是不是快死了
 <END>生老病死自然规律<END>	normal
@@ -365,7 +365,7 @@
 <END>这个没有科学依据的<END>	unknown
 <END>你说的是什么意思啊<END>	unknown
 天天锻炼身体好
-<END>天天锻炼身体好<END>	bad
+<END>天天锻炼身体好<END>	normal
 <END>早睡早起身体好<END>	bad
 <END>天天锻炼身体最好<END>	bad
 <END>天天锻炼身体。<END>	unknown
@@ -530,7 +530,7 @@
 <END>祝我生日快乐<END>	normal
 <END>日有所思夜有所梦<END>	unknown
 <END>生命在于运动<END>	unknown
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>我的生日快乐<END>	bad
 生活中怎样感到开心快乐
 <END>做自己喜欢做的事就行了<END>	unknown
@@ -767,7 +767,7 @@
 <END>吸烟有害健康!<END>	good
 <END>不抽烟就不抽了<END>	normal
 能做什么菜
-<END>什么都可以做<END>	normal
+<END>什么都可以做<END>	good
 <END>什么都能做<END>	unknown
 <END>什么都可以<END>	unknown
 <END>什么都不做<END>	normal
@@ -974,7 +974,7 @@
 <END>你是哪里的?<END>	unknown
 <END>你想问什么?<END>	unknown
 <END>什么意思啊?<END>	bad
-<END>你可以去看看<END>	unknown
+<END>你可以去看看<END>	normal
 <END>什么地方的?<END>	unknown
 心里不好受怎么办
 <END>该怎么办就怎么办<END>	normal
@@ -1256,7 +1256,7 @@ a股明天涨不涨
 <END>卖电脑的地方<END>	bad
 <END>买电脑的地方<END>	unknown
 <END>适合自己的最好<END>	unknown
-<END>适合自己的就是最好的<END>	unknown
+<END>适合自己的就是最好的<END>	normal
 <END>自己喜欢的最好<END>	good
 猪八戒照镜子
 <END>没有这种说法<END>	unknown
@@ -1284,7 +1284,7 @@ a股明天涨不涨
 <END>应该是午休吧<END>	unknown
 咖啡机
 <END>咖啡提神<END>	unknown
-<END>咖啡咖啡<END>	bad
+<END>咖啡咖啡<END>	normal
 <END>咖啡不错<END>	unknown
 <END>有咖啡因<END>	bad
 <END>咖啡因人而异<END>	unknown

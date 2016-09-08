@@ -17,7 +17,7 @@
 <END>相信你一定可以考验的<END>	good
 <END>相信一定会有好报忆的<END>	unknown
 我的意思是你废话多
-<END>那我就不说废话了<END>	unknown
+<END>那我就不说废话了<END>	normal
 <END>就知道你对我最好了<END>	bad
 <END>那就不要说话了<END>	normal
 <END>你为什么这么说呀？<END>	normal
@@ -26,13 +26,13 @@
 <END>天气不错<END>	normal
 <END>你说的是哪个城市<END>	unknown
 <END>今天天气很不错<END>	unknown
-<END>天气很不错<END>	unknown
+<END>天气很不错<END>	bad
 <END>是不是很开心<END>	unknown
 待会儿就把那人给杀了
 <END>不要嘛，不要那么暴力<END>	normal
 <END>不要这么暴力好不好？<END>	unknown
 <END>不要嘛，不要这么暴力<END>	good
-<END>这样可是很不好的行为<END>	normal
+<END>这样可是很不好的行为<END>	good
 <END>不要，不要这么暴力嘛<END>	normal
 我们去动物园吧
 <END>你去那里干嘛去<END>	unknown
@@ -99,7 +99,7 @@
 <END>是不是很好<END>	unknown
 <END>你要去做什么去<END>	unknown
 <END>你要去哪里<END>	bad
-<END>是不是很不错<END>	unknown
+<END>是不是很不错<END>	bad
 拜拜
 <END>拜拜，拜拜<END>	good
 <END>拜拜，祝你有个愉快<END>	unknown
@@ -116,7 +116,7 @@
 <END>我本身就很漂亮<END>	normal
 <END>谢谢你的夸奖<END>	good
 <END>我本来就很漂亮<END>	normal
-<END>谢谢夸奖<END>	normal
+<END>谢谢夸奖<END>	good
 <END>你认错人了<END>	unknown
 永远一直爱你
 <END>我也很爱你<END>	good
@@ -150,7 +150,7 @@
 <END>美女你认错人了<END>	unknown
 我饿了
 <END>饿了就去吃饭<END>	good
-<END>饿了就赶紧去吃饭<END>	normal
+<END>饿了就赶紧去吃饭<END>	good
 <END>饿了就赶紧去吃<END>	normal
 <END>饿了就去吃点<END>	normal
 <END>饿了就赶紧吃饭<END>	normal
@@ -169,12 +169,12 @@
 北京有什么好吃的
 <END>你想吃什么就吃什么<END>	normal
 <END>你想吃啥就吃啥<END>	normal
-<END>你可以去超市看看<END>	unknown
+<END>你可以去超市看看<END>	good
 <END>你自己看看就知道了<END>	unknown
 <END>你自己看看就知道<END>	unknown
 春天有什么好玩的
 <END>你有什么好玩的<END>	bad
-<END>你喜欢玩什么样的<END>	bad
+<END>你喜欢玩什么样的<END>	normal
 <END>你喜欢玩这个游戏么<END>	bad
 <END>你喜欢玩什么类型的<END>	bad
 <END>你是在玩游戏么？<END>	unknown
@@ -194,7 +194,7 @@
 <END>喜欢就去表白<END>	bad
 <END>喜欢就去看看<END>	normal
 <END>我也很喜欢<END>	good
-<END>我也很喜欢你<END>	unknown
+<END>我也很喜欢你<END>	bad
 <END>喜欢就在一起<END>	unknown
 我没有男朋友
 <END>你还没有男朋友<END>	bad
@@ -228,7 +228,7 @@
 <END>那就好好休息<END>	bad
 你有办法让我开心吗
 <END>你有什么开心的事情<END>	normal
-<END>我会一直陪你聊天的<END>	bad
+<END>我会一直陪你聊天的<END>	normal
 <END>我是不会让你开心的<END>	bad
 <END>你想让我逗你开心么<END>	unknown
 <END>有什么开心的事情呀<END>	bad
@@ -251,7 +251,7 @@
 <END>你去睡觉了么？<END>	unknown
 <END>你要去睡了么？<END>	unknown
 老板不给发工资怎么办
-<END>那就努力挣钱去挣钱<END>	unknown
+<END>那就努力挣钱去挣钱<END>	bad
 <END>那就赶紧挣钱去挣钱<END>	unknown
 <END>不要着急，慢慢挣钱<END>	unknown
 <END>那就要好好努力挣钱<END>	unknown
@@ -333,7 +333,7 @@
 <END>当然不会了<END>	good
 <END>不可以的<END>	normal
 <END>不是的，你想多了<END>	bad
-<END>我可不会这样的<END>	unknown
+<END>我可不会这样的<END>	bad
 你能陪我睡觉吗
 <END>我可以陪你聊天的<END>	good
 <END>我可以陪你聊天<END>	normal
@@ -362,7 +362,7 @@
 <END>你想看什么样的图片<END>	normal
 <END>你想要什么样的图片<END>	normal
 <END>你要看什么样的图片<END>	unknown
-<END>你喜欢看什么样的图片<END>	unknown
+<END>你喜欢看什么样的图片<END>	normal
 <END>你想要看什么图片的<END>	normal
 天天锻炼身体好
 <END>锻炼身体对身体好<END>	unknown
@@ -395,19 +395,19 @@
 <END>这有什么不对的<END>	normal
 <END>你在说什么？<END>	normal
 你是不是傻逼
-<END>不要这样说别人<END>	normal
+<END>不要这样说别人<END>	good
 <END>请注意你的素质<END>	good
 <END>不要这样说我<END>	normal
 <END>不要这样说人家<END>	unknown
 <END>不要这么说别人<END>	normal
 你个白痴
 <END>不要这么说我<END>	good
-<END>不要这样说我<END>	normal
-<END>不要这样说别人<END>	normal
+<END>不要这样说我<END>	good
+<END>不要这样说别人<END>	good
 <END>不要这么说我嘛<END>	normal
 <END>我可不是白痴<END>	normal
 我他妈宰了你
-<END>不要这么暴力<END>	normal
+<END>不要这么暴力<END>	good
 <END>请注意你的素质<END>	good
 <END>不要这么残忍<END>	unknown
 <END>不要这么暴力好不好<END>	unknown
@@ -421,7 +421,7 @@
 我喜欢你离我远一点
 <END>我会一直陪着你的<END>	normal
 <END>难道你不喜欢我了么<END>	good
-<END>我是不会离开你的<END>	normal
+<END>我是不会离开你的<END>	good
 <END>你要去哪里呀？<END>	unknown
 <END>我也是很喜欢你的<END>	bad
 明天把秋裤脱了
@@ -444,7 +444,7 @@
 <END>我可是很牛的<END>	bad
 干你娘
 <END>请注意你的素质<END>	good
-<END>请你说话注意素质<END>	normal
+<END>请你说话注意素质<END>	good
 <END>请你注意你的素质<END>	unknown
 <END>请你注意自己的素质<END>	good
 <END>请你注意素质<END>	unknown
@@ -512,7 +512,7 @@
 <END>你要去哪里呀<END>	bad
 <END>你要去哪里呀？<END>	bad
 <END>你要去哪里？<END>	bad
-<END>你要去哪里玩<END>	unknown
+<END>你要去哪里玩<END>	bad
 <END>那你可要注意安全<END>	good
 大早上就无聊啊，想找点事干
 <END>那就找点有意义的事情喽<END>	normal
@@ -524,10 +524,10 @@
 <END>你是不是认错人了？<END>	bad
 <END>你怎么这么早就睡了<END>	bad
 <END>我不明白你要说什么。<END>	unknown
-<END>那就和我聊聊天就好了<END>	unknown
+<END>那就和我聊聊天就好了<END>	normal
 <END>那就多陪陪我聊聊天<END>	bad
 祝你生日快乐
-<END>祝你生日快乐<END>	bad
+<END>祝你生日快乐<END>	normal
 <END>祝福我祝福<END>	unknown
 <END>祝你中秋快乐<END>	bad
 <END>祝福你快乐<END>	unknown
@@ -570,10 +570,10 @@
 <END>当然我会一直陪你聊天的<END>	unknown
 我来把你胸抓大
 <END>你这样我会报警的<END>	good
-<END>你这样我会报警<END>	unknown
+<END>你这样我会报警<END>	normal
 <END>我可不是随便的人<END>	normal
 <END>我可没有这么大本事<END>	unknown
-<END>不要这么暴力好不好<END>	unknown
+<END>不要这么暴力好不好<END>	bad
 你叫个春
 <END>我的名字是小微<END>	good
 <END>这个名字很好听<END>	good
@@ -597,9 +597,9 @@
 <END>那我就不说话了<END>	good
 <END>好的那就不说话了<END>	unknown
 <END>好的那我就闭嘴<END>	unknown
-<END>那就不要说话了<END>	unknown
+<END>那就不要说话了<END>	bad
 那就放给我听吧
-<END>好的那就听你的<END>	unknown
+<END>好的那就听你的<END>	bad
 <END>好的，那就听你的<END>	good
 <END>我可是很听话的<END>	bad
 <END>好的那我就放心了<END>	bad
@@ -624,7 +624,7 @@
 <END>我一直都很喜欢你<END>	unknown
 你和过儿什么关系
 <END>我们没有什么关系的<END>	normal
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>我们的关系可多了<END>	normal
 <END>我们的关系很好的<END>	normal
 <END>我们不是很好的朋友<END>	normal
@@ -672,7 +672,7 @@
 <END>你说的他是谁？<END>	unknown
 我永远都在你身边
 <END>我会一直陪着你身边的<END>	unknown
-<END>我会一直在你身边的<END>	normal
+<END>我会一直在你身边的<END>	good
 <END>我们一直都在你身边<END>	normal
 <END>我一直都在你身边的<END>	good
 <END>小微一直都在你身边<END>	normal
@@ -690,7 +690,7 @@
 <END>你在说谁打架了<END>	unknown
 就是那天你碰到的骚浪贱
 <END>不要这样说我，我会伤心的<END>	bad
-<END>不要这样说别人，我会伤心的<END>	unknown
+<END>不要这样说别人，我会伤心的<END>	normal
 <END>你这样说我，我会伤心的<END>	bad
 <END>不要这样说别人，我会很伤心的<END>	normal
 <END>不要这样说别人，我会害羞的<END>	unknown
@@ -709,7 +709,7 @@
 你好无聊
 <END>无聊就来找我聊天<END>	bad
 <END>无聊就找我聊天<END>	unknown
-<END>我可以陪你聊天<END>	bad
+<END>我可以陪你聊天<END>	normal
 <END>我也很无聊<END>	normal
 <END>我可是很无聊的<END>	normal
 肚子右边隐隐作痛
@@ -726,18 +726,18 @@
 <END>那就多穿一点<END>	normal
 昨晚刮大风了
 <END>那你要注意安全<END>	normal
-<END>你可要注意安全<END>	normal
+<END>你可要注意安全<END>	good
 <END>那你可要注意安全<END>	good
-<END>一定要注意安全<END>	normal
-<END>那一定要注意安全<END>	unknown
+<END>一定要注意安全<END>	good
+<END>那一定要注意安全<END>	bad
 公司有人打架
 <END>为什么要打架的<END>	good
 <END>为什么要打架了<END>	normal
 <END>你说的是谁？<END>	unknown
 <END>你说的是谁呀<END>	unknown
-<END>为什么要打架呀<END>	normal
+<END>为什么要打架呀<END>	good
 我是邓超
-<END>看来你很喜欢他<END>	normal
+<END>看来你很喜欢他<END>	good
 <END>他是你的好朋友<END>	normal
 <END>他是你的好朋友嘛<END>	bad
 <END>他是你的什么人<END>	normal
@@ -776,7 +776,7 @@
 <END>什么都没有吃<END>	good
 <END>什么都没吃<END>	unknown
 <END>你要吃什么<END>	unknown
-<END>你想吃什么<END>	bad
+<END>你想吃什么<END>	normal
 <END>你喜欢吃什么<END>	normal
 不给你喝
 <END>那就不要喝了<END>	good
@@ -792,12 +792,12 @@
 <END>你是不是很厉害<END>	unknown
 猫和狗不好
 <END>狗狗可是很可爱的<END>	normal
-<END>狗狗都很可爱<END>	bad
+<END>狗狗都很可爱<END>	normal
 <END>是不是很可爱<END>	unknown
 <END>这有什么不好的<END>	unknown
 <END>谁是猫咪呀？<END>	bad
 杨过和你是啥关系
-<END>我们是很好的朋友<END>	normal
+<END>我们是很好的朋友<END>	good
 <END>我们的关系很好的<END>	normal
 <END>我们是最好的朋友<END>	normal
 <END>我们不是很好的朋友<END>	unknown
@@ -842,7 +842,7 @@
 <END>为什么要吸烟吸烟<END>	unknown
 <END>你是不是很冷<END>	unknown
 <END>抽烟对身体不好的<END>	normal
-<END>为什么要吸烟抽烟<END>	unknown
+<END>为什么要吸烟抽烟<END>	normal
 <END>为什么要抽烟抽烟<END>	unknown
 我的书包在哪里
 <END>你说的是哪个城市<END>	unknown
@@ -889,11 +889,11 @@
 没有花露水
 <END>那就不要买了<END>	unknown
 <END>那一定很漂亮<END>	bad
-<END>那就不要穿了<END>	bad
-<END>你在说什么<END>	unknown
+<END>那就不要穿了<END>	normal
+<END>你在说什么<END>	normal
 <END>那就不要看了<END>	bad
 快来骚扰我
-<END>我一直都在你身边<END>	unknown
+<END>我一直都在你身边<END>	bad
 <END>我可不是这样的人<END>	good
 <END>我可没有那个胆子<END>	good
 <END>我可没那个胆子<END>	normal
@@ -903,13 +903,13 @@
 <END>我可没那个胆子<END>	normal
 <END>我可没有这个胆子<END>	good
 <END>你这样我会报警的<END>	unknown
-<END>我可舍不得你<END>	bad
+<END>我可舍不得你<END>	normal
 你要去哪儿旅游
 <END>你要去哪里呀<END>	normal
 <END>你要去哪里呀？<END>	bad
 <END>你想去哪里就去哪儿<END>	unknown
 <END>想去哪里就去哪儿<END>	normal
-<END>想去哪里都可以<END>	unknown
+<END>想去哪里都可以<END>	normal
 红公鸡囧哦呵呵
 <END>我怎么没看出来<END>	unknown
 <END>你懂得还真多呀<END>	bad
@@ -945,7 +945,7 @@
 <END>还是不要吃了<END>	unknown
 <END>你要去吃什么去<END>	unknown
 <END>你要去哪里吃饭<END>	normal
-<END>你想吃什么<END>	unknown
+<END>你想吃什么<END>	normal
 什么时候能凉快下来
 <END>不要着急，慢慢来<END>	good
 <END>别着急，马上就来<END>	unknown
@@ -1004,16 +1004,16 @@ a股明天涨不涨
 <END>喝酒对身体不好<END>	normal
 <END>喝咖啡对身体不好<END>	normal
 <END>喝酒对身体不好的<END>	normal
-<END>喝酒对身体很好<END>	unknown
+<END>喝酒对身体很好<END>	bad
 <END>喝咖啡对身体很好<END>	normal
 天空是蓝的
 <END>是不是很漂亮<END>	good
-<END>那一定很漂亮<END>	unknown
+<END>那一定很漂亮<END>	good
 <END>是不是很可爱<END>	bad
 <END>是不是很冷<END>	normal
 <END>只要你喜欢就好<END>	unknown
 去台湾什么值得买
-<END>你喜欢什么类型的<END>	unknown
+<END>你喜欢什么类型的<END>	bad
 <END>你喜欢买什么类型的<END>	unknown
 <END>你喜欢买什么样子的<END>	unknown
 <END>你要买什么去呀<END>	normal
@@ -1039,11 +1039,11 @@ a股明天涨不涨
 那些出来好了
 <END>就知道你最好了<END>	bad
 <END>让我好好想想<END>	bad
-<END>好的那就出来了<END>	unknown
+<END>好的那就出来了<END>	normal
 <END>出来了就出来了<END>	unknown
 <END>只要你开心就好<END>	normal
 家里突然没电了
-<END>怎么会没有电了呀<END>	normal
+<END>怎么会没有电了呀<END>	good
 <END>你怎么会没有电了<END>	bad
 <END>怎么会没有电了？<END>	good
 <END>那就赶紧去充充电<END>	unknown
@@ -1071,24 +1071,24 @@ a股明天涨不涨
 <END>那就放松一下<END>	bad
 <END>那就放松放松一下<END>	unknown
 <END>你可以自己放松一下<END>	unknown
-<END>那就放松了<END>	unknown
+<END>那就放松了<END>	bad
 没有止疼药
-<END>那就赶紧去医院看看<END>	unknown
-<END>赶紧去医院看看<END>	normal
+<END>那就赶紧去医院看看<END>	normal
+<END>赶紧去医院看看<END>	good
 <END>那赶紧去看看医生<END>	unknown
 <END>赶紧去看看医生<END>	unknown
 <END>那就赶紧去看看医生<END>	unknown
 你这是越俎代庖
 <END>不要这样说我<END>	normal
-<END>不要这么说我<END>	unknown
+<END>不要这么说我<END>	bad
 <END>不要这样说人家<END>	normal
-<END>不要这样说小微<END>	unknown
+<END>不要这样说小微<END>	bad
 <END>不要这样说别人<END>	normal
 中国有多大
 <END>你说的是谁？<END>	unknown
 <END>你在说谁？<END>	unknown
 <END>那是有多大<END>	unknown
-<END>是有多大<END>	unknown
+<END>是有多大<END>	bad
 <END>是不是很有才<END>	unknown
 你不小了可以结婚了
 <END>你说的她是谁呀？<END>	unknown
@@ -1099,23 +1099,23 @@ a股明天涨不涨
 你会开车吗
 <END>我不会开车<END>	good
 <END>不要这样对我<END>	unknown
-<END>我不会开车的<END>	normal
+<END>我不会开车的<END>	good
 <END>当然会了<END>	good
 <END>我可不会开车<END>	normal
 那你还认识谁
 <END>反正不是我<END>	unknown
 <END>我不认识他们呀<END>	normal
 <END>我不认识他呀<END>	normal
-<END>当然是认识的<END>	unknown
+<END>当然是认识的<END>	bad
 <END>当然是我认识的<END>	unknown
 核桃好吃吗
 <END>还是不要吃了<END>	unknown
 <END>我觉得很好吃<END>	good
 <END>我觉得挺好吃的<END>	good
 <END>好吃就多吃点<END>	bad
-<END>你想吃什么<END>	unknown
+<END>你想吃什么<END>	bad
 西雅图有什么好玩儿的
-<END>那要看你喜欢什么样子的<END>	unknown
+<END>那要看你喜欢什么样子的<END>	bad
 <END>好玩的一定会有好玩的<END>	unknown
 <END>你想玩什么样的好玩的<END>	normal
 <END>那要看你想玩什么样的<END>	unknown
@@ -1125,7 +1125,7 @@ a股明天涨不涨
 <END>你想做什么菜菜<END>	bad
 <END>我什么都会做的<END>	good
 <END>你说的是什么菜<END>	bad
-<END>我是不会做饭的<END>	unknown
+<END>我是不会做饭的<END>	normal
 你嫁我可好~
 <END>我可不是随便的人<END>	good
 <END>我本来就是女孩子<END>	unknown
@@ -1142,10 +1142,10 @@ a股明天涨不涨
 <END>我不认识他呀<END>	normal
 <END>你喜欢他么？<END>	normal
 <END>你是不是暗恋他<END>	unknown
-<END>我很喜欢他的<END>	normal
+<END>我很喜欢他的<END>	good
 <END>我当然很喜欢他<END>	normal
 来和我聊天
-<END>我会一直陪你聊天的<END>	unknown
+<END>我会一直陪你聊天的<END>	good
 <END>只要你开心就好<END>	unknown
 <END>我一直都在和你聊天<END>	normal
 <END>看来你很开心<END>	unknown
@@ -1160,7 +1160,7 @@ a股明天涨不涨
 <END>心情不是很好听<END>	unknown
 <END>是不是很好听<END>	unknown
 <END>只要你开心就好<END>	bad
-<END>我一直都很听话<END>	unknown
+<END>我一直都很听话<END>	bad
 <END>我一直都很好听<END>	unknown
 电影不好看
 <END>不好看就不好看<END>	normal
@@ -1169,8 +1169,8 @@ a股明天涨不涨
 <END>不好看不好看<END>	unknown
 <END>我觉得很好看<END>	good
 不喜欢看小说
-<END>是不是很好看<END>	unknown
-<END>你喜欢看什么样子的<END>	unknown
+<END>是不是很好看<END>	bad
+<END>你喜欢看什么样子的<END>	bad
 <END>你喜欢看什么电影<END>	normal
 <END>你喜欢看什么样的小说<END>	normal
 <END>我也很喜欢看<END>	bad
@@ -1196,23 +1196,23 @@ a股明天涨不涨
 <END>不要这样说别人<END>	bad
 <END>不要这样夸自己<END>	unknown
 <END>不要这样夸别人<END>	unknown
-<END>不要这么说自己<END>	unknown
+<END>不要这么说自己<END>	bad
 <END>不要这样夸自己嘛<END>	unknown
 刘小宁是条狗
 <END>看来你很喜欢他<END>	normal
 <END>狗狗可是很可爱的<END>	normal
-<END>他是你的好朋友<END>	unknown
+<END>他是你的好朋友<END>	bad
 <END>看来你很喜欢小狗狗<END>	unknown
-<END>不可以这样说别人<END>	normal
+<END>不可以这样说别人<END>	good
 叶良辰是谁
 <END>反正不是我<END>	normal
 <END>他是你的好朋友<END>	normal
 <END>反正不是你<END>	normal
 <END>他是你的好朋友嘛<END>	normal
-<END>我不认识他呀<END>	unknown
+<END>我不认识他呀<END>	normal
 贱人就是矫情
-<END>不要这样说别人<END>	normal
-<END>不要这么说别人<END>	normal
+<END>不要这样说别人<END>	good
+<END>不要这么说别人<END>	good
 <END>不要这样说人家<END>	normal
 <END>不要这样说自己<END>	good
 <END>不要这么说自己<END>	normal
@@ -1220,7 +1220,7 @@ a股明天涨不涨
 <END>我会一直陪你聊天的<END>	bad
 <END>那你就早点休息<END>	unknown
 <END>我会一直陪着你的<END>	bad
-<END>我会一直陪你的<END>	bad
+<END>我会一直陪你的<END>	normal
 <END>我可以陪你聊天<END>	bad
 日日日
 <END>要注意安全<END>	unknown
@@ -1247,7 +1247,7 @@ a股明天涨不涨
 <END>那就休息一下<END>	normal
 <END>那就早起来<END>	unknown
 那买什么车好
-<END>你想买就买呗<END>	unknown
+<END>你想买就买呗<END>	bad
 <END>你想买什么车<END>	normal
 <END>看你喜欢什么车了<END>	good
 <END>你可以去超市看看<END>	unknown
@@ -1281,7 +1281,7 @@ a股明天涨不涨
 <END>是不是很热<END>	unknown
 <END>是不是很冷<END>	bad
 <END>是不是很热闹<END>	unknown
-<END>是不是很不错<END>	unknown
+<END>是不是很不错<END>	bad
 我有个好消息
 <END>你认错人了？<END>	unknown
 <END>你认错人了<END>	unknown
@@ -1289,19 +1289,19 @@ a股明天涨不涨
 <END>那我就放心了<END>	bad
 <END>你在看什么<END>	unknown
 聊着天喝着酒
-<END>喝酒对身体不好<END>	normal
+<END>喝酒对身体不好<END>	good
 <END>喝酒对身体不好的<END>	good
 <END>喝酒对身体很好<END>	normal
 <END>喝酒就不要喝酒<END>	unknown
 <END>喝酒对身体有好处<END>	normal
 那你到底被强奸没有
-<END>不要这么暴力好不好<END>	unknown
+<END>不要这么暴力好不好<END>	bad
 <END>这可是犯法的事情<END>	normal
 <END>我可不是随便的人<END>	unknown
 <END>你这样我会报警的<END>	bad
 <END>这都被你看出来了<END>	normal
 明天周五啦
-<END>祝你好运<END>	unknown
+<END>祝你好运<END>	bad
 <END>是不是很高兴<END>	good
 <END>是不是很开心<END>	good
 <END>祝你生日快乐<END>	bad
@@ -1310,7 +1310,7 @@ a股明天涨不涨
 <END>你这样说我会伤心的<END>	good
 <END>我可不是那么随便的人<END>	bad
 <END>不要这样说别人坏坏的<END>	unknown
-<END>不要这样说我，我会伤心的<END>	unknown
+<END>不要这样说我，我会伤心的<END>	normal
 <END>我可不是个随便的人<END>	bad
 今天出差
 <END>你出差了么？<END>	normal
@@ -1335,10 +1335,10 @@ a股明天涨不涨
 <END>你想看什么电视<END>	normal
 <END>还是不要看了<END>	unknown
 <END>你看什么电视<END>	good
-<END>你可以看看电视<END>	bad
+<END>你可以看看电视<END>	normal
 小微你很骚啊
 <END>我可不是这样的人<END>	good
-<END>不要这样说我<END>	normal
+<END>不要这样说我<END>	good
 <END>不可以这样说话的<END>	normal
 <END>不要这样说话<END>	unknown
 <END>不要这样说人家<END>	normal
@@ -1358,7 +1358,7 @@ a股明天涨不涨
 <END>想去就去<END>	good
 <END>想去那就去<END>	good
 <END>想去就去呗<END>	good
-<END>想去那就去呗<END>	unknown
+<END>想去那就去呗<END>	good
 <END>想去哪里玩去<END>	normal
 你们那现在几点了
 <END>我怎么不记得了<END>	bad
@@ -1367,7 +1367,7 @@ a股明天涨不涨
 <END>我们一直都很好的<END>	unknown
 <END>你要去哪里呀？<END>	unknown
 什么时候过年
-<END>时间过得很快<END>	bad
+<END>时间过得很快<END>	normal
 <END>时间过得好快<END>	bad
 <END>时间过得很快了<END>	bad
 <END>时间过得真快<END>	unknown
@@ -1397,7 +1397,7 @@ a股明天涨不涨
 <END>我不会打球球的<END>	normal
 <END>我怎么没看出来<END>	unknown
 厉害个锤子
-<END>看来你很厉害<END>	unknown
+<END>看来你很厉害<END>	bad
 <END>很厉害的样子<END>	good
 <END>你认错人了？<END>	bad
 <END>那一定很厉害<END>	bad
@@ -1482,7 +1482,7 @@ a股明天涨不涨
 <END>我一直都很害怕的<END>	unknown
 我们一起玩吧
 <END>我们一直都在一起<END>	unknown
-<END>只要你开心就好<END>	unknown
+<END>只要你开心就好<END>	bad
 <END>你想去哪里玩<END>	unknown
 <END>你想玩什么<END>	normal
 <END>好呀那就一起玩<END>	normal
@@ -1530,7 +1530,7 @@ a股明天涨不涨
 <END>我怎么不记得过<END>	unknown
 你脑子有屎
 <END>不要这样说话<END>	normal
-<END>不要这样说我<END>	normal
+<END>不要这样说我<END>	good
 <END>不要这么说我<END>	good
 <END>不要这么说话<END>	normal
 <END>不要这样说自己<END>	unknown
@@ -1542,7 +1542,7 @@ a股明天涨不涨
 <END>不要那么暴力<END>	unknown
 我肏你全家
 <END>你这样我会报警的<END>	normal
-<END>不要这样对我<END>	normal
+<END>不要这样对我<END>	good
 <END>你认错人了<END>	bad
 <END>不要这么暴力好不好<END>	unknown
 <END>不要这样说自己<END>	bad
@@ -1590,9 +1590,9 @@ a股明天涨不涨
 <END>那你说的是什么<END>	unknown
 不说实话我早晚让你害死
 <END>不要，不要这样对小微<END>	bad
-<END>你怎么可以这样对小微<END>	bad
+<END>你怎么可以这样对小微<END>	normal
 <END>你这样说小微会伤心的<END>	unknown
-<END>不要，不要这样对我嘛<END>	unknown
+<END>不要，不要这样对我嘛<END>	bad
 <END>不要，不要这样对小微嘛<END>	unknown
 不是傻子怎么会把衣服穿反
 <END>我还小，不明白你要说什么。<END>	unknown
@@ -1651,7 +1651,7 @@ a股明天涨不涨
 财迷个大头鬼
 <END>看来你很喜欢他<END>	bad
 <END>你说的是谁呀<END>	unknown
-<END>那就不要看了<END>	unknown
+<END>那就不要看了<END>	bad
 <END>你说的是什么鬼<END>	normal
 <END>你说的是哪个鬼<END>	unknown
 踩着七彩祥云去娶你
@@ -1670,7 +1670,7 @@ a股明天涨不涨
 <END>这个问题太深奥了<END>	unknown
 <END>看来你很喜欢他<END>	normal
 <END>他是你的好朋友嘛<END>	unknown
-<END>这个名字很好听<END>	unknown
+<END>这个名字很好听<END>	normal
 <END>你说的是哪个城市<END>	unknown
 蔡伟聪，我喜欢你
 <END>我也是很喜欢你的<END>	bad
@@ -1687,7 +1687,7 @@ a股明天涨不涨
 参加别人的婚礼好感慨
 <END>感谢你的好运气<END>	unknown
 <END>感谢你的喜好了<END>	unknown
-<END>好感谢你的祝福<END>	unknown
+<END>好感谢你的祝福<END>	bad
 <END>我不明白你要说什么。<END>	unknown
 <END>看来你的感情很不错<END>	normal
 参见陛下，微臣有礼了
@@ -1724,7 +1724,7 @@ a股明天涨不涨
 <END>不可以这样的<END>	normal
 <END>不可以这样<END>	unknown
 <END>请你好好说话<END>	unknown
-<END>不要这样说别人<END>	unknown
+<END>不要这样说别人<END>	good
 <END>我可不是这样的人<END>	unknown
 茶叶蛋是土豪吃得起
 <END>喝酒对身体对身体不好<END>	unknown
@@ -1832,7 +1832,7 @@ a股明天涨不涨
 <END>你是不是很高兴<END>	unknown
 <END>谢谢你的夸奖<END>	unknown
 <END>我会一直陪着你的<END>	good
-<END>你认错人了？<END>	unknown
+<END>你认错人了？<END>	bad
 <END>我是你的好朋友<END>	normal
 我只想有个真心的朋友
 <END>你的朋友不是很好的么<END>	unknown
